@@ -11,7 +11,12 @@
 <body>
   <header class="app-header">
     <h1>Lern-App Thüringen</h1>
-    <button id="resetProgressBtn" class="secondary">Fortschritt löschen</button>
+    <div class="search-box">
+    <input id="searchInput" type="search" placeholder="Suche nach Begriffen …">
+    <div id="searchResults" class="search-results"></div>
+  </div>
+
+  <button id="resetProgressBtn" class="secondary">Fortschritt löschen</button>
   </header>
 
   <main id="app">
@@ -98,5 +103,6 @@
   <script src="app.js"></script>
 </body>
 </html>
+
 
 
