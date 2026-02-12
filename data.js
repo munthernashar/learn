@@ -2,7 +2,7 @@
 
 const DATA_FILES = [
   "data/musik_mod1.json",
-  "data/musik_mod1.json",
+  "data/musik_mod2.json",
   // weitere Dateien einfach hier ergänzen
 ];
 
@@ -97,5 +97,6 @@ function mergeSchoolData(parts) {
 
   return result;
 }
+
 
 
