@@ -11,8 +11,13 @@ let progress = loadProgress();
 
 document.addEventListener("DOMContentLoaded", () => {
   initViews();
-  renderGrades();
-  registerServiceWorker();
+
+  // Daten laden, dann UI starten
+  loadAllData().then(() => {
+    buildSearchIndex();   // falls du die Suche eingebaut hast
+    renderGrades();
+    registerServiceWorker();
+  });
 });
 
 function initViews() {
@@ -331,3 +336,4 @@ function registerServiceWorker() {
     navigator.serviceWorker.register("sw.js").catch(() => {});
   }
 }
+
