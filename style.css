@@ -1,0 +1,194 @@
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+  background: #f5f5f5;
+  color: #222;
+}
+
+.app-header, .app-footer {
+  background: #005a9e;
+  color: white;
+  padding: 0.75rem 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.app-header h1 {
+  font-size: 1.1rem;
+  margin: 0;
+}
+
+.app-footer {
+  font-size: 0.8rem;
+}
+
+main#app {
+  padding: 1rem;
+  max-width: 900px;
+  margin: 0 auto 3rem auto;
+}
+
+.view {
+  display: none;
+}
+
+.view.active {
+  display: block;
+}
+
+h2 {
+  margin-top: 0;
+}
+
+.card-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.card {
+  background: white;
+  padding: 0.75rem 1rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.card-title {
+  font-weight: 600;
+}
+
+.card-subtitle {
+  font-size: 0.8rem;
+  color: #555;
+}
+
+.badge {
+  background: #e0f2ff;
+  color: #005a9e;
+  padding: 0.15rem 0.4rem;
+  border-radius: 999px;
+  font-size: 0.7rem;
+}
+
+.back-btn, .secondary {
+  border: none;
+  border-radius: 999px;
+  padding: 0.35rem 0.8rem;
+  font-size: 0.85rem;
+  cursor: pointer;
+}
+
+.back-btn {
+  background: #eee;
+}
+
+.secondary {
+  background: #ffffff22;
+  color: white;
+}
+
+.status-box {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  background: #fff;
+  padding: 0.5rem 0.75rem;
+  border-radius: 0.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.status-box label {
+  font-size: 0.85rem;
+}
+
+#moduleLongtext {
+  background: #fff;
+  padding: 0.75rem;
+  border-radius: 0.5rem;
+  margin-bottom: 0.75rem;
+}
+
+#moduleLongtext h3 {
+  margin-top: 0.4rem;
+  margin-bottom: 0.2rem;
+  font-size: 0.95rem;
+}
+
+#moduleLongtext p {
+  margin: 0 0 0.4rem 0;
+  font-size: 0.9rem;
+}
+
+.subtopic-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.subtopic-item {
+  background: #fff;
+  border-radius: 0.5rem;
+  padding: 0.5rem 0.75rem;
+  margin-bottom: 0.4rem;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.subtopic-text {
+  font-size: 0.9rem;
+}
+
+.subtopic-status {
+  display: flex;
+  gap: 0.2rem;
+}
+
+.subtopic-status span {
+  font-size: 0.7rem;
+  padding: 0.1rem 0.3rem;
+  border-radius: 999px;
+}
+
+.badge-covered {
+  background: #e8f5e9;
+  color: #2e7d32;
+}
+
+.badge-understood {
+  background: #fff9c4;
+  color: #f57f17;
+}
+
+.badge-exam {
+  background: #e3f2fd;
+  color: #0d47a1;
+}
+
+section > h3 {
+  margin-top: 0.8rem;
+  margin-bottom: 0.3rem;
+  font-size: 0.95rem;
+}
+
+section ul {
+  margin: 0;
+  padding-left: 1.1rem;
+}
+
+section li {
+  margin-bottom: 0.2rem;
+  font-size: 0.9rem;
+}
+
+@media (min-width: 700px) {
+  .card-list {
+    flex-direction: column;
+  }
+}
