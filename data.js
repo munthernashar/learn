@@ -1,4 +1,5 @@
-{
+// data.js
+const SCHOOL_DATA = {
   "school_id": "de_thueringen",
   "grades": [
     {
@@ -207,4 +208,5 @@
       ]
     }
   ]
+
 }
