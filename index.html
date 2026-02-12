@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Lern-App Thüringen</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="app-header">
+    <h1>Lern-App Thüringen</h1>
+    <button id="resetProgressBtn" class="secondary">Fortschritt löschen</button>
+  </header>
+
+  <main id="app">
+    <!-- Ansicht 1: Klassenwahl -->
+    <section id="gradeView" class="view active">
+      <h2>Klassenstufe wählen</h2>
+      <div id="gradeList" class="card-list"></div>
+    </section>
+
+    <!-- Ansicht 2: Fächer -->
+    <section id="subjectView" class="view">
+      <button class="back-btn" data-back="gradeView">← Zurück zu Klassen</button>
+      <h2 id="subjectViewTitle">Fächer</h2>
+      <div id="subjectList" class="card-list"></div>
+    </section>
+
+    <!-- Ansicht 3: Module -->
+    <section id="moduleView" class="view">
+      <button class="back-btn" data-back="subjectView">← Zurück zu Fächern</button>
+      <h2 id="moduleViewTitle">Module</h2>
+      <div id="moduleList" class="card-list"></div>
+    </section>
+
+    <!-- Ansicht 4: Unterthemen -->
+    <section id="subtopicView" class="view">
+      <button class="back-btn" data-back="moduleView">← Zurück zu Modulen</button>
+      <h2 id="subtopicViewTitle">Unterthemen</h2>
+      <div id="moduleLongtext"></div>
+      <ul id="subtopicList" class="subtopic-list"></ul>
+    </section>
+
+    <!-- Ansicht 5: Detail Unterthema -->
+    <section id="detailView" class="view">
+      <button class="back-btn" data-back="subtopicView">← Zurück zu Unterthemen</button>
+      <h2 id="detailTitle"></h2>
+
+      <div class="status-box">
+        <label>
+          <input type="checkbox" id="chkCovered">
+          Im Unterricht behandelt
+        </label>
+        <label>
+          <input type="checkbox" id="chkUnderstood">
+          Ich habe es verstanden
+        </label>
+        <label>
+          <input type="checkbox" id="chkExamReady">
+          Prüfungsbereit (Note 1)
+        </label>
+      </div>
+
+      <section>
+        <h3>Erklärung</h3>
+        <div id="detailExplanation"></div>
+      </section>
+
+      <section>
+        <h3>Wichtige Begriffe</h3>
+        <ul id="detailKeyTerms"></ul>
+      </section>
+
+      <section>
+        <h3>Checkliste für Note 1</h3>
+        <ul id="detailNote1Checklist"></ul>
+      </section>
+
+      <section>
+        <h3>Beispielfragen</h3>
+        <ul id="detailSampleQuestions"></ul>
+      </section>
+
+      <section>
+        <h3>Beispielantworten</h3>
+        <ul id="detailSampleAnswers"></ul>
+      </section>
+    </section>
+  </main>
+
+  <footer class="app-footer">
+    <span>Offline nutzbar – Daten bleiben nur auf diesem Gerät.</span>
+  </footer>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
