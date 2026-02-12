@@ -3,6 +3,32 @@
 const DATA_FILES = [
   "data/musik_mod1.json",
   "data/musik_mod2.json",
+  "data/de_mod1.json",
+  "data/de_mod2.json",
+  "data/de_mod3.json",
+  "data/en_mod1.json",
+  "data/geo_mod1.json",
+  "data/geo_mod2.json",
+  "data/geo_mod3.json",
+  "data/geo_mod4.json",
+  "data/geschi_mod1.json",
+  "data/geschi_mod2.json",
+  "data/geschi_mod3.json",
+  "data/geschi_mod4.json",
+  "data/mathe_mod1.json",
+  "data/mathe_mod2.json",
+  "data/mathe_mod3.json",
+  "data/mathe_mod4.json",
+  "data/mathe_mod5.json",
+  "data/mathe_mod6.json",
+  "data/mathe_mod7.json",
+  "data/mathe_mod8.json",
+  "data/mnt_mod1.json",
+  "data/mnt_mod2.json",
+  "data/mnt_mod3.json",
+  "data/mnt_mod4.json",
+  "data/mnt_mod5.json",
+  "data/mnt_mod6.json",
   // weitere Dateien einfach hier ergänzen
 ];
 
@@ -97,6 +123,7 @@ function mergeSchoolData(parts) {
 
   return result;
 }
+
 
 
 
