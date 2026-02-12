@@ -44,29 +44,58 @@ function mergeSchoolData(parts) {
     grades: []
   };
 
-  // Map für schnelle Suche nach Klassen
+  // Map pro Klassenstufe
   const gradeMap = new Map();
 
   parts.forEach(part => {
     (part.grades || []).forEach(g => {
-      const key = g.grade_id;
-      if (!gradeMap.has(key)) {
-        // neue Klasse anlegen
-        gradeMap.set(key, {
+      const gradeKey = g.grade_id;
+
+      // ggf. neue Klasse anlegen
+      if (!gradeMap.has(gradeKey)) {
+        gradeMap.set(gradeKey, {
           grade_id: g.grade_id,
           grade_label: g.grade_label,
-          subjects: []
+          subjects: [],
+          _subjectMap: new Map()  // intern für Merge
         });
       }
-      const targetGrade = gradeMap.get(key);
 
-      // Subjects in dieser Datei zur Klasse hinzufügen
+      const targetGrade = gradeMap.get(gradeKey);
+      const subjectMap = targetGrade._subjectMap;
+
+      // alle Subjects aus dieser Datei in die Klassen-Map mergen
       (g.subjects || []).forEach(sub => {
-        targetGrade.subjects.push(sub);
+        const subjKey = sub.subject_id;
+
+        // neues Fach anlegen, falls noch nicht vorhanden
+        if (!subjectMap.has(subjKey)) {
+          subjectMap.set(subjKey, {
+            subject_id: sub.subject_id,
+            subject_title: sub.subject_title,
+            modules: []
+          });
+        }
+
+        const targetSubject = subjectMap.get(subjKey);
+
+        // Module anhängen (egal, ob aus „voller“ Fach-Datei oder Modul-Datei)
+        (sub.modules || []).forEach(m => {
+          targetSubject.modules.push(m);
+        });
       });
     });
   });
 
-  result.grades = Array.from(gradeMap.values());
+  // Klassen-Map in finale Struktur umwandeln
+  result.grades = Array.from(gradeMap.values()).map(g => {
+    const subjects = Array.from(g._subjectMap.values());
+    delete g._subjectMap;
+    g.subjects = subjects;
+    return g;
+  });
+
   return result;
 }
+}
+
