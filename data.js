@@ -97,5 +97,5 @@ function mergeSchoolData(parts) {
 
   return result;
 }
-}
+
 
