@@ -209,4 +209,5 @@ const SCHOOL_DATA = {
     }
   ]
 
-}
+};
+
