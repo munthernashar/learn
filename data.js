@@ -7,5269 +7,6 @@ const SCHOOL_DATA = {
       "grade_label": "Klasse 5",
       "subjects": [
         {
-          "subject_id": "deu",
-          "subject_title": "Deutsch",
-          "modules": [
-            {
-              "module_id": "deu5_mod1",
-              "module_name": "Texte rezipieren – lesen, hören, sehen",
-              "module_longtext": {
-                "sections": [
-                  {
-                    "title": "Warum Lesen, Hören und Sehen im Deutschunterricht wichtig sind",
-                    "text": "Im Deutschunterricht begegnest du vielen verschiedenen Texten: Geschichten, Gedichten, Comics, Sachtexten, Hörspielen, Filmausschnitten oder Internetseiten. Wenn du solche Texte gut verstehst, kannst du Informationen gewinnen, Neues lernen und dich in fremde Welten hineinversetzen. Lesen, Hören und Sehen sind deshalb die Grundlage für fast alles, was du in der Schule lernst – nicht nur im Fach Deutsch."
-                  },
-                  {
-                    "title": "Texte verstehen – mit Kopf und Gefühl",
-                    "text": "Texte zu rezipieren bedeutet, dass du sie mit allen Sinnen aufnimmst und verstehst. Beim Lesen und Hören arbeitest du nicht nur mit den Augen oder Ohren, sondern auch mit deinem Kopf und deinen Gefühlen: Du stellst dir Bilder vor, ordnest Informationen, vergleichst mit eigenen Erfahrungen und bildest dir eine Meinung. So erkennst du, worum es in einem Text geht, welche Absicht jemand mit einem Text verfolgt und wie der Text auf dich wirkt."
-                  },
-                  {
-                    "title": "Lesestrategien und Hörstrategien nutzen",
-                    "text": "Gute Leserinnen und Leser haben Tricks, wie sie Texte besser verstehen: Sie überlegen vorher, worum es gehen könnte, überfliegen einen Text, markieren Wichtiges oder stellen sich Fragen zum Inhalt. Auch beim Hören ist es hilfreich, sich zu konzentrieren, auf Schlüsselwörter zu achten und sich Notizen zu machen. In diesem Modul lernst du solche Strategien kennen und übst sie an verschiedenen Textsorten, damit du Texte immer sicherer verstehen kannst."
-                  }
-                ]
-              },
-              "subtopics": [
-                {
-                  "id": "deu5_mod1_u1",
-                  "text": "Ich kann einfache literarische Texte (Erzählungen, Gedichte, Szenen) sinnerfassend lesen und grundlegende Merkmale benennen.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Literarische Texte – Geschichten, Gedichte, Szenen",
-                        "text": "Literarische Texte sind erfundene Texte. Dazu gehören Geschichten (Erzählungen), Gedichte und kleine Theaterszenen. In ihnen geht es um Figuren, Erlebnisse, Gedanken und Gefühle. Oft erzählen sie von Problemen oder Wünschen, die du aus deinem eigenen Leben kennst. Literarische Texte wollen dich nachdenken lassen, unterhalten oder berühren – nicht nur informieren."
-                      },
-                      {
-                        "title": "Eine Geschichte verstehen",
-                        "text": "Wenn du eine Geschichte liest, achtest du auf die wichtigsten Bausteine: Wer sind die Hauptfiguren? Wo und wann spielt die Geschichte? Welches Problem oder welcher Konflikt taucht auf? Wie entwickelt sich die Handlung und wie endet sie? Du lernst, zwischen wichtigen und unwichtigen Details zu unterscheiden und den roten Faden einer Erzählung zu erkennen."
-                      },
-                      {
-                        "title": "Ein Gedicht entdecken",
-                        "text": "Gedichte sind oft kürzer als Geschichten, aber sehr dicht: In wenigen Zeilen stecken viele Bilder, Gefühle und Gedanken. Du achtest auf Reime, Strophen, Rhythmus und besondere Wörter oder Bilder (z. B. Vergleiche). Wichtig ist vor allem, dass du sagst, was das Gedicht bei dir auslöst: Welche Stimmung spürst du? Woran musst du denken?"
-                      },
-                      {
-                        "title": "Szenen und Spiele",
-                        "text": "Kleine Theaterszenen bestehen aus Figuren, die miteinander sprechen und handeln. Statt eines Erzählers siehst du direkt, was auf der Bühne passiert. Du lernst, Regieanweisungen zu erkennen (z. B. ‚laut‘, ‚leise‘, ‚geht nach links‘) und zu verstehen, wie Figuren durch ihre Sprache und ihr Verhalten dargestellt werden."
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "literarischer Text",
-                        "definition": "Erfundener Text wie z. B. Geschichte, Gedicht oder Theaterszene, in dem Erlebnisse, Gedanken und Gefühle gestaltet werden."
-                      },
-                      {
-                        "term": "Erzählung",
-                        "definition": "Geschriebene Geschichte mit Figuren, Ort, Zeit, Handlung und einem Anfang, einer Mitte und einem Ende."
-                      },
-                      {
-                        "term": "Gedicht",
-                        "definition": "Literarischer Text in Versen und Strophen, oft mit Reimen und besonderem Rhythmus."
-                      },
-                      {
-                        "term": "Figur",
-                        "definition": "Person oder Wesen, das in einem literarischen Text vorkommt."
-                      },
-                      {
-                        "term": "Handlung",
-                        "definition": "Das, was in einer Geschichte passiert – die Abfolge der Ereignisse."
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann erklären, was literarische Texte sind.",
-                      "Ich kann aus einer Erzählung die wichtigsten Figuren und das Thema nennen.",
-                      "Ich kann grob nacherzählen, worum es in einer gelesenen Geschichte geht.",
-                      "Ich kann in einem einfachen Gedicht Reime und Strophen erkennen.",
-                      "Ich kann sagen, welche Stimmung eine Geschichte oder ein Gedicht bei mir auslöst."
-                    ],
-                    "sample_questions": [
-                      "Was ist der Unterschied zwischen einer Sachinformation und einer erfundenen Geschichte?",
-                      "Nenne die wichtigsten Figuren und das Thema einer Geschichte, die ihr im Unterricht gelesen habt.",
-                      "Wie ist ein einfaches Gedicht aufgebaut?",
-                      "Wie fühlst du dich beim Lesen einer bestimmten Geschichte oder eines Gedichts und warum?"
-                    ],
-                    "sample_answers": [
-                      "Eine Sachinformation will vor allem informieren und Wirkliches beschreiben, eine erfundene Geschichte erzählt von ausgedachten Figuren und Erlebnissen und will mich oft auch unterhalten oder nachdenken lassen.",
-                      "In der Geschichte ‚…‘ sind die Hauptfiguren … und …. Das Thema der Geschichte ist zum Beispiel Freundschaft bzw. Streit und Versöhnung.",
-                      "Ein einfaches Gedicht besteht oft aus mehreren Strophen. Jede Strophe hat eine bestimmte Anzahl von Versen. Es gibt häufig Reime am Versende und einen spürbaren Rhythmus.",
-                      "Beim Lesen der Geschichte ‚…‘ fühle ich mich traurig bzw. fröhlich, weil der Hauptfigur etwas passiert, das ich gut nachempfinden kann, zum Beispiel weil sie ausgegrenzt wird oder weil sie ein Problem löst."
-                    ]
-                  }
-                },
-                {
-                  "id": "deu5_mod1_u2",
-                  "text": "Ich kann Sach- und Gebrauchstexte lesen, Informationen entnehmen und deren Zweck erkennen.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Sachtexte und Gebrauchstexte im Alltag",
-                        "text": "Sachtexte und Gebrauchstexte begegnen dir jeden Tag: Arbeitsanweisungen im Heft, Infotexte in Büchern, Zeitungsartikel für Kinder, Spielanleitungen, Fahrpläne, Internetseiten, Plakate oder Schilder. Sie wollen dich informieren, etwas erklären, dich zu etwas auffordern oder dir Regeln mitteilen."
-                      },
-                      {
-                        "title": "Informationen gezielt finden",
-                        "text": "Beim Lesen eines Sachtextes musst du nicht alles gleich wichtig finden. Oft suchst du gezielt bestimmte Informationen. Du lernst, Überschriften, Zwischenüberschriften, Bilder, Tabellen und Hervorhebungen zu nutzen, um dich im Text zu orientieren. Du kannst Fragen an den Text stellen wie: Wer? Was? Wann? Wo? Warum? und suchst dann passende Textstellen dazu."
-                      },
-                      {
-                        "title": "Zweck eines Textes erkennen",
-                        "text": "Jeder Text hat einen bestimmten Zweck: Ein Bericht informiert über ein Ereignis, eine Spielanleitung erklärt Schritt für Schritt, was zu tun ist, ein Plakat will dich auf etwas aufmerksam machen oder dich zu etwas bewegen. Du lernst, an Sprache und Aufbau zu erkennen, ob ein Text eher informieren, erklären, warnen oder werben will."
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Sachtext",
-                        "definition": "Text, der über wirkliche Dinge, Personen oder Vorgänge informiert oder etwas erklärt."
-                      },
-                      {
-                        "term": "Gebrauchstext",
-                        "definition": "Kurztext mit praktischem Nutzen im Alltag, z. B. Spielanleitung, Aushang, Plakat oder Fahrplan."
-                      },
-                      {
-                        "term": "Information",
-                        "definition": "gezielte Auskunft über eine Sache, z. B. eine Zahl, ein Fakt oder eine Erklärung."
-                      },
-                      {
-                        "term": "Überschrift",
-                        "definition": "Titel eines Textes, der knapp sagt, worum es im Text geht."
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann Sachtexte und Gebrauchstexte von Geschichten unterscheiden.",
-                      "Ich kann aus einem Sachtext gezielt bestimmte Informationen entnehmen.",
-                      "Ich kann den Zweck eines einfachen Textes nennen (z. B. informieren, erklären, warnen, werben).",
-                      "Ich kann wichtige Informationen aus einem Text in Stichpunkten festhalten."
-                    ],
-                    "sample_questions": [
-                      "Woran erkennst du, dass ein Text ein Sachtext und keine Geschichte ist?",
-                      "Welche Informationen kannst du aus einer Spielanleitung entnehmen?",
-                      "Welchen Zweck hat ein Plakat oder Flyer, den ihr im Unterricht betrachtet habt?",
-                      "Fasse die wichtigsten Informationen eines kurzen Sachtextes in 3 Stichpunkten zusammen."
-                    ],
-                    "sample_answers": [
-                      "Ein Sachtext berichtet über wirkliche Dinge, benutzt oft Fachwörter und ist meist sachlich geschrieben. Es gibt keine ausgedachten Figuren oder erfundene Handlung wie in einer Geschichte.",
-                      "Aus einer Spielanleitung erfahre ich zum Beispiel, wie viele Spieler mitmachen, welches Material ich brauche und wie die einzelnen Spielschritte ablaufen.",
-                      "Ein Plakat für eine Schulveranstaltung soll mich informieren, wann und wo etwas stattfindet, und mich dazu einladen, daran teilzunehmen.",
-                      "Die wichtigsten Informationen sind zum Beispiel: 1. Worum es geht, 2. die wichtigsten Fakten dazu, 3. eine wichtige Erklärung oder Folge."
-                    ]
-                  }
-                },
-                {
-                  "id": "deu5_mod1_u3",
-                  "text": "Ich kann Lesestrategien anwenden, um Texte besser zu verstehen, und meine Leseergebnisse geordnet festhalten.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Vor dem Lesen – sich vorbereiten",
-                        "text": "Bevor du einen Text genau liest, kannst du dir einen Überblick verschaffen: Du schaust dir Überschrift, Bilder, fett gedruckte Wörter und eventuell Zwischenüberschriften an. Du überlegst, was du schon über das Thema weißt und stellst dir Fragen: Worum könnte es gehen? Was möchte ich herausfinden? So bereitest du dein Denken auf den Text vor."
-                      },
-                      {
-                        "title": "Beim Lesen – Wichtiges erkennen",
-                        "text": "Während du liest, achtest du auf Schlüsselwörter und Sätze, in denen viel Wichtiges steht. Du kannst sie unterstreichen, markieren oder Randnotizen machen. Unbekannte Wörter versuchst du aus dem Zusammenhang zu erschließen oder schlägst sie nach. Du liest nicht zu schnell, sondern so, dass du den Inhalt wirklich verstehst."
-                      },
-                      {
-                        "title": "Nach dem Lesen – Zusammenfassen und sichern",
-                        "text": "Nach dem Lesen überlegst du: Was war die Hauptaussage? Welche wichtigen Informationen habe ich gefunden? Du kannst deine Ergebnisse in Stichpunkten notieren, eine kurze Inhaltsangabe schreiben oder eine kleine Mindmap zum Textthema anlegen. So vergisst du das Gelesene nicht so schnell und kannst es später leichter wiederholen."
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Lesestrategie",
-                        "definition": "bewusste Vorgehensweise, die dir hilft, einen Text besser zu verstehen (z. B. Fragen stellen, Markieren, Zusammenfassen)."
-                      },
-                      {
-                        "term": "Schlüsselwort",
-                        "definition": "wichtiges Wort in einem Text, das für das Thema oder den Inhalt besonders bedeutend ist."
-                      },
-                      {
-                        "term": "Inhaltsangabe",
-                        "definition": "kurze, sachliche Zusammenfassung der wichtigsten Inhalte eines Textes in eigenen Worten."
-                      },
-                      {
-                        "term": "Mindmap",
-                        "definition": "Skizze, in der ein Thema in der Mitte steht und wichtige Unterpunkte strahlenförmig angeordnet sind."
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann vor dem Lesen Vermutungen zum Inhalt eines Textes anstellen.",
-                      "Ich kann beim Lesen wichtige Stellen markieren oder mit Stichworten am Rand versehen.",
-                      "Ich kann einen kurzen Text mit wenigen Sätzen oder Stichpunkten zusammenfassen.",
-                      "Ich kann sagen, welche Lesestrategien mir persönlich helfen."
-                    ],
-                    "sample_questions": [
-                      "Was kannst du tun, bevor du einen Text liest, um dich vorzubereiten?",
-                      "Wie erkennst du beim Lesen, welche Textstellen besonders wichtig sind?",
-                      "Wie kannst du nach dem Lesen eines Textes dein Verständnis überprüfen?",
-                      "Welche Lesestrategie hat dir bei einem bestimmten Text besonders geholfen und warum?"
-                    ],
-                    "sample_answers": [
-                      "Ich schaue mir Überschrift und Bilder an und überlege, worum es gehen könnte. Außerdem denke ich darüber nach, was ich zum Thema schon weiß.",
-                      "Wichtige Textstellen erkenne ich daran, dass sie zentrale Fragen beantworten oder viele wichtige Informationen enthalten. Oft sind sie durch Signalwörter oder Beispiele gekennzeichnet.",
-                      "Ich kann versuchen, den Text in eigenen Worten nachzuerzählen oder eine kurze Inhaltsangabe schreiben. Wenn ich das schaffe, habe ich den Text verstanden.",
-                      "Mir hilft es besonders, wichtige Wörter zu unterstreichen und am Rand Stichworte zu notieren, weil ich so beim Wiederholen schnell die wichtigsten Inhalte wiederfinde."
-                    ]
-                  }
-                },
-                {
-                  "id": "deu5_mod1_u4",
-                  "text": "Ich kann einfache Hör- und Hörsehtexte (z. B. Hörspiele, Videos, Vorlesesituationen) verstehen und wichtige Informationen entnehmen.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Hören und Sehen – mehr als nur nebenbei",
-                        "text": "Im Deutschunterricht hörst du zum Beispiel Geschichten, Hörspiele, Gespräche oder schaust kurze Videos und Filmszenen. Um sie gut zu verstehen, musst du dich konzentrieren: Du hörst aufmerksam zu, achtest auf Stimmen, Geräusche, Musik, aber auch auf Bilder, Gestik und Mimik der Personen. So erkennst du nicht nur, was gesagt wird, sondern auch, wie es gemeint ist."
-                      },
-                      {
-                        "title": "Wichtige Informationen aus Hörtexten holen",
-                        "text": "Wie beim Lesen kannst du auch beim Hören bestimmte Fragen im Kopf haben: Wer? Was? Wann? Wo? Warum? Du kannst beim Zuhören Stichworte notieren, um dir wichtige Dinge zu merken. Manche Texte hörst du in Etappen oder auch mehrmals, um alle Informationen zu erfassen. Du lernst, Hauptaussagen von Nebensachen zu unterscheiden."
-                      },
-                      {
-                        "title": "Stimmung und Absicht erkennen",
-                        "text": "An der Stimme, der Musik, der Lautstärke und dem Sprechtempo erkennst du oft, welche Stimmung ein Text hat und welche Absicht jemand verfolgt. Spricht eine Person ruhig und sachlich, will sie meist informieren. Spricht jemand laut und schnell, kann das auf Aufregung oder Spannung hinweisen. Du übst, solche Wirkungen zu beschreiben."
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Hörtext",
-                        "definition": "Text, den du nicht liest, sondern hörst, z. B. Geschichte, Hörspiel, Radiobeitrag."
-                      },
-                      {
-                        "term": "Hörsehtext",
-                        "definition": "Text, den du gleichzeitig hörst und siehst, z. B. Film, Video, Theateraufführung."
-                      },
-                      {
-                        "term": "Hauptaussage",
-                        "definition": "wichtigste Aussage eines Textes – das, worum es im Kern geht."
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann beim Hören konzentriert bleiben und Störungen möglichst ausblenden.",
-                      "Ich kann aus einem gehörten Text wichtige Informationen herausschreiben.",
-                      "Ich kann in eigenen Worten wiedergeben, worum es in einem Hörtext ging.",
-                      "Ich kann einfache Wirkungen von Stimme, Musik und Geräuschen beschreiben."
-                    ],
-                    "sample_questions": [
-                      "Wie bereitest du dich auf das Hören eines Hörtextes vor?",
-                      "Welche Informationen hast du aus einem gehörten Hörspiel oder Vortrag entnommen?",
-                      "Wie würdest du kurz erzählen, worum es in einem Hörtext ging?",
-                      "Was verraten dir Stimme und Musik über die Stimmung eines Hörtextes?"
-                    ],
-                    "sample_answers": [
-                      "Ich setze mich so hin, dass ich gut hören kann, lege Stifte bereit und überlege, worauf ich besonders achten möchte. Manchmal schaue ich mir vorher auch eine Überschrift oder ein Bild an, wenn es das gibt.",
-                      "Aus dem Hörspiel habe ich erfahren, wer die Hauptfiguren sind, wo die Geschichte spielt und welches Problem sie haben.",
-                      "In dem Hörtext ging es darum, dass … (Hauptaussage in 2–3 Sätzen wiedergeben).",
-                      "Eine ruhige, langsame Stimme mit leiser Musik wirkt eher nachdenklich oder traurig, eine laute Stimme mit schneller Musik kann aufregend oder fröhlich wirken."
-                    ]
-                  }
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    }
-  ]
-}{
-  "school_id": "de_thueringen",
-  "grades": [
-    {
-      "grade_id": "klasse5",
-      "grade_label": "Klasse 5",
-      "subjects": [
-        {
-          "subject_id": "deu",
-          "subject_title": "Deutsch",
-          "modules": [
-            {
-              "module_id": "deu5_mod2",
-              "module_name": "Texte produzieren – sprechen und schreiben",
-              "module_longtext": {
-                "sections": [
-                  {
-                    "title": "Sprechen und Schreiben – sich verständlich ausdrücken",
-                    "text": "Im Deutschunterricht lernst du nicht nur, Texte zu verstehen, sondern auch, selbst zu sprechen und zu schreiben. Wenn du dich klar und passend ausdrücken kannst, hilft dir das in der Schule, im Freundeskreis und später im Beruf. Du übst, in Gesprächen mitzuwirken, kleine Vorträge zu halten und verschiedene Textsorten zu schreiben – vom Erlebnisbericht bis zum Steckbrief."
-                  },
-                  {
-                    "title": "Schritt für Schritt zu besseren Texten",
-                    "text": "Gute Texte entstehen selten beim ersten Versuch. Du lernst, wie man das Sprechen und Schreiben plant: Ideen sammeln, ordnen, einen Einstieg finden, den Hauptteil aufbauen und einen passenden Schluss formulieren. Danach überarbeitest du deine Texte: Du verbesserst Wortwahl, Satzbau und Rechtschreibung. So werden deine mündlichen und schriftlichen Beiträge immer klarer und wirkungsvoller."
-                  },
-                  {
-                    "title": "Adressaten- und situationsgerecht sprechen und schreiben",
-                    "text": "Je nachdem, mit wem du sprichst oder für wen du schreibst, passt du deine Sprache an. In einer Klassenkonferenz formulierst du anders als in einer Chat-Nachricht an Freunde. Du lernst, Texte so zu gestalten, dass sie für die jeweilige Situation und die angesprochenen Personen angemessen sind."
-                  }
-                ]
-              },
-              "subtopics": [
-                {
-                  "id": "deu5_mod2_u1",
-                  "text": "Ich kann in einfachen Gesprächssituationen angemessen sprechen und an Gesprächen teilnehmen (dialogisches Sprechen).",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Gespräche führen – zuhören und reden",
-                        "text": "Zu einem Gespräch gehören immer mindestens zwei Personen. Wichtig ist nicht nur, was du sagst, sondern auch, dass du anderen zuhörst. Du lernst, nicht zu unterbrechen, Rückfragen zu stellen und auf das einzugehen, was andere sagen. So entsteht ein echtes Hin und Her, kein Durcheinander-Reden."
-                      },
-                      {
-                        "title": "Sich klar und freundlich ausdrücken",
-                        "text": "In Gesprächen versuchst du, deutlich und in vollständigen Sätzen zu sprechen. Du schaust deine Gesprächspartner an, sprichst nicht zu leise und nicht zu laut und achtest auf eine freundliche Wortwahl. So zeigst du Respekt und sorgst dafür, dass dich andere gut verstehen."
-                      },
-                      {
-                        "title": "Meinungen äußern und begründen",
-                        "text": "Oft geht es in Gesprächen nicht nur um Informationen, sondern auch um Meinungen. Du lernst, deine Meinung zu sagen und kurz zu begründen, zum Beispiel mit ‚Ich finde das gut, weil …‘. Gleichzeitig übst du, andere Meinungen auszuhalten und sachlich darauf zu reagieren."
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "dialogisches Sprechen",
-                        "definition": "Sprechen im Austausch mit anderen, zum Beispiel im Gespräch oder in einer Diskussion."
-                      },
-                      {
-                        "term": "Gesprächsregel",
-                        "definition": "Vereinbarung, wie man im Gespräch miteinander umgeht (z. B. ausreden lassen, melden, zuhören)."
-                      },
-                      {
-                        "term": "Meinung",
-                        "definition": "persönliche Ansicht zu einer Sache, die man begründen kann."
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann Gesprächsregeln nennen und einhalten.",
-                      "Ich kann anderen zuhören und auf ihre Beiträge eingehen.",
-                      "Ich kann meine Meinung in einfachen Sätzen sagen und begründen.",
-                      "Ich kann in einer kleinen Gruppe ein Gespräch zu einem Thema führen."
-                    ],
-                    "sample_questions": [
-                      "Nenne drei wichtige Gesprächsregeln für den Unterricht.",
-                      "Wie kannst du zeigen, dass du deinem Gegenüber zuhörst?",
-                      "Formuliere deine Meinung zu einem Thema und begründe sie mit einem Satz.",
-                      "Wie reagierst du, wenn jemand eine andere Meinung hat als du?"
-                    ],
-                    "sample_answers": [
-                      "Wichtige Gesprächsregeln sind: sich melden, andere ausreden lassen, zuhören und nicht durcheinander reden.",
-                      "Ich schaue die Person an, nicke oder mache kurze Rückmeldungen wie ‚mhm‘ oder ‚aha‘ und gehe in meiner Antwort auf das ein, was sie gesagt hat.",
-                      "Ich finde Hausaufgaben wichtig, weil man damit üben kann, was man im Unterricht gelernt hat.",
-                      "Ich bleibe höflich und sage zum Beispiel: ‚Ich sehe das anders, weil …‘ und erkläre meine Sicht, ohne die andere Person zu beleidigen."
-                    ]
-                  }
-                },
-                {
-                  "id": "deu5_mod2_u2",
-                  "text": "Ich kann kurze, vorbereitete Redebeiträge halten und Ergebnisse präsentieren (monologisches Sprechen).",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Kurze Vorträge planen",
-                        "text": "Bevor du etwas vor der Klasse vorträgst, planst du deinen Beitrag: Du überlegst dir ein Thema, sammelst Stichwörter und ordnest sie. Für einen kurzen Vortrag reichen oft Einleitung, Hauptteil und Schluss. Du kannst dir einen Spickzettel mit Stichpunkten schreiben, aber du liest nicht alles ab."
-                      },
-                      {
-                        "title": "Sicher und verständlich sprechen",
-                        "text": "Beim Vortragen ist es wichtig, dass alle dich gut verstehen. Du sprichst langsam und deutlich, machst Pausen und schaust immer wieder ins Publikum. Wenn du Bilder, Plakate oder Folien benutzt, erklärst du sie mit einfachen Sätzen und verweist mit Hand oder Zeigestock darauf."
-                      },
-                      {
-                        "title": "Ergebnisse aus Gruppenarbeit vorstellen",
-                        "text": "Oft arbeitest du in einer Gruppe und ihr sollt eure Ergebnisse vorstellen. Dann überlegt ihr gemeinsam, wer welchen Teil präsentiert. Du achtest darauf, dass du die Arbeit der Gruppe verständlich zusammenfasst und keine wichtigen Punkte vergisst."
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Vortrag",
-                        "definition": "geplanter, zusammenhängender Redebeitrag vor Zuhörerinnen und Zuhörern."
-                      },
-                      {
-                        "term": "Präsentation",
-                        "definition": "Vorstellung von Ergebnissen, oft unterstützt durch Plakate oder andere Medien."
-                      },
-                      {
-                        "term": "Stichwortzettel",
-                        "definition": "Zettel mit kurzen Notizen, die bei einem Vortrag helfen, nichts zu vergessen."
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann einen kurzen Vortrag mit Einleitung, Hauptteil und Schluss planen.",
-                      "Ich kann zu einem Thema wichtige Stichpunkte sammeln.",
-                      "Ich kann meine Stimme beim Vortragen so einsetzen, dass man mich gut versteht.",
-                      "Ich kann gemeinsam mit anderen eine Gruppenarbeit präsentieren."
-                    ],
-                    "sample_questions": [
-                      "Wie baust du einen kurzen Vortrag sinnvoll auf?",
-                      "Warum ist ein Stichwortzettel hilfreicher als ein komplett ausformulierter Text beim Vortragen?",
-                      "Was ist beim Vortragen wichtig, damit die Klasse dir gut folgen kann?",
-                      "Wie könnt ihr in der Gruppe eine Präsentation aufteilen?"
-                    ],
-                    "sample_answers": [
-                      "Ich beginne mit einer kurzen Einleitung, in der ich sage, worum es geht. Im Hauptteil nenne und erkläre ich die wichtigsten Punkte. Am Schluss fasse ich kurz zusammen oder ziehe ein kleines Fazit.",
-                      "Mit einem Stichwortzettel kann ich freier sprechen und habe Blickkontakt zur Klasse. Wenn ich einen ganzen Text ablese, wirkt es oft langweilig und ich verliere den Kontakt zu den Zuhörern.",
-                      "Ich spreche laut und deutlich, schaue in die Klasse, mache Pausen und erkläre Fachwörter. Außerdem ist es wichtig, nicht zu schnell zu sprechen.",
-                      "Wir können die Teile aufteilen, zum Beispiel erklärt jede Person einen Unterpunkt oder eine Seite des Plakats."
-                    ]
-                  }
-                },
-                {
-                  "id": "deu5_mod2_u3",
-                  "text": "Ich kann einfache erzählende Texte in verständlicher Form schreiben (z. B. Erlebniserzählung).",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Von der Idee zur Erzählung",
-                        "text": "Bevor du eine Geschichte schreibst, überlegst du dir, was passieren soll. Du wählst ein Erlebnis (wirklich erlebt oder ausgedacht) und planst Anfang, spannenden Mittelteil und Schluss. Es hilft, zuerst eine kurze Stichwortliste oder einen Erzählplan anzulegen."
-                      },
-                      {
-                        "title": "Aufbau einer Erlebniserzählung",
-                        "text": "Eine Erlebniserzählung berichtet in der Ich- oder Er-Form von einem Ereignis. Am Anfang stellst du kurz Ort, Zeit und Beteiligte vor. Im Hauptteil beschreibst du das Geschehen Schritt für Schritt, besonders die spannenden Stellen. Am Schluss sagst du, wie alles ausgegangen ist und wie du dich dabei gefühlt hast."
-                      },
-                      {
-                        "title": "Sprachliche Gestaltung",
-                        "text": "Damit deine Erzählung lebendig wird, benutzt du passende Verben, Adjektive und wörtliche Rede. Du achtest auf die Zeitform (meist Präteritum in der Vergangenheit) und darauf, dass du beim Erzählen nicht zwischen den Zeiten springst. Deine Sätze sollen gut lesbar und nicht zu lang sein."
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Erlebniserzählung",
-                        "definition": "Erzählung über ein (wirkliches oder ausgedachtes) Erlebnis, meist in der Ich-Form, mit klar erkennbarem Anfang, Mittelteil und Schluss."
-                      },
-                      {
-                        "term": "wörtliche Rede",
-                        "definition": "wörtlich wiedergegebene Äußerung einer Figur, meist in Anführungszeichen."
-                      },
-                      {
-                        "term": "Präteritum",
-                        "definition": "Zeitform der Vergangenheit, die in Erzählungen häufig verwendet wird (z. B. ‚ich ging‘, ‚er sagte‘)."
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann zu einem Erlebnis einen Erzählplan mit Anfang, Mittelteil und Schluss erstellen.",
-                      "Ich kann eine einfache Erlebniserzählung in der Vergangenheit schreiben.",
-                      "Ich kann wörtliche Rede korrekt einsetzen (Anführungszeichen, Satzzeichen).",
-                      "Ich kann meine Erzählung noch einmal lesen und verbessern."
-                    ],
-                    "sample_questions": [
-                      "Welche Teile gehören zu einer Erlebniserzählung?",
-                      "Warum ist ein Erzählplan vor dem Schreiben hilfreich?",
-                      "In welcher Zeitform schreibst du eine Erlebniserzählung und warum?",
-                      "Wie kannst du eine fertige Erzählung verbessern?"
-                    ],
-                    "sample_answers": [
-                      "Zu einer Erlebniserzählung gehören ein kurzer, einführender Anfang, ein ausführlicher Hauptteil mit dem eigentlichen Erlebnis und ein Schluss, in dem klar wird, wie alles endet und wie sich die Erzählerin oder der Erzähler fühlt.",
-                      "Mit einem Erzählplan vergesse ich keine wichtigen Ereignisse und kann die Reihenfolge gut überlegen. So wird mein Text übersichtlicher.",
-                      "Ich schreibe meistens im Präteritum, weil so deutlich wird, dass das Geschehen in der Vergangenheit liegt und es im Deutschen die typische Erzählzeit ist.",
-                      "Ich lese meine Erzählung noch einmal durch, achte auf Rechtschreibung und Satzzeichen, ersetze langweilige Wörter durch passendere und ergänze Stellen, die noch unklar sind."
-                    ]
-                  }
-                },
-                {
-                  "id": "deu5_mod2_u4",
-                  "text": "Ich kann einfache informierende Texte schreiben (z. B. Bericht, Beschreibung, Steckbrief).",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Informierende Texte – sachlich und klar",
-                        "text": "Informierende Texte sollen anderen Menschen etwas erklären oder mitteilen. Sie sind sachlich geschrieben, das heißt, du bleibst bei den Fakten und benutzt keine Übertreibungen oder Gefühlsausdrücke wie in einer Geschichte. Beispiele sind Berichte über Ereignisse, Beschreibungen von Personen, Tieren oder Dingen sowie Steckbriefe."
-                      },
-                      {
-                        "title": "Einen Bericht verfassen",
-                        "text": "Ein einfacher Bericht beantwortet die W-Fragen: Wer? Was? Wann? Wo? Wie? Warum? Du beginnst mit den wichtigsten Informationen und schilderst den Ablauf in sachlicher Form. Du schreibst in der Vergangenheit und benutzt keine wörtliche Rede oder Ausrufe wie in einer Erzählung."
-                      },
-                      {
-                        "title": "Beschreibungen und Steckbriefe",
-                        "text": "Bei Beschreibungen kommt es darauf an, ein Objekt so genau zu schildern, dass sich andere ein Bild machen können. Du gehst systematisch vor, zum Beispiel von oben nach unten oder von außen nach innen. Ein Steckbrief fasst die wichtigsten Daten zu einer Person, einem Tier oder einem Gegenstand in kurzer Form zusammen, meist in Stichpunkten."
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Bericht",
-                        "definition": "sachlicher Text, der kurz und klar über ein Ereignis informiert und die wichtigsten W-Fragen beantwortet."
-                      },
-                      {
-                        "term": "Beschreibung",
-                        "definition": "Text, der Aussehen oder Eigenschaften von Personen, Tieren, Gegenständen oder Orten genau darstellt."
-                      },
-                      {
-                        "term": "Steckbrief",
-                        "definition": "übersichtliche Sammlung wichtiger Angaben zu einer Person, einem Tier oder einem Gegenstand, oft in Stichpunkten."
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann einfache Berichte zu einem Ereignis verfassen.",
-                      "Ich kann eine Person, ein Tier oder einen Gegenstand geordnet beschreiben.",
-                      "Ich kann einen Steckbrief mit den wichtigsten Angaben erstellen.",
-                      "Ich kann sachliche und erzählende Sprache unterscheiden."
-                    ],
-                    "sample_questions": [
-                      "Welche W-Fragen beantwortet ein Bericht?",
-                      "Worin unterscheidet sich ein Bericht von einer Erzählung?",
-                      "Wie gehst du vor, wenn du eine Person beschreiben sollst?",
-                      "Was gehört in einen Steckbrief?"
-                    ],
-                    "sample_answers": [
-                      "Ein Bericht beantwortet vor allem: Wer? Was? Wann? Wo? Wie? und manchmal auch Warum?",
-                      "Ein Bericht ist sachlich und knapp, verwendet keine wörtliche Rede und erzählt keine Gefühle. Eine Erzählung schildert ein Erlebnis ausführlicher, mit Gedanken und Gefühlen und oft mit wörtlicher Rede.",
-                      "Ich überlege mir eine Reihenfolge, z. B. zuerst das Aussehen (Größe, Haare, Kleidung), dann besondere Merkmale und schließlich vielleicht typische Verhaltensweisen.",
-                      "In einen Steckbrief gehören zum Beispiel Name, Alter, Wohnort oder Lebensraum, besondere Merkmale und wichtige Eigenschaften."
-                    ]
-                  }
-                },
-                {
-                  "id": "deu5_mod2_u5",
-                  "text": "Ich kann beim Schreiben planen, überarbeiten und geeignete Schreibstrategien nutzen.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Schreiben planen",
-                        "text": "Bevor du mit dem eigentlichen Schreiben beginnst, lohnt es sich, kurz zu planen: Was ist das Thema? Welche Textsorte schreibe ich? Wer soll meinen Text lesen? Welche Hauptpunkte müssen unbedingt hinein? Du kannst dazu ein Cluster, eine Liste oder eine kurze Gliederung anlegen."
-                      },
-                      {
-                        "title": "Rohfassung und Überarbeitung",
-                        "text": "Zuerst schreibst du eine Rohfassung, ohne alles perfekt machen zu wollen. Danach liest du den Text noch einmal in Ruhe. Du achtest auf Rechtschreibung, Satzbau, Wiederholungen und unklare Stellen. Oft hilft es, wenn eine Mitschülerin oder ein Mitschüler deinen Text liest und dir eine Rückmeldung gibt."
-                      },
-                      {
-                        "title": "Eigene Schreibstrategien entwickeln",
-                        "text": "Nicht alle arbeiten beim Schreiben gleich. Manche brauchen zuerst viel Zeit zum Planen, andere schreiben lieber sofort los und verbessern später. Du probierst verschiedene Arbeitsweisen aus und findest heraus, was dir hilft, gute Texte zu schreiben und dabei im Zeitrahmen zu bleiben."
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Rohfassung",
-                        "definition": "erste Version eines Textes, die noch überarbeitet werden soll."
-                      },
-                      {
-                        "term": "Überarbeitung",
-                        "definition": "Verbesserung eines Textes nach dem ersten Schreiben, z. B. in Bezug auf Inhalt, Sprache und Rechtschreibung."
-                      },
-                      {
-                        "term": "Schreibstrategie",
-                        "definition": "bewusste Vorgehensweise, wie man einen Text plant, schreibt und überarbeitet."
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann vor dem Schreiben Ideen sammeln und ordnen.",
-                      "Ich kann eine erste Fassung schreiben, ohne mich an jeder Stelle aufzuhalten.",
-                      "Ich kann meinen Text gezielt überarbeiten (Inhalt, Sprache, Rechtschreibung).",
-                      "Ich kenne mindestens eine Schreibstrategie, die mir hilft, rechtzeitig fertig zu werden."
-                    ],
-                    "sample_questions": [
-                      "Was machst du, bevor du mit dem eigentlichen Schreiben beginnst?",
-                      "Warum ist es sinnvoll, zunächst eine Rohfassung zu schreiben?",
-                      "Worauf achtest du bei der Überarbeitung deines Textes?",
-                      "Welche Schreibstrategie hilft dir persönlich am meisten?"
-                    ],
-                    "sample_answers": [
-                      "Ich sammle Ideen, überlege mir die Textsorte und mache mir Stichworte oder eine kleine Gliederung.",
-                      "In der Rohfassung kann ich meine Gedanken erst einmal festhalten, ohne auf jedes Detail zu achten. Die Feinheiten verbessere ich später.",
-                      "Ich schaue, ob alle wichtigen Inhalte enthalten sind, verbessere unklare oder sehr lange Sätze, ersetze langweilige Wörter und korrigiere Rechtschreibfehler.",
-                      "Mir hilft es, zuerst eine Mindmap zu machen, dann die Rohfassung zu schreiben und am Ende mit einem Partnertextvergleich zu überarbeiten."
-                    ]
-                  }
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    }
-  ]
-}{
-  "school_id": "de_thueringen",
-  "grades": [
-    {
-      "grade_id": "klasse5",
-      "grade_label": "Klasse 5",
-      "subjects": [
-        {
-          "subject_id": "deu",
-          "subject_title": "Deutsch",
-          "modules": [
-            {
-              "module_id": "deu5_mod3",
-              "module_name": "Über Sprache, Sprachverwendung und Sprachenlernen reflektieren",
-              "module_longtext": {
-                "sections": [
-                  {
-                    "title": "Sprache bewusst wahrnehmen und nutzen",
-                    "text": "Im Deutschunterricht lernst du nicht nur, richtig zu lesen, zu sprechen und zu schreiben, sondern auch, über Sprache nachzudenken. Du untersuchst, wie Wörter und Sätze gebaut sind, wie Rechtschreibung funktioniert und warum Menschen in unterschiedlichen Situationen unterschiedlich sprechen. Wenn du Sprache besser verstehst, kannst du sie sicherer und bewusster einsetzen."
-                  },
-                  {
-                    "title": "Grammatik und Rechtschreibung als Werkzeuge",
-                    "text": "Grammatik und Rechtschreibung sind keine Selbstzwecke, sondern Werkzeuge: Sie helfen dir, verständlich und eindeutig zu formulieren. Du übst wichtige Regeln und Strategien – zum Beispiel zur Groß- und Kleinschreibung, zu Wortarten und zu Satzbauplänen – und lernst, wie du Fehler selbst findest und verbesserst."
-                  },
-                  {
-                    "title": "Über Sprachgebrauch und Sprachenlernen nachdenken",
-                    "text": "Sprache verändert sich, und Menschen sprechen nicht überall gleich. Du entdeckst Unterschiede zwischen gesprochener und geschriebener Sprache, zwischen Umgangssprache und Standardsprache und lernst, in welcher Situation welche Sprache passend ist. Außerdem überlegst du, wie du Sprachen am besten lernen kannst und wie dir dein Wissen aus Deutsch beim Lernen von Fremdsprachen hilft."
-                  }
-                ]
-              },
-              "subtopics": [
-                {
-                  "id": "deu5_mod3_u1",
-                  "text": "Ich kann grundlegende Rechtschreibregeln anwenden (Groß- und Kleinschreibung, Laut-Buchstaben-Zuordnung, Dehnung/Schärfung, s-Laute, Satzzeichen).",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Groß- und Kleinschreibung",
-                        "text": "In der deutschen Sprache werden Satzanfänge und Nomen (Namenwörter) großgeschrieben. Du lernst, Nomen zu erkennen (z. B. durch Artikel wie „der“, „die“, „das“) und konsequent großzuschreiben. Auch Überschriften und Eigennamen (Personen-, Orts- und Markennamen) werden großgeschrieben."
-                      },
-                      {
-                        "title": "Laut-Buchstaben-Zuordnung, Dehnung und Schärfung",
-                        "text": "Viele Wörter schreibt man so, wie man sie spricht, aber nicht alle. Du übst, wie Laute durch Buchstaben oder Buchstabengruppen wiedergegeben werden (z. B. „ch“, „sch“, „ie“). Bei Dehnung (langem Vokal) und Schärfung (kurzem Vokal) helfen dir Strategien: Wörter verlängern („Tag“ – „Tage“), verwandte Wörter suchen oder auf bekannte Muster achten („fahren“, „Rad“ – „Räder“)."
-                      },
-                      {
-                        "title": "Unterschiedliche s-Laute",
-                        "text": "Im Deutschen gibt es verschiedene Schreibweisen für den s-Laut: „s“, „ss“ und „ß“. Du lernst einfache Grundregeln, z. B.: Nach kurzem, betontem Vokal steht meist „ss“ (Masse), nach langem Vokal oder Diphthong steht oft „ß“ (Fuß, draußen). Am Wortanfang und vor Konsonanten steht meist „s“ (Sonne, Haus)."
-                      },
-                      {
-                        "title": "Satzzeichen am Satzende und bei der wörtlichen Rede",
-                        "text": "Jeder Satz endet mit einem Satzzeichen: Punkt, Fragezeichen oder Ausrufezeichen. Du wiederholst, wie man Aussagesatz, Fragesatz und Ausruf-/Aufforderungssatz erkennt und passend beendet. Bei der wörtlichen Rede setzt du Anführungszeichen und beachtest die Stellung von Komma und Punkt im Zusammenhang mit Redebegleitsätzen."
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Nomen",
-                        "definition": "Namenwort; bezeichnet Menschen, Tiere, Dinge oder Begriffe und wird großgeschrieben."
-                      },
-                      {
-                        "term": "Dehnung",
-                        "definition": "Länger gesprochener Vokal, der oft durch bestimmte Buchstabenfolgen (z. B. „ie“) angezeigt wird."
-                      },
-                      {
-                        "term": "Schärfung",
-                        "definition": "kurzer, betonter Vokal, auf den häufig Doppelkonsonanten folgen (z. B. „Mitte“)."
-                      },
-                      {
-                        "term": "wörtliche Rede",
-                        "definition": "genaue Wiedergabe dessen, was jemand sagt, in Anführungszeichen."
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann Nomen im Satz erkennen und großschreiben.",
-                      "Ich kann Satzanfänge und Eigennamen großschreiben.",
-                      "Ich kann bei vielen Wörtern mit kurzem/langem Vokal die richtige Schreibung (z. B. ss/ß, Doppelkonsonant) finden.",
-                      "Ich kann Aussagesätze, Fragesätze und Aufforderungssätze mit passenden Satzzeichen beenden.",
-                      "Ich kann einfache Sätze mit wörtlicher Rede korrekt mit Anführungszeichen und Satzzeichen schreiben."
-                    ],
-                    "sample_questions": [
-                      "Welche Wörter werden im Deutschen immer großgeschrieben?",
-                      "Erkläre mit einem Beispiel, wie du die Schreibung eines Wortes mit kurzem Vokal überprüfst.",
-                      "Wann steht am Satzende ein Fragezeichen?",
-                      "Setze in einem einfachen Beispielsatz die wörtliche Rede mit den richtigen Anführungszeichen und Satzzeichen."
-                    ],
-                    "sample_answers": [
-                      "Großgeschrieben werden Nomen (z. B. der Hund, die Schule), Satzanfänge und Eigennamen (z. B. Anna, Weimar).",
-                      "Ich kann das Wort verlängern. Bei „Tag“ spreche ich das g in „Tage“ deutlich mit – so sehe ich, dass am Ende ein „g“ geschrieben wird.",
-                      "Ein Fragezeichen steht am Satzende, wenn der Satz eine Frage ausdrückt, auf die ich eine Antwort erwarten kann, z. B. „Kommst du mit?“.",
-                      "Beispiel: Paul sagte: „Ich komme heute später nach Hause.“ – Die wörtliche Rede steht in Anführungszeichen, davor steht ein Doppelpunkt."
-                    ]
-                  }
-                },
-                {
-                  "id": "deu5_mod3_u2",
-                  "text": "Ich kann grundlegende Wortarten (Nomen, Verb, Adjektiv, Artikel, Pronomen) erkennen und gezielt verwenden.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Wortarten – Bausteine der Sätze",
-                        "text": "Wortarten helfen dir, Wörter nach ihrer Aufgabe im Satz zu ordnen. In Klasse 5 übst du vor allem Nomen, Verben, Adjektive, Artikel und einfache Pronomen. Wenn du weißt, zu welcher Wortart ein Wort gehört, kannst du Regeln der Grammatik und Rechtschreibung besser anwenden."
-                      },
-                      {
-                        "title": "Nomen, Verben, Adjektive",
-                        "text": "Nomen (Namenwörter) bezeichnen Dinge, Lebewesen oder Begriffe und werden großgeschrieben. Verben (Tunwörter) benennen Tätigkeiten, Vorgänge oder Zustände und lassen sich beugen (ich gehe, du gehst …). Adjektive (Wiewörter) beschreiben Eigenschaften („laut“, „schnell“) und werden klein geschrieben, außer wenn sie als Nomen verwendet werden."
-                      },
-                      {
-                        "title": "Artikel und Pronomen",
-                        "text": "Artikel (Begleiterwörter) stehen meist vor Nomen und zeigen Geschlecht und Anzahl an („der, die, das“, „ein, eine“). Pronomen (Fürwörter) können Nomen vertreten („ich, du, er, sie, es, wir, ihr, sie“) oder genauer bestimmen („dieser, jener, mein, dein“). In Klasse 5 lernst du vor allem Personalpronomen und einfache Besitzpronomen kennen."
-                      },
-                      {
-                        "title": "Wortarten im eigenen Schreiben nutzen",
-                        "text": "Beim Schreiben versuchst du, abwechslungsreiche Verben und Adjektive zu verwenden, damit deine Texte lebendig werden. Du achtest auf passende Artikel und Pronomen, damit klar ist, wer oder was gemeint ist. In Übungen ordnest du Wörter zu Wortarten und veränderst sie gezielt (z. B. aus Adjektiven Nomen machen: „der Große“)."
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Verb",
-                        "definition": "Tunwort; bezeichnet eine Tätigkeit, einen Vorgang oder einen Zustand und lässt sich beugen."
-                      },
-                      {
-                        "term": "Adjektiv",
-                        "definition": "Eigenschaftswort; beschreibt, wie jemand oder etwas ist."
-                      },
-                      {
-                        "term": "Artikel",
-                        "definition": "Begleiter eines Nomens (z. B. der, die, das, ein, eine)."
-                      },
-                      {
-                        "term": "Pronomen",
-                        "definition": "Fürwort; vertritt oder begleitet ein Nomen (z. B. ich, du, mein, dieser)."
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann in einfachen Sätzen Nomen, Verben und Adjektive finden und benennen.",
-                      "Ich kann passende Artikel zu Nomen setzen (z. B. der, die, das).",
-                      "Ich kann einfache Pronomen richtig verwenden (ich, du, er, sie, es, wir, ihr, sie; mein, dein).",
-                      "Ich kann beim Schreiben bewusst verschiedene Verben und Adjektive einsetzen."
-                    ],
-                    "sample_questions": [
-                      "Unterstreiche in einem Beispielsatz alle Nomen und markiere die Verben doppelt.",
-                      "Welche Wortart ist „schnell“ in dem Satz „Der Hund läuft schnell“ und warum?",
-                      "Ersetze in einem Satz ein Nomen durch ein passendes Pronomen.",
-                      "Warum ist es wichtig, verschiedene Verben und Adjektive zu benutzen?"
-                    ],
-                    "sample_answers": [
-                      "Beispiel: „Das Mädchen liest ein Buch.“ – Nomen: Mädchen, Buch; Verben: liest.",
-                      "„schnell“ ist ein Adjektiv, weil es beschreibt, wie der Hund läuft.",
-                      "Aus „Lisa geht nach Hause.“ kann ich „Sie geht nach Hause.“ machen – „sie“ ist ein Pronomen und vertritt „Lisa“. ",
-                      "Mit verschiedenen Verben und Adjektiven werden Texte genauer und spannender; die Leserinnen und Leser können sich alles besser vorstellen."
-                    ]
-                  }
-                },
-                {
-                  "id": "deu5_mod3_u3",
-                  "text": "Ich kann einfache Satzarten und Satzglieder erkennen und nutzen, um Sätze zu bauen und zu verbessern.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Satzarten – Aussage, Frage, Aufforderung",
-                        "text": "Sätze können verschiedene Aufgaben haben: Eine Aussage informiert über etwas, eine Frage möchte etwas wissen, eine Aufforderung fordert jemanden zu etwas auf. Du erkennst Satzarten an der Wortstellung und am Satzzeichen am Ende. Beim Schreiben achtest du darauf, die passende Form zu wählen."
-                      },
-                      {
-                        "title": "Subjekt und Prädikat – Grundgerüst des Satzes",
-                        "text": "Jeder vollständige Satz braucht mindestens ein Subjekt (Wer oder was?) und ein Prädikat (Was tut wer?). Das Subjekt ist meist ein Nomen oder Pronomen, das Prädikat ist das gebeugte Verb. Du lernst, diese beiden Satzglieder zu finden, z. B. mit der Wer-oder-was-Frage und der Was-tut-jemand-Frage."
-                      },
-                      {
-                        "title": "Weitere Satzglieder kennenlernen",
-                        "text": "Zu einem Satz können weitere Satzglieder gehören, zum Beispiel Objekte (Wen oder was? Wem? Wovon?) und Angaben zu Ort, Zeit oder Art und Weise. In Klasse 5 lernst du erste einfache Fälle kennen und übst, wie man Sätze durch zusätzliche Satzglieder genauer machen kann."
-                      },
-                      {
-                        "title": "Sätze verbessern",
-                        "text": "Mit dem Wissen über Satzarten und Satzglieder kannst du deine Sätze verbessern: Du vermeidest unvollständige Sätze, achtest auf eine sinnvolle Reihenfolge der Satzglieder und variierst den Satzanfang. So wirkt dein Text flüssiger und abwechslungsreicher."
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Subjekt",
-                        "definition": "Satzglied, das angibt, wer oder was etwas tut; steht meist im Nominativ."
-                      },
-                      {
-                        "term": "Prädikat",
-                        "definition": "Satzglied, das aussagt, was geschieht oder was jemand tut; umfasst das gebeugte Verb."
-                      },
-                      {
-                        "term": "Satzart",
-                        "definition": "Art eines Satzes nach seiner Funktion: Aussage-, Frage- oder Aufforderungssatz."
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann Aussage-, Frage- und Aufforderungssätze unterscheiden.",
-                      "Ich kann in einfachen Sätzen Subjekt und Prädikat finden.",
-                      "Ich kann durch zusätzliche Angaben Sätze genauer machen (z. B. wann, wo).",
-                      "Ich kann beim Schreiben unvollständige Sätze erkennen und verbessern."
-                    ],
-                    "sample_questions": [
-                      "Wie erkennst du einen Fragesatz?",
-                      "Bestimme in einem Beispielsatz Subjekt und Prädikat.",
-                      "Erweitere den Satz „Der Hund bellt.“ so, dass er genauer wird.",
-                      "Warum ist es wichtig, vollständige Sätze zu schreiben?"
-                    ],
-                    "sample_answers": [
-                      "Ein Fragesatz beginnt oft mit einem Fragewort oder dem Verb, endet mit einem Fragezeichen und drückt eine Frage aus.",
-                      "Beispiel: „Das Mädchen rennt.“ – Subjekt: „Das Mädchen“ (Wer rennt?), Prädikat: „rennt“ (Was tut das Mädchen?).",
-                      "Ich kann ergänzen: „Der Hund bellt laut im Garten, als es klingelt.“ – Jetzt weiß man, wie und wo der Hund bellt und wann.",
-                      "Vollständige Sätze sind leichter zu verstehen und zeigen klar, wer was tut. In Texten wirken sie ordentlicher und verständlicher."
-                    ]
-                  }
-                },
-                {
-                  "id": "deu5_mod3_u4",
-                  "text": "Ich kann Unterschiede zwischen gesprochener und geschriebener Sprache sowie zwischen Umgangssprache und Standardsprache erkennen und angemessen sprechen/schreiben.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Gesprochene und geschriebene Sprache",
-                        "text": "Wenn du sprichst, benutzt du oft andere Wörter und Satzformen als beim Schreiben. In der gesprochenen Sprache helfen dir Tonfall, Mimik und Gestik. Beim Schreiben müssen alle Informationen im Text stehen. Du übst, für schriftliche Texte vollständige Sätze und eine genauere Wortwahl zu benutzen als in der Alltagssprache."
-                      },
-                      {
-                        "title": "Umgangssprache und Standardsprache",
-                        "text": "Umgangssprache verwendest du meist mit Freunden und Familie. Sie kann Dialekt, Abkürzungen oder Jugendsprache enthalten. Standardsprache ist die „Hochsprache“, wie du sie in der Schule, in Nachrichten oder in offiziellen Texten brauchst. Du lernst, in welchen Situationen welche Sprache passend ist, und kannst umgangssprachliche Ausdrücke in Standardsprache umformulieren."
-                      },
-                      {
-                        "title": "Sprache bewusst wählen",
-                        "text": "Sprache kann höflich oder unhöflich, sachlich oder salopp wirken. Du überlegst, wie du zum Beispiel eine Bitte oder Kritik so formulierst, dass sie respektvoll ist. Dazu passt du Wortwahl, Satzbau und Ton an die Situation an, etwa im Brief an eine Lehrkraft anders als im Chat mit einer Freundin."
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Umgangssprache",
-                        "definition": "lockere Alltagssprache, die man vor allem im Gespräch mit Freunden und Familie benutzt."
-                      },
-                      {
-                        "term": "Standardsprache",
-                        "definition": "allgemein anerkannte Hochsprache, die in Schule, Medien und offiziellen Texten verwendet wird."
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann Beispiele für Umgangssprache und Standardsprache nennen.",
-                      "Ich kann einfache umgangssprachliche Sätze in Standardsprache umformulieren.",
-                      "Ich kann erklären, warum in bestimmten Situationen Standardsprache erwartet wird.",
-                      "Ich kann beim Schreiben und Sprechen bewusst eine passende Sprachebene wählen."
-                    ],
-                    "sample_questions": [
-                      "Nenne ein Beispiel für einen umgangssprachlichen Ausdruck und eine passende Form in Standardsprache.",
-                      "Warum solltest du in einer Klassenarbeit Standardsprache verwenden?",
-                      "Wie würdest du eine Bitte an eine Lehrkraft höflich formulieren?",
-                      "Woran merkst du, dass ein Text eher umgangssprachlich geschrieben ist?"
-                    ],
-                    "sample_answers": [
-                      "Umgangssprache: „Ey, was geht?“ – Standardsprache: „Hallo, wie geht es dir?“.",
-                      "In einer Klassenarbeit wird erwartet, dass du korrektes Deutsch verwendest. So können alle deinen Text gut verstehen und er wirkt sorgfältig und respektvoll.",
-                      "Zum Beispiel: „Sehr geehrte Frau …, könnten Sie mir bitte noch einmal erklären, wie … funktioniert?“ statt „Sie müssen mir das nochmal zeigen.“",
-                      "Man erkennt Umgangssprache oft an Abkürzungen, vielen Ausrufen, einfachen oder abgebrochenen Sätzen und Wörtern aus der Jugendsprache."
-                    ]
-                  }
-                },
-                {
-                  "id": "deu5_mod3_u5",
-                  "text": "Ich kann Strategien zum Lernen von Sprache und Rechtschreibung nutzen (z. B. Wörterbucharbeit, Regel- und Merkwörter, eigene Fehler verbessern).",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Mit Wörterbuch und Nachschlagewerken arbeiten",
-                        "text": "Ein Wörterbuch hilft dir, Schreibweisen, Wortbedeutungen und Worttrennungen zu klären. Du lernst, Wörter nach dem Alphabet zu suchen und Einträge richtig zu lesen. So kannst du selbstständig Unsicherheiten klären, statt zu raten."
-                      },
-                      {
-                        "title": "Regel- und Merkwörter",
-                        "text": "Viele Wörter folgen klaren Rechtschreibregeln. Andere muss man sich merken (Merkwörter). Du übst, Regeln anzuwenden, wo es geht, und legst dir für schwierige Wörter persönliche Merklisten an. Häufig geübte Wörter fallen dir später leichter."
-                      },
-                      {
-                        "title": "Eigene Fehler auswerten",
-                        "text": "Fehler gehören zum Lernen dazu. Wichtig ist, dass du sie nutzt, um besser zu werden. Du schaust dir an, welche Fehler du häufiger machst (z. B. Groß-/Kleinschreibung, Doppelkonsonanten) und überlegst Strategien, diese zu vermeiden, etwa durch langsames Mitsprechen oder gezieltes Üben dieser Fälle."
-                      },
-                      {
-                        "title": "Sprachenlernen bewusst gestalten",
-                        "text": "Was du im Deutschunterricht über Wörter, Sätze und Rechtschreibung lernst, hilft dir auch beim Lernen von Fremdsprachen. Du vergleichst manchmal deutsche Wörter mit Wörtern aus einer Fremdsprache oder deiner Herkunftssprache und entdeckst Gemeinsamkeiten und Unterschiede. So baust du ein Gefühl für Sprache insgesamt auf."
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Wörterbuch",
-                        "definition": "Nachschlagewerk, in dem Wörter erklärt und ihre Schreibweise angegeben werden."
-                      },
-                      {
-                        "term": "Merkwort",
-                        "definition": "Wort, dessen Schreibweise man sich einprägen muss, weil es sich nicht einfach aus Regeln ableiten lässt."
-                      },
-                      {
-                        "term": "Strategie",
-                        "definition": "bewusste Vorgehensweise, um ein Ziel zu erreichen, z. B. bessere Rechtschreibung."
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann ein Wörterbuch sicher benutzen, um die Schreibweise eines Wortes zu überprüfen.",
-                      "Ich kann wichtige Rechtschreibregeln anwenden und schwierige Merkwörter gezielt üben.",
-                      "Ich kann typische Fehler in meinen Texten erkennen und verbessern.",
-                      "Ich kann mindestens zwei persönliche Strategien nennen, wie ich meine Rechtschreibung und Sprachkenntnisse verbessere."
-                    ],
-                    "sample_questions": [
-                      "Wie findest du ein Wort schnell im Wörterbuch?",
-                      "Nenne ein Beispiel für ein Merkwort, das du dir besonders eingeprägt hast.",
-                      "Wie kannst du typische Rechtschreibfehler bei dir selbst erkennen?",
-                      "Welche Strategien helfen dir persönlich beim Lernen von Rechtschreibung oder Vokabeln?"
-                    ],
-                    "sample_answers": [
-                      "Ich gehe nach dem Alphabet vor, schaue zuerst den Anfangsbuchstaben, dann die nächsten Buchstaben und vergleiche Wörter, die ähnlich geschrieben sind.",
-                      "Zum Beispiel das Wort „Rhythmus“ – das habe ich mir mit einem Merksatz eingeprägt.",
-                      "Ich lasse meine Texte ein paar Minuten liegen und lese sie dann noch einmal langsam. Fehler, die ich öfter mache, markiere ich und schreibe die Wörter richtig in eine Liste.",
-                      "Mir helfen Karteikarten und das mehrmalige Schreiben schwieriger Wörter. Außerdem spreche ich schwierige Stellen im Wort beim Schreiben deutlich mit."
-                    ]
-                  }
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    }
-  ]
-}{
-  "school_id": "de_thueringen",
-  "grades": [
-    {
-      "grade_id": "klasse5",
-      "grade_label": "Klasse 5",
-      "subjects": [
-        {
-          "subject_id": "eng1",
-          "subject_title": "Englisch (1. Fremdsprache)",
-          "modules": [
-            {
-              "module_id": "eng5_mod1",
-              "module_name": "Listening – Texte hören und verstehen",
-              "module_longtext": {
-                "sections": [
-                  {
-                    "title": "Hören in Alltagssituationen",
-                    "text": "In diesem Modul lernst du, einfache Hör- und Hör-Sehtexte zu vertrauten Themen zu verstehen, wenn langsam, deutlich und in einfacher Standardsprache gesprochen wird.[file:4] Dazu gehören z. B. Klassensituationen, kleine Dialoge, Lieder, kurze Geschichten oder Durchsagen."
-                  },
-                  {
-                    "title": "Strategien beim Hörverstehen",
-                    "text": "Du nutzt Bilder, bekannte Wörter, Geräusche, Mimik und Gestik sowie dein Weltwissen, um den Inhalt zu erschließen.[file:4] Du lernst, auf Schlüsselwörter zu achten, Wichtiges von Unwichtigem zu unterscheiden und dir mit Stichwörtern oder kleinen Skizzen Notizen zu machen."
-                  }
-                ]
-              },
-              "subtopics": [
-                {
-                  "id": "eng5_mod1_u1",
-                  "text": "Ich kann einfachen Hörtexten zu vertrauten Themen folgen und wichtige Informationen entnehmen.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Bekannte Themen hören",
-                        "text": "Die Hörtexte handeln von Dingen aus deinem Alltag: Schule, Familie, Freunde, Hobbys, Wetter oder Tiere.[file:4] Die Sprecher benutzen überwiegend bekannten Wortschatz und einfache Strukturen, manchmal kommen wenige unbekannte Wörter vor, die du aus dem Zusammenhang erschließt.[file:4]"
-                      },
-                      {
-                        "title": "Global, selektiv und detailliert hören",
-                        "text": "Du lernst, je nach Aufgabe unterschiedlich zu hören: mal nur den groben Inhalt (global), mal nur bestimmte Infos (selektiv), mal möglichst viele Details (detailliert).[file:4] Dazu hilft dir, die Aufgabe vorher genau zu lesen und dir klarzumachen, worauf du achten musst."
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Hörverstehen",
-                        "definition": "Fähigkeit, gesprochene Texte inhaltlich zu erfassen und wichtige Informationen zu entnehmen.[file:4]"
-                      },
-                      {
-                        "term": "Schlüsselwort",
-                        "definition": "Wichtiges Wort im Text, das dir hilft, den Sinn zu verstehen.[file:4]"
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann bei einem einfachen Hörtext sagen, worum es insgesamt geht (Thema). [file:4]",
-                      "Ich kann einzelne konkrete Informationen heraushören (z. B. Namen, Zahlen, Orte). [file:4]",
-                      "Ich kann auch weiterzuhören, wenn ich nicht jedes Wort verstehe. [file:4]"
-                    ],
-                    "sample_questions": [
-                      "Worum geht es in dem Gespräch – Schule, Familie oder Hobbys?",
-                      "Welche zwei Hobbys nennt der Junge im Text?",
-                      "Wie alt ist das Mädchen im Hörtext?"
-                    ],
-                    "sample_answers": [
-                      "Das Gespräch geht um Hobbys in der Freizeit.",
-                      "Er sagt, dass er Fußball spielt und gern Computerspiele macht.",
-                      "Sie ist zehn Jahre alt."
-                    ]
-                  }
-                },
-                {
-                  "id": "eng5_mod1_u2",
-                  "text": "Ich kann visuelle Hilfen, Geräusche und meine Vorerfahrungen als Unterstützung beim Verstehen nutzen.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Mit Bildern und Gestik arbeiten",
-                        "text": "Bilder, Mimik und Gestik geben dir zusätzliche Hinweise darauf, worum es im Text geht.[file:4] Du verbindest das Gehörte mit dem, was du siehst, und ergänzt fehlende Informationen im Kopf."
-                      },
-                      {
-                        "title": "Weltwissen einsetzen",
-                        "text": "Du nutzt dein Wissen über typische Situationen (z. B. im Klassenzimmer, auf dem Spielplatz oder beim Einkaufen), um Vermutungen zum Inhalt zu bilden.[file:4] So kannst du Verstehenslücken ausgleichen."
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Hör-Sehverstehen",
-                        "definition": "Verstehen von Texten, bei denen du gleichzeitig hörst und Bilder oder Videos siehst.[file:4]"
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann aus Bildern schließen, um welches Thema es im Hörtext geht. [file:4]",
-                      "Ich kann Mimik und Gestik nutzen, um Gefühle oder Absichten zu erkennen. [file:4]"
-                    ],
-                    "sample_questions": [
-                      "Was lässt dich vermuten, dass die beiden im Video Freunde sind?",
-                      "Wie helfen dir Bilder auf dem AB beim Verstehen des Dialogs?"
-                    ],
-                    "sample_answers": [
-                      "Sie lachen zusammen, sprechen locker und stehen nah beieinander.",
-                      "Anhand der Bilder sehe ich schon vorher, welche Situationen vorkommen, z. B. Bus, Schule oder Sportplatz."
-                    ]
-                  }
-                }
-              ]
-            },
-            {
-              "module_id": "eng5_mod2",
-              "module_name": "Speaking – Englisch sprechen im Alltag",
-              "module_longtext": {
-                "sections": [
-                  {
-                    "title": "Einfache Gespräche führen",
-                    "text": "In diesem Modul lernst du, in einfachen Gesprächssituationen zu vertrauten Themen mit elementaren sprachlichen und nicht sprachlichen Mitteln zu interagieren.[file:4] Du übst typische Redemittel für Begrüßung, Verabschiedung, Fragen, Antworten und Höflichkeitsformen."
-                  },
-                  {
-                    "title": "Zusammenhängend sprechen",
-                    "text": "Du trainierst, kurze, einfache, zusammenhängende Aussagen über dich, deine Familie, Freunde, Schule, Freizeit und deinen Tagesablauf zu machen.[file:4] Dazu gehören kleine Präsentationen, kurze Berichte und das Erzählen von Erlebnissen."
-                  }
-                ]
-              },
-              "subtopics": [
-                {
-                  "id": "eng5_mod2_u1",
-                  "text": "Ich kann mich vorstellen und einfache Fragen zu meiner Person stellen und beantworten.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Über dich sprechen",
-                        "text": "Du sagst einfache Sätze zu Name, Alter, Wohnort, Herkunft, Familie, Haustieren und Lieblingsdingen.[file:4] Du verwendest feste Wendungen, z. B. „My name is…“, „I live in…“, „I am … years old.“"
-                      },
-                      {
-                        "title": "Fragen stellen",
-                        "text": "Du lernst einfache Frageformen, z. B. „What’s your name?“, „How old are you?“, „Where do you live?“ und reagierst passend darauf.[file:4]"
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "dialogisches Sprechen",
-                        "definition": "An einem Gespräch teilnehmen, auf andere reagieren und selbst Fragen stellen.[file:4]"
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann mich auf Englisch kurz vorstellen (Name, Alter, Wohnort). [file:4]",
-                      "Ich kann meinem Partner einfache Fragen stellen und auf seine Antworten reagieren. [file:4]"
-                    ],
-                    "sample_questions": [
-                      "Stelle dich einem neuen Mitschüler aus England vor.",
-                      "Welche drei Fragen kannst du ihm stellen, um ihn besser kennenzulernen?"
-                    ],
-                    "sample_answers": [
-                      "Hello, my name is Lina. I am ten years old. I live in Jena in Germany.",
-                      "What’s your name? – How old are you? – Where do you live?"
-                    ]
-                  }
-                },
-                {
-                  "id": "eng5_mod2_u2",
-                  "text": "Ich kann über meinen Alltag, meine Freizeit und meine Vorlieben in einfachen Sätzen sprechen.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Tagesablauf und Schule",
-                        "text": "Du beschreibst einfache Routinen: Aufstehen, Schulweg, Fächer, Pausen, Hausaufgaben und Freizeitaktivitäten.[file:4] Du verwendest einfache Präsensformen und Zeitangaben wie „in the morning“, „after school“."
-                      },
-                      {
-                        "title": "Hobbys und Vorlieben",
-                        "text": "Du sprichst darüber, was du gern oder nicht gern machst, z. B. „I like playing football.“, „I don’t like homework.“[file:4] Du reagierst auf andere, indem du zustimmst oder ablehnst, z. B. „Me too.“, „I don’t.“"
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "monologisches Sprechen",
-                        "definition": "Über ein Thema zusammenhängend sprechen, ohne dass jemand direkt antwortet.[file:4]"
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann meinen Tagesablauf in einfachen Sätzen beschreiben. [file:4]",
-                      "Ich kann sagen, was ich gern oder nicht gern mache. [file:4]"
-                    ],
-                    "sample_questions": [
-                      "Erzähle von einem typischen Schultag.",
-                      "Nenne drei Dinge, die du gern machst, und zwei, die du nicht magst."
-                    ],
-                    "sample_answers": [
-                      "I get up at seven o’clock. I go to school by bus. I have English, maths and PE. After school I do my homework and play outside.",
-                      "I like playing football, listening to music and reading comics. I don’t like doing homework and cleaning my room."
-                    ]
-                  }
-                }
-              ]
-            },
-            {
-              "module_id": "eng5_mod3",
-              "module_name": "Reading – Texte lesen und verstehen",
-              "module_longtext": {
-                "sections": [
-                  {
-                    "title": "Einfache Texte erschließen",
-                    "text": "In diesem Modul lernst du, den wesentlichen Inhalt und einfache Detailinformationen aus kurzen Texten zu vertrauten Themen zu entnehmen.[file:4] Die Texte enthalten überwiegend bekannten Wortschatz und einfache Strukturen und werden oft durch Bilder unterstützt."
-                  },
-                  {
-                    "title": "Lesestrategien nutzen",
-                    "text": "Du nutzt Überschriften, Bilder und Textaufbau, um Leseerwartungen zu bilden und unbekannte Wörter zu erschließen.[file:4] Du lernst Techniken wie Überfliegen (skimming) und Suchlesen (scanning)."
-                  }
-                ]
-              },
-              "subtopics": [
-                {
-                  "id": "eng5_mod3_u1",
-                  "text": "Ich kann kurze, einfache Texte zu vertrauten Themen lesen und den Inhalt in eigenen Worten wiedergeben.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Textsorten in Klasse 5/6",
-                        "text": "Du liest z. B. Postkarten, E-Mails, kurze Geschichten, Dialoge, kleine Informationstexte, Plakate oder einfache Arbeitsanweisungen.[file:4]"
-                      },
-                      {
-                        "title": "Wesentliches erfassen",
-                        "text": "Du konzentrierst dich auf die wichtigsten Aussagen und musst nicht jedes Wort verstehen.[file:4] Du nutzt bekannte Wörter, Namen und Zahlen, um den Sinn zu erfassen."
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Leseverstehen",
-                        "definition": "Fähigkeit, geschriebene Texte inhaltlich zu erfassen und Informationen zu entnehmen.[file:4]"
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann nach dem Lesen kurz sagen, worum es in einem Text geht. [file:4]",
-                      "Ich kann aus einem Text einfache Detailinformationen entnehmen (wer, wo, wann). [file:4]"
-                    ],
-                    "sample_questions": [
-                      "Worum geht es in der E-Mail – Schule, Ferien oder Tiere?",
-                      "Wer schreibt den Brief und an wen?"
-                    ],
-                    "sample_answers": [
-                      "Die E-Mail handelt von den Ferien am Meer.",
-                      "Tom schreibt den Brief an seinen Freund Ben."
-                    ]
-                  }
-                },
-                {
-                  "id": "eng5_mod3_u2",
-                  "text": "Ich kann Bilder, Überschriften und bekannte Wörter nutzen, um unbekannte Wörter zu erschließen.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Mit dem Kontext arbeiten",
-                        "text": "Du lernst, unbekannte Wörter nicht sofort nachzuschlagen, sondern zuerst aus dem Zusammenhang zu raten.[file:4] Du achtest auf bekannte Wortteile, ähnliche deutsche Wörter und den Satzinhalt."
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Signalwort",
-                        "definition": "Wort, das dir Hinweise auf die Textart oder den Inhalt gibt (z. B. tomorrow, birthday, school). [file:4]"
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann aus Überschriften und Bildern vermuten, worum es im Text geht. [file:4]",
-                      "Ich kann einzelne unbekannte Wörter aus dem Zusammenhang erschließen. [file:4]"
-                    ],
-                    "sample_questions": [
-                      "Was vermutest du zum Inhalt, wenn die Überschrift „My school day“ lautet und ein Klassenraum zu sehen ist?",
-                      "Das Wort „canteen“ kennst du nicht. Was könnte es bedeuten, wenn im Text von lunch at school die Rede ist?"
-                    ],
-                    "sample_answers": [
-                      "Der Text wird von einem Schultag, Unterricht und Pausen handeln.",
-                      "Es könnte die Mensa oder das Schulrestaurant sein, weil man dort zu Mittag isst."
-                    ]
-                  }
-                }
-              ]
-            },
-            {
-              "module_id": "eng5_mod4",
-              "module_name": "Writing & Mediation – Schreiben und einfach vermitteln",
-              "module_longtext": {
-                "sections": [
-                  {
-                    "title": "Einfach schreiben",
-                    "text": "In diesem Modul lernst du, kurze, einfache Texte zu vertrauten Themen zu verfassen, z. B. Einladungen, Grußkarten, kleine Berichte oder Beschreibungen.[file:4] Du achtest auf eine lesbare Schrift, einfache Satzstrukturen und passende Wörter."
-                  },
-                  {
-                    "title": "Einfach vermitteln",
-                    "text": "Du übst, sehr einfache Informationen aus kurzen mündlichen oder schriftlichen Texten sinngemäß in die andere Sprache zu übertragen.[file:4] Typische Situationen sind z. B. einem Austauschschüler kurz zu erklären, worum es in einer deutschsprachigen Nachricht geht."
-                  }
-                ]
-              },
-              "subtopics": [
-                {
-                  "id": "eng5_mod4_u1",
-                  "text": "Ich kann kurze, einfache Texte (z. B. Grußkarte, Einladung, kleine Beschreibung) zu vertrauten Themen schreiben.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Textsorten im Schreiben",
-                        "text": "Du schreibst z. B. kurze E-Mails, Einladungen zu einer Party, Postkarten aus dem Urlaub oder kleine Steckbriefe über Personen und Tiere.[file:4]"
-                      },
-                      {
-                        "title": "Einfache Struktur",
-                        "text": "Du verwendest klare, kurze Sätze im Präsens und einfache Verknüpfungen wie „and“, „but“, „because“.[file:4] Du orientierst dich an Beispielen und Bausteinen aus dem Unterricht."
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "adressatengerecht",
-                        "definition": "Zum Empfänger passende Formulierungen verwenden (z. B. „Dear …“ am Anfang eines Briefes). [file:4]"
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann eine einfache Einladung auf Englisch schreiben. [file:4]",
-                      "Ich kann eine Person oder ein Haustier mit einfachen Sätzen beschreiben. [file:4]"
-                    ],
-                    "sample_questions": [
-                      "Schreibe eine kurze Einladung zu deiner Geburtstagsparty.",
-                      "Beschreibe dein Haustier in drei bis fünf Sätzen."
-                    ],
-                    "sample_answers": [
-                      "Dear Max, please come to my birthday party on Saturday at three o’clock. We play games and eat cake. Love, Ben.",
-                      "My dog’s name is Lucky. He is brown and white. He is small and very funny. He likes playing in the garden."
-                    ]
-                  }
-                },
-                {
-                  "id": "eng5_mod4_u2",
-                  "text": "Ich kann sehr einfache Informationen aus kurzen Texten sinngemäß ins Deutsche oder Englische übertragen.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Sprachmittlung in Alltagssituationen",
-                        "text": "Du übst, einer Person, die nur Deutsch kann, kurz zu sagen, worum es in einer einfachen englischen Nachricht geht – und umgekehrt.[file:4] Es geht nicht um Wort-für-Wort-Übersetzung, sondern darum, die wichtigsten Informationen weiterzugeben."
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Sprachmittlung",
-                        "definition": "Inhalte aus einer Sprache in eigenen Worten in einer anderen Sprache wiedergeben.[file:4]"
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann meinem Mitschüler auf Deutsch erklären, worum es in einer kurzen englischen Nachricht geht. [file:4]",
-                      "Ich kann einer englischsprachigen Person auf Englisch kurz erklären, was in einem einfachen deutschen Hinweisschild steht. [file:4]"
-                    ],
-                    "sample_questions": [
-                      "Erkläre einem Austauschschüler auf Englisch, was „Kein Durchgang“ auf einem Schild bedeutet.",
-                      "Fasse einem Freund auf Deutsch kurz zusammen, was in einer kurzen englischen Klassenregel steht."
-                    ],
-                    "sample_answers": [
-                      "It means: you must not go through here.",
-                      "In der Klassenregel steht, dass man im Unterricht leise sein und anderen zuhören soll."
-                    ]
-                  }
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    }
-  ]
-}
-{
-  "school_id": "de_thueringen",
-  "grades": [
-    {
-      "grade_id": "klasse5",
-      "grade_label": "Klasse 5",
-      "subjects": [
-        {
-          "subject_id": "geo",
-          "subject_title": "Geografie",
-          "modules": [
-            {
-              "module_id": "geo5_mod1",
-              "module_name": "Die Erde als Planet und Lebensraum",
-              "module_longtext": {
-                "sections": [
-                  {
-                    "title": "Was macht Geografie aus?",
-                    "text": "In diesem Modul lernst du, was das Fach Geografie eigentlich untersucht und wie es dir hilft, die Welt besser zu verstehen.[file:5] Du beschäftigst dich mit der Erde als Planet, ihren Bewegungen, wichtigen Hilfsmitteln wie Karten und Gradnetz sowie mit unterschiedlichen Landschaftsräumen und Lebensbedingungen auf der Erde.[file:5]"
-                  },
-                  {
-                    "title": "Die Erde im Weltraum",
-                    "text": "Du beschreibst die Gestalt der Erde, ihre Drehung um die eigene Achse (Rotation) und die Umrundung der Sonne (Revolution). [file:5] Dadurch verstehst du grundlegende Phänomene wie Tag und Nacht, Jahreszeiten und die unterschiedliche Beleuchtung der Erde.[file:5]"
-                  },
-                  {
-                    "title": "Lebensräume in verschiedenen Klimazonen",
-                    "text": "Du lernst kennen, dass es auf der Erde verschiedene klimatisch geprägte Räume gibt, z. B. Tropen, Wüsten, gemäßigte Zonen oder Polarregionen.[file:5] Du beschreibst, wie Klima, Landschaft und Vegetation zusammenhängen und wie Menschen sich an unterschiedliche Bedingungen anpassen.[file:5]"
-                  }
-                ]
-              },
-              "subtopics": [
-                {
-                  "id": "geo5_mod1_u1",
-                  "text": "Ich kann erklären, was Geografie als Fach untersucht und welche Grundbegriffe dazu gehören.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Geografie – die Lehre von der Erde",
-                        "text": "Geografie beschäftigt sich mit der Erde als Raum, in dem Natur und Mensch zusammenwirken.[file:5] Dazu gehören Themen wie Landschaften, Klima, Städte und Dörfer, Wirtschaft, Umweltprobleme und vieles mehr.[file:5]"
-                      },
-                      {
-                        "title": "Natur und Gesellschaft",
-                        "text": "Du lernst, dass Geografie sowohl natürliche Grundlagen (z. B. Gebirge, Meere, Klima) als auch menschliche Nutzung (z. B. Landwirtschaft, Städte, Verkehr) zusammen betrachtet.[file:5] Wichtig ist dabei, Wechselwirkungen zu erkennen: Wie beeinflusst der Mensch die Natur – und wie wirken Naturbedingungen auf das Leben der Menschen zurück?[file:5]"
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Geografie",
-                        "definition": "Wissenschaft, die Räume, Naturbedingungen und menschliche Nutzung der Erde untersucht.[file:5]"
-                      },
-                      {
-                        "term": "Naturraum",
-                        "definition": "Ausschnitt der Erdoberfläche, der vor allem durch natürliche Faktoren wie Klima, Boden, Relief und Vegetation geprägt ist.[file:5]"
-                      },
-                      {
-                        "term": "Lebensraum",
-                        "definition": "Bereich, in dem Menschen, Tiere und Pflanzen leben und wirtschaften.[file:5]"
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann in einem Satz erklären, worum es im Fach Geografie geht. [file:5]",
-                      "Ich kann Beispiele nennen, welche Themen zur Natur und welche zur Nutzung durch den Menschen gehören. [file:5]"
-                    ],
-                    "sample_questions": [
-                      "Womit beschäftigt sich Geografie – nenne zwei Beispiele aus der Natur und zwei aus dem Bereich Mensch/Wirtschaft.",
-                      "Warum gehört \"Klima\" genauso zur Geografie wie \"Stadtentwicklung\"?"
-                    ],
-                    "sample_answers": [
-                      "Geografie untersucht zum Beispiel Gebirge und Meere (Natur) sowie Städte und Landwirtschaft (Mensch/Wirtschaft).",
-                      "Klima gehört zur Naturgrundlage, Stadtentwicklung zur Nutzung – beides hängt zusammen, weil das Klima beeinflusst, wie und wo Menschen Städte bauen."
-                    ]
-                  }
-                },
-                {
-                  "id": "geo5_mod1_u2",
-                  "text": "Ich kann die Gestalt der Erde und ihre Bewegungen (Rotation, Revolution) beschreiben und mit Tag, Nacht und Jahreszeiten verbinden.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Gestalt der Erde",
-                        "text": "Die Erde ist keine perfekte Kugel, sondern annähernd kugelförmig und an den Polen etwas abgeflacht.[file:5] Sie besitzt eine Erdachse, eine gedachte Linie vom Nordpol zum Südpol, um die sie sich dreht.[file:5]"
-                      },
-                      {
-                        "title": "Rotation – die Drehung der Erde",
-                        "text": "Die Erde dreht sich in 24 Stunden einmal um ihre eigene Achse – das nennt man Rotation.[file:5] Durch diese Drehung entstehen Tag und Nacht: Die der Sonne zugewandte Seite hat Tag, die abgewandte Seite Nacht.[file:5]"
-                      },
-                      {
-                        "title": "Revolution – die Umlaufbahn um die Sonne",
-                        "text": "Die Erde bewegt sich innerhalb eines Jahres auf einer Umlaufbahn um die Sonne – das nennt man Revolution.[file:5] Zusammen mit der schiefen Stellung der Erdachse erklärt das die unterschiedlichen Jahreszeiten und die verschieden lange Tageslänge im Jahresverlauf.[file:5]"
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Erdachse",
-                        "definition": "Gedachte Drehachse der Erde vom Nordpol zum Südpol.[file:5]"
-                      },
-                      {
-                        "term": "Rotation",
-                        "definition": "Drehung der Erde um ihre eigene Achse in 24 Stunden (Tag/Nacht). [file:5]"
-                      },
-                      {
-                        "term": "Revolution",
-                        "definition": "Umlauf der Erde um die Sonne in etwa einem Jahr (Jahreslauf). [file:5]"
-                      },
-                      {
-                        "term": "Nordpol / Südpol",
-                        "definition": "Die beiden Endpunkte der Erdachse an der Erdoberfläche.[file:5]"
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann erklären, wie durch die Rotation Tag und Nacht entstehen. [file:5]",
-                      "Ich kann in einfachen Worten beschreiben, warum es Jahreszeiten gibt. [file:5]"
-                    ],
-                    "sample_questions": [
-                      "Warum ist es auf der Erde gleichzeitig an manchen Orten Tag und an anderen Nacht?",
-                      "Welche Rolle spielt die Rotation der Erde für unseren Alltag?",
-                      "Warum gibt es bei uns verschiedene Jahreszeiten?"
-                    ],
-                    "sample_answers": [
-                      "Weil immer nur die Seite der Erde, die zur Sonne zeigt, Tag hat, die andere Seite liegt im Schatten und hat Nacht.",
-                      "Durch die Rotation wechseln Tag und Nacht in einem regelmäßigen 24-Stunden-Rhythmus – das bestimmt unseren Tagesablauf.",
-                      "Die Erde umkreist die Sonne und ihre Achse ist schräg gestellt. Deshalb ist mal die Nordhalbkugel stärker zur Sonne geneigt (Sommer dort) und mal die Südhalbkugel."
-                    ]
-                  }
-                },
-                {
-                  "id": "geo5_mod1_u3",
-                  "text": "Ich kann das Gradnetz der Erde (Äquator, Pole, Längengrade, Breitengrade, Nullmeridian) in Grundzügen verstehen und zur Orientierung nutzen.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Das Gradnetz als Orientierungshilfe",
-                        "text": "Um Orte genau zu bestimmen, verwendet man ein Gradnetz aus Breiten- und Längengraden.[file:5] Es überzieht die Erde wie ein unsichtbares Netz und hilft, jeden Punkt durch Zahlenangaben zu beschreiben.[file:5]"
-                      },
-                      {
-                        "title": "Äquator, Pole und Nullmeridian",
-                        "text": "Der Äquator teilt die Erde in Nord- und Südhalbkugel.[file:5] Die Pole (Nordpol, Südpol) sind die Endpunkte der Erdachse; der Nullmeridian verläuft z. B. durch Greenwich bei London und dient als Ausgangslinie für die Längengrade.[file:5]"
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Äquator",
-                        "definition": "Größter Breitenkreis, der die Erde in Nord- und Südhalbkugel teilt.[file:5]"
-                      },
-                      {
-                        "term": "Gradnetz",
-                        "definition": "Netz aus Breiten- und Längengraden zur genauen Ortsbestimmung.[file:5]"
-                      },
-                      {
-                        "term": "Nullmeridian",
-                        "definition": "Ausgangslinie der Längengrade mit der Längenzahl 0°, verläuft u. a. durch Greenwich.[file:5]"
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann auf einer Atlas-Karte Äquator, Nordpol und Südpol zeigen. [file:5]",
-                      "Ich kann erklären, wozu man das Gradnetz braucht. [file:5]"
-                    ],
-                    "sample_questions"
-{
-  "school_id": "de_thueringen",
-  "grades": [
-    {
-      "grade_id": "klasse5",
-      "grade_label": "Klasse 5",
-      "subjects": [
-        {
-          "subject_id": "geo",
-          "subject_title": "Geografie",
-          "modules": [
-            {
-              "module_id": "geo5_mod2",
-              "module_name": "Das Leben der Menschen mit Naturrisiken",
-              "module_longtext": {
-                "sections": [
-                  {
-                    "title": "Naturrisiken erkennen",
-                    "text": "In diesem Modul lernst du natürliche Vorgänge kennen, die für Menschen gefährlich werden können, z. B. Sturmfluten, Vulkanausbrüche, Erdbeben, Hochwasser oder Lawinen.[file:5] Du beschreibst, wie solche Gefahren entstehen, welche Lebensräume besonders betroffen sind und welche Schutzmaßnahmen möglich sind.[file:5]"
-                  },
-                  {
-                    "title": "Mensch und Natur im Spannungsfeld",
-                    "text": "Du erkennst, dass Menschen oft in gefährdeten Gebieten leben, weil diese z. B. fruchtbare Böden, gute Verkehrslage oder wirtschaftliche Chancen bieten.[file:5] Gleichzeitig lernst du, wie Menschen versuchen, mit Naturrisiken umzugehen und Schäden zu verringern.[file:5]"
-                  }
-                ]
-              },
-              "subtopics": [
-                {
-                  "id": "geo5_mod2_u1",
-                  "text": "Ich kann verschiedene Küstenformen (Flachküste, Steilküste, Wattküste) und ihre Gefährdungen für Menschen beschreiben und einfache Schutzmaßnahmen nennen.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Küstenformen und Dynamik",
-                        "text": "Küsten können flach und sandig, steil und felsig oder von Wattflächen geprägt sein.[file:5] Wellen, Strömungen und Gezeiten tragen ständig Material ab (Abtragung), transportieren und lagern es an anderer Stelle wieder ab (Ablagerung).[file:5]"
-                      },
-                      {
-                        "title": "Gefahren an der Küste",
-                        "text": "An Flachküsten drohen Sturmfluten und Überflutungen, an Steilküsten Abstürze und Felsstürze, im Watt können Menschen bei auflaufender Flut in Gefahr geraten.[file:5] Du lernst typische Schutzmaßnahmen wie Deiche, Schutzdünen oder Sperrwerke kennen.[file:5]"
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Flachküste",
-                        "definition": "Küstenform mit flach ins Meer auslaufendem Land, oft Sandstrände und Dünen.[file:5]"
-                      },
-                      {
-                        "term": "Steilküste",
-                        "definition": "Küstenform mit steil abfallenden Felsen direkt am Meer.[file:5]"
-                      },
-                      {
-                        "term": "Watt",
-                        "definition": "Fläche, die bei Ebbe trockenfällt und bei Flut überflutet wird.[file:5]"
-                      },
-                      {
-                        "term": "Deich",
-                        "definition": "Künstlich aufgeschütteter Damm zum Schutz des Hinterlandes vor Hochwasser und Sturmfluten.[file:5]"
-                      },
-                      {
-                        "term": "Naturrisiko",
-                        "definition": "Gefahr für Menschen und ihre Güter, die von natürlichen Prozessen ausgeht.[file:5]"
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann den Unterschied zwischen Flachküste, Steilküste und Wattküste beschreiben. [file:5]",
-                      "Ich kann erklären, warum Sturmfluten gefährlich sind. [file:5]",
-                      "Ich kenne mindestens zwei Schutzmaßnahmen an der Küste (z. B. Deich, Dünen). [file:5]"
-                    ],
-                    "sample_questions": [
-                      "Beschreibe eine Flachküste und eine Steilküste jeweils mit zwei Merkmalen.",
-                      "Warum sind Deiche an Flachküsten wichtig?",
-                      "Welche Gefahr besteht für Menschen im Watt bei auflaufender Flut?"
-                    ],
-                    "sample_answers": [
-                      "Eine Flachküste steigt nur langsam an und hat oft Sandstrände; eine Steilküste fällt fast senkrecht zum Meer ab und besteht aus Felsen.",
-                      "Deiche schützen das flache Hinterland davor, dass Meerwasser bei Sturmfluten weit ins Land eindringt.",
-                      "Sie können vom Wasser eingeschlossen werden und den Rückweg nicht rechtzeitig schaffen – es droht Lebensgefahr."
-                    ]
-                  }
-                },
-                {
-                  "id": "geo5_mod2_u2",
-                  "text": "Ich kann Vulkane und Erdbeben als Ursachen für Gefährdungen von Lebensräumen beschreiben und Beispiele nennen.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Vulkanausbrüche",
-                        "text": "Vulkane entstehen an Schwächezonen der Erdkruste; bei Ausbrüchen treten Lava, Asche und Gase aus.[file:5] In der Umgebung kann es zu Zerstörungen durch Lavaflüsse, Ascheregen oder Glutwolken kommen, gleichzeitig sorgen vulkanische Böden oft für fruchtige Landwirtschaft.[file:5]"
-                      },
-                      {
-                        "title": "Erdbeben",
-                        "text": "Erdbeben entstehen, wenn sich Spannungen in der Erdkruste plötzlich lösen, häufig an Plattengrenzen.[file:5] Sie können Gebäude einstürzen lassen, Risse im Boden verursachen und über dem Meer Tsunamis auslösen.[file:5]"
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Vulkan",
-                        "definition": "Öffnung in der Erdkruste, aus der bei Ausbrüchen Lava, Asche und Gase austreten.[file:5]"
-                      },
-                      {
-                        "term": "Erdbeben",
-                        "definition": "Plötzliche Erschütterung der Erdoberfläche durch Bewegungen im Erdinneren.[file:5]"
-                      },
-                      {
-                        "term": "Tsunami",
-                        "definition": "Sehr hohe Meereswelle, die z. B. durch ein Seebeben ausgelöst wird.[file:5]"
-                      },
-                      {
-                        "term": "Relief",
-                        "definition": "Formen der Erdoberfläche, z. B. Berge, Täler, Ebenen.[file:5]"
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann in einfachen Worten erklären, wie ein Vulkanausbruch entsteht. [file:5]",
-                      "Ich kenne mindestens zwei Gefahren, die von einem Erdbeben ausgehen. [file:5]",
-                      "Ich kann ein Beispielgebiet nennen, in dem Vulkane oder Erdbeben häufig vorkommen. [file:5]"
-                    ],
-                    "sample_questions": [
-                      "Warum leben Menschen trotz der Gefahr in der Nähe von Vulkanen?",
-                      "Nenne zwei Folgen eines starken Erdbebens in einer Stadt.",
-                      "Was ist ein Tsunami und wie kann er entstehen?"
-                    ],
-                    "sample_answers": [
-                      "Weil die vulkanischen Böden fruchtbar sind und gute Ernten ermöglichen, und weil dort oft Tourismus stattfindet.",
-                      "Häuser können einstürzen und Straßen, Wasser- und Stromleitungen werden zerstört.",
-                      "Ein Tsunami ist eine sehr hohe Welle, die z. B. durch ein starkes Seebeben ausgelöst wird und an Küsten große Schäden anrichten kann."
-                    ]
-                  }
-                },
-                {
-                  "id": "geo5_mod2_u3",
-                  "text": "Ich kann an Flüssen Gefährdungen durch Hochwasser beschreiben und einfache Schutzmaßnahmen nennen.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Flussabschnitte und Dynamik",
-                        "text": "Flüsse transportieren Wasser und Material von den Quellgebieten bis zur Mündung.[file:5] In den Auen und bei Hochwasser können sie über die Ufer treten und angrenzende Siedlungen oder Felder überfluten.[file:5]"
-                      },
-                      {
-                        "title": "Hochwasser und Schutz",
-                        "text": "Hochwasser entsteht, wenn mehr Wasser in den Fluss gelangt, als im Flussbett abfließen kann (z. B. durch starken Regen, Schneeschmelze). [file:5] Schutzmaßnahmen sind u. a. Deiche, Rückhaltebecken, Überschwemmungsflächen oder der Verzicht auf Bauen in der Aue.[file:5]"
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Flussaue",
-                        "definition": "Niedrig gelegener Bereich entlang eines Flusses, der bei Hochwasser überflutet werden kann.[file:5]"
-                      },
-                      {
-                        "term": "Ablagerung",
-                        "definition": "Absetzen von mitgeführtem Material (z. B. Sand, Kies), wenn die Transportkraft des Wassers nachlässt.[file:5]"
-                      },
-                      {
-                        "term": "Abtragung",
-                        "definition": "Abtransport von Boden oder Gestein durch Wasser, Wind oder Eis.[file:5]"
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann erklären, was bei einem Hochwasser passiert. [file:5]",
-                      "Ich kann zwei Maßnahmen nennen, die Menschen vor Hochwasser schützen sollen. [file:5]"
-                    ],
-                    "sample_questions": [
-                      "Warum bauen Menschen trotzdem in Flussauen, obwohl Hochwasser droht?",
-                      "Nenne zwei Maßnahmen, mit denen man Hochwasserschäden verringern kann."
-                    ],
-                    "sample_answers": [
-                      "Weil das Land dort flach und günstig ist und man guten Zugang zum Wasser hat, z. B. für Schifffahrt oder Landwirtschaft.",
-                      "Man kann Deiche bauen und Überschwemmungsflächen freihalten, damit das Wasser sich ausbreiten kann."
-                    ]
-                  }
-                },
-                {
-                  "id": "geo5_mod2_u4",
-                  "text": "Ich kann Wetterextreme (Sturm, Starkregen, Hitze/Kälte) und Massenbewegungen (z. B. Erdrutsch, Lawine) als Naturrisiken beschreiben.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Wetterextreme",
-                        "text": "Starke Stürme, Hagel, Starkregen, Hitzewellen oder Kälteperioden sind Wetterextreme, die Schäden anrichten können.[file:5] Du lernst, wie Wetterberichte und Wetterdienste vor solchen Ereignissen warnen.[file:5]"
-                      },
-                      {
-                        "title": "Massenbewegungen",
-                        "text": "Bei Massenbewegungen rutschen größere Gesteins- oder Schneemassen den Hang hinab, z. B. Erdrutsche oder Lawinen.[file:5] Sie treten besonders an steilen Hängen, in Gebirgen oder nach starken Niederschlägen auf."
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Wetter",
-                        "definition": "Zustand der unteren Luftschichten an einem bestimmten Ort zu einer bestimmten Zeit (z. B. Temperatur, Niederschlag, Wind). [file:5]"
-                      },
-                      {
-                        "term": "Wetterdienst",
-                        "definition": "Einrichtung, die Wetterdaten sammelt, Wettervorhersagen erstellt und vor Unwettern warnt.[file:5]"
-                      },
-                      {
-                        "term": "Erdrutsch",
-                        "definition": "Plötzliche Bewegung von Boden- und Gesteinsmassen einen Hang hinab.[file:5]"
-                      },
-                      {
-                        "term": "Lawine",
-                        "definition": "Schnelle Talfahrt großer Schnee- und Eismassen, oft mit Geröll vermischt.[file:5]"
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann mindestens zwei Wetterextreme nennen und ihre möglichen Folgen beschreiben. [file:5]",
-                      "Ich kann erklären, was eine Lawine ist und wo sie vorkommt. [file:5]"
-                    ],
-                    "sample_questions": [
-                      "Nenne ein Beispiel für ein Wetterextrem in Deutschland und beschreibe die Folgen.",
-                      "Warum sind Lawinen für Menschen im Hochgebirge gefährlich?"
-                    ],
-                    "sample_answers": [
-                      "Starkregen kann zu Überschwemmungen führen, Keller füllen sich mit Wasser und Straßen werden unpassierbar.",
-                      "Lawinen können sehr schnell ins Tal rasen und Häuser, Straßen und Menschen unter sich begraben."
-                    ]
-                  }
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    }
-  ]
-}
-{
-  "school_id": "de_thueringen",
-  "grades": [
-    {
-      "grade_id": "klasse5",
-      "grade_label": "Klasse 5",
-      "subjects": [
-        {
-          "subject_id": "geo",
-          "subject_title": "Geografie",
-          "modules": [
-            {
-              "module_id": "geo5_mod3",
-              "module_name": "Wirtschaftliches Handeln zwischen Ökonomie und Ökologie",
-              "module_longtext": {
-                "sections": [
-                  {
-                    "title": "Wirtschaften in der Umwelt",
-                    "text": "In diesem Modul lernst du, wie menschliches Wirtschaften (z. B. Landwirtschaft, Tourismus, Energie, Verkehr) die Umwelt beeinflusst und welche Unterschiede es zwischen konventionellen und umweltfreundlichen Formen gibt.[file:5] Du beschreibst Beispiele aus Thüringen, Deutschland und Europa und vergleichst die Vor- und Nachteile verschiedener Nutzungsformen.[file:5]"
-                  },
-                  {
-                    "title": "Nachhaltigkeit als Leitidee",
-                    "text": "Du beschäftigst dich mit der Frage, wie Menschen so wirtschaften können, dass Natur und Ressourcen auch für zukünftige Generationen erhalten bleiben.[file:5] Dazu betrachtest du verschiedene Bereiche wie Land- und Forstwirtschaft, Tourismus, Energieerzeugung und Verkehrskonzepte.[file:5]"
-                  }
-                ]
-              },
-              "subtopics": [
-                {
-                  "id": "geo5_mod3_u1",
-                  "text": "Ich kann konventionelle und ökologische Land- und Forstwirtschaft in einfachen Beispielen beschreiben und vergleichen.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Konventionelle Landwirtschaft",
-                        "text": "In der konventionellen Landwirtschaft werden oft große Flächen mit wenigen Kulturpflanzen bewirtschaftet, es kommen viele Maschinen, Mineraldünger und Pflanzenschutzmittel zum Einsatz.[file:5] Dadurch können hohe Erträge erzielt werden, aber Boden, Wasser und Artenvielfalt können stärker belastet werden.[file:5]"
-                      },
-                      {
-                        "title": "Ökologische Landwirtschaft",
-                        "text": "Ökologische Landwirtschaft (Bio-Landbau) versucht, ohne synthetische Pflanzenschutzmittel und Mineraldünger auszukommen.[file:5] Stattdessen werden z. B. Fruchtfolgen, Kompost, artgerechte Tierhaltung und der Verzicht auf Gentechnik betont; Erträge sind oft niedriger, dafür wird die Umwelt geschont.[file:5]"
-                      },
-                      {
-                        "title": "Forstwirtschaft",
-                        "text": "Auch Wälder können sehr unterschiedlich genutzt werden: In Monokulturen wachsen meist nur eine Baumart, in naturnahen Mischwäldern verschiedene Baumarten, was die Stabilität des Waldes erhöht.[file:5]"
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Bioprodukte",
-                        "definition": "Lebensmittel aus ökologischer Landwirtschaft, die bestimmte Umwelt- und Qualitätsstandards einhalten.[file:5]"
-                      },
-                      {
-                        "term": "Boden",
-                        "definition": "Oberste Schicht der Erdkruste, in der Pflanzen wachsen; wichtiger Lebens- und Produktionsraum.[file:5]"
-                      },
-                      {
-                        "term": "landwirtschaftlicher Gunstraum",
-                        "definition": "Gebiet mit günstigen natürlichen Bedingungen für Landwirtschaft (z. B. fruchtbare Böden, mildes Klima). [file:5]"
-                      },
-                      {
-                        "term": "industrielle Tierhaltung",
-                        "definition": "Haltung vieler Tiere auf engem Raum mit hohem Technik- und Futtereinsatz zur Maximierung der Produktion.[file:5]"
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann zwei Merkmale konventioneller und zwei Merkmale ökologischer Landwirtschaft nennen. [file:5]",
-                      "Ich kann einfache Vor- und Nachteile der beiden Formen beschreiben. [file:5]",
-                      "Ich kann erklären, warum Wälder als Wirtschafts- und Lebensraum wichtig sind. [file:5]"
-                    ],
-                    "sample_questions": [
-                      "Nenne zwei Unterschiede zwischen konventioneller und ökologischer Landwirtschaft.",
-                      "Warum sind Monokulturen im Wald problematisch?",
-                      "Welche Vorteile können Bioprodukte für Umwelt und Verbraucher haben?"
-                    ],
-                    "sample_answers": [
-                      "Konventionell: viel Dünger und Pflanzenschutzmittel, hohe Erträge; ökologisch: weniger Chemie, mehr Fruchtfolgen und artgerechte Tierhaltung.",
-                      "Monokulturen sind anfälliger für Schädlinge und Sturmschäden; wenn nur eine Baumart betroffen ist, kann der ganze Wald geschädigt werden.",
-                      "Bioprodukte schonen Boden und Wasser, fördern Tierschutz und enthalten weniger Rückstände von Pflanzenschutzmitteln."
-                    ]
-                  }
-                },
-                {
-                  "id": "geo5_mod3_u2",
-                  "text": "Ich kann Massentourismus und sanften Tourismus unterscheiden und ihre Auswirkungen auf Menschen und Umwelt erklären.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Massentourismus",
-                        "text": "Beim Massentourismus reisen sehr viele Menschen gleichzeitig in die gleichen Regionen, oft in großen Hotelanlagen und mit pauschalen Angeboten.[file:5] Das bringt zwar Einkommen und Arbeitsplätze, kann aber zu Umweltbelastungen (z. B. Abfall, Wasserverbrauch, Lärm) und zur Veränderung von Lebensweisen führen.[file:5]"
-                      },
-                      {
-                        "title": "Sanfter Tourismus",
-                        "text": "Sanfter oder nachhaltiger Tourismus versucht, die Natur zu schonen und die lokale Bevölkerung einzubeziehen.[file:5] Beispiele sind kleine Pensionen, Wandertourismus, regionale Produkte und Angebote, die an Kultur und Natur angepasst sind.[file:5]"
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Massentourismus",
-                        "definition": "Tourismusform mit vielen Reisenden, großen Anlagen und starker Konzentration auf wenige Ziele.[file:5]"
-                      },
-                      {
-                        "term": "sanfter Tourismus",
-                        "definition": "Tourismusform, die Umwelt und Kultur möglichst wenig belastet und die lokale Bevölkerung einbindet.[file:5]"
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann typische Merkmale von Massentourismus und sanftem Tourismus nennen. [file:5]",
-                      "Ich kann erklären, warum Tourismus sowohl Vorteile als auch Nachteile haben kann. [file:5]"
-                    ],
-                    "sample_questions": [
-                      "Nenne zwei Vorteile und zwei Nachteile des Massentourismus für eine Urlaubsregion.",
-                      "Wie kann sanfter Tourismus die Umwelt besser schützen?"
-                    ],
-                    "sample_answers": [
-                      "Vorteile: mehr Arbeitsplätze, mehr Geld für die Region; Nachteile: mehr Müll, höherer Wasserverbrauch, Lärm und Naturzerstörung.",
-                      "Er nutzt kleinere Unterkünfte, respektiert Naturschutzgebiete, setzt auf regionale Produkte und vermeidet große Eingriffe in Landschaft und Kultur."
-                    ]
-                  }
-                },
-                {
-                  "id": "geo5_mod3_u3",
-                  "text": "Ich kann Stromerzeugung aus regenerativen und nicht regenerativen Energieträgern in Grundzügen vergleichen.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Nicht regenerative Energieträger",
-                        "text": "Nicht regenerative Energieträger wie Kohle, Erdöl oder Erdgas sind nur begrenzt vorhanden und können sich in menschlichen Zeiträumen nicht erneuern.[file:5] Ihre Nutzung setzt oft große Mengen an CO₂ frei und belastet Umwelt und Klima.[file:5]"
-                      },
-                      {
-                        "title": "Regenerative Energieträger",
-                        "text": "Regenerative Energieträger wie Sonne, Wind, Wasser und Biomasse erneuern sich ständig oder stehen langfristig zur Verfügung.[file:5] Ihre Nutzung verursacht meist weniger Schadstoffe, kann aber ebenfalls Eingriffe in Landschaft und Natur bedeuten (z. B. Staudämme, Windparks). [file:5]"
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "nicht regenerative Energieträger",
-                        "definition": "Energieträger, die sich nur sehr langsam erneuern und daher begrenzt sind (z. B. Kohle, Erdöl).[file:5]"
-                      },
-                      {
-                        "term": "regenerativer Energieträger",
-                        "definition": "Energieträger, der sich ständig erneuert oder langfristig zur Verfügung steht (z. B. Sonne, Wind). [file:5]"
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann Beispiele für nicht regenerative und regenerative Energieträger nennen. [file:5]",
-                      "Ich kann einfache Vor- und Nachteile beider Gruppen erklären. [file:5]"
-                    ],
-                    "sample_questions": [
-                      "Nenne zwei nicht regenerative und zwei regenerative Energieträger.",
-                      "Warum will man den Anteil regenerativer Energien in der Stromerzeugung erhöhen?"
-                    ],
-                    "sample_answers": [
-                      "Nicht regenerativ: Kohle, Erdöl; regenerativ: Sonne, Wind.",
-                      "Weil sie das Klima weniger belasten und langfristig verfügbar sind, während fossile Energieträger begrenzt sind und mehr CO₂ freisetzen."
-                    ]
-                  }
-                },
-                {
-                  "id": "geo5_mod3_u4",
-                  "text": "Ich kann einfache Verkehrskonzepte (z. B. ÖPNV, Straßenverkehr) beschreiben und ihre Vor- und Nachteile für Umwelt und Alltag benennen.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Verkehrsträger und Verkehrskonzepte",
-                        "text": "Es gibt verschiedene Verkehrsträger wie Auto, Bus, Bahn, Fahrrad oder Flugzeug, die im Personen- und Güterverkehr eingesetzt werden.[file:5] Verkehrskonzepte versuchen, diese Verkehrsmittel so zu planen, dass sie den Alltag erleichtern und die Umwelt möglichst wenig belasten.[file:5]"
-                      },
-                      {
-                        "title": "Öffentlicher Personennahverkehr (ÖPNV)",
-                        "text": "Der ÖPNV umfasst z. B. Busse, Straßenbahnen oder Regionalzüge.[file:5] Er kann viele Menschen gleichzeitig transportieren und so den Autoverkehr und die Umweltbelastung verringern, wenn er gut ausgebaut und attraktiv ist.[file:5]"
-                      },
-                      {
-                        "title": "Verkehrsknoten und Transitverkehr",
-                        "text": "Verkehrsknoten sind Orte, an denen sich wichtige Verkehrswege kreuzen, z. B. Bahnhöfe oder Autobahnkreuze.[file:5] Transitverkehr ist Durchgangsverkehr, der eine Region nur durchquert, um von einem Ort zum anderen zu kommen.[file:5]"
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "ÖPNV",
-                        "definition": "Öffentlicher Personennahverkehr, z. B. Busse, Straßenbahnen, Regionalzüge.[file:5]"
-                      },
-                      {
-                        "term": "Verkehrsträger",
-                        "definition": "Art des Verkehrsmittels, z. B. Straße, Schiene, Luft, Wasser.[file:5]"
-                      },
-                      {
-                        "term": "Verkehrsknoten",
-                        "definition": "Ort, an dem sich mehrere Verkehrswege treffen oder kreuzen.[file:5]"
-                      },
-                      {
-                        "term": "Transitverkehr",
-                        "definition": "Durchgangsverkehr, der eine Region ohne Ziel dort durchquert.[file:5]"
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann erklären, was ÖPNV ist und welche Vorteile er haben kann. [file:5]",
-                      "Ich kann Vor- und Nachteile des Autoverkehrs in der Stadt nennen. [file:5]"
-                    ],
-                    "sample_questions": [
-                      "Warum ist ein gut ausgebauter ÖPNV wichtig für Städte?",
-                      "Nenne einen Vorteil und einen Nachteil des Autoverkehrs im Stadtzentrum."
-                    ],
-                    "sample_answers": [
-                      "Weil er viele Menschen ohne eigenes Auto mobil macht, Staus und Abgase verringern kann und weniger Platz pro Person braucht.",
-                      "Vorteil: Man ist flexibel und kommt direkt ans Ziel; Nachteil: Es entstehen Staus, Lärm und Luftverschmutzung, und es wird viel Platz für Straßen und Parkplätze benötigt."
-                    ]
-                  }
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    }
-  ]
-}
-{
-  "school_id": "de_thueringen",
-  "grades": [
-    {
-      "grade_id": "klasse5",
-      "grade_label": "Klasse 5",
-      "subjects": [
-        {
-          "subject_id": "geo",
-          "subject_title": "Geografie",
-          "modules": [
-            {
-              "module_id": "geo5_mod4",
-              "module_name": "Leben in Städten und ländlichen Regionen",
-              "module_longtext": {
-                "sections": [
-                  {
-                    "title": "Stadt und Land – unterschiedliche Lebensräume",
-                    "text": "In diesem Modul lernst du, wie Städte und ländliche Regionen aufgebaut sind und wie die Menschen dort leben und wirtschaften.[file:5] Du vergleichst typische Merkmale, Vorteile und Probleme beider Lebensräume und lernst einfache Stadt-Umland-Beziehungen kennen.[file:5]"
-                  },
-                  {
-                    "title": "Lebenswerte Räume gestalten",
-                    "text": "Du setzt dich damit auseinander, wie Orte so gestaltet werden können, dass Menschen dort gut leben können, z. B. durch Grünflächen, Spielplätze, Verkehrsplanung und gute Versorgung mit Dienstleistungen.[file:5] Dabei spielst du erste einfache Planungsszenarien durch und entwickelst eigene Ideen für dein Umfeld.[file:5]"
-                  }
-                ]
-              },
-              "subtopics": [
-                {
-                  "id": "geo5_mod4_u1",
-                  "text": "Ich kann typische Merkmale von Städten und ländlichen Regionen beschreiben und vergleichen.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Merkmale von Städten",
-                        "text": "Städte zeichnen sich durch eine höhere Bebauungsdichte, viele Arbeitsplätze im Dienstleistungs- und Industriebereich, ein ausgeprägtes Verkehrsnetz und ein vielfältiges Angebot an Schulen, Geschäften und Freizeitmöglichkeiten aus.[file:5]"
-                      },
-                      {
-                        "title": "Merkmale ländlicher Regionen",
-                        "text": "Ländliche Regionen sind dünner besiedelt, es gibt mehr land- und forstwirtschaftliche Flächen und oft weniger, aber dafür kleinere Zentren mit wichtigen Einrichtungen.[file:5] Wege zu weiterführenden Schulen, Ärzten oder größeren Einkaufsmöglichkeiten können länger sein.[file:5]"
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "städtische Lebensweise",
-                        "definition": "Leben in einer eher dicht bebauten Umgebung mit vielen Angeboten, Arbeitsplätzen und Verkehr.[file:5]"
-                      },
-                      {
-                        "term": "ländliche Lebensweise",
-                        "definition": "Leben in dünner besiedelten Gebieten mit mehr Naturflächen und oft engerer Nachbarschaft.[file:5]"
-                      },
-                      {
-                        "term": "Infrastruktur",
-                        "definition": "Ausstattung eines Raumes mit Verkehrswegen, Versorgungsleitungen, Schulen, Ärzten, Einkaufsmöglichkeiten usw.[file:5]"
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann je drei typische Merkmale einer Stadt und einer ländlichen Region nennen. [file:5]",
-                      "Ich kann einen Vorteil und einen Nachteil des Lebens in der Stadt und auf dem Land beschreiben. [file:5]"
-                    ],
-                    "sample_questions": [
-                      "Nenne drei Dinge, die für eine Stadt typisch sind.",
-                      "Welche Vorteile kann das Leben auf dem Land haben?",
-                      "Welches Problem kann in einer Großstadt häufiger auftreten als auf dem Land?"
-                    ],
-                    "sample_answers": [
-                      "Viele Menschen, dichter Verkehr, große Auswahl an Geschäften und Freizeitangeboten.",
-                      "Mehr Ruhe, viel Natur, oft enger Kontakt zu den Nachbarn.",
-                      "Staus und Luftverschmutzung durch dichten Verkehr."
-                    ]
-                  }
-                },
-                {
-                  "id": "geo5_mod4_u2",
-                  "text": "Ich kann die räumliche Organisation einer Stadt (Wohngebiete, Gewerbegebiete, Zentrum, Erholungsgebiete) in einfachen Beispielen beschreiben.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Aufbau einer Stadt",
-                        "text": "Eine Stadt besteht aus verschiedenen Bereichen (Funktionsräumen), z. B. Wohngebieten, Gewerbegebieten, Industrieflächen, Erholungsgebieten und einem Zentrum.[file:5] Im Zentrum befinden sich häufig wichtige Einrichtungen wie Rathaus, größere Geschäfte, kulturelle Angebote und Knotenpunkte des Verkehrs.[file:5]"
-                      },
-                      {
-                        "title": "Wohn- und Gewerbegebiete",
-                        "text": "Wohngebiete sind vor allem von Häusern und Wohnungen geprägt, oft mit Schulen, kleinen Läden und Spielplätzen in der Nähe.[file:5] Gewerbegebiete sind auf Handel, Dienstleistungen oder leichte Produktion ausgerichtet, Industriegebiete eher auf größere Fabriken.[file:5]"
-                      },
-                      {
-                        "title": "Erholungsgebiete und Grüngürtel",
-                        "text": "Erholungsgebiete wie Parks, Grünflächen oder stadtnahes Umland bieten Raum für Freizeit, Sport und Naturerleben und sind wichtig für die Lebensqualität in Städten.[file:5]"
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Wohngebiet",
-                        "definition": "Teil einer Stadt, in dem vor allem gewohnt wird, mit Häusern und Wohnungen.[file:5]"
-                      },
-                      {
-                        "term": "Gewerbegebiet",
-                        "definition": "Bereich mit Betrieben des Handels, Handwerks oder leichter Industrie.[file:5]"
-                      },
-                      {
-                        "term": "Erholungsgebiet",
-                        "definition": "Bereich, der vor allem für Freizeit und Erholung genutzt wird (z. B. Park, See). [file:5]"
-                      },
-                      {
-                        "term": "Zentrum",
-                        "definition": "Kernbereich der Stadt mit hoher Dichte an Geschäften, Dienstleistungen und Verkehr.[file:5]"
-                      },
-                      {
-                        "term": "Grüngürtel",
-                        "definition": "Zusammenhängende Grünzone um eine Stadt, die als Erholungsraum und zur Trennung von Stadt und Umland dient.[file:5]"
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann in einem Stadtplan Wohngebiete, Gewerbe-/Industriegebiete und das Zentrum erkennen. [file:5]",
-                      "Ich kann erklären, warum Erholungsgebiete für eine Stadt wichtig sind. [file:5]"
-                    ],
-                    "sample_questions": [
-                      "Welche Funktionen erfüllt das Stadtzentrum?",
-                      "Nenne zwei Beispiele für Erholungsgebiete in einer Stadt.",
-                      "Warum planen Städte Grüngürtel oder größere Parks?"
-                    ],
-                    "sample_answers": [
-                      "Im Zentrum gibt es viele Geschäfte, Dienstleistungen, wichtige Gebäude wie das Rathaus und gute Verkehrsanbindungen.",
-                      "Parks, Spielplätze, Uferbereiche an Flüssen oder Seen.",
-                      "Damit die Menschen einen Ort zum Ausruhen, Spielen und für Sport haben und die Luftqualität verbessert wird."
-                    ]
-                  }
-                },
-                {
-                  "id": "geo5_mod4_u3",
-                  "text": "Ich kann einfache Stadt-Umland-Beziehungen beschreiben (z. B. Pendeln, Versorgung, Freizeit).",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Verflechtungen zwischen Stadt und Umland",
-                        "text": "Stadt und Umland sind eng miteinander verbunden: Menschen aus dem Umland pendeln zum Arbeiten, Einkaufen oder zur Schule in die Stadt, während die Stadt vom Umland z. B. Lebensmittel oder Erholungsräume bezieht.[file:5]"
-                      },
-                      {
-                        "title": "Pendler und Versorgungsfunktionen",
-                        "text": "Pendler wohnen an einem Ort und arbeiten an einem anderen, meist in der Stadt.[file:5] Die Stadt bietet oft ein größeres Angebot an Arbeitsplätzen, Einkaufsmöglichkeiten und Dienstleistungen, die auch von Menschen aus umliegenden Dörfern genutzt werden.[file:5]"
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Stadt-Umland-Beziehung",
-                        "definition": "Wechselseitige Beziehungen zwischen einer Stadt und den umliegenden ländlichen Gemeinden (z. B. Pendeln, Versorgung, Erholung).[file:5]"
-                      },
-                      {
-                        "term": "Pendler",
-                        "definition": "Person, die regelmäßig zwischen Wohnort und Arbeits- oder Schulort hin- und herfährt.[file:5]"
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann Beispiele nennen, wie Menschen aus dem Umland eine Stadt nutzen. [file:5]",
-                      "Ich kann erklären, warum das Umland für die Stadt wichtig ist. [file:5]"
-                    ],
-                    "sample_questions": [
-                      "Inwiefern sind Dörfer im Umland auf die nahe Stadt angewiesen?",
-                      "Nenne zwei Beispiele dafür, wie die Stadt vom Umland profitiert."
-                    ],
-                    "sample_answers": [
-                      "Sie nutzen die Stadt für Arbeitsplätze, weiterführende Schulen, größere Krankenhäuser und Einkaufsmöglichkeiten.",
-                      "Die Stadt erhält aus dem Umland Lebensmittel und hat Erholungsräume wie Wälder und Seen in der Nähe."
-                    ]
-                  }
-                },
-                {
-                  "id": "geo5_mod4_u4",
-                  "text": "Ich kann Ideen für die Gestaltung lebenswerter Räume in meinem Umfeld entwickeln und begründen.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Lebensqualität in Stadt und Land",
-                        "text": "Lebenswerte Räume zeichnen sich durch eine gute Erreichbarkeit wichtiger Einrichtungen, sichere Wege, Grünflächen, Spiel- und Sportmöglichkeiten sowie eine gute Umweltqualität aus.[file:5] Du überlegst, was in deinem Ort oder Stadtteil bereits vorhanden ist und was verbessert werden könnte.[file:5]"
-                      },
-                      {
-                        "title": "Einfache Planungsideen",
-                        "text": "Du lernst, einfache Skizzen oder Steckbriefe zu erstellen, in denen du deine Ideen darstellst (z. B. neuer Spielplatz, mehr Bänke, sichere Radwege, Bäume entlang der Straße).[file:5] Dabei begründest du, warum deine Vorschläge den Raum lebenswerter machen würden.[file:5]"
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "lebenswerter Raum",
-                        "definition": "Ort, an dem Menschen gerne wohnen, arbeiten und ihre Freizeit verbringen, weil wichtige Bedürfnisse gut erfüllt werden.[file:5]"
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann sagen, was mir an meinem Ort gefällt und was nicht. [file:5]",
-                      "Ich kann eine einfache Idee zur Verbesserung meines Umfelds entwickeln und begründen. [file:5]"
-                    ],
-                    "sample_questions": [
-                      "Nenne eine Stelle in deinem Ort, die du verbessern würdest, und erkläre wie.",
-                      "Welche drei Dinge sind dir für einen lebenswerten Wohnort besonders wichtig?"
-                    ],
-                    "sample_answers": [
-                      "Den Platz vor der Schule: Ich würde mehr Sitzgelegenheiten und Bäume anlegen, damit man in den Pausen draußen im Schatten sitzen kann.",
-                      "Wichtige Dinge sind für mich gute Busverbindungen, sichere Wege für Fußgänger und Radfahrer und Grünflächen zum Spielen und Erholen."
-                    ]
-                  }
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    }
-  ]
-}
-{
-  "school_id": "de_thueringen",
-  "grades": [
-    {
-      "grade_id": "klasse5",
-      "grade_label": "Klasse 5",
-      "subjects": [
-        {
-          "subject_id": "ges",
-          "subject_title": "Geschichte",
-          "modules": [
-            {
-              "module_id": "hist5_mod1",
-              "module_name": "Begegnung mit dem Unterrichtsfach Geschichte",
-              "module_longtext": {
-                "sections": [
-                  {
-                    "title": "Was ist Geschichte?",
-                    "text": "In diesem Modul lernst du das neue Fach Geschichte kennen und erfährst, womit es sich beschäftigt.[file:6] Du unterscheidest zwischen der Vergangenheit (dem, was wirklich passiert ist) und Geschichte als der Art, wie Menschen diese Vergangenheit erzählen, deuten und aufschreiben.[file:6]"
-                  },
-                  {
-                    "title": "Mit Spuren der Vergangenheit arbeiten",
-                    "text": "Du begegnest ersten historischen Quellen wie alten Bildern, Gegenständen, Texten oder Gebäuden und lernst, dass wir daraus etwas über vergangenes Leben erfahren können.[file:6] Außerdem erkennst du, dass es Darstellungen gibt (z. B. Lehrbuchtexte, Filme), in denen andere schon eine Deutung der Vergangenheit vorgenommen haben.[file:6]"
-                  },
-                  {
-                    "title": "Orientierung in Zeit und Raum",
-                    "text": "Du übst, Ereignisse zeitlich grob einzuordnen und einfache Zeitleisten zu lesen und zu erstellen.[file:6] Du lernst, dass der Geschichtsunterricht dir hilft, dein eigenes Leben und deine Umwelt als Teil einer längeren Entwicklung zu verstehen.[file:6]"
-                  }
-                ]
-              },
-              "subtopics": [
-                {
-                  "id": "hist5_mod1_u1",
-                  "text": "Ich kann erklären, was mit ‚Vergangenheit‘ und was mit ‚Geschichte‘ gemeint ist und warum Geschichte immer auch gedeutet wird.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Vergangenheit und Geschichte unterscheiden",
-                        "text": "Vergangenheit meint alles, was früher wirklich geschehen ist – auch das, woran sich niemand mehr erinnert.[file:6] Geschichte ist das, was Menschen später darüber erzählen, schreiben und darstellen; sie ist also immer eine Auswahl und Deutung dieser Vergangenheit.[file:6]"
-                      },
-                      {
-                        "title": "Geschichte als Konstruktion",
-                        "text": "Menschen stellen Fragen an die Vergangenheit und wählen aus, was sie wichtig finden.[file:6] Deshalb gibt es unterschiedliche Erzählungen über ein und dieselben Ereignisse, die du vergleichen und hinterfragen lernen sollst.[file:6]"
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Vergangenheit",
-                        "definition": "Alles, was in früheren Zeiten wirklich passiert ist.[file:6]"
-                      },
-                      {
-                        "term": "Geschichte",
-                        "definition": "Darstellungen und Deutungen der Vergangenheit, die Menschen erstellen.[file:6]"
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann in einem Satz sagen, was Vergangenheit ist.[file:6]",
-                      "Ich kann in einem Satz sagen, was Geschichte ist.[file:6]",
-                      "Ich kann erklären, warum es zu einem Ereignis verschiedene Geschichten geben kann.[file:6]"
-                    ],
-                    "sample_questions": [
-                      "Erkläre den Unterschied zwischen Vergangenheit und Geschichte in eigenen Worten.",
-                      "Warum erzählen Menschen manchmal unterschiedlich über dasselbe historische Ereignis?"
-                    ],
-                    "sample_answers": [
-                      "Vergangenheit ist das, was wirklich passiert ist. Geschichte ist das, wie wir später darüber erzählen und schreiben.",
-                      "Weil jeder andere Dinge wichtig findet, unterschiedliche Informationen hat oder eine eigene Meinung und Sicht auf das Ereignis besitzt."
-                    ]
-                  }
-                },
-                {
-                  "id": "hist5_mod1_u2",
-                  "text": "Ich kann einfache Arten von Quellen und Darstellungen erkennen und voneinander unterscheiden.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Was sind historische Quellen?",
-                        "text": "Quellen sind alle Überreste und Zeugnisse aus der Zeit, die du untersuchst, z. B. Urkunden, Briefe, Fotos, Werkzeuge, Gebäude oder Augenzeugenberichte.[file:6] Sie stammen direkt aus der Vergangenheit und helfen dir, Informationen zu sammeln.[file:6]"
-                      },
-                      {
-                        "title": "Was sind Darstellungen?",
-                        "text": "Darstellungen sind spätere Erzählungen über die Vergangenheit, z. B. Lehrbuchtexte, Filme, Ausstellungen oder Podcasts.[file:6] Andere haben hier Quellen ausgewertet und daraus eine zusammenhängende Geschichte gemacht.[file:6]"
-                      },
-                      {
-                        "title": "Quellen vs. Darstellungen",
-                        "text": "Im Unterricht lernst du, am Material zu erkennen, ob es eine Quelle oder eine Darstellung ist, und wie man beides nutzt, um mehr über die Vergangenheit zu erfahren.[file:6]"
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Quelle",
-                        "definition": "Zeugnis aus der untersuchten Zeit selbst (z. B. Brief, Münze, Foto). [file:6]"
-                      },
-                      {
-                        "term": "Darstellung",
-                        "definition": "Spätere Erzählung oder Zusammenfassung von Geschichte, die auf Quellen beruht.[file:6]"
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann an Beispielen erklären, was eine Quelle ist.[file:6]",
-                      "Ich kann an Beispielen erklären, was eine Darstellung ist.[file:6]",
-                      "Ich kann bei einfachen Materialien sagen, ob es sich eher um eine Quelle oder eine Darstellung handelt.[file:6]"
-                    ],
-                    "sample_questions": [
-                      "Ist ein mittelalterlicher Brief eine Quelle oder eine Darstellung? Begründe.",
-                      "Ist ein heutiger Film über das alte Rom eine Quelle oder eine Darstellung? Begründe.",
-                      "Nenne je zwei Beispiele für Quellen und Darstellungen."
-                    ],
-                    "sample_answers": [
-                      "Ein mittelalterlicher Brief ist eine Quelle, weil er direkt aus der damaligen Zeit stammt.",
-                      "Ein heutiger Film über das alte Rom ist eine Darstellung, weil er später erstellt wurde und die Vergangenheit nacherzählt.",
-                      "Quellen: alte Urkunde, Münze; Darstellungen: Geschichtsbuch, Museumstext."
-                    ]
-                  }
-                },
-                {
-                  "id": "hist5_mod1_u3",
-                  "text": "Ich kann einfache Fragen an die Vergangenheit stellen und erkennen, dass meine Fragen etwas mit meiner Gegenwart zu tun haben.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Fragen an Geschichte stellen",
-                        "text": "Geschichte beginnt mit Fragen, z. B. „Wie haben Kinder früher gelebt?“ oder „Warum gab es bestimmte Erfindungen?“[file:6] Du lernst, aus deiner eigenen Lebenswelt heraus solche Fragen zu formulieren.[file:6]"
-                      },
-                      {
-                        "title": "Gegenwartsbezug",
-                        "text": "Viele Fragen an die Vergangenheit entstehen, weil dich etwas in der Gegenwart interessiert oder verunsichert.[file:6] Du entdeckst, dass man aus der Geschichte etwas für das heutige Leben lernen kann, ohne dass die Situationen genau gleich sind.[file:6]"
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Historische Frage",
-                        "definition": "Frage, die auf ein Problem oder Interesse bezogen ist und sich auf etwas in der Vergangenheit richtet.[file:6]"
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann zu einem Bild oder Gegenstand aus der Vergangenheit mindestens zwei Fragen formulieren.[file:6]",
-                      "Ich kann erklären, warum mich eine dieser Fragen heute interessiert.[file:6]"
-                    ],
-                    "sample_questions": [
-                      "Formuliere drei Fragen, die du an das Leben von Kindern im Mittelalter hast.",
-                      "Warum möchtest du wissen, wie Schule früher war?"
-                    ],
-                    "sample_answers": [
-                      "Zum Beispiel: Mussten Kinder damals auch zur Schule gehen? Welche Kleidung trugen sie? Welche Arbeiten mussten sie erledigen?",
-                      "Weil ich dann vergleichen kann, was heute besser oder schlechter ist und warum Schule sich verändert hat."
-                    ]
-                  }
-                },
-                {
-                  "id": "hist5_mod1_u4",
-                  "text": "Ich kann historische Ereignisse und Entwicklungen grob zeitlich einordnen und einfache Zeitleisten lesen bzw. ergänzen.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Zeit und Epochen grob überblicken",
-                        "text": "Du lernst erste Einteilungen der Geschichte kennen (z. B. Vor- und Frühgeschichte, Antike, Mittelalter, Neuzeit), ohne sie genau datieren zu müssen.[file:6] Wichtig ist, dass du verstehst, dass diese Einteilungen Menschen erfunden haben, um Geschichte besser zu ordnen.[file:6]"
-                      },
-                      {
-                        "title": "Arbeiten mit Zeitleisten",
-                        "text": "An einfachen Zeitleisten übst du, Ereignisse in die richtige Reihenfolge zu bringen, ungefähre Zeitabstände einzuschätzen und eigene Markierungen (z. B. dein Geburtsjahr) einzutragen.[file:6]"
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Zeitleiste",
-                        "definition": "Grafische Darstellung von Zeit, auf der Ereignisse in der richtigen Reihenfolge eingezeichnet werden.[file:6]"
-                      },
-                      {
-                        "term": "Epoche",
-                        "definition": "Größerer Abschnitt der Geschichte mit bestimmten typischen Merkmalen.[file:6]"
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann eine einfache Zeitleiste lesen und sagen, welches Ereignis früher oder später liegt.[file:6]",
-                      "Ich kann mein eigenes Leben grob zeitlich einordnen (z. B. Geburtsjahr im Verhältnis zu behandelten Epochen). [file:6]"
-                    ],
-                    "sample_questions": [
-                      "Ordne die Begriffe in eine sinnvolle zeitliche Reihenfolge: Mittelalter, Antike, Neuzeit.",
-                      "Trage auf einer Zeitleiste dein Geburtsjahr und zwei behandelte historische Ereignisse ein."
-                    ],
-                    "sample_answers": [
-                      "Antike – Mittelalter – Neuzeit.",
-                      "Die Antwort hängt von der konkreten Zeitleiste ab; wichtig ist, dass das Geburtsjahr deutlich nach den historischen Beispielen liegt."
-                    ]
-                  }
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    }
-  ]
-}
-{
-  "school_id": "de_thueringen",
-  "grades": [
-    {
-      "grade_id": "klasse5",
-      "grade_label": "Klasse 5",
-      "subjects": [
-        {
-          "subject_id": "ges",
-          "subject_title": "Geschichte",
-          "modules": [
-            {
-              "module_id": "hist5_mod2",
-              "module_name": "Menschen in vorgeschichtlicher Zeit",
-              "module_longtext": {
-                "sections": [
-                  {
-                    "title": "Spuren der ersten Menschen",
-                    "text": "In diesem Modul beschäftigst du dich mit den ersten Menschen und damit, wie sie gelebt haben, lange bevor es Schrift gab.[file:6] Du lernst, dass wir über die vorgeschichtliche Zeit vor allem durch Funde wie Werkzeuge, Knochen, Höhlenmalereien und Siedlungsreste etwas erfahren.[file:6]"
-                  },
-                  {
-                    "title": "Vom Jagen und Sammeln zum Ackerbau",
-                    "text": "Du untersuchst, wie sich Menschen von Jägern und Sammlern zu sesshaften Bauern entwickelten und wie sich dadurch ihre Lebensweise stark veränderte (Neolithische Revolution).[file:6] Du vergleichst die Lebensbedingungen in Alt- und Jungsteinzeit und erkennst, welche Folgen Ackerbau und Viehzucht hatten.[file:6]"
-                  },
-                  {
-                    "title": "Die Bedeutung von Metall",
-                    "text": "Du lernst, wie die Menschen lernten, Metalle zu gewinnen und zu verarbeiten, und warum sich dadurch Geräte, Waffen und das Zusammenleben der Menschen weiter veränderten.[file:6]"
-                  }
-                ]
-              },
-              "subtopics": [
-                {
-                  "id": "hist5_mod2_u1",
-                  "text": "Ich kann die Entwicklung und Verbreitung der ersten Menschen in Grundzügen beschreiben.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Die ersten Menschen und ihr Lebensraum",
-                        "text": "Die ältesten Spuren von Menschen finden sich in Afrika, von wo aus sich verschiedene Menschengruppen in vielen tausend Jahren nach Europa, Asien und andere Teile der Welt ausbreiteten.[file:6] Sie passten sich an unterschiedliche Lebensbedingungen an, z. B. in Wäldern, Savannen oder kälteren Regionen."
-                      },
-                      {
-                        "title": "Lebensweise der frühen Menschen",
-                        "text": "Die frühen Menschen lebten in kleinen Gruppen, waren unterwegs, um Nahrung zu suchen, und nutzten einfache Werkzeuge aus Stein, Knochen oder Holz.[file:6] Sie lernten nach und nach, das Feuer zu beherrschen, was ihr Leben sicherer und vielfältiger machte.[file:6]"
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Vor- und Frühgeschichte",
-                        "definition": "Zeitraum der Menschheitsgeschichte vor der Erfindung der Schrift.[file:6]"
-                      },
-                      {
-                        "term": "Jäger und Sammler",
-                        "definition": "Menschen, die von der Jagd auf Tiere und dem Sammeln von Pflanzen leben und nicht sesshaft sind.[file:6]"
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann sagen, dass die ersten Menschen aus Afrika stammen und sich von dort aus verbreitet haben. [file:6]",
-                      "Ich kann die Lebensweise der frühen Menschen in wenigen Sätzen beschreiben. [file:6]"
-                    ],
-                    "sample_questions": [
-                      "Woher stammen nach heutigem Wissen die ersten Menschen?",
-                      "Wie lebten Jäger und Sammler – nenne zwei Merkmale."
-                    ],
-                    "sample_answers": [
-                      "Die ersten Menschen stammen nach heutigem Wissen aus Afrika.",
-                      "Sie lebten in kleinen Gruppen und zogen umher, um Tiere zu jagen und essbare Pflanzen zu sammeln."
-                    ]
-                  }
-                },
-                {
-                  "id": "hist5_mod2_u2",
-                  "text": "Ich kann Überlebensstrategien und Kultur der Jäger und Sammler (Feuer, Wohnen, Werkzeuge/Waffen) erklären.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Feuer als wichtige Entdeckung",
-                        "text": "Die Beherrschung des Feuers war ein entscheidender Schritt: Feuer spendete Wärme, Licht, Schutz vor wilden Tieren und half beim Garen von Speisen.[file:6] Wahrscheinlich nutzten frühe Menschen zunächst natürlich entstandenes Feuer und lernten später, selbst Feuer zu entfachen."
-                      },
-                      {
-                        "title": "Wohnen in der Altsteinzeit",
-                        "text": "Jäger und Sammler lebten in einfachen Behausungen wie Zelten, Hütten oder nutzten Höhlen als Schutz.[file:6] Ihre Wohnplätze waren meist dort, wo es ausreichend Nahrung und Wasser gab; sie zogen weiter, wenn die Umgebung nicht mehr genug bot."
-                      },
-                      {
-                        "title": "Werkzeuge und Waffen",
-                        "text": "Sie stellten Werkzeuge aus Stein, Holz und Knochen her, z. B. Faustkeile, Speere oder Schaber.[file:6] Diese halfen bei der Jagd, beim Zerteilen von Tieren und beim Bearbeiten von Fellen und Holz."
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Altsteinzeit",
-                        "definition": "Ältester Abschnitt der Steinzeit, in dem Menschen als Jäger und Sammler lebten und einfache Steinwerkzeuge nutzten.[file:6]"
-                      },
-                      {
-                        "term": "Werkzeug",
-                        "definition": "Gegenstand, der bei der Arbeit hilft, z. B. beim Schneiden, Schaben, Jagen.[file:6]"
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann erklären, warum Feuer für Jäger und Sammler wichtig war. [file:6]",
-                      "Ich kann typische Behausungen der Altsteinzeit beschreiben. [file:6]",
-                      "Ich kann Beispiele für Werkzeuge und Waffen nennen und wozu sie dienten. [file:6]"
-                    ],
-                    "sample_questions": [
-                      "Nenne zwei Vorteile, die Feuer für die Menschen der Altsteinzeit hatte.",
-                      "Wie sahen typische Wohnplätze von Jägern und Sammlern aus?",
-                      "Welche zwei Werkzeuge oder Waffen der Altsteinzeit kennst du und wie wurden sie genutzt?"
-                    ],
-                    "sample_answers": [
-                      "Feuer gab Wärme und Schutz und ermöglichte das Garen von Nahrung.",
-                      "Sie lebten in einfachen Hütten, Zelten oder Höhlen in der Nähe von Wasser und Jagdgebieten.",
-                      "Faustkeil: zum Schneiden und Zerteilen; Speer: zur Jagd auf Tiere."
-                    ]
-                  }
-                },
-                {
-                  "id": "hist5_mod2_u3",
-                  "text": "Ich kann den Wandel von der Altsteinzeit zur Jungsteinzeit (Neolithische Revolution) und die Veränderungen im Leben der Menschen beschreiben.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Vom Umherziehen zur Sesshaftigkeit",
-                        "text": "In der Jungsteinzeit begannen Menschen, Pflanzen gezielt anzubauen und Tiere zu halten, statt nur zu jagen und zu sammeln.[file:6] Dadurch wurden sie sesshaft, bauten feste Häuser und Dörfer und lebten länger an einem Ort."
-                      },
-                      {
-                        "title": "Neolithische Revolution",
-                        "text": "Dieser Übergang zur produzierenden Wirtschaftsweise (Ackerbau und Viehzucht) wird als Neolithische Revolution bezeichnet.[file:6] Sie veränderte vieles: Nahrungssicherheit konnte steigen, aber Menschen waren stärker von Ernten abhängig und Krankheiten konnten sich in größeren Siedlungen leichter ausbreiten."
-                      },
-                      {
-                        "title": "Neue Aufgaben und Techniken",
-                        "text": "Mit Ackerbau und Viehzucht entstanden neue Aufgaben wie Felder bestellen, Vorräte lagern und Tiere versorgen.[file:6] Werkzeuge wurden weiterentwickelt, z. B. Poliersteine, Sicheln, Mahlsteine."
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Jungsteinzeit",
-                        "definition": "Jüngerer Abschnitt der Steinzeit, in dem Menschen sesshaft wurden und Ackerbau und Viehzucht betrieben.[file:6]"
-                      },
-                      {
-                        "term": "Neolithische Revolution",
-                        "definition": "Grundlegender Wandel von der Lebensweise der Jäger und Sammler hin zu Ackerbau und Viehzucht.[file:6]"
-                      },
-                      {
-                        "term": "Sesshaftigkeit",
-                        "definition": "Menschen bleiben an einem festen Ort und bauen dort dauerhafte Häuser und Dörfer.[file:6]"
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann mindestens zwei Unterschiede zwischen Alt- und Jungsteinzeit nennen. [file:6]",
-                      "Ich kann erklären, was mit Neolithischer Revolution gemeint ist. [file:6]"
-                    ],
-                    "sample_questions": [
-                      "Nenne zwei wichtige Veränderungen im Leben der Menschen durch Ackerbau und Viehzucht.",
-                      "Warum spricht man von einer Revolution, obwohl der Wandel viele Generationen dauerte?"
-                    ],
-                    "sample_answers": [
-                      "Die Menschen wurden sesshaft und lebten in Dörfern; sie bauten Getreide an und hielten Haustiere.",
-                      "Weil sich die Lebensweise der Menschen grundlegend und dauerhaft verändert hat – ähnlich wie bei einer politischen Revolution, nur langsamer."
-                    ]
-                  }
-                },
-                {
-                  "id": "hist5_mod2_u4",
-                  "text": "Ich kann erklären, wie die Nutzung von Metallen das Leben der Menschen veränderte.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Metall als neuer Werkstoff",
-                        "text": "Nachdem Menschen Steinwerkzeuge genutzt hatten, entdeckten sie, dass man Metalle wie Kupfer, später Bronze und Eisen gewinnen und formen kann.[file:6] Mit Metall ließen sich haltbarere und schärfere Werkzeuge und Waffen herstellen."
-                      },
-                      {
-                        "title": "Folgen der Metallnutzung",
-                        "text": "Bessere Werkzeuge erleichterten Ackerbau, Handwerk und Bauarbeiten, stärkere Waffen veränderten Kriegführung und Machtverhältnisse.[file:6] Es entstanden neue Berufe (z. B. Schmiede) und Handelswege für Metalle."
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Metallzeit",
-                        "definition": "Epochen, in denen Metalle wie Bronze und Eisen für Werkzeuge und Waffen genutzt wurden (Bronzezeit, Eisenzeit)."
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann mindestens ein Beispiel nennen, wie Metallwerkzeuge das Arbeiten erleichterten.",
-                      "Ich kann einfache Folgen der Metallnutzung für Gesellschaft und Handel beschreiben."
-                    ],
-                    "sample_questions": [
-                      "Warum waren Metallwerkzeuge für Bauern und Handwerker ein Vorteil?",
-                      "Wie konnten Metalle den Handel zwischen verschiedenen Gruppen fördern?"
-                    ],
-                    "sample_answers": [
-                      "Sie waren haltbarer und schärfer als Steinwerkzeuge und machten viele Arbeiten schneller und leichter.",
-                      "Metalle waren wertvoll und wurden über weite Strecken getauscht, sodass Gruppen miteinander in Kontakt kamen und Handel betrieben."
-                    ]
-                  }
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    }
-  ]
-}
-{
-  "school_id": "de_thueringen",
-  "grades": [
-    {
-      "grade_id": "klasse5",
-      "grade_label": "Klasse 5",
-      "subjects": [
-        {
-          "subject_id": "ges",
-          "subject_title": "Geschichte",
-          "modules": [
-            {
-              "module_id": "hist5_mod3",
-              "module_name": "Ägypten – Beispiel einer frühen Hochkultur",
-              "module_longtext": {
-                "sections": [
-                  {
-                    "title": "Leben am Nil",
-                    "text": "In diesem Modul lernst du Ägypten als Beispiel einer frühen Hochkultur kennen und untersuchst, warum sich dort eine mächtige Gesellschaft mit besonderen Leistungen entwickelt hat.[file:6] Du erfährst, welche Rolle der Nil für Landwirtschaft, Verkehr, Religion und das alltägliche Leben spielte.[file:6]"
-                  },
-                  {
-                    "title": "Ordnung und Religion",
-                    "text": "Du setzt dich mit der hierarchischen Ordnung der ägyptischen Gesellschaft auseinander und lernst zentrale religiöse Vorstellungen kennen, z. B. Götterwelt, Jenseitsglauben und die Rolle des Pharaos.[file:6] Du erkennst, wie Religion und Herrschaft zusammenwirkten.[file:6]"
-                  },
-                  {
-                    "title": "Schrift, Baukunst und Technik",
-                    "text": "Du lernst wichtige kulturelle Leistungen der Ägypter kennen, etwa die Hieroglyphenschrift, den Pyramidenbau und Techniken der Mumifizierung, und beurteilst ihre Bedeutung.[file:6]"
-                  }
-                ]
-              },
-              "subtopics": [
-                {
-                  "id": "hist5_mod3_u1",
-                  "text": "Ich kann mit Hilfe einer Karte erklären, warum der Nil für die Entwicklung der ägyptischen Gesellschaft und Kultur so wichtig war.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Der Nil als Lebensader",
-                        "text": "Der Nil brachte jedes Jahr Überschwemmungen, die fruchtbaren Schlamm auf die Felder legten und so reiche Ernten ermöglichten.[file:6] In einer sonst wüstenhaften Umgebung wurde das Niltal dadurch zu einem landwirtschaftlichen Gunstraum, in dem viele Menschen leben konnten."
-                      },
-                      {
-                        "title": "Verkehrs- und Handelsweg",
-                        "text": "Der Nil diente als wichtiger Verkehrsweg: Boote transportierten Menschen, Waren und Baumaterial.[file:6] So konnten Städte verbunden, Handel betrieben und das große Reich besser zusammengehalten werden."
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Hochkultur",
-                        "definition": "Frühe entwickelte Gesellschaft mit Schrift, Arbeitsteilung, Herrschaftsorganisation, Religion und städtischen Zentren.[file:6]"
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann auf einer Karte das Niltal zeigen und erklären, wo Landwirtschaft möglich war. [file:6]",
-                      "Ich kann mindestens zwei Gründe nennen, warum der Nil für die Ägypter lebenswichtig war. [file:6]"
-                    ],
-                    "sample_questions": [
-                      "Warum spricht man beim Nil von einer „Lebensader“ Ägyptens?",
-                      "Welche Vorteile brachte der Nil für Landwirtschaft und Verkehr?"
-                    ],
-                    "sample_answers": [
-                      "Ohne den Nil wäre das Umland eine Wüste, durch seine Überschwemmungen wurden die Felder fruchtbar und boten Nahrung.",
-                      "Er sorgte für fruchtbare Böden und diente als Wasser-, Verkehrs- und Handelsweg."
-                    ]
-                  }
-                },
-                {
-                  "id": "hist5_mod3_u2",
-                  "text": "Ich kann anhand von Schemata die hierarchische Ordnung der ägyptischen Gesellschaft beschreiben und einfach bewerten.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Stände und Hierarchie",
-                        "text": "An der Spitze der ägyptischen Gesellschaft stand der Pharao, darunter hohe Beamte, Priester, Schreiber, Handwerker und Bauern; Sklaven standen ganz unten.[file:6] Diese Ordnung wird oft als Pyramide dargestellt, weil wenige oben und viele unten leben."
-                      },
-                      {
-                        "title": "Aufgaben und Lebensbedingungen",
-                        "text": "Der Pharao galt als göttlicher Herrscher und sollte für Ordnung und Gerechtigkeit sorgen.[file:6] Bauern hatten harte Arbeit, trugen die Hauptlast der Versorgung und mussten Abgaben leisten; Schreiber und Beamte hatten eine besondere Stellung, weil sie lesen, schreiben und verwalten konnten."
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Hierarchie",
-                        "definition": "Rangordnung in einer Gesellschaft, in der Menschen unterschiedliche Rechte, Pflichten und Macht haben.[file:6]"
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann die Gesellschaftspyramide Ägyptens beschreiben (wer steht oben, wer unten?). [file:6]",
-                      "Ich kann aus meiner Sicht sagen, was ich an dieser Ordnung gerecht oder ungerecht finde. [file:6]"
-                    ],
-                    "sample_questions": [
-                      "Wer stand in der ägyptischen Gesellschaft ganz oben und wer ganz unten?",
-                      "Warum hatten Schreiber im Alten Ägypten eine besondere Stellung?",
-                      "Was findest du an der Gesellschaftsordnung aus heutiger Sicht problematisch?"
-                    ],
-                    "sample_answers": [
-                      "Ganz oben stand der Pharao, ganz unten standen Sklaven und rechtlose Menschen.",
-                      "Weil sie als wenige schreiben und lesen konnten und wichtige Verwaltungsaufgaben hatten.",
-                      "Dass Menschen je nach Geburt sehr unterschiedliche Rechte hatten und manche fast keine Mitsprache oder Freiheit hatten."
-                    ]
-                  }
-                },
-                {
-                  "id": "hist5_mod3_u3",
-                  "text": "Ich kann zentrale Leistungen und religiöse Vorstellungen der Ägypter (Schrift, Pyramidenbau, Mumifizierung, Götterglaube) beschreiben und beurteilen.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Hieroglyphen und Schrift",
-                        "text": "Die Ägypter entwickelten eine Bilderschrift (Hieroglyphen), mit der sie wichtige Dinge festhielten, z. B. Gesetze, Opferlisten, Geschichten und religiöse Texte.[file:6] Schrift war wichtig für Verwaltung, Religion und Kultur und nur ein kleiner Teil der Menschen konnte sie lesen und schreiben."
-                      },
-                      {
-                        "title": "Pyramidenbau",
-                        "text": "Pyramiden waren monumentale Grabstätten für Pharaonen und Ausdruck ihrer Macht und ihres Glaubens an ein Weiterleben nach dem Tod.[file:6] Ihr Bau erforderte viel Planung, Organisation, Wissen über Mathematik und Technik sowie den Einsatz vieler Arbeitskräfte."
-                      },
-                      {
-                        "title": "Mumifizierung und Jenseitsglaube",
-                        "text": "Die Ägypter glaubten an ein Leben nach dem Tod und wollten den Körper für das Jenseits erhalten, darum mumifizierten sie die Toten und statteten ihre Gräber mit Beigaben aus.[file:6]"
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Hieroglyphen",
-                        "definition": "Alte ägyptische Bilderschrift.[file:6]"
-                      },
-                      {
-                        "term": "Mumifizierung",
-                        "definition": "Besondere Behandlung von Leichen, um den Körper für lange Zeit zu erhalten.[file:6]"
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann erklären, wozu die Ägypter Schrift nutzten. [file:6]",
-                      "Ich kann sagen, warum Pyramiden und Mumifizierung für den ägyptischen Glauben wichtig waren. [file:6]"
-                    ],
-                    "sample_questions": [
-                      "Warum war die Erfindung der Schrift ein wichtiger Fortschritt für die ägyptische Hochkultur?",
-                      "Welche Vorstellungen vom Leben nach dem Tod hatten die Ägypter?",
-                      "Was beeindruckt dich am Pyramidenbau besonders?"
-                    ],
-                    "sample_answers": [
-                      "Weil sie wichtige Informationen festhalten konnten und so Verwaltung, Religion und Erinnern an Herrscher und Taten möglich wurden.",
-                      "Sie glaubten, dass die Seele im Jenseits weiterlebt und den Körper braucht, darum wollten sie ihn erhalten und mit Beigaben ausstatten.",
-                      "Dass ohne moderne Maschinen riesige Steinblöcke bewegt und präzise Bauwerke errichtet wurden."
-                    ]
-                  }
-                },
-                {
-                  "id": "hist5_mod3_u4",
-                  "text": "Ich kann zentrale Merkmale Ägyptens als früher Hochkultur benennen und in einfachen Vergleichen einordnen.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Merkmale einer frühen Hochkultur",
-                        "text": "Typische Merkmale sind u. a. eine starke zentrale Herrschaft, eine klar gegliederte Gesellschaft, Städte, organisierte Landwirtschaft, Schrift und besondere kulturelle Leistungen.[file:6]"
-                      },
-                      {
-                        "title": "Ägypten als Vorbild und Vergleich",
-                        "text": "Du lernst, dass Ägypten eines von mehreren Beispielen für frühe Hochkulturen ist (neben Mesopotamien, Indus-Tal usw.), und ordnest Ägypten als wichtige Grundlage europäischer Kulturentwicklung ein.[file:6]"
-                      }
-                    ],
-                    "key_terms": [],
-                    "note1_checklist": [
-                      "Ich kann mindestens drei Merkmale nennen, die Ägypten zu einer Hochkultur machen. [file:6]",
-                      "Ich kann in einfachen Worten beschreiben, warum Ägypten in der Geschichte wichtig ist. [file:6]"
-                    ],
-                    "sample_questions": [
-                      "Nenne drei Gründe, warum Ägypten als frühe Hochkultur gilt.",
-                      "Wie wirkt die Kultur des Alten Ägypten bis heute nach (z. B. in Sprache, Architektur, Symbolen)?"
-                    ],
-                    "sample_answers": [
-                      "Eine starke Herrschaft (Pharao), Schrift (Hieroglyphen), große Bauwerke (Pyramiden), organisierte Landwirtschaft am Nil.",
-                      "Wir kennen Pyramiden als berühmte Bauwerke, verwenden noch ägyptische Symbole (z. B. Ankh) und beschäftigen uns bis heute in Museen und Filmen mit dieser Kultur."
-                    ]
-                  }
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    }
-  ]
-}
-{
-  "school_id": "de_thueringen",
-  "grades": [
-    {
-      "grade_id": "klasse5",
-      "grade_label": "Klasse 5",
-      "subjects": [
-        {
-          "subject_id": "ges",
-          "subject_title": "Geschichte",
-          "modules": [
-            {
-              "module_id": "hist5_mod4",
-              "module_name": "Antike und Mittelalter – Griechen, Römer und Europa im Wandel",
-              "module_longtext": {
-                "sections": [
-                  {
-                    "title": "Von der Polis zum Weltreich",
-                    "text": "In diesem Modul lernst du zwei wichtige antike Kulturen kennen, deren Ideen Europa bis heute prägen: die Griechen und die Römer.[file:6] Du untersuchst ihre Lebensweisen, politische Formen und ihren Einfluss auf spätere Zeiten."
-                  },
-                  {
-                    "title": "Zwischen Burg, Kloster und Stadt",
-                    "text": "Du gewinnst Einblicke in die Lebenswelten des mittelalterlichen Europas: in Adel, Bauern, Geistliche und Stadtbewohner.[file:6] Du erkennst wichtige Veränderungen, z. B. durch Königsherrschaft, Kirche, Ständeordnung, Städte und Reformation.[file:6]"
-                  },
-                  {
-                    "title": "Dauer und Wandel",
-                    "text": "Du übst, Unterschiede und Gemeinsamkeiten zwischen Antike, Mittelalter und deiner eigenen Lebenswelt zu erkennen und erste Vorstellungen von Epochenfolge und historischem Wandel zu entwickeln.[file:6]"
-                  }
-                ]
-              },
-              "subtopics": [
-                {
-                  "id": "hist5_mod4_u1",
-                  "text": "Ich kann erklären, wie die Landschaft Griechenlands zur Entstehung der Polis und zur Seefahrt beigetragen hat.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Griechenland als Insel- und Gebirgsland",
-                        "text": "Die griechische Landschaft ist stark von Gebirgen und Küsten mit vielen Buchten und Inseln geprägt.[file:6] Fruchtbare Ebenen sind klein und oft voneinander getrennt, deshalb entstanden viele einzelne Stadtstaaten (Poleis) statt eines einheitlichen Großreichs.[file:6]"
-                      },
-                      {
-                        "title": "Seefahrt und Handel",
-                        "text": "Weil das Meer überall nah war, nutzten die Griechen früh Schiffe für Handel und Kontakte zu anderen Völkern.[file:6] Das führte zu Austausch von Waren, Ideen und Kultur im gesamten Mittelmeerraum."
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Polis (Plural: Poleis)",
-                        "definition": "Griechischer Stadtstaat mit Stadt und Umland, eigener Regierung und eigenen Regeln.[file:6]"
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann auf einer Karte die Lage Griechenlands beschreiben. [file:6]",
-                      "Ich kann erklären, warum es viele Stadtstaaten gab und warum Seefahrt wichtig war. [file:6]"
-                    ],
-                    "sample_questions": [
-                      "Warum entstanden in Griechenland viele einzelne Poleis statt eines einzigen großen Reiches?",
-                      "Welche Bedeutung hatte das Meer für die Griechen?"
-                    ],
-                    "sample_answers": [
-                      "Weil Gebirge die fruchtbaren Gebiete trennten und jede Region ihre eigene Stadt mit Umland bildete.",
-                      "Das Meer war Verkehrsweg für Handel, Reisen und kulturellen Austausch."
-                    ]
-                  }
-                },
-                {
-                  "id": "hist5_mod4_u2",
-                  "text": "Ich kann Grundzüge der attischen Demokratie und andere Herrschaftsformen (Monarchie, Aristokratie) in einfachen Zügen beschreiben und vergleichen.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Herrschaftsformen in der Antike",
-                        "text": "In Griechenland gab es unterschiedliche Herrschaftsformen: Monarchie (Herrschaft eines Königs), Aristokratie (Herrschaft weniger Vornehmer) und Demokratie (Herrschaft des Volkes).[file:6]"
-                      },
-                      {
-                        "title": "Attische Demokratie",
-                        "text": "In Athen durften freie männliche Bürger an der Volksversammlung teilnehmen, mitbestimmen und wichtige Ämter übernehmen.[file:6] Frauen, Sklaven und Zugewanderte waren ausgeschlossen – die Demokratie war also auf einen Teil der Bevölkerung begrenzt.[file:6]"
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Monarchie",
-                        "definition": "Herrschaftsform, bei der ein König/eine Königin an der Spitze steht.[file:6]"
-                      },
-                      {
-                        "term": "Aristokratie",
-                        "definition": "Herrschaftsform, bei der wenige Adelige oder Vornehme bestimmen.[file:6]"
-                      },
-                      {
-                        "term": "Demokratie",
-                        "definition": "Herrschaftsform, in der (Teile) des Volkes an politischen Entscheidungen beteiligt sind.[file:6]"
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann einfache Unterschiede zwischen Monarchie, Aristokratie und attischer Demokratie nennen. [file:6]",
-                      "Ich kann in Ansätzen sagen, was ich aus heutiger Sicht an der attischen Demokratie kritisch sehe. [file:6]"
-                    ],
-                    "sample_questions": [
-                      "Wer durfte in Athen an der Demokratie teilnehmen – wer nicht?",
-                      "Nenne einen Unterschied zwischen Monarchie und Demokratie."
-                    ],
-                    "sample_answers": [
-                      "Nur freie männliche Bürger mit Bürgerrecht; Frauen, Sklaven und Zugewanderte durften nicht mitbestimmen.",
-                      "In einer Monarchie entscheidet ein König, in einer Demokratie sind (Teile) des Volkes an Entscheidungen beteiligt."
-                    ]
-                  }
-                },
-                {
-                  "id": "hist5_mod4_u3",
-                  "text": "Ich kann den Aufstieg Roms vom Stadtstaat zum großen Reich in groben Zügen beschreiben und wichtige Folgen (z. B. Romanisierung, Christentum) nennen.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Vom Dorf zur Weltmacht",
-                        "text": "Rom begann als kleine Stadt am Tiber und eroberte nach und nach Italien und große Teile Europas, Nordafrikas und des Nahen Ostens.[file:6] Mit Hilfe von gut organisierten Heeren, Straßen und Verwaltung entstand das Imperium Romanum.[file:6]"
-                      },
-                      {
-                        "title": "Romanisierung",
-                        "text": "In vielen eroberten Gebieten verbreiteten sich römische Sprache (Latein), Gesetze, Bauweise, Städtewesen und Lebensgewohnheiten.[file:6] So entstanden Mischformen aus einheimischer und römischer Kultur."
-                      },
-                      {
-                        "title": "Christentum im Römischen Reich",
-                        "text": "Das Christentum entstand zuerst als kleine religiöse Bewegung, breitete sich im Reich aus und wurde schließlich zur Staatsreligion.[file:6]"
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Imperium Romanum",
-                        "definition": "Das Römische Reich mit seinen weitreichenden eroberten Gebieten.[file:6]"
-                      },
-                      {
-                        "term": "Romanisierung",
-                        "definition": "Ausbreitung römischer Kultur, Sprache und Lebensweise in eroberten Gebieten.[file:6]"
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann grob beschreiben, wie Rom größer wurde (Eroberungen, Straßen, Verwaltung). [file:6]",
-                      "Ich kann mindestens zwei Dinge nennen, die aus Rom bis in unsere Zeit wirken (z. B. Sprache, Recht, Bauformen). [file:6]"
-                    ],
-                    "sample_questions": [
-                      "Wie gelang es den Römern, ein so großes Reich zu beherrschen?",
-                      "Nenne zwei Bereiche, in denen römische Einflüsse bis heute spürbar sind."
-                    ],
-                    "sample_answers": [
-                      "Durch gut ausgebildete Soldaten, ein Straßennetz, klare Gesetze und eine gut organisierte Verwaltung.",
-                      "In vielen Sprachen und im Rechtssystem, auch in Bauwerken wie Brücken, Straßen oder Amphitheatern."
-                    ]
-                  }
-                },
-                {
-                  "id": "hist5_mod4_u4",
-                  "text": "Ich kann grundlegende Merkmale mittelalterlicher Lebensformen (Königsherrschaft, Ständegesellschaft, Grundherrschaft/Lehnswesen, Klöster, Burgen, Städte) beschreiben.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "König und Ständeordnung",
-                        "text": "Im Mittelalter stand der König an der Spitze, darunter Adel und Klerus (Geistliche), dann die große Gruppe der Bauern.[file:6] Diese Ständegesellschaft legte fest, welche Aufgaben, Rechte und Pflichten die Menschen hatten."
-                      },
-                      {
-                        "title": "Grundherrschaft und Lehnswesen",
-                        "text": "Bauern bewirtschafteten den Boden eines Grundherrn und mussten Abgaben und Frondienste leisten.[file:6] Im Lehnswesen verlieh der König Land oder Rechte an Adelige, die ihm dafür Dienste schuldeten – ein Geflecht gegenseitiger Pflichten.[file:6]"
-                      },
-                      {
-                        "title": "Klöster und Burgen",
-                        "text": "Klöster waren Orte des Gebets, aber auch des Lernens, der Krankenpflege und des Wissens.[file:6] Burgen dienten als Wohnsitze von Adligen und als Schutz- und Machtzentren in einer Region."
-                      },
-                      {
-                        "title": "Städte als neue Zentren",
-                        "text": "Später entstanden immer mehr Städte als Orte des Handels und Handwerks.[file:6] Dort lebten Bürger, die sich teilweise andere Rechte erkämpfen konnten als Menschen auf dem Land."
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Ständegesellschaft",
-                        "definition": "Gesellschaftsordnung, in der Menschen festen Ständen mit bestimmten Rechten und Pflichten zugeordnet sind.[file:6]"
-                      },
-                      {
-                        "term": "Lehnswesen",
-                        "definition": "System gegenseitiger Verpflichtungen zwischen König/Lehnsherrn und Vasallen (z. B. Adeligen), oft verbunden mit Landbesitz.[file:6]"
-                      },
-                      {
-                        "term": "Grundherrschaft",
-                        "definition": "Herrschaftsform, bei der ein Grundherr über Land verfügt, das Bauern bewirtschaften und wofür sie Abgaben leisten.[file:6]"
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann erklären, wie die Ständegesellschaft grob aufgebaut war. [file:6]",
-                      "Ich kann Grundherrschaft/Lehnswesen in einfachen Worten beschreiben. [file:6]",
-                      "Ich kann sagen, wofür Klöster, Burgen und Städte im Mittelalter wichtig waren. [file:6]"
-                    ],
-                    "sample_questions": [
-                      "Wer gehörte im Mittelalter zu den drei Hauptständen?",
-                      "Welche Aufgaben hatten Klöster außer Beten?",
-                      "Warum entstanden ab dem Hochmittelalter immer mehr Städte?"
-                    ],
-                    "sample_answers": [
-                      "Klerus (Geistliche), Adel und Bauern/Bürgertum (je nach Darstellung).",
-                      "Sie waren Zentren des Wissens, schrieben Bücher ab, kümmerten sich um Kranke und Reisende.",
-                      "Weil Handel und Handwerk zunahmen und sich Menschen an wichtigen Handelswegen niederließen."
-                    ]
-                  }
-                },
-                {
-                  "id": "hist5_mod4_u5",
-                  "text": "Ich kann an einem Beispiel (z. B. Burg, Stadt oder Kloster in der Region) Spuren des Mittelalters erkennen und einfache Bezüge zur Gegenwart herstellen.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Spurensuche vor Ort",
-                        "text": "In deiner Umgebung gibt es oft Gebäude, Straßennamen, Mauern oder Kirchen, die auf das Mittelalter zurückgehen.[file:6] Du lernst, solche Spuren zu entdecken, zu beschreiben und mithilfe einfacher Informationen zeitlich einzuordnen."
-                      },
-                      {
-                        "title": "Mittelalter und heutiges Leben",
-                        "text": "Du überlegst, wie sich bestimmte mittelalterliche Strukturen bis heute auswirken, z. B. Stadtgrundrisse, Kirchen als Zentren oder ehemalige Burgen als Sehenswürdigkeiten.[file:6]"
-                      }
-                    ],
-                    "key_terms": [],
-                    "note1_checklist": [
-                      "Ich kann ein mittelalterliches Beispiel aus meiner Region nennen und kurz beschreiben. [file:6]",
-                      "Ich kann sagen, welche Rolle dieser Ort heute spielt (z. B. Kirche, Museum, Tourismus). [file:6]"
-                    ],
-                    "sample_questions": [
-                      "Nenne eine Burg, ein Kloster oder eine Kirche in deiner Umgebung und beschreibe, was man dort heute macht.",
-                      "Welche Spuren des Mittelalters fallen dir in deiner Stadt oder deinem Dorf auf?"
-                    ],
-                    "sample_answers": [
-                      "Zum Beispiel Burg X: Früher Wohnsitz eines Adligen und Verteidigungsanlage, heute Museum und Ausflugsziel.",
-                      "Enge Straßen im alten Stadtkern, eine große Kirche im Zentrum, Reste von Stadtmauern oder Toren."
-                    ]
-                  }
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    }
-  ]
-}
-{
-  "school_id": "de_thueringen",
-  "grades": [
-    {
-      "grade_id": "klasse5",
-      "grade_label": "Klasse 5",
-      "subjects": [
-        {
-          "subject_id": "mat",
-          "subject_title": "Mathematik",
-          "modules": [
-            {
-              "module_id": "mat5_mod1",
-              "module_name": "Daten erfassen und darstellen",
-              "module_longtext": {
-                "sections": [
-                  {
-                    "title": "Überblick über das Modul Daten",
-                    "text": "In diesem Modul lernst du, wie man Daten aus der Umwelt sammelt, ordnet und verständlich darstellt. Daten können zum Beispiel Antworten aus einer Umfrage in der Klasse, Messergebnisse aus einem Experiment oder Beobachtungen aus dem Alltag sein. Du erfährst, wie man solche Daten in Tabellen, Strichlisten und einfachen Diagrammen festhält und wie man daraus Informationen abliest."
-                  },
-                  {
-                    "title": "Warum mit Daten arbeiten?",
-                    "text": "In vielen Bereichen – Nachrichten, Schule, Sport, Politik – begegnen dir Zahlen und Statistiken. Wer sie versteht, kann besser mitreden und sich eine eigene Meinung bilden. Du lernst, einfache Darstellungen zu lesen, selbst zu erstellen und zu überlegen, ob eine Darstellung passend und fair ist. So wirst du Schritt für Schritt sicherer im Umgang mit Daten und Diagrammen."
-                  }
-                ]
-              },
-              "subtopics": [
-                {
-                  "id": "mat5_mod1_u1",
-                  "text": "Ich kann einfache Daten sammeln und in Ur- und Strichlisten sowie Tabellen erfassen und ordnen.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Was sind Daten?",
-                        "text": "Daten sind gesammelte Informationen, oft in Form von Zahlen oder Merkmalen. Beispiele: Wie viele Geschwister haben die Kinder in deiner Klasse? Welche Lieblingssportarten gibt es? Wie viele rote, blaue und grüne Smarties sind in einer Packung? Solche Informationen musst du übersichtlich festhalten, damit du sie später auswerten kannst."
-                      },
-                      {
-                        "title": "Ur- und Strichlisten",
-                        "text": "Eine Ur- oder Strichliste ist eine einfache Form, Daten zu sammeln. Du schreibst die möglichen Antworten oder Merkmale untereinander und machst für jedes Vorkommen einen Strich. Am Ende kannst du die Striche zusammenzählen. So siehst du schnell, welche Antwort wie oft vorkam."
-                      },
-                      {
-                        "title": "Tabellen anlegen",
-                        "text": "In einer Tabelle ordnest du Daten in Zeilen und Spalten. Zum Beispiel kannst du links die Antwortmöglichkeiten (z. B. Sportarten) und rechts die Häufigkeiten eintragen. Tabellen helfen dir, viele Daten übersichtlich auf einen Blick zu sehen und später in Diagramme zu übertragen."
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Daten",
-                        "definition": "Gesammelte Informationen, zum Beispiel Messergebnisse, Umfrageantworten oder Zählungen."
-                      },
-                      {
-                        "term": "Ur- / Strichliste",
-                        "definition": "Einfache Liste, in der für jedes Vorkommen eines Merkmals ein Strich gemacht wird."
-                      },
-                      {
-                        "term": "Tabelle",
-                        "definition": "Übersichtliche Anordnung von Daten in Zeilen und Spalten."
-                      },
-                      {
-                        "term": "Häufigkeit",
-                        "definition": "Gibt an, wie oft ein bestimmtes Merkmal oder eine Antwort vorkommt."
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann für eine einfache Fragestellung (z. B. Lieblingsobst) eine Strichliste anlegen.",
-                      "Ich kann aus einer Strichliste die Häufigkeiten abzählen.",
-                      "Ich kann die Ergebnisse einer Strichliste in eine Tabelle übertragen.",
-                      "Ich kann in einer Tabelle klar lesbare Überschriften für Zeilen und Spalten wählen."
-                    ],
-                    "sample_questions": [
-                      "Wie gehst du vor, wenn du herausfinden willst, welche Lieblingsfarbe in deiner Klasse am häufigsten ist?",
-                      "Was ist der Vorteil einer Strichliste gegenüber einer ungeordneten Liste von Antworten?",
-                      "Wie kannst du die Informationen aus einer Strichliste in einer Tabelle darstellen?",
-                      "Was bedeutet es, wenn bei einer Antwort besonders viele Striche stehen?"
-                    ],
-                    "sample_answers": [
-                      "Ich überlege mir passende Antwortmöglichkeiten (z. B. rot, blau, grün …), mache eine Strichliste und frage jede Person in der Klasse. Für jede Antwort mache ich einen Strich bei der passenden Farbe.",
-                      "In einer Strichliste siehst du auf einen Blick, wie oft jede Antwort vorkam. In einer ungeordneten Liste müsstest du alles erst mühsam zusammenzählen.",
-                      "Ich übernehme die Antwortmöglichkeiten als Zeilen in die Tabelle und schreibe in eine zweite Spalte die gezählten Häufigkeiten aus der Strichliste.",
-                      "Viele Striche bedeuten, dass diese Antwort sehr häufig vorkam. Sie ist zum Beispiel die beliebteste Farbe in der Klasse."
-                    ]
-                  }
-                },
-                {
-                  "id": "mat5_mod1_u2",
-                  "text": "Ich kann Daten in Säulen- und Balkendiagrammen darstellen und daraus Informationen ablesen.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Warum Diagramme?",
-                        "text": "Diagramme verwandeln Zahlen aus einer Tabelle in Bilder. Dadurch kannst du oft schneller erkennen, was wichtig ist: Was kommt am häufigsten vor? Was ist selten? Wie unterscheiden sich Gruppen? Säulen- und Balkendiagramme sind dafür in Klasse 5 besonders geeignet."
-                      },
-                      {
-                        "title": "Säulen- und Balkendiagramme zeichnen",
-                        "text": "Für ein Säulendiagramm zeichnest du ein Koordinatensystem mit einer waagerechten Achse (x-Achse) und einer senkrechten Achse (y-Achse). Auf die waagerechte Achse schreibst du die Merkmale oder Antworten (z. B. Obstsorten), auf die senkrechte Achse die Häufigkeiten. Für jede Antwort zeichnest du eine Säule mit passender Höhe. Bei Balkendiagrammen liegen die Balken waagerecht; die Idee ist aber die gleiche."
-                      },
-                      {
-                        "title": "Informationen aus Diagrammen ablesen",
-                        "text": "Aus einem Diagramm kannst du ablesen, wie oft etwas vorkam, welche Kategorie am häufigsten oder am seltensten ist und wie groß Unterschiede sind. Du lernst auch, wie wichtig eine passende Skala ist: Die Abstände auf der Achse müssen gleich sein, und die Skala muss so gewählt werden, dass man Unterschiede gut erkennen kann."
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Säulendiagramm",
-                        "definition": "Diagramm, in dem Häufigkeiten durch senkrechte Säulen dargestellt werden."
-                      },
-                      {
-                        "term": "Balkendiagramm",
-                        "definition": "Diagramm, in dem Häufigkeiten durch waagerechte Balken dargestellt werden."
-                      },
-                      {
-                        "term": "Skala",
-                        "definition": "Einteilung der Achse mit Zahlenwerten, z. B. 0, 1, 2, 3 …"
-                      },
-                      {
-                        "term": "Achse",
-                        "definition": "Linie im Diagramm, auf der Werte oder Merkmale eingetragen werden (x- und y-Achse)."
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann aus einer Tabelle ein einfaches Säulen- oder Balkendiagramm zeichnen.",
-                      "Ich kann Achsen korrekt beschriften (mit Merkmalen bzw. Zahlen und Einheiten).",
-                      "Ich kann aus einem Diagramm die Häufigkeit einer Kategorie ablesen.",
-                      "Ich kann sagen, welche Kategorie am häufigsten und welche am seltensten vorkommt."
-                    ],
-                    "sample_questions": [
-                      "Welche Schritte brauchst du, um aus einer Tabelle ein Säulendiagramm zu erstellen?",
-                      "Wie erkennst du im Diagramm, welche Kategorie am häufigsten ist?",
-                      "Warum ist eine passende Skala auf der Achse wichtig?",
-                      "Was kannst du aus einem Diagramm ablesen, was man aus der Tabelle vielleicht nicht so schnell sieht?"
-                    ],
-                    "sample_answers": [
-                      "Ich zeichne zuerst die Achsen, beschrifte die waagerechte Achse mit den Kategorien und die senkrechte mit den Häufigkeiten. Dann wähle ich eine passende Skala und zeichne für jede Kategorie eine Säule mit der richtigen Höhe.",
-                      "Die Kategorie mit der höchsten Säule oder dem längsten Balken ist die häufigste.",
-                      "Wenn die Skala unregelmäßig oder unpassend gewählt ist, wirken Unterschiede größer oder kleiner, als sie sind, oder man kann sie gar nicht richtig ablesen.",
-                      "Im Diagramm erkenne ich sehr schnell Trends, zum Beispiel welche zwei Kategorien ähnlich häufig sind oder wie stark sich die häufigste von der seltensten unterscheidet."
-                    ]
-                  }
-                },
-                {
-                  "id": "mat5_mod1_u3",
-                  "text": "Ich kann verschiedene Darstellungen (Strichliste, Tabelle, Diagramm) vergleichen und beurteilen, welche passend ist.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Viele Wege, dieselben Daten zu zeigen",
-                        "text": "Dieselben Daten können unterschiedlich dargestellt werden: als Strichliste, als Tabelle oder als Diagramm. Je nach Situation ist eine andere Form besonders praktisch. Beim Sammeln von Daten eignet sich eine Strichliste, beim genauen Nachschauen eine Tabelle und zum schnellen Vergleichen ein Diagramm."
-                      },
-                      {
-                        "title": "Darstellungen kritisch betrachten",
-                        "text": "Nicht jede Darstellung ist fair und übersichtlich. Eine zu grobe oder zu feine Skala, fehlende Beschriftungen oder abgeschnittene Achsen können ein falsches Bild vermitteln. Du lernst, einfache Diagramme daraufhin zu überprüfen, ob sie verständlich und passend sind."
-                      },
-                      {
-                        "title": "Passende Darstellung auswählen",
-                        "text": "Wenn du selbst Daten präsentieren sollst, überlegst du vorher: Was will ich zeigen? Wieviele Kategorien gibt es? Sollen eher genaue Zahlen im Vordergrund stehen oder das schnelle Erkennen von Unterschieden? So entscheidest du, ob eine Tabelle, ein Säulendiagramm oder ein anderes Diagramm am besten geeignet ist."
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Darstellung",
-                        "definition": "Art und Weise, wie Daten gezeigt werden, z. B. Liste, Tabelle, Diagramm."
-                      },
-                      {
-                        "term": "angemessene Darstellung",
-                        "definition": "Form der Darstellung, die zu den Daten und zur Fragestellung passt und verständlich ist."
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann dieselben Daten in Strichliste, Tabelle und Diagramm wiederfinden.",
-                      "Ich kann sagen, wann eine Strichliste bzw. eine Tabelle bzw. ein Diagramm besonders sinnvoll ist.",
-                      "Ich kann einfache Diagramme daraufhin prüfen, ob sie verständlich und fair gestaltet sind (Beschriftungen, Skala).",
-                      "Ich kann für eine gegebene Fragestellung eine passende Art der Darstellung vorschlagen."
-                    ],
-                    "sample_questions": [
-                      "Wann ist eine Strichliste besser geeignet als ein Diagramm?",
-                      "Welche Vorteile hat eine Tabelle gegenüber einem Diagramm?",
-                      "An welchen Merkmalen erkennst du, dass ein Diagramm nicht gut gestaltet ist?",
-                      "Welche Darstellungsform würdest du wählen, um die Lieblingsfächer deiner Klasse zu präsentieren, und warum?"
-                    ],
-                    "sample_answers": [
-                      "Eine Strichliste ist beim direkten Sammeln von Daten praktisch, zum Beispiel wenn ich in der Klasse herumgehe und Antworten notiere. Ein Diagramm zeichne ich erst später aus den fertigen Daten.",
-                      "In einer Tabelle sehe ich die genauen Zahlen. Ich kann einzelne Werte leicht nachschlagen und zum Beispiel weiterrechnen.",
-                      "Wenn Achsen nicht beschriftet sind, die Skala seltsam gewählt ist oder Teile des Diagramms abgeschnitten sind, kann es zu Missverständnissen kommen. Dann ist das Diagramm nicht gut gestaltet.",
-                      "Ich würde ein Säulen- oder Balkendiagramm wählen, weil man damit schnell sieht, welche Fächer besonders beliebt sind und wie sie im Vergleich zueinander stehen."
-                    ]
-                  }
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    }
-  ]
-}{
-  "school_id": "de_thueringen",
-  "grades": [
-    {
-      "grade_id": "klasse5",
-      "grade_label": "Klasse 5",
-      "subjects": [
-        {
-          "subject_id": "mat",
-          "subject_title": "Mathematik",
-          "modules": [
-            {
-              "module_id": "mat5_mod2",
-              "module_name": "Natürliche Zahlen – Zahlen lesen, darstellen und mit ihnen rechnen",
-              "module_longtext": {
-                "sections": [
-                  {
-                    "title": "Überblick über das Modul Natürliche Zahlen",
-                    "text": "In diesem Modul beschäftigst du dich mit den natürlichen Zahlen – also den Zahlen, mit denen du zählst: 1, 2, 3, … Du lernst, große Zahlen zu lesen, zu schreiben und in Stellenwerttafeln oder auf dem Zahlenstrahl darzustellen. Außerdem übst du, Zahlen zu ordnen, zu runden und Rechenaufgaben geschickt zu lösen."
-                  },
-                  {
-                    "title": "Rechnen im Alltag und in Sachaufgaben",
-                    "text": "Natürliche Zahlen brauchst du überall: beim Einkaufen, beim Rechnen mit Zeiten, beim Zählen von Personen oder Dingen. Du wiederholst und vertiefst alle vier Grundrechenarten – Plus, Minus, Mal und Geteilt – im Kopf, halbschriftlich und schriftlich. Dabei lernst du, Rechengesetze und Rechentricks zu nutzen, um schneller und sicherer zu rechnen, und du setzt dein Wissen in Sachaufgaben ein."
-                  }
-                ]
-              },
-              "subtopics": [
-                {
-                  "id": "mat5_mod2_u1",
-                  "text": "Ich kann natürliche Zahlen in verschiedenen Darstellungen sicher lesen, schreiben, ordnen und vergleichen.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Natürliche Zahlen und Stellenwertsystem",
-                        "text": "Natürliche Zahlen sind die Zahlen, mit denen du zählst: 1, 2, 3, … Im Zehnersystem hat jede Ziffer einen bestimmten Stellenwert. Von rechts nach links stehen Einer, Zehner, Hunderter, Tausender, Zehntausender, Hunderttausender, Millionen usw. Eine Zahl wie 305 047 kannst du in einer Stellenwerttafel eintragen, um zu sehen, welche Stelle welchen Wert hat."
-                      },
-                      {
-                        "title": "Zahlen lesen und schreiben",
-                        "text": "Große Zahlen liest du, indem du sie in Dreiergruppen (Hundertergruppen) einteilst. Zum Beispiel: 123 456 789 liest du als „einhundertdreiundzwanzig Millionen vierhundertsechsundfünfzigtausend siebenhundertneunundachtzig“. Du übst, Zahlen in Zifferschreibweise und als Zahlwort zu schreiben und sie sauber mit Dreiertrennungen zu notieren."
-                      },
-                      {
-                        "title": "Zahlen ordnen und vergleichen",
-                        "text": "Um Zahlen zu vergleichen, schaust du zuerst auf die Anzahl der Stellen: Eine Million ist größer als zehntausend, weil sie mehr Stellen hat. Haben Zahlen gleich viele Stellen, vergleichst du Stelle für Stelle von links nach rechts. Du kannst Zahlen auch auf einem Zahlenstrahl markieren, um ihre Größe zu sehen. Zeichen wie <, > und = helfen dir, Vergleiche kurz aufzuschreiben."
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "natürliche Zahl",
-                        "definition": "Zahl, mit der man zählt: 1, 2, 3, … (häufig wird auch 0 dazugezählt)."
-                      },
-                      {
-                        "term": "Stellenwert",
-                        "definition": "Bedeutung einer Ziffer je nach Stelle in der Zahl (Einer, Zehner, Hunderter …)."
-                      },
-                      {
-                        "term": "Stellenwerttafel",
-                        "definition": "Tabelle, in der jede Stelle (Einer, Zehner, Hunderter …) eine eigene Spalte hat."
-                      },
-                      {
-                        "term": "Zahlenstrahl",
-                        "definition": "Gerade, auf der Zahlen in der richtigen Reihenfolge eingetragen werden."
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann Zahlen bis mindestens 1 000 000 sicher lesen und schreiben.",
-                      "Ich kann Zahlen in eine Stellenwerttafel eintragen und daraus ablesen.",
-                      "Ich kann Zahlen der Größe nach ordnen (auf- und absteigend).",
-                      "Ich kann mit <, > und = Vergleiche zwischen zwei Zahlen notieren."
-                    ],
-                    "sample_questions": [
-                      "Schreibe die Zahl „drei Millionen fünfundzwanzigtausend neunundvierzig“ in Ziffern.",
-                      "In welche Stellenwerttafel gehört die Zahl 207 030?",
-                      "Welche Zahl ist größer: 98 765 oder 99 087? Begründe.",
-                      "Ordne die Zahlen 4 500, 450, 45 000 der Größe nach (aufsteigend)."
-                    ],
-                    "sample_answers": [
-                      "Drei Millionen fünfundzwanzigtausend neunundvierzig schreibt man: 3 025 049.",
-                      "207 030 hat 2 Hunderttausender, 0 Zehntausender, 7 Tausender, 0 Hunderter, 3 Zehner und 0 Einer.",
-                      "99 087 ist größer, weil beide Zahlen fünfstellig sind und die Zehntausender gleich sind (9). Beim Tausender ist 9 größer als 8.",
-                      "Aufsteigend: 450; 4 500; 45 000."
-                    ]
-                  }
-                },
-                {
-                  "id": "mat5_mod2_u2",
-                  "text": "Ich kann natürliche Zahlen sinnvoll runden und Ergebnisse überschlagen (schätzen).",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Warum runden?",
-                        "text": "Im Alltag brauchst du nicht immer ganz genaue Zahlen. Oft reicht eine ungefähre Angabe, zum Beispiel bei Einwohnerzahlen oder Preisen. Du rundest Zahlen, um sie zu vereinfachen und schneller überschlagen zu können, ob ein Ergebnis ungefähr stimmt."
-                      },
-                      {
-                        "title": "Rundungsregeln",
-                        "text": "Beim Runden entscheidest du, auf welche Stelle du runden willst, z. B. auf Zehner, Hunderter oder Tausender. Du schaust auf die Ziffer rechts daneben: Ist sie 0, 1, 2, 3 oder 4, rundest du ab. Ist sie 5, 6, 7, 8 oder 9, rundest du auf. Beispiel: 3 467 gerundet auf Hunderter ist 3 500, weil die Zehnerstelle 6 ist."
-                      },
-                      {
-                        "title": "Überschlagen von Ergebnissen",
-                        "text": "Beim Überschlagen ersetzt du Zahlen durch gerundete Werte, rechnest damit und prüfst so, ob ein genaues Ergebnis ungefähr stimmen kann. Beispiel: 198 + 403 ≈ 200 + 400 = 600. Liegt dein genaues Ergebnis in der Nähe dieser Zahl, ist es wahrscheinlich richtig."
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Runden",
-                        "definition": "Ersetzen einer Zahl durch eine einfachere Zahl, die ungefähr gleich groß ist."
-                      },
-                      {
-                        "term": "Überschlag",
-                        "definition": "Grobe Rechnung mit gerundeten Zahlen, um das Ergebnis abzuschätzen."
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann Zahlen auf Zehner, Hunderter und Tausender runden.",
-                      "Ich kann erkennen, ob beim Runden auf- oder abgerundet wird.",
-                      "Ich kann bei einfachen Rechnungen einen Überschlag bilden.",
-                      "Ich kann sagen, ob ein Rechenergebnis ungefähr sinnvoll ist."
-                    ],
-                    "sample_questions": [
-                      "Runde 7 384 auf den nächsten Tausender.",
-                      "Erkläre, warum 4 249 auf Hunderter gerundet zu 4 200 wird.",
-                      "Mache einen Überschlag für 1 987 + 3 021.",
-                      "Warum ist ein Überschlag bei Sachaufgaben hilfreich?"
-                    ],
-                    "sample_answers": [
-                      "Auf Tausender gerundet ist 7 384 ungefähr 7 000, weil die Hunderterstelle 3 ist (also abrunden).",
-                      "Die Zehnerstelle ist 4, also wird abgerundet. 4 249 wird zu 4 200.",
-                      "1 987 ≈ 2 000 und 3 021 ≈ 3 000, also ist der Überschlag 2 000 + 3 000 = 5 000.",
-                      "Mit einem Überschlag kannst du schnell prüfen, ob das genaue Ergebnis in etwa stimmen kann und du dich nicht völlig verrechnet hast."
-                    ]
-                  }
-                },
-                {
-                  "id": "mat5_mod2_u3",
-                  "text": "Ich kann mit natürlichen Zahlen sicher im Kopf, halbschriftlich und schriftlich addieren und subtrahieren.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Plus und Minus verstehen",
-                        "text": "Beim Addieren („plus rechnen“) werden Mengen zusammengelegt, beim Subtrahieren („minus rechnen“) wird eine Menge weggenommen oder die Differenz zwischen zwei Zahlen gesucht. Du wiederholst, wie Plus- und Minusaufgaben zusammenhängen und wie du Ergebnisse sinnvoll kontrollieren kannst."
-                      },
-                      {
-                        "title": "Kopfrechnen und halbschriftliche Verfahren",
-                        "text": "Im Kopf rechnest du, indem du Zahlen in einfachere Teile zerlegst, z. B. 48 + 27 = 40 + 20 + 8 + 7. Bei halbschriftlichen Verfahren schreibst du Zwischenschritte auf, aber ohne das volle schriftliche Schema. Du übst verschiedene Strategien wie schrittweises Ergänzen oder Zerlegen."
-                      },
-                      {
-                        "title": "Schriftliche Addition und Subtraktion",
-                        "text": "Bei der schriftlichen Addition und Subtraktion schreibst du Zahlen untereinander, achtest auf die richtige Stellenanordnung und rechnest Stelle für Stelle. Du wiederholst Tragen und Borgen (Überträge und Entbündeln) und achtest auf sorgfältige Notation, damit du dich nicht vertust."
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Summe",
-                        "definition": "Ergebnis einer Addition."
-                      },
-                      {
-                        "term": "Differenz",
-                        "definition": "Ergebnis einer Subtraktion."
-                      },
-                      {
-                        "term": "Übertrag",
-                        "definition": "Zehner, Hunderter usw., die beim schriftlichen Rechnen „mitgenommen“ werden."
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann einfache Plus- und Minusaufgaben im Kopf lösen.",
-                      "Ich kann halbschriftlich addieren und subtrahieren (Zwischenschritte notieren).",
-                      "Ich kann schriftlich mit mehrstelligen Zahlen sicher addieren und subtrahieren.",
-                      "Ich kann Ergebnisse mit einem Überschlag oder der Gegenrechnung kontrollieren."
-                    ],
-                    "sample_questions": [
-                      "Löse 387 + 459 halbschriftlich.",
-                      "Rechne 1 002 − 587 schriftlich.",
-                      "Welche Gegenrechnung passt zu 2 356 − 879 = 1 477?",
-                      "Wie kannst du prüfen, ob dein Ergebnis sinnvoll ist?"
-                    ],
-                    "sample_answers": [
-                      "387 + 459: 300 + 400 = 700; 80 + 50 = 130; 7 + 9 = 16; 700 + 130 + 16 = 846.",
-                      "Schriftlich gerechnet ergibt 1 002 − 587 = 415.",
-                      "Zur Subtraktion 2 356 − 879 = 1 477 passt die Addition 1 477 + 879. Wenn sie 2 356 ergibt, stimmt die Rechnung.",
-                      "Ich mache einen Überschlag und/oder benutze die Gegenrechnung (z. B. statt Minus plus rechnen)."
-                    ]
-                  }
-                },
-                {
-                  "id": "mat5_mod2_u4",
-                  "text": "Ich kann mit natürlichen Zahlen sicher im Kopf, halbschriftlich und schriftlich multiplizieren und dividieren und Rechengesetze nutzen.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Malnehmen und Teilen verstehen",
-                        "text": "Multiplizieren („malnehmen“) ist wiederholtes Addieren, zum Beispiel 4 · 6 = 6 + 6 + 6 + 6. Dividieren („teilen“) beschreibt, wie eine Menge gleichmäßig aufgeteilt oder in gleich große Gruppen zerlegt wird. Du übst das Einmaleins und seine Umkehrung beim Teilen."
-                      },
-                      {
-                        "title": "Kopfrechnen und halbschriftliche Strategien",
-                        "text": "Beim Malnehmen im Kopf zerlegst du oft eine Zahl in Teile, zum Beispiel 6 · 24 = 6 · (20 + 4) = 6 · 20 + 6 · 4. Beim Teilen nutzt du bekannte Zerlegungen und Vielfache. Halbschriftlich notierst du dir Zwischenergebnisse, ohne gleich das volle schriftliche Schema zu verwenden."
-                      },
-                      {
-                        "title": "Schriftliche Multiplikation und Division",
-                        "text": "Du wiederholst und vertiefst die schriftliche Multiplikation und Division mit mehrstelligen Zahlen. Dabei achtest du auf die richtige Anordnung der Ziffern und gehst Schritt für Schritt vor. Du nutzt auch Rechengesetze: Vertauschungsgesetz (a · b = b · a), Verbindungsgesetz und Verteilungsgesetz, um Aufgaben zu vereinfachen."
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Produkt",
-                        "definition": "Ergebnis einer Multiplikation."
-                      },
-                      {
-                        "term": "Quotient",
-                        "definition": "Ergebnis einer Division."
-                      },
-                      {
-                        "term": "Kommutativgesetz",
-                        "definition": "Vertauschungsgesetz: a + b = b + a, a · b = b · a."
-                      },
-                      {
-                        "term": "Distributivgesetz",
-                        "definition": "Verteilungsgesetz: a · (b + c) = a · b + a · c."
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kenne das Einmaleins sicher und kann es beim Rechnen nutzen.",
-                      "Ich kann einfache Mal- und Geteiltaufgaben im Kopf lösen.",
-                      "Ich kann schriftlich mit mehrstelligen Zahlen multiplizieren und dividieren.",
-                      "Ich kann Rechengesetze nutzen, um Aufgaben zu vereinfachen."
-                    ],
-                    "sample_questions": [
-                      "Berechne 6 · 37 mit Hilfe des Distributivgesetzes.",
-                      "Erkläre in einem Beispiel das Kommutativgesetz beim Multiplizieren.",
-                      "Rechne 1 764 : 6 schriftlich.",
-                      "Wie kannst du mit 25 · 48 geschickt rechnen?"
-                    ],
-                    "sample_answers": [
-                      "6 · 37 = 6 · (30 + 7) = 6 · 30 + 6 · 7 = 180 + 42 = 222.",
-                      "Beispiel: 4 · 7 = 7 · 4 = 28. Es ist egal, in welcher Reihenfolge ich die Faktoren schreibe – das Ergebnis ist gleich.",
-                      "Schriftlich gerechnet ergibt 1 764 : 6 = 294.",
-                      "Ich kann 25 · 48 = 25 · (50 − 2) = 25 · 50 − 25 · 2 = 1 250 − 50 = 1 200 rechnen."
-                    ]
-                  }
-                },
-                {
-                  "id": "mat5_mod2_u5",
-                  "text": "Ich kann Teiler, Vielfache, gerade und ungerade Zahlen erkennen und einfache Zusammenhänge nutzen.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Gerade und ungerade Zahlen",
-                        "text": "Gerade Zahlen sind durch 2 teilbar, zum Beispiel 8 = 2 · 4. Ungerade Zahlen lassen sich nicht ohne Rest durch 2 teilen, zum Beispiel 9 : 2 = 4 Rest 1. Du erkennst gerade Zahlen an der Endziffer 0, 2, 4, 6, 8, ungerade Zahlen an 1, 3, 5, 7, 9."
-                      },
-                      {
-                        "title": "Vielfache und Teiler",
-                        "text": "Ein Vielfaches von 6 ist zum Beispiel 6, 12, 18, 24, … – also Ergebnisse von 6 · 1, 6 · 2, 6 · 3, …. Ein Teiler von 12 ist eine Zahl, durch die man 12 ohne Rest teilen kann, zum Beispiel 1, 2, 3, 4, 6, 12. Du lernst, Vielfache und Teiler einfacher Zahlen zu finden und solche Begriffe in Sachaufgaben zu nutzen."
-                      },
-                      {
-                        "title": "Anwendungen im Alltag",
-                        "text": "Teiler und Vielfache brauchst du zum Beispiel, wenn du Dinge gleichmäßig aufteilst oder Gruppen bildest (z. B. „Wie viele Teams mit gleicher Spielerzahl sind möglich?“). Du kannst so Entscheidungsaufgaben strukturieren und sicherer lösen."
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "gerade Zahl",
-                        "definition": "Natürliche Zahl, die ohne Rest durch 2 teilbar ist."
-                      },
-                      {
-                        "term": "ungerade Zahl",
-                        "definition": "Natürliche Zahl, die beim Teilen durch 2 einen Rest lässt."
-                      },
-                      {
-                        "term": "Vielfaches",
-                        "definition": "Zahl, die als Ergebnis einer Multiplikation mit einer anderen Zahl entsteht (z. B. 18 ist ein Vielfaches von 6)."
-                      },
-                      {
-                        "term": "Teiler",
-                        "definition": "Zahl, durch die man eine andere Zahl ohne Rest teilen kann."
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann gerade und ungerade Zahlen sicher unterscheiden.",
-                      "Ich kann zu einer Zahl mehrere Vielfache angeben.",
-                      "Ich kann zu einer Zahl einfache Teiler finden.",
-                      "Ich kann Teiler- und Vielfachwissen in einfachen Sachaufgaben nutzen."
-                    ],
-                    "sample_questions": [
-                      "Nenne fünf gerade und fünf ungerade Zahlen.",
-                      "Gib die ersten fünf Vielfachen von 7 an.",
-                      "Welche Zahlen sind Teiler von 18?",
-                      "Wie kannst du 24 Bonbons gerecht auf 4 Kinder verteilen und welche Rolle spielt hier das Rechnen mit Teilern?"
-                    ],
-                    "sample_answers": [
-                      "Gerade Zahlen: 2, 4, 6, 8, 10; ungerade Zahlen: 1, 3, 5, 7, 9.",
-                      "Die ersten fünf Vielfachen von 7 sind: 7, 14, 21, 28, 35.",
-                      "Teiler von 18 sind: 1, 2, 3, 6, 9, 18.",
-                      "24 Bonbons : 4 Kinder = 6 Bonbons pro Kind. Die 4 ist ein Teiler von 24, weil 24 : 4 ohne Rest aufgeht."
-                    ]
-                  }
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    }
-  ]
-}{
-  "school_id": "de_thueringen",
-  "grades": [
-    {
-      "grade_id": "klasse5",
-      "grade_label": "Klasse 5",
-      "subjects": [
-        {
-          "subject_id": "mat",
-          "subject_title": "Mathematik",
-          "modules": [
-            {
-              "module_id": "mat5_mod3",
-              "module_name": "Größen – messen, vergleichen und umrechnen",
-              "module_longtext": {
-                "sections": [
-                  {
-                    "title": "Überblick über das Modul Größen",
-                    "text": "In diesem Modul beschäftigst du dich mit Größen aus deinem Alltag: Länge, Zeit, Masse (Gewicht), Geld, Fläche und Volumen. Du lernst, diese Größen zu schätzen, zu messen, in passenden Einheiten anzugeben und zwischen Einheiten umzurechnen. Außerdem übst du, mit Größen in Sachaufgaben zu rechnen und Ergebnisse auf ihre Plausibilität zu prüfen."
-                  },
-                  {
-                    "title": "Messen mit passenden Einheiten",
-                    "text": "Zu jeder Größe gehören geeignete Einheiten: Längen misst du zum Beispiel in Millimeter, Zentimeter, Meter oder Kilometer; Massen in Gramm oder Kilogramm; Zeiten in Sekunden, Minuten oder Stunden; Geld in Euro und Cent. Du lernst, geeignete Messgeräte zu benutzen, Messwerte richtig abzulesen und mit Einheit zu notieren."
-                  }
-                ]
-              },
-              "subtopics": [
-                {
-                  "id": "mat5_mod3_u1",
-                  "text": "Ich kann Längen, Zeiten, Massen, Geldbeträge und einfache Volumina schätzen und messen und passende Einheiten verwenden.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Mit Größen im Alltag umgehen",
-                        "text": "Größen begegnen dir ständig: Wie groß ist dein Zimmer? Wie schwer ist dein Schulranzen? Wie lange dauert der Schulweg? Wie viel kostet ein Heft? Wie viel Wasser passt in eine Flasche? Du lernst, solche Fragen mit Hilfe von Messungen und geeigneten Einheiten zu beantworten."
-                      },
-                      {
-                        "title": "Längen messen",
-                        "text": "Längen misst du mit Lineal, Maßband oder Zollstock. Wichtige Einheiten sind Millimeter (mm), Zentimeter (cm), Meter (m) und Kilometer (km). Kurze Strecken misst du in cm oder m, große Entfernungen eher in km. Du legst das Messgerät richtig an (Nullpunkt an den Anfang) und liest den Wert genau ab."
-                      },
-                      {
-                        "title": "Massen messen",
-                        "text": "Massen misst du mit einer Waage. Wichtige Einheiten sind Gramm (g) und Kilogramm (kg). Kleine Massen, zum Beispiel eines Radiergummis, gibst du in g an, größere wie dein Körpergewicht in kg. Du achtest darauf, dass die Waage vor dem Messen auf Null steht."
-                      },
-                      {
-                        "title": "Zeit messen",
-                        "text": "Zeiten misst du mit einer Uhr oder Stoppuhr. Die wichtigsten Einheiten sind Sekunde (s), Minute (min) und Stunde (h). Du kannst angeben, wie lange etwas dauert (z. B. 15 min Pause) oder wann etwas stattfindet (z. B. 7:45 Uhr)."
-                      },
-                      {
-                        "title": "Geld und Volumen",
-                        "text": "Geldbeträge gibst du in Euro (€) und Cent (ct) an. 100 Cent sind 1 Euro. Volumen (Rauminhalt) misst du zum Beispiel in Milliliter (ml) oder Liter (l), etwa bei Getränken. Du liest Messbecher richtig ab und achtest auf die Skala."
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Größe",
-                        "definition": "Etwas Messbares wie Länge, Zeit, Masse, Fläche, Volumen oder Geldbetrag."
-                      },
-                      {
-                        "term": "Einheit",
-                        "definition": "festgelegtes Maß, mit dem eine Größe angegeben wird (z. B. Meter, Kilogramm, Minute)."
-                      },
-                      {
-                        "term": "Messgerät",
-                        "definition": "Gerät, mit dem man eine Größe misst (z. B. Lineal, Waage, Uhr, Messbecher)."
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann für eine Alltagssituation passende Größen und Einheiten nennen.",
-                      "Ich kann Längen, Zeiten, Massen und einfache Volumina mit geeigneten Messgeräten messen.",
-                      "Ich kann Messwerte mit Einheit notieren (z. B. 1,25 m; 450 g; 20 min; 2,50 €).",
-                      "Ich kann einfache Schätzungen mit Messungen vergleichen und bewerten."
-                    ],
-                    "sample_questions": [
-                      "Mit welchen Einheiten misst du die Länge deines Tisches, die Dauer eines Films und dein Körpergewicht?",
-                      "Warum ist es wichtig, beim Messen den Nullpunkt richtig anzulegen?",
-                      "Wie viele Cent sind 3,40 €?",
-                      "Wie kannst du abschätzen, ob 5 Liter Wasser für eine Gießkanne viel oder wenig sind?"
-                    ],
-                    "sample_answers": [
-                      "Die Tischlänge messe ich in Zentimeter oder Meter, die Filmdauer in Minuten, mein Körpergewicht in Kilogramm.",
-                      "Wenn der Nullpunkt nicht am Anfang des Gegenstandes liegt, ist der Messwert zu groß oder zu klein und damit falsch.",
-                      "3,40 € sind 340 Cent, weil 1 € = 100 Cent ist.",
-                      "Ich vergleiche mit etwas Bekanntem, z. B. mit einer 1,5-l-Flasche. Drei bis vier Flaschen sind etwa 5 Liter – das ist für eine Gießkanne eher viel."
-                    ]
-                  }
-                },
-                {
-                  "id": "mat5_mod3_u2",
-                  "text": "Ich kann Einheiten von Längen, Massen, Zeiten, Geld und Volumina umrechnen und in Sachaufgaben richtig verwenden.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Längeneinheiten umrechnen",
-                        "text": "Für Längen gilt: 10 mm = 1 cm, 100 cm = 1 m, 1 000 m = 1 km. Du übst, zwischen diesen Einheiten zu wechseln, zum Beispiel 3,5 m = 350 cm oder 2 km = 2 000 m. Eine Stellenwerttafel für Längen kann dir helfen, die Umrechnungen zu verstehen."
-                      },
-                      {
-                        "title": "Massen- und Volumeneinheiten umrechnen",
-                        "text": "Für Massen gilt: 1 000 g = 1 kg, 1 000 kg = 1 t (Tonne). Für Volumen: 1 000 ml = 1 l. Du lernst, typische Alltagsmengen einzuordnen, zum Beispiel wie schwer 1 kg ist oder wie viel 500 ml sind, und rechnest zwischen g und kg sowie ml und l um."
-                      },
-                      {
-                        "title": "Zeiteinheiten umrechnen",
-                        "text": "Für Zeiten ist wichtig: 60 s = 1 min, 60 min = 1 h. Außerdem kennst du: 24 h = 1 Tag, etwa 30 Tage = 1 Monat (je nach Monat) und 12 Monate = 1 Jahr. Du rechnest zum Beispiel 90 min = 1 h 30 min oder 2,5 h = 2 h 30 min um."
-                      },
-                      {
-                        "title": "Geldbeträge umrechnen",
-                        "text": "Geldrechnen basiert auf 100 ct = 1 €. Du kannst Beträge wie 3,75 € in 375 ct umrechnen und umgekehrt. In Sachaufgaben achtest du darauf, Geldbeträge mit zwei Nachkommastellen anzugeben und richtig zu addieren oder subtrahieren."
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Umrechnen",
-                        "definition": "Größenangabe von einer Einheit in eine andere passende Einheit derselben Größe übertragen."
-                      },
-                      {
-                        "term": "Tonne (t)",
-                        "definition": "Große Masseneinheit; 1 t = 1 000 kg."
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann zwischen mm, cm, m und km umrechnen.",
-                      "Ich kann zwischen g, kg (und ggf. t) umrechnen.",
-                      "Ich kann zwischen ml und l umrechnen.",
-                      "Ich kann zwischen s, min und h umrechnen.",
-                      "Ich kann zwischen € und ct umrechnen."
-                    ],
-                    "sample_questions": [
-                      "Wie viele Zentimeter sind 2,3 m?",
-                      "Wandle 1 500 g in kg um.",
-                      "Wie viele Minuten sind 2,25 h?",
-                      "Wandle 560 ct in Euro um."
-                    ],
-                    "sample_answers": [
-                      "2,3 m = 230 cm, weil 1 m = 100 cm ist.",
-                      "1 500 g = 1,5 kg, weil 1 000 g = 1 kg.",
-                      "2,25 h = 2 h + 0,25 h; 0,25 h sind 15 min, also 2 h 15 min.",
-                      "560 ct = 5,60 €, weil 100 ct = 1 €."
-                    ]
-                  }
-                },
-                {
-                  "id": "mat5_mod3_u3",
-                  "text": "Ich kann mit Größen in einfachen Sachaufgaben rechnen und Ergebnisse auf Plausibilität prüfen.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Größen in Sachaufgaben",
-                        "text": "In vielen Textaufgaben kommen Größen vor, zum Beispiel beim Einkaufen, beim Planen einer Fahrt oder beim Kochen. Du lernst, wichtige Informationen aus dem Text zu entnehmen, Einheiten bei Bedarf umzurechnen und passende Rechenoperationen zu wählen (plus, minus, mal, geteilt)."
-                      },
-                      {
-                        "title": "Einheiten mitrechnen und aufschreiben",
-                        "text": "Beim Rechnen mit Größen schreibst du Einheiten mit auf, zum Beispiel 3 m + 2 m = 5 m oder 4 · 250 ml = 1 000 ml = 1 l. Du achtest darauf, nur Größen mit gleichen Einheiten direkt zu addieren oder zu subtrahieren und rechnest vorher um, wenn nötig."
-                      },
-                      {
-                        "title": "Ergebnisse prüfen",
-                        "text": "Nach einer Rechnung überlegst du, ob dein Ergebnis zum Sachverhalt passt. Dabei helfen dir Überschläge, Vergleich mit Alltagswissen (z. B. Tankvolumen, Körpergewicht) und die Kontrolle der Einheiten. Wenn zum Beispiel der Preis für ein Brötchen höher ist als für eine ganze Torte, stimmt etwas nicht."
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Sachaufgabe",
-                        "definition": "Textaufgabe aus einer Alltagssituation, in der gerechnet werden muss."
-                      },
-                      {
-                        "term": "Plausibilität",
-                        "definition": "Glaubwürdigkeit bzw. Sinnhaftigkeit eines Ergebnisses im Zusammenhang der Aufgabe."
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann aus einer Sachaufgabe die wichtigen Größen und Einheiten herausfiltern.",
-                      "Ich kann Einheiten bei Bedarf vor dem Rechnen umrechnen.",
-                      "Ich kann passende Rechenoperationen für eine Größenaufgabe auswählen.",
-                      "Ich kann prüfen, ob mein Ergebnis von der Größenordnung sinnvoll ist."
-                    ],
-                    "sample_questions": [
-                      "Ein Radweg ist 12 km lang. Lisa fährt jeden Tag 3 km davon. Wie viele Tage braucht sie, um ihn einmal ganz abzufahren?",
-                      "Du kaufst 3 Hefte für je 1,49 €. Wie viel zahlst du insgesamt?",
-                      "Eine Flasche fasst 1,5 l Saft. Wie viele Milliliter sind das?",
-                      "Woran merkst du, dass ein Ergebnis wie 3 000 kg für das Gewicht einer Tafel Schokolade nicht plausibel ist?"
-                    ],
-                    "sample_answers": [
-                      "Sie braucht 12 km : 3 km/Tag = 4 Tage.",
-                      "3 · 1,49 € = 4,47 €.",
-                      "1,5 l = 1 500 ml, weil 1 l = 1 000 ml.",
-                      "3 000 kg wären so schwer wie ein Auto oder mehr – das passt nicht zu einer Tafel Schokolade, die in der Regel unter 1 kg wiegt. Das Ergebnis ist also unplausibel."
-                    ]
-                  }
-                },
-                {
-                  "id": "mat5_mod3_u4",
-                  "text": "Ich kann einfache Maßstäbe und Karten nutzen, um reale Längen zu bestimmen oder Zeichnungen anzufertigen.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Was ist ein Maßstab?",
-                        "text": "Ein Maßstab zeigt, wie stark eine Zeichnung oder Karte verkleinert oder vergrößert wurde. Zum Beispiel bedeutet der Maßstab 1 : 100, dass 1 cm auf der Zeichnung 100 cm (also 1 m) in Wirklichkeit entspricht. Du lernst, solche Angaben zu lesen und in Rechnungen umzusetzen."
-                      },
-                      {
-                        "title": "Längen auf Karten und Plänen",
-                        "text": "Auf Stadtplänen oder Landkarten kannst du mit einem Lineal Entfernungen messen und mit Hilfe des Maßstabs in echte Entfernungen umrechnen. Ebenso kannst du aus bekannten realen Längen passende Zeichnungslängen berechnen, um maßstäbliche Skizzen zu erstellen."
-                      },
-                      {
-                        "title": "Maßstab in einfachen Aufgaben anwenden",
-                        "text": "Du bearbeitest Aufgaben wie: „Auf einem Plan im Maßstab 1 : 50 ist ein Tisch 4 cm lang eingezeichnet. Wie lang ist er in Wirklichkeit?“ oder „Die echte Strecke ist 500 m, wie lang ist sie auf der Karte im Maßstab 1 : 1 000?“ So verbindest du Größenvorstellungen mit Rechnen und Zeichnen."
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Maßstab",
-                        "definition": "Verhältnis zwischen einer Länge in einer Zeichnung und der entsprechenden wirklichen Länge."
-                      },
-                      {
-                        "term": "maßstäblich",
-                        "definition": "Zeichnung oder Modell, das die Größenverhältnisse der Wirklichkeit korrekt verkleinert oder vergrößert wiedergibt."
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann einfache Maßstabsangaben wie 1 : 10, 1 : 100 verstehen.",
-                      "Ich kann aus einer Zeichnung im Maßstab die wirkliche Länge berechnen.",
-                      "Ich kann aus einer wirklichen Länge die Zeichnungslänge bestimmen.",
-                      "Ich kann Entfernungen auf einfachen Karten mit Maßstab abschätzen."
-                    ],
-                    "sample_questions": [
-                      "Ein Zimmer ist im Maßstab 1 : 50 gezeichnet. Die Wand ist 6 cm lang. Wie lang ist sie in Wirklichkeit?",
-                      "Eine Straße ist 2 km lang. Wie lang ist sie auf einer Karte im Maßstab 1 : 10 000?",
-                      "Was bedeutet der Maßstab 1 : 1?",
-                      "Warum benutzt man bei Karten verkleinernde Maßstäbe?"
-                    ],
-                    "sample_answers": [
-                      "6 cm · 50 = 300 cm = 3 m. Die Wand ist in Wirklichkeit 3 m lang.",
-                      "2 km = 2 000 m = 200 000 cm. Im Maßstab 1 : 10 000 ist die Zeichnungslänge 200 000 cm : 10 000 = 20 cm.",
-                      "1 : 1 bedeutet, dass Zeichnung und Wirklichkeit gleich groß sind – es handelt sich also nicht um eine Verkleinerung.",
-                      "Weil die wirklichen Entfernungen sehr groß sind und sonst nicht auf ein Blatt Papier passen würden. Durch den Maßstab kann man trotzdem mit den Längen arbeiten."
-                    ]
-                  }
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    }
-  ]
-}{
-  "school_id": "de_thueringen",
-  "grades": [
-    {
-      "grade_id": "klasse5",
-      "grade_label": "Klasse 5",
-      "subjects": [
-        {
-          "subject_id": "mat",
-          "subject_title": "Mathematik",
-          "modules": [
-            {
-              "module_id": "mat5_mod4",
-              "module_name": "Figuren und Körper – Formen entdecken, beschreiben und konstruieren",
-              "module_longtext": {
-                "sections": [
-                  {
-                    "title": "Formen und Körper in deiner Umwelt",
-                    "text": "In diesem Modul lernst du, geometrische Figuren und Körper bewusst wahrzunehmen und mit Fachbegriffen zu beschreiben. Viele Gegenstände des Alltags – Bücher, Würfelspiele, Dosen, Straßen- und Fensterscheiben – lassen sich als geometrische Figuren oder Körper darstellen. Wenn du erkennst, welche Formen dahinterstecken, kannst du sie besser zeichnen, vergleichen und später damit rechnen." [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                  },
-                  {
-                    "title": "Grundbegriffe der Geometrie",
-                    "text": "Du lernst grundlegende Begriffe wie Punkt, Strecke, Gerade, Strahl, Winkel, parallel und senkrecht kennen und verwendest sie beim Beschreiben von Figuren. Mit Lineal, Geodreieck, Zirkel und ggf. dynamischer Geometriesoftware zeichnest du einfache Figuren und Konstruktionen und übst ein genaues, sorgfältiges Arbeiten." [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                  },
-                  {
-                    "title": "Ebene Figuren, Umfang und Flächeninhalt",
-                    "text": "Du lernst typische ebene Figuren wie Quadrat, Rechteck, Parallelogramm, Raute, Trapez und Drachenviereck kennen und untersuchst ihre Eigenschaften. Außerdem misst und berechnest du Umfang und Flächeninhalt von Quadraten, Rechtecken und einfachen zusammengesetzten Figuren als Vorbereitung auf umfangreichere Aufgaben in Klasse 6." [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                  },
-                  {
-                    "title": "Körper, Netze und Volumen",
-                    "text": "Du erkennst geometrische Körper wie Würfel, Quader, Kugel, Zylinder, Kegel und Pyramide in deiner Umwelt und beschreibst sie mit Fachbegriffen (Ecken, Kanten, Flächen).  Du ordnest Netze zu Würfeln und Quadern zu und lernst einfache Schrägbilder kennen, um räumliche Vorstellungen zu entwickeln. In ersten Aufgaben lernst du, Volumen und Oberfläche von Würfeln und Quadern zu deuten und in einfachen Fällen zu berechnen (vertieft bis Ende Klasse 6). " [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                  }
-                ]
-              },
-              "subtopics": [
-                {
-                  "id": "mat5_mod4_u1",
-                  "text": "Ich kann grundlegende geometrische Begriffe (Punkt, Strecke, Strahl, Gerade, Winkel, parallel, senkrecht) verstehen und verwenden.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Punkt, Strecke, Strahl und Gerade",
-                        "text": "Ein Punkt markiert eine genaue Lage im Raum oder auf dem Papier. Eine Strecke ist die kürzeste Verbindung zwischen zwei Punkten und hat eine begrenzte Länge. Eine Gerade verläuft unendlich weit in beide Richtungen, ein Strahl beginnt in einem Punkt und verläuft dann unendlich in eine Richtung." [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      },
-                      {
-                        "title": "Winkel verstehen",
-                        "text": "Ein Winkel entsteht, wenn zwei Strahlen oder Strecken in einem Punkt zusammentreffen. Der Treffpunkt heißt Scheitel, die Strahlen heißen Schenkel des Winkels. Du lernst, Winkel mit dem Geodreieck zu messen, grob zu schätzen und verschiedene Winkelarten (spitz, recht, stumpf) zu unterscheiden." [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      },
-                      {
-                        "title": "Parallel und senkrecht",
-                        "text": "Zwei Geraden oder Strecken sind parallel, wenn sie immer den gleichen Abstand zueinander haben und sich bei einer Verlängerung nie schneiden. Sie sind senkrecht, wenn sie sich unter einem rechten Winkel (90 Grad) schneiden. Du übst, parallele und senkrechte Strecken zu erkennen und mit Lineal und Geodreieck zu zeichnen." [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Punkt",
-                        "definition": "Grundelement der Geometrie; markiert eine genaue Lage, hat selbst keine Ausdehnung." [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      },
-                      {
-                        "term": "Strecke",
-                        "definition": "Verbindung zweier Punkte mit begrenzter Länge." [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      },
-                      {
-                        "term": "Gerade",
-                        "definition": "Unendlich lange Linie ohne Krümmung." [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      },
-                      {
-                        "term": "Strahl",
-                        "definition": "Beginnt in einem Punkt und verläuft von dort aus unendlich in eine Richtung." [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      },
-                      {
-                        "term": "Winkel",
-                        "definition": "Figur, die durch zwei Strahlen mit gemeinsamer Anfangsstelle entsteht." [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      },
-                      {
-                        "term": "parallel",
-                        "definition": "Geraden oder Strecken mit konstantem Abstand, die sich niemals schneiden." [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      },
-                      {
-                        "term": "senkrecht",
-                        "definition": "Geraden oder Strecken, die sich in einem rechten Winkel (90°) schneiden." [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann Punkt, Strecke, Strahl und Gerade an Beispielen unterscheiden.", [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      "Ich kann einfache Winkel mit dem Geodreieck messen und grob schätzen.", [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      "Ich kann erklären, wann zwei Geraden parallel bzw. senkrecht sind.", [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      "Ich kann parallele und senkrechte Strecken mit Lineal und Geodreieck zeichnen." [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                    ],
-                    "sample_questions": [
-                      "Erkläre den Unterschied zwischen einer Strecke und einer Geraden.", [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      "Wie erkennst du einen rechten Winkel, und wie misst du einen Winkel mit dem Geodreieck?", [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      "Gib ein Beispiel aus dem Alltag für parallele und ein Beispiel für senkrechte Linien.", [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      "Was ist ein Strahl, und wie unterscheidet er sich von einer Strecke?" [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                    ],
-                    "sample_answers": [
-                      "Eine Strecke hat zwei Endpunkte und eine begrenzte Länge, eine Gerade geht in beide Richtungen unendlich weiter.", [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      "Ein rechter Winkel ist 90°. Ich lege das Geodreieck mit der Mittellinie auf den Scheitelpunkt, richte eine Schenkelseite an der 0°-Markierung aus und lese an der anderen Schenkelseite den Winkel ab.", [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      "Parallele Linien: Schienen einer Eisenbahn; senkrechte Linien: eine Hauswand im rechten Winkel zum Boden.", [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      "Ein Strahl hat einen Anfangspunkt und verläuft von dort aus unendlich in eine Richtung. Eine Strecke hat zwei Endpunkte und ist begrenzt." [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                    ]
-                  }
-                },
-                {
-                  "id": "mat5_mod4_u2",
-                  "text": "Ich kann ebene Figuren (Quadrat, Rechteck, Parallelogramm, Raute, Trapez, Drachenviereck) erkennen, beschreiben und zeichnen.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Ebene Figuren und ihre Eigenschaften",
-                        "text": "Ebene Figuren liegen in einer Ebene, zum Beispiel auf einem Blatt Papier. Viele Figuren haben vier Seiten (Vierecke), zum Beispiel Quadrat, Rechteck, Parallelogramm, Raute, Trapez und Drachenviereck. Du beschreibst sie anhand von Seitenlängen, Winkelgrößen und Parallelität." [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      },
-                      {
-                        "title": "Quadrat und Rechteck",
-                        "text": "Ein Quadrat hat vier gleich lange Seiten und vier rechte Winkel. Ein Rechteck hat vier rechte Winkel, aber gegenüberliegende Seiten sind nur paarweise gleich lang. Beide sind besondere Vierecke, die sich gut zum Üben von Umfang und Flächeninhalt eignen." [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      },
-                      {
-                        "title": "Parallelogramm, Raute, Trapez, Drachenviereck",
-                        "text": "Ein Parallelogramm hat je zwei gegenüberliegende, parallele Seiten. Eine Raute (Rhombus) hat vier gleich lange Seiten, aber nicht unbedingt rechte Winkel. Ein Trapez hat mindestens ein Paar paralleler Seiten, ein Drachenviereck zwei Paare gleich langer Nachbarseiten. Du lernst, diese Figuren zu erkennen, zu skizzieren und ihre Eigenschaften zu benennen." [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Viereck",
-                        "definition": "Ebene Figur mit vier Seiten." [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      },
-                      {
-                        "term": "Quadrat",
-                        "definition": "Viereck mit vier gleich langen Seiten und vier rechten Winkeln." [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      },
-                      {
-                        "term": "Rechteck",
-                        "definition": "Viereck mit vier rechten Winkeln; gegenüberliegende Seiten sind gleich lang." [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      },
-                      {
-                        "term": "Parallelogramm",
-                        "definition": "Viereck mit je zwei parallelen gegenüberliegenden Seiten." [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      },
-                      {
-                        "term": "Raute",
-                        "definition": "Viereck mit vier gleich langen Seiten." [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      },
-                      {
-                        "term": "Trapez",
-                        "definition": "Viereck mit mindestens einem Paar paralleler Seiten." [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      },
-                      {
-                        "term": "Drachenviereck",
-                        "definition": "Viereck mit zwei Paaren gleich langer Nachbarseiten." [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann Quadrat, Rechteck, Parallelogramm, Raute, Trapez und Drachenviereck in Abbildungen unterscheiden.", [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      "Ich kann wichtige Eigenschaften dieser Figuren benennen (Seiten, Winkel, Parallelität). ", [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      "Ich kann einfache Vierecke mit Lineal und Geodreieck skizzieren und zeichnen.", [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      "Ich kann Figuren aus dem Alltag passenden geometrischen Vierecken zuordnen." [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                    ],
-                    "sample_questions": [
-                      "Wodurch unterscheiden sich Quadrat und Rechteck?", [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      "Welche Eigenschaften hat ein Parallelogramm?", [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      "Gib ein Alltagsbeispiel für ein Rechteck und eines für ein Trapez.", [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      "Wie erkennst du eine Raute in einer Zeichnung?" [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                    ],
-                    "sample_answers": [
-                      "Beim Quadrat sind alle vier Seiten gleich lang und alle vier Winkel sind rechte Winkel; beim Rechteck sind alle vier Winkel recht, aber nur die gegenüberliegenden Seiten gleich lang.", [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      "Ein Parallelogramm hat zwei Paare paralleler, gegenüberliegender Seiten, gegenüberliegende Seiten sind gleich lang und gegenüberliegende Winkel sind gleich groß.", [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      "Rechteck: eine Tür oder ein Buch; Trapez: ein Tisch mit schrägen Beinen und abgeschrägter Unterseite oder ein Straßenverkehrsschild in Trapezform.", [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      "Bei einer Raute sind alle vier Seiten gleich lang, aber die Winkel sind nicht zwingend 90°." [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                    ]
-                  }
-                },
-                {
-                  "id": "mat5_mod4_u3",
-                  "text": "Ich kann Umfang und Flächeninhalt von Quadraten und Rechtecken messen und berechnen (auch einfache zusammengesetzte Figuren).",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Umfang – Grenze einer Figur",
-                        "text": "Der Umfang ist die Länge der Randlinie einer Figur. Du kannst ihn bestimmen, indem du alle Seitenlängen addierst oder bei Rechtecken und Quadraten passende Formeln anwendest. Der Umfang wird in Längeneinheiten wie cm oder m angegeben." [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      },
-                      {
-                        "title": "Flächeninhalt – wie viel Platz eine Figur einnimmt",
-                        "text": "Der Flächeninhalt gibt an, wie groß die Fläche innerhalb der Randlinie ist. Du kannst ihn für Rechtecke und Quadrate mit Formeln berechnen, zum Beispiel A = a · b für das Rechteck und A = a · a für das Quadrat. Der Flächeninhalt wird in Flächeneinheiten wie cm² oder m² angegeben." [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      },
-                      {
-                        "title": "Zusammengesetzte Figuren",
-                        "text": "Viele Flächen im Alltag sind keine einfachen Rechtecke. Du kannst solche Figuren in Rechtecke und Quadrate zerlegen, ihre Flächen berechnen und addieren. So lernst du, auch unregelmäßigere Formen zu behandeln, indem du sie in bekannte Teilflächen gliederst." [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Umfang",
-                        "definition": "Summe aller Seitenlängen einer Figur." [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      },
-                      {
-                        "term": "Flächeninhalt",
-                        "definition": "Maß dafür, wie groß die Fläche innerhalb einer Figur ist." [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      },
-                      {
-                        "term": "Quadratmeter (m²)",
-                        "definition": "Flächeneinheit; Fläche eines Quadrats mit 1 m Seitenlänge." [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann bei Quadraten und Rechtecken den Umfang messen und berechnen.", [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      "Ich kenne die Formeln für den Flächeninhalt von Quadrat und Rechteck und kann sie anwenden.", [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      "Ich kann Einheiten für Länge und Fläche unterscheiden (z. B. cm vs. cm²).", [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      "Ich kann einfache zusammengesetzte Figuren in Rechtecke zerlegen und ihren Flächeninhalt bestimmen." [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                    ],
-                    "sample_questions": [
-                      "Berechne den Umfang eines Rechtecks mit 5 cm und 8 cm Seitenlänge.", [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      "Ein Quadrat hat die Seitenlänge 6 cm. Wie groß sind Umfang und Flächeninhalt?", [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      "Warum ist 3 cm · 4 cm = 12 cm² und nicht 12 cm?", [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      "Wie kannst du den Flächeninhalt einer L-förmigen Figur bestimmen, die aus zwei Rechtecken besteht?" [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                    ],
-                    "sample_answers": [
-                      "Umfang: U = 2 · (5 cm + 8 cm) = 2 · 13 cm = 26 cm.", [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      "Umfang: U = 4 · 6 cm = 24 cm; Flächeninhalt: A = 6 cm · 6 cm = 36 cm².", [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      "Weil du zwei Längen miteinander multiplizierst (cm · cm), entsteht eine Flächeneinheit (cm²). Du berechnest also eine Fläche, nicht eine einfache Länge.", [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      "Ich teile die L-Form in zwei Rechtecke auf, berechne die Flächen beider Rechtecke und addiere sie." [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                    ]
-                  }
-                },
-                {
-                  "id": "mat5_mod4_u4",
-                  "text": "Ich kann geometrische Körper (Würfel, Quader, Kugel, Zylinder, Kegel, Pyramide) erkennen, beschreiben und in meiner Umwelt wiederfinden.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Körper und ihre Bausteine",
-                        "text": "Geometrische Körper haben drei Dimensionen: Länge, Breite und Höhe. Du beschreibst sie mit ihren Ecken, Kanten und Flächen. Ein Würfel hat zum Beispiel 8 Ecken, 12 Kanten und 6 kongruente Quadrate als Flächen." [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      },
-                      {
-                        "title": "Wichtige Körperarten",
-                        "text": "Typische Körper sind Würfel, Quader, Kugel, Zylinder, Kegel und Pyramide. Viele Alltagsgegenstände haben ungefähr diese Form: eine Getränkekiste (Quader), ein Würfelspiel (Würfel), eine Dose (Zylinder), ein Eishörnchen (Kegel), ein Ball (Kugel)." [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      },
-                      {
-                        "title": "Körper im Alltag erkennen",
-                        "text": "Du übst, Gegenstände aus deiner Umgebung den geometrischen Körpern zuzuordnen. So verbindest du abstrakte Begriffe mit konkreten Erfahrungen und baust deine räumliche Vorstellung weiter aus." [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Körper",
-                        "definition": "Dreidimensionale geometrische Figur." [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      },
-                      {
-                        "term": "Würfel",
-                        "definition": "Körper mit sechs kongruenten quadratischen Flächen." [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      },
-                      {
-                        "term": "Quader",
-                        "definition": "Körper mit sechs rechteckigen Flächen; gegenüberliegende Flächen sind gleich." [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      },
-                      {
-                        "term": "Zylinder",
-                        "definition": "Körper mit zwei kongruenten, parallelen Kreisflächen und einer Mantelfläche." [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      },
-                      {
-                        "term": "Kegel",
-                        "definition": "Körper mit einer Kreisfläche und einer Mantelfläche, die zu einer Spitze zusammenläuft." [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      },
-                      {
-                        "term": "Pyramide",
-                        "definition": "Körper mit einer Vielecksfläche als Grundfläche und Dreiecksflächen, die in einer Spitze zusammenlaufen." [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      },
-                      {
-                        "term": "Kugel",
-                        "definition": "Rotationskörper, bei dem alle Punkte der Oberfläche den gleichen Abstand vom Mittelpunkt haben." [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann Würfel, Quader, Kugel, Zylinder, Kegel und Pyramide benennen und beschreiben.", [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      "Ich kann die Anzahl von Ecken, Kanten und Flächen bei Würfel und Quader angeben.", [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      "Ich kann Gegenstände aus meiner Umwelt passenden Körpern zuordnen.", [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      "Ich kann einfache Schrägbilder von Würfeln und Quadern deuten." [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                    ],
-                    "sample_questions": [
-                      "Wie viele Ecken, Kanten und Flächen hat ein Würfel?", [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      "Nenne zu jedem Körper (Würfel, Quader, Zylinder, Kugel, Kegel, Pyramide) einen Gegenstand aus dem Alltag.", [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      "Worin unterscheidet sich ein Quader von einem Würfel?", [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      "Warum sagt man, dass ein Ball näher an der Form einer Kugel als an der eines Quaders ist?" [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                    ],
-                    "sample_answers": [
-                      "Ein Würfel hat 8 Ecken, 12 Kanten und 6 Flächen.", [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      "Würfel: Spielwürfel; Quader: Bücherkarton; Zylinder: Getränkedose; Kugel: Fußball; Kegel: Eiswaffel; Pyramide: Pyramiden-Souvenir.", [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      "Beim Würfel sind alle Kanten gleich lang und alle Flächen sind Quadrate; beim Quader sind nur die gegenüberliegenden Kanten gleich lang und die Flächen sind Rechtecke.", [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      "Ein Ball ist in alle Richtungen gleich rund, alle Punkte seiner Oberfläche sind ungefähr gleich weit vom Mittelpunkt entfernt – das passt zur Kugel und nicht zum Quader." [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                    ]
-                  }
-                },
-                {
-                  "id": "mat5_mod4_u5",
-                  "text": "Ich kann einfache Netze und Schrägbilder von Würfeln und Quadern zuordnen und erste Aufgaben zu Volumen und Oberfläche verstehen.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Netze von Würfel und Quader",
-                        "text": "Ein Netz ist eine zweidimensionale Darstellung eines Körpers, die durch Falten zu dem Körper zusammengesetzt werden kann. Du erkennst Netze von Würfeln und Quadern und prüfst, ob sie sich zu einem Körper falten lassen." [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      },
-                      {
-                        "title": "Schrägbilder zur Darstellung von Körpern",
-                        "text": "Schrägbilder zeigen Körper räumlich auf einer ebenen Fläche. Du lernst einfache Schrägbilder von Würfeln und Quadern zu lesen und grob selbst zu zeichnen. Dadurch trainierst du dein räumliches Vorstellungsvermögen." [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      },
-                      {
-                        "title": "Volumen und Oberfläche in Grundfällen",
-                        "text": "Volumen beschreibt, wie viel Raum ein Körper einnimmt, die Oberfläche die Gesamtfläche aller Außenflächen. Für Würfel und Quader kannst du mit Hilfe ihrer Kantenlängen einfache Volumen- und Oberflächenaufgaben bearbeiten, zum Beispiel Volumen eines Würfels mit Kantenlänge 2 cm. In Klasse 5 bleibt dies vorbereitend und wird bis Ende Klasse 6 vertieft." [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Netz",
-                        "definition": "Ausgebreitete Flächen eines Körpers in der Ebene, die sich zu dem Körper zusammenfalten lassen." [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      },
-                      {
-                        "term": "Schrägbild",
-                        "definition": "Zeichnung, die einen Körper räumlich wirken lässt." [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      },
-                      {
-                        "term": "Volumen",
-                        "definition": "Rauminhalt eines Körpers, zum Beispiel in cm³ oder m³." [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      },
-                      {
-                        "term": "Oberfläche",
-                        "definition": "Summe der Flächeninhalte aller Außenflächen eines Körpers." [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann Netze von Würfeln und Quadern erkennen und passende Körper zuordnen.", [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      "Ich kann einfache Schrägbilder von Würfeln und Quadern deuten.", [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      "Ich weiß, dass Volumen in Raumeinheiten (z. B. cm³) angegeben wird.", [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      "Ich kann in einfachen Fällen das Volumen eines Würfels mit bekannter Kantenlänge bestimmen." [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                    ],
-                    "sample_questions": [
-                      "Woran erkennst du, ob ein gezeichnetes Netz zu einem Würfel gehört?", [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      "Was versteht man unter Volumen? Nenne eine passende Einheit.", [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      "Ein Würfel hat die Kantenlänge 3 cm. Wie groß ist sein Volumen?", [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      "Warum ist es sinnvoll, Netze zu betrachten, wenn man die Oberfläche eines Körpers berechnen möchte?" [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                    ],
-                    "sample_answers": [
-                      "Bei einem Würfelnetz müssen genau sechs Quadrate so angeordnet sein, dass an jeder Kante nach dem Falten genau eine andere Fläche anliegt, ohne Lücke und ohne Überlappung.", [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      "Volumen ist der Rauminhalt eines Körpers, z. B. in cm³ oder m³.", [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      "Volumen: V = 3 cm · 3 cm · 3 cm = 27 cm³.", [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                      "Im Netz liegen alle Flächen des Körpers nebeneinander in der Ebene, daher kann ich ihre Flächeninhalte leichter berechnen und zur Oberfläche addieren." [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/125393014/64a756ff-15be-474b-89b3-6414075e1834/LP_GY_Mathematik_Entwurfsfassung2025.pdf)
-                    ]
-                  }
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    }
-  ]
-}{
-  "school_id": "de_thueringen",
-  "grades": [
-    {
-      "grade_id": "klasse5",
-      "grade_label": "Klasse 5",
-      "subjects": [
-        {
-          "subject_id": "mat",
-          "subject_title": "Mathematik",
-          "modules": [
-            {
-              "module_id": "mat5_mod5",
-              "module_name": "Gebrochene Zahlen – Brüche und Dezimalzahlen verstehen",
-              "module_longtext": {
-                "sections": [
-                  {
-                    "title": "Warum gebrochene Zahlen?",
-                    "text": "In diesem Modul lernst du Zahlen kennen, die zwischen den natürlichen Zahlen liegen, zum Beispiel 1/2 oder 3/4.[file:3] Solche gebrochenen Zahlen brauchst du überall im Alltag: beim Kochen, beim Teilen von Dingen, bei Längenangaben oder bei Geldbeträgen.[file:3]"
-                  },
-                  {
-                    "title": "Brüche anschaulich und als Zahl",
-                    "text": "Du baust ein Verständnis dafür auf, was ein Bruch bedeutet: einen Anteil eines Ganzen oder einer Menge.[file:3] Du stellst Brüche mit Bildern, auf dem Zahlenstrahl und mit der Bruchschreibweise dar und lernst die Begriffe Zähler, Nenner und Bruchstrich sicher zu verwenden.[file:3]"
-                  },
-                  {
-                    "title": "Von Brüchen zu Dezimalbrüchen",
-                    "text": "Du lernst Dezimalzahlen (Kommazahlen) wie 0,5 oder 2,75 kennen und stellst sie in der Stellenwerttafel und auf dem Zahlenstrahl dar.[file:3] Du übst, einfache Brüche in Dezimalbrüche und umgekehrt umzuwandeln und mit beiden Darstellungen zu rechnen.[file:3]"
-                  }
-                ]
-              },
-              "subtopics": [
-                {
-                  "id": "mat5_mod5_u1",
-                  "text": "Ich kann Brüche mit Zähler, Nenner und Bruchstrich verstehen, darstellen und in Alltagssituationen deuten.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Aufbau eines Bruchs",
-                        "text": "Ein Bruch wie 3/4 besteht aus Zähler, Nenner und Bruchstrich.[file:3] Der Nenner (unten) gibt an, in wie viele gleich große Teile das Ganze geteilt wurde; der Zähler (oben) zeigt, wie viele dieser Teile gemeint sind.[file:3]"
-                      },
-                      {
-                        "title": "Brüche anschaulich darstellen",
-                        "text": "Du stellst Brüche mit Flächenmodellen (z. B. Kreise, Rechtecke), Strecken oder Mengen dar.[file:3] So erkennst du, dass zum Beispiel 1/2 einer Schokolade etwas anderes ist als 1/2 einer viel größeren Schokolade, aber der Anteil gleich bleibt.[file:3]"
-                      },
-                      {
-                        "title": "Brüche im Alltag",
-                        "text": "Brüche tauchen in vielen Alltagssituationen auf, etwa bei Rezepten (1/2 Liter Milch), bei Uhrzeiten (Viertelstunde) oder beim Teilen von Dingen (eine Pizza in 8 Stücke).[file:3] Du übst, solche Situationen mit Bruchschreibweise zu beschreiben und umgekehrt.[file:3]"
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Bruch",
-                        "definition": "Zahl, die einen Anteil eines Ganzen beschreibt, geschrieben mit Zähler, Bruchstrich und Nenner.[file:3]"
-                      },
-                      {
-                        "term": "Zähler",
-                        "definition": "Zahl im Bruch, die angibt, wie viele Teile genommen werden.[file:3]"
-                      },
-                      {
-                        "term": "Nenner",
-                        "definition": "Zahl im Bruch, die angibt, in wie viele Teile das Ganze geteilt wurde.[file:3]"
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann Zähler und Nenner benennen und erklären.[file:3]",
-                      "Ich kann einfache Brüche zeichnen (z. B. 1/2, 1/3, 3/4). [file:3]",
-                      "Ich kann Alltagssituationen mit einfachen Brüchen beschreiben.[file:3]",
-                      "Ich kann sagen, ob ein Bruch größer, kleiner oder gleich 1 ist (anschaulich). [file:3]"
-                    ],
-                    "sample_questions": [
-                      "Was bedeutet der Bruch 3/4 anschaulich?[file:3]",
-                      "Wie würdest du 1/2 Pizza in einer Zeichnung darstellen?[file:3]",
-                      "Ist 5/4 größer oder kleiner als 1? Begründe.[file:3]",
-                      "Nenne eine Alltagssituation, in der 1/3 vorkommen kann.[file:3]"
-                    ],
-                    "sample_answers": [
-                      "3/4 bedeutet: Ein Ganzes ist in 4 gleich große Teile geteilt, und 3 dieser Teile werden betrachtet.[file:3]",
-                      "Ich zeichne einen Kreis als Pizza, teile ihn in 2 gleich große Stücke und markiere eines davon.[file:3]",
-                      "5/4 ist größer als 1, weil 4/4 genau 1 Ganzes sind und 5/4 noch ein Viertel mehr ist.[file:3]",
-                      "Zum Beispiel: Ein Kuchen wird in 3 gleich große Stücke geteilt, und jede Person bekommt 1/3.[file:3]"
-                    ]
-                  }
-                },
-                {
-                  "id": "mat5_mod5_u2",
-                  "text": "Ich kann Brüche ordnen, vergleichen, erweitern und kürzen (in einfachen Fällen).",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Echte und unechte Brüche, gemischte Zahlen",
-                        "text": "Ein echter Bruch ist kleiner als 1, der Zähler ist kleiner als der Nenner, z. B. 3/5.[file:3] Ein unechter Bruch ist größer oder gleich 1, der Zähler ist größer oder gleich dem Nenner, z. B. 7/4.[file:3] Du lernst, unechte Brüche in gemischte Zahlen umzuwandeln (z. B. 7/4 = 1 3/4) und umgekehrt.[file:3]"
-                      },
-                      {
-                        "title": "Erweitern und Kürzen von Brüchen",
-                        "text": "Beim Erweitern multiplizierst du Zähler und Nenner mit derselben Zahl, beim Kürzen teilst du beide durch dieselbe Zahl.[file:3] Der Wert des Bruchs bleibt dabei gleich, z. B. 1/2 = 2/4 = 3/6.[file:3]"
-                      },
-                      {
-                        "title": "Brüche ordnen und vergleichen",
-                        "text": "Du vergleichst Brüche anschaulich mit Bildern oder auf dem Zahlenstrahl.[file:3] In einfachen Fällen nutzt du gleichnamige Brüche, also Brüche mit demselben Nenner, um zu entscheiden, welcher größer ist.[file:3]"
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "echter Bruch",
-                        "definition": "Bruch mit Zähler kleiner als Nenner (Wert kleiner als 1). [file:3]"
-                      },
-                      {
-                        "term": "unechter Bruch",
-                        "definition": "Bruch mit Zähler größer oder gleich Nenner (Wert größer oder gleich 1). [file:3]"
-                      },
-                      {
-                        "term": "gemischte Zahl",
-                        "definition": "Zahl aus einer ganzen Zahl und einem Bruch, z. B. 2 1/3.[file:3]"
-                      },
-                      {
-                        "term": "erweitern",
-                        "definition": "Zähler und Nenner mit derselben Zahl multiplizieren.[file:3]"
-                      },
-                      {
-                        "term": "kürzen",
-                        "definition": "Zähler und Nenner durch dieselbe Zahl teilen.[file:3]"
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann echte und unechte Brüche unterscheiden.[file:3]",
-                      "Ich kann unechte Brüche in gemischte Zahlen umwandeln und zurück.[file:3]",
-                      "Ich kann einfache Brüche erweitern und kürzen (z. B. mit 2, 3, 4). [file:3]",
-                      "Ich kann gleichnamige Brüche vergleichen und der Größe nach ordnen.[file:3]"
-                    ],
-                    "sample_questions": [
-                      "Ist 7/3 ein echter oder ein unechter Bruch? Schreibe ihn als gemischte Zahl.[file:3]",
-                      "Erweitere 1/3 mit 4 und kürze 8/12 so weit wie möglich.[file:3]",
-                      "Welche Zahl ist größer: 3/8 oder 5/8?[file:3]",
-                      "Ordne 1/2, 2/3, 1/4 der Größe nach (vom kleinsten zum größten) – gern zuerst anschaulich.[file:3]"
-                    ],
-                    "sample_answers": [
-                      "7/3 ist ein unechter Bruch, als gemischte Zahl: 2 1/3.[file:3]",
-                      "1/3 erweitert mit 4 ergibt 4/12; 8/12 gekürzt durch 4 ist 2/3.[file:3]",
-                      "5/8 ist größer als 3/8, weil beide den gleichen Nenner haben und 5 größer als 3 ist.[file:3]",
-                      "Anschaulich sieht man, dass 1/4 < 1/2 < 2/3; also: 1/4, 1/2, 2/3.[file:3]"
-                    ]
-                  }
-                },
-                {
-                  "id": "mat5_mod5_u3",
-                  "text": "Ich kann einfache Rechnungen mit Brüchen durchführen (v. a. mit gleichen Nennern) und in Sachaufgaben anwenden.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Brüche addieren und subtrahieren",
-                        "text": "Bei gleichen Nennern addierst oder subtrahierst du nur die Zähler, der Nenner bleibt gleich.[file:3] Beispiel: 1/8 + 3/8 = 4/8 = 1/2.[file:3]"
-                      },
-                      {
-                        "title": "Brüche in Sachaufgaben",
-                        "text": "Du verwendest Bruchrechnungen in einfachen Textaufgaben, zum Beispiel bei Kuchenstücken, Wegstrecken oder Zeitangaben.[file:3] Dabei hilft dir eine Skizze, den Sachverhalt zu verstehen.[file:3]"
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "gleichnamige Brüche",
-                        "definition": "Brüche mit gleichem Nenner.[file:3]"
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann einfache gleichnamige Brüche addieren und subtrahieren.[file:3]",
-                      "Ich kann Ergebnisse ggf. kürzen.[file:3]",
-                      "Ich kann zu einer Sachaufgabe mit Teilen eines Ganzen eine passende Bruchrechnung aufstellen.[file:3]"
-                    ],
-                    "sample_questions": [
-                      "Berechne 2/5 + 1/5.[file:3]",
-                      "Eine Tafel Schokolade ist in 8 Stücke geteilt. Du isst 3 Stücke, deine Freundin 2. Welchen Anteil habt ihr zusammen gegessen?[file:3]",
-                      "Subtrahiere 5/6 − 1/6.[file:3]"
-                    ],
-                    "sample_answers": [
-                      "2/5 + 1/5 = 3/5.[file:3]",
-                      "3/8 + 2/8 = 5/8 der Tafel.[file:3]",
-                      "5/6 − 1/6 = 4/6 = 2/3 (gekürzt). [file:3]"
-                    ]
-                  }
-                },
-                {
-                  "id": "mat5_mod5_u4",
-                  "text": "Ich kann Dezimalbrüche in der Stellenwerttafel und auf dem Zahlenstrahl darstellen, ordnen und runden.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Dezimalbrüche und Stellenwerttafel",
-                        "text": "Dezimalbrüche sind Zahlen mit Komma, zum Beispiel 0,5 oder 2,37.[file:3] Rechts vom Komma stehen Zehntel-, Hundertstel-, Tausendstelstellen usw.[file:3] Du trägst Dezimalzahlen in eine Stellenwerttafel ein und liest sie korrekt vor.[file:3]"
-                      },
-                      {
-                        "title": "Dezimalzahlen auf dem Zahlenstrahl",
-                        "text": "Du ordnest Dezimalzahlen auf dem Zahlenstrahl ein und erkennst, welche größer oder kleiner sind.[file:3] Dabei nutzt du dein Verständnis von Stellenwerten und vergleichst zum Beispiel 3,4 und 3,25.[file:3]"
-                      },
-                      {
-                        "title": "Runden von Dezimalzahlen",
-                        "text": "Du rundest Dezimalzahlen auf eine bestimmte Stelle (z. B. auf Zehntel oder Hundertstel) nach den bekannten Rundungsregeln.[file:3]"
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Dezimalbruch",
-                        "definition": "Bruch, der als Kommazahl geschrieben wird, z. B. 0,75.[file:3]"
-                      },
-                      {
-                        "term": "Zehntelstelle",
-                        "definition": "Erste Stelle rechts vom Komma.[file:3]"
-                      },
-                      {
-                        "term": "Hundertstelstelle",
-                        "definition": "Zweite Stelle rechts vom Komma.[file:3]"
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann Dezimalzahlen korrekt in eine Stellenwerttafel eintragen.[file:3]",
-                      "Ich kann Dezimalzahlen auf dem Zahlenstrahl darstellen und vergleichen.[file:3]",
-                      "Ich kann Dezimalzahlen auf eine vorgegebene Stelle runden.[file:3]"
-                    ],
-                    "sample_questions": [
-                      "Schreibe 3,207 in eine Stellenwerttafel (Einer, Zehntel, Hundertstel, Tausendstel).[file:3]",
-                      "Welche Zahl ist größer: 4,5 oder 4,35? Begründe.[file:3]",
-                      "Runde 7,386 auf ein Zehntel.[file:3]"
-                    ],
-                    "sample_answers": [
-                      "3 Einer, 2 Zehntel, 0 Hundertstel, 7 Tausendstel.[file:3]",
-                      "4,5 ist größer, weil beide Zahlen 4 Einer haben, aber 0,5 > 0,35.[file:3]",
-                      "7,386 ≈ 7,4, weil an der Hundertstelstelle eine 8 steht (also aufrunden). [file:3]"
-                    ]
-                  }
-                },
-                {
-                  "id": "mat5_mod5_u5",
-                  "text": "Ich kann einfache Brüche in Dezimalbrüche und Prozentangaben umwandeln und umgekehrt (in Grundfällen).",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Von Bruch zu Dezimalzahl",
-                        "text": "Du wandelst einfache Brüche in Dezimalzahlen um, vor allem mit Nennern 2, 4, 5, 10, 20, 25 und 100.[file:3] Zum Beispiel 1/2 = 0,5, 1/4 = 0,25, 3/4 = 0,75.[file:3]"
-                      },
-                      {
-                        "title": "Prozent als besondere Schreibweise",
-                        "text": "Prozentangaben sind Brüche mit Nenner 100, z. B. 25 % = 25/100 = 0,25.[file:3] Du nutzt einfache Prozentwerte, um Anteile anschaulich zu beschreiben.[file:3]"
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Prozent",
-                        "definition": "Anteil mit Bezugsgröße 100, geschrieben mit dem Zeichen %.[file:3]"
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kenne die Umwandlung einiger Standardbrüche in Dezimalzahlen (1/2, 1/4, 3/4, 1/5, 2/5). [file:3]",
-                      "Ich kann einfache Prozentwerte als Bruch und Dezimalzahl angeben.[file:3]",
-                      "Ich kann in einfachen Sachaufgaben zwischen Bruch, Dezimalzahl und Prozent wechseln.[file:3]"
-                    ],
-                    "sample_questions": [
-                      "Wandle 1/2, 1/4 und 3/4 in Dezimalzahlen um.[file:3]",
-                      "Was bedeutet 50 % als Bruch und als Dezimalzahl?[file:3]",
-                      "Schreibe 0,2 als Bruch und als Prozentangabe.[file:3]"
-                    ],
-                    "sample_answers": [
-                      "1/2 = 0,5; 1/4 = 0,25; 3/4 = 0,75.[file:3]",
-                      "50 % = 50/100 = 1/2 = 0,5.[file:3]",
-                      "0,2 = 2/10 = 1/5 = 20 %.[file:3]"
-                    ]
-                  }
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    }
-  ]
-}
-{
-  "school_id": "de_thueringen",
-  "grades": [
-    {
-      "grade_id": "klasse5",
-      "grade_label": "Klasse 5",
-      "subjects": [
-        {
-          "subject_id": "mat",
-          "subject_title": "Mathematik",
-          "modules": [
-            {
-              "module_id": "mat5_mod6",
-              "module_name": "Dreiecke und Kreis – Winkel, Formen und Konstruktionen",
-              "module_longtext": {
-                "sections": [
-                  {
-                    "title": "Dreiecke und Kreise in der Umwelt",
-                    "text": "In diesem Modul lernst du, Dreiecke und Kreise bewusst wahrzunehmen und mit Fachbegriffen zu beschreiben.[file:3] Viele Bauwerke, Verkehrszeichen und Alltagsgegenstände enthalten Dreiecke oder Kreise, zum Beispiel Brückenkonstruktionen, Dachformen oder Räder.[file:3]"
-                  },
-                  {
-                    "title": "Winkel messen und Dreiecke beschreiben",
-                    "text": "Du wiederholst den Umgang mit Winkeln und übst, sie mit dem Geodreieck zu schätzen, zu messen und zu zeichnen.[file:3] Dann unterscheidest du Dreiecke nach Seiten und Winkeln und beschreibst sie mit passenden Begriffen.[file:3]"
-                  },
-                  {
-                    "title": "Kreis, Radius und Durchmesser",
-                    "text": "Du lernst die Grundbegriffe zum Kreis kennen: Mittelpunkt, Radius und Durchmesser.[file:3] Mit dem Zirkel zeichnest du Kreise und erkennst Zusammenhänge zwischen Radius und Durchmesser.[file:3]"
-                  }
-                ]
-              },
-              "subtopics": [
-                {
-                  "id": "mat5_mod6_u1",
-                  "text": "Ich kann Winkelarten erkennen, Winkel schätzen, messen und zeichnen.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Winkelarten",
-                        "text": "Du unterscheidest spitze, rechte, stumpfe und gestreckte Winkel.[file:3] Ein rechter Winkel hat 90°, spitze Winkel sind kleiner als 90°, stumpfe größer als 90° und kleiner als 180°, ein gestreckter Winkel hat 180°.[file:3]"
-                      },
-                      {
-                        "title": "Winkel messen und zeichnen",
-                        "text": "Mit dem Geodreieck misst du Winkelgrößen und zeichnest Winkel mit vorgegebenem Maß.[file:3] Du lernst, den Nullpunkt korrekt anzulegen und den richtigen Zahlenrand zu verwenden.[file:3]"
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "spitzer Winkel",
-                        "definition": "Winkel kleiner als 90°.[file:3]"
-                      },
-                      {
-                        "term": "rechter Winkel",
-                        "definition": "Winkel mit 90°.[file:3]"
-                      },
-                      {
-                        "term": "stumpfer Winkel",
-                        "definition": "Winkel größer als 90° und kleiner als 180°.[file:3]"
-                      },
-                      {
-                        "term": "gestreckter Winkel",
-                        "definition": "Winkel mit 180°.[file:3]"
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann Winkelarten an Beispielen erkennen.[file:3]",
-                      "Ich kann Winkel mit dem Geodreieck messen.[file:3]",
-                      "Ich kann Winkel mit vorgegebener Größe zeichnen.[file:3]"
-                    ],
-                    "sample_questions": [
-                      "Ist ein Winkel von 45° spitz, recht oder stumpf?[file:3]",
-                      "Wie misst du einen gegebenen Winkel mit dem Geodreieck? Beschreibe die Schritte.[file:3]",
-                      "Zeichne einen Winkel von 120° und benenne seine Art.[file:3]"
-                    ],
-                    "sample_answers": [
-                      "45° ist ein spitzer Winkel.[file:3]",
-                      "Ich lege die Mittellinie des Geodreiecks auf den Scheitelpunkt und eine Schenkelseite auf die 0°-Markierung, dann lese ich an der anderen Schenkelseite den Winkel ab.[file:3]",
-                      "120° ist ein stumpfer Winkel.[file:3]"
-                    ]
-                  }
-                },
-                {
-                  "id": "mat5_mod6_u2",
-                  "text": "Ich kann Dreiecke nach Seiten- und Winkelgrößen einteilen und beschreiben.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Dreiecksarten nach Seiten",
-                        "text": "Du unterscheidest gleichseitige, gleichschenklige und ungleichseitige Dreiecke.[file:3] Ein gleichseitiges Dreieck hat drei gleich lange Seiten, ein gleichschenkliges zwei gleich lange Seiten, ein ungleichseitiges alle Seiten verschieden.[file:3]"
-                      },
-                      {
-                        "title": "Dreiecksarten nach Winkeln",
-                        "text": "Nach Winkeln unterscheidest du spitzwinklige, rechtwinklige und stumpfwinklige Dreiecke.[file:3] Ein rechtwinkliges Dreieck hat einen rechten Winkel, spitzwinklige nur spitze Winkel, stumpfwinklige einen stumpfen Winkel.[file:3]"
-                      },
-                      {
-                        "title": "Dreiecke skizzieren und zeichnen",
-                        "text": "Du skizzierst Dreiecke frei Hand und zeichnest einfache Dreiecke mit Lineal und Geodreieck.[file:3] Dabei achtest du auf ungefähr passende Seitenlängen und Winkelgrößen.[file:3]"
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "gleichseitiges Dreieck",
-                        "definition": "Dreieck mit drei gleich langen Seiten.[file:3]"
-                      },
-                      {
-                        "term": "gleichschenkliges Dreieck",
-                        "definition": "Dreieck mit zwei gleich langen Seiten.[file:3]"
-                      },
-                      {
-                        "term": "rechtwinkliges Dreieck",
-                        "definition": "Dreieck mit einem rechten Winkel.[file:3]"
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann Dreiecke nach Seiten- und Winkelgrößen einteilen.[file:3]",
-                      "Ich kann Dreiecke in Bildern erkennen und passend benennen.[file:3]",
-                      "Ich kann einfache Dreiecke skizzieren und zeichnen.[file:3]"
-                    ],
-                    "sample_questions": [
-                      "Beschreibe ein gleichseitiges Dreieck.[file:3]",
-                      "Woran erkennst du ein rechtwinkliges Dreieck?[file:3]",
-                      "Kann ein Dreieck gleichzeitig gleichschenklig und rechtwinklig sein? Begründe kurz.[file:3]"
-                    ],
-                    "sample_answers": [
-                      "Ein gleichseitiges Dreieck hat drei gleich lange Seiten und drei gleich große Winkel.[file:3]",
-                      "Ich suche nach einem rechten Winkel (90°) im Dreieck.[file:3]",
-                      "Ja, wenn zwei Seiten gleich lang sind und die eingeschlossene Ecke ein rechter Winkel ist.[file:3]"
-                    ]
-                  }
-                },
-                {
-                  "id": "mat5_mod6_u3",
-                  "text": "Ich kenne wichtige Sätze zu Dreiecken in Grundzügen (z. B. Summe der Innenwinkel) und kann sie anschaulich nutzen.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Innenwinkelsumme im Dreieck",
-                        "text": "Die Summe der Innenwinkel in jedem Dreieck beträgt 180°.[file:3] Du entdeckst diesen Zusammenhang durch Zerlegen oder Umklappen und nutzt ihn in einfachen Aufgaben.[file:3]"
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Innenwinkelsumme",
-                        "definition": "Summe aller Innenwinkel eines Vielecks; im Dreieck 180°.[file:3]"
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich weiß, dass die Innenwinkelsumme im Dreieck 180° beträgt.[file:3]",
-                      "Ich kann fehlende Winkelgröße in einem Dreieck berechnen, wenn zwei Winkel bekannt sind.[file:3]"
-                    ],
-                    "sample_questions": [
-                      "Die Winkel eines Dreiecks sind 40° und 70°. Wie groß ist der dritte Winkel?[file:3]"
-                    ],
-                    "sample_answers": [
-                      "Die Summe ist 180°. 40° + 70° = 110°. Der dritte Winkel ist 180° − 110° = 70°.[file:3]"
-                    ]
-                  }
-                },
-                {
-                  "id": "mat5_mod6_u4",
-                  "text": "Ich kann Kreise mit dem Zirkel zeichnen und Radius, Durchmesser und Mittelpunkt sicher verwenden.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Grundbegriffe zum Kreis",
-                        "text": "Ein Kreis ist die Menge aller Punkte, die von einem festen Punkt (Mittelpunkt) denselben Abstand haben.[file:3] Der Abstand heißt Radius, der doppelte Radius ist der Durchmesser.[file:3]"
-                      },
-                      {
-                        "title": "Kreise konstruieren",
-                        "text": "Mit dem Zirkel stellst du den Radius ein und zeichnest Kreise um einen Mittelpunkt.[file:3] Du übst sauberes Arbeiten und das Markieren von Mittelpunkt, Radius und Durchmesser in Zeichnungen.[file:3]"
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Mittelpunkt",
-                        "definition": "Punkt im Inneren des Kreises mit gleichem Abstand zu allen Punkten der Kreislinie.[file:3]"
-                      },
-                      {
-                        "term": "Radius",
-                        "definition": "Abstand vom Mittelpunkt zur Kreislinie.[file:3]"
-                      },
-                      {
-                        "term": "Durchmesser",
-                        "definition": "Strecke durch den Mittelpunkt, die zwei Punkte des Kreises verbindet; doppelt so lang wie der Radius.[file:3]"
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann Kreise mit vorgegebenem Radius zeichnen.[file:3]",
-                      "Ich kann Mittelpunkt, Radius und Durchmesser in einer Kreiszeichnung eintragen.[file:3]",
-                      "Ich kenne den Zusammenhang Durchmesser = 2 · Radius.[file:3]"
-                    ],
-                    "sample_questions": [
-                      "Ein Kreis hat den Radius 3 cm. Wie lang ist der Durchmesser?[file:3]",
-                      "Wie zeichnest du einen Kreis mit Radius 4 cm mit dem Zirkel?[file:3]"
-                    ],
-                    "sample_answers": [
-                      "Der Durchmesser ist 6 cm, weil er doppelt so lang ist wie der Radius.[file:3]",
-                      "Ich stelle den Zirkel auf 4 cm ein, setze die Zirkelspitze auf den Mittelpunkt und ziehe eine ganze Umdrehung.[file:3]"
-                    ]
-                  }
-                },
-                {
-                  "id": "mat5_mod6_u5",
-                  "text": "Ich kann in einfachen Figuren Dreiecke und Kreise erkennen, skizzieren und für Sachaufgaben nutzen.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Formen in Sachaufgaben nutzen",
-                        "text": "Viele Sachaufgaben enthalten Dreiecke und Kreise, zum Beispiel bei Wegen auf einem runden Platz oder bei Dachformen.[file:3] Du lernst, solche Formen in Skizzen zu erkennen und zur Lösung der Aufgaben zu verwenden.[file:3]"
-                      }
-                    ],
-                    "key_terms": [],
-                    "note1_checklist": [
-                      "Ich kann in Sachaufgaben passende Dreiecke oder Kreise in einer Skizze markieren.[file:3]",
-                      "Ich kann Eigenschaften von Dreiecken und Kreisen zur Bearbeitung einfacher Aufgaben nutzen.[file:3]"
-                    ],
-                    "sample_questions": [
-                      "Zeichne eine Skizze zu einer Aufgabe, in der ein Weg um einen runden Teich und ein gerader Weg quer darüber vorkommen.[file:3]"
-                    ],
-                    "sample_answers": [
-                      "Ich zeichne einen Kreis für den Teich, einen Bogen für den Weg am Rand und eine Strecke durch den Kreis für den geraden Weg.[file:3]"
-                    ]
-                  }
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    }
-  ]
-}
-{
-  "school_id": "de_thueringen",
-  "grades": [
-    {
-      "grade_id": "klasse5",
-      "grade_label": "Klasse 5",
-      "subjects": [
-        {
-          "subject_id": "mat",
-          "subject_title": "Mathematik",
-          "modules": [
-            {
-              "module_id": "mat5_mod7",
-              "module_name": "Statistische Kenngrößen und Zufall – Daten auswerten und mit Zufall experimentieren",
-              "module_longtext": {
-                "sections": [
-                  {
-                    "title": "Daten besser verstehen",
-                    "text": "In diesem Modul lernst du, Datensammlungen nicht nur darzustellen, sondern auch zusammenzufassen und zu beschreiben.[file:3] Dabei helfen dir statistische Kenngrößen wie Minimum, Maximum, Spannweite, Median, Modalwert und Durchschnitt (arithmetisches Mittel).[file:3]"
-                  },
-                  {
-                    "title": "Zufallsexperimente untersuchen",
-                    "text": "Du führst einfache Zufallsexperimente wie Würfeln oder Münzwurf durch und wertest die Ergebnisse aus.[file:3] So entwickelst du Vorstellungen von möglichen und wahrscheinlichen Ereignissen, ohne mit Wahrscheinlichkeitszahlen rechnen zu müssen.[file:3]"
-                  }
-                ]
-              },
-              "subtopics": [
-                {
-                  "id": "mat5_mod7_u1",
-                  "text": "Ich kann aus Datensammlungen einfache statistische Kenngrößen bestimmen (Minimum, Maximum, Spannweite, Modalwert, Median, Durchschnitt).",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Minimum, Maximum und Spannweite",
-                        "text": "Das Minimum ist der kleinste Wert in einer Datensammlung, das Maximum der größte.[file:3] Die Spannweite ist die Differenz zwischen Maximum und Minimum und zeigt, wie weit die Werte auseinander liegen.[file:3]"
-                      },
-                      {
-                        "title": "Modalwert (Modus)",
-                        "text": "Der Modalwert ist der Wert, der am häufigsten vorkommt.[file:3] Es kann auch mehrere Modalwerte geben, wenn mehrere Werte gleich oft auftreten.[file:3]"
-                      },
-                      {
-                        "title": "Median und Durchschnitt",
-                        "text": "Der Median ist der „mittlere“ Wert einer geordneten Datenliste: die Hälfte der Werte liegt darunter, die andere Hälfte darüber.[file:3] Der Durchschnitt (arithmetisches Mittel) wird gebildet, indem du alle Werte addierst und durch die Anzahl der Werte teilst.[file:3]"
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Minimum",
-                        "definition": "Kleinster Wert in einer Datensammlung.[file:3]"
-                      },
-                      {
-                        "term": "Maximum",
-                        "definition": "Größter Wert in einer Datensammlung.[file:3]"
-                      },
-                      {
-                        "term": "Spannweite",
-                        "definition": "Differenz zwischen Maximum und Minimum.[file:3]"
-                      },
-                      {
-                        "term": "Modalwert (Modus)",
-                        "definition": "Wert, der am häufigsten vorkommt.[file:3]"
-                      },
-                      {
-                        "term": "Median",
-                        "definition": "Mittlerer Wert einer geordneten Datenreihe.[file:3]"
-                      },
-                      {
-                        "term": "arithmetisches Mittel",
-                        "definition": "Durchschnittswert; Summe aller Werte geteilt durch ihre Anzahl.[file:3]"
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann aus einer kleinen Datentabelle Minimum, Maximum und Spannweite ablesen.[file:3]",
-                      "Ich kann den Modalwert bestimmen.[file:3]",
-                      "Ich kann eine gegebene kleine Datenreihe ordnen und den Median finden.[file:3]",
-                      "Ich kann den Durchschnitt aus wenigen Zahlen berechnen.[file:3]"
-                    ],
-                    "sample_questions": [
-                      "Die Werte 3, 7, 4, 7, 2, 9 liegen vor. Bestimme Minimum, Maximum und Spannweite.[file:3]",
-                      "Was ist der Modalwert in der Reihe 2, 5, 5, 3, 2, 5?[file:3]",
-                      "Bestimme den Median der geordneten Werte 1, 3, 4, 7, 9.[file:3]",
-                      "Berechne den Durchschnitt der Zahlen 4, 6, 10.[file:3]"
-                    ],
-                    "sample_answers": [
-                      "Minimum = 2, Maximum = 9, Spannweite = 9 − 2 = 7.[file:3]",
-                      "Modalwert ist 5, weil 5 am häufigsten vorkommt.[file:3]",
-                      "Median ist 4, weil er in der Mitte steht.[file:3]",
-                      "Durchschnitt: (4 + 6 + 10) : 3 = 20 : 3 ≈ 6,67.[file:3]"
-                    ]
-                  }
-                },
-                {
-                  "id": "mat5_mod7_u2",
-                  "text": "Ich kann Daten mit Hilfe von Kenngrößen beschreiben, vergleichen und in einfachen Diagrammen zusammenfassen.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Daten mit Kenngrößen charakterisieren",
-                        "text": "Mit Minimum, Maximum, Spannweite, Modalwert, Median und Durchschnitt kannst du eine Datensammlung kurz beschreiben.[file:3] Du erkennst zum Beispiel, ob Werte eng beieinander liegen oder stark streuen.[file:3]"
-                      },
-                      {
-                        "title": "Datensätze vergleichen",
-                        "text": "Du vergleichst zwei Datensätze, indem du ihre Kenngrößen gegenüberstellst.[file:3] So kannst du Aussagen treffen wie „Gruppe A hat im Durchschnitt bessere Ergebnisse, aber in Gruppe B sind die Ergebnisse gleichmäßiger verteilt“.[file:3]"
-                      }
-                    ],
-                    "key_terms": [],
-                    "note1_checklist": [
-                      "Ich kann zu einem Datensatz passende Kenngrößen berechnen und in Worten deuten.[file:3]",
-                      "Ich kann zwei einfache Datensätze mit Hilfe von Durchschnitt und Spannweite vergleichen.[file:3]"
-                    ],
-                    "sample_questions": [
-                      "Zwei Klassen schreiben einen Test. In Klasse A liegen die Werte eng beieinander, in Klasse B sehr weit auseinander. Welche Kenngröße zeigt dir das an?[file:3]"
-                    ],
-                    "sample_answers": [
-                      "Die Spannweite zeigt, wie weit die Werte auseinander liegen.[file:3]"
-                    ]
-                  }
-                },
-                {
-                  "id": "mat5_mod7_u3",
-                  "text": "Ich kann einfache Zufallsexperimente planen, durchführen und die Ergebnisse in Tabellen und Diagrammen darstellen.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Zufallsexperimente",
-                        "text": "Typische Zufallsexperimente sind Würfeln, Münzwurf oder das Ziehen von farbigen Kugeln aus einem Beutel.[file:3] Du planst, wie oft du ein Experiment durchführen möchtest, notierst die Ergebnisse und wertest sie aus.[file:3]"
-                      },
-                      {
-                        "title": "Absolute und relative Häufigkeit",
-                        "text": "Die absolute Häufigkeit ist die Anzahl, wie oft ein Ergebnis vorkommt.[file:3] Die relative Häufigkeit ist der Anteil an allen Versuchen (z. B. „bei 20 Würfen kam 8-mal eine 6, das sind 8/20 = 0,4“).[file:3]"
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Zufallsexperiment",
-                        "definition": "Versuch, dessen Ergebnis nicht sicher vorhergesagt werden kann.[file:3]"
-                      },
-                      {
-                        "term": "Ereignis",
-                        "definition": "Menge von möglichen Ergebnissen, z. B. „gerade Zahl beim Würfeln“.[file:3]"
-                      },
-                      {
-                        "term": "absolute Häufigkeit",
-                        "definition": "Anzahl, wie oft ein Ergebnis beobachtet wurde.[file:3]"
-                      },
-                      {
-                        "term": "relative Häufigkeit",
-                        "definition": "Anteil eines Ergebnisses an der Gesamtzahl der Versuche.[file:3]"
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann ein einfaches Zufallsexperiment planen (z. B. 30-mal würfeln). [file:3]",
-                      "Ich kann Ergebnisse in einer Strichliste und Tabelle erfassen.[file:3]",
-                      "Ich kann aus meinen Daten absolute und einfache relative Häufigkeiten bestimmen.[file:3]"
-                    ],
-                    "sample_questions": [
-                      "Du würfelst 20-mal. 5-mal kommt eine 6. Wie groß sind absolute und relative Häufigkeit der 6?[file:3]"
-                    ],
-                    "sample_answers": [
-                      "Absolute Häufigkeit: 5; relative Häufigkeit: 5/20 = 0,25 = 25 %.[file:3]"
-                    ]
-                  }
-                },
-                {
-                  "id": "mat5_mod7_u4",
-                  "text": "Ich kann Ereignisse mit „sicher“, „unmöglich“, „möglich“ und „wahrscheinlich“ beschreiben und begründen.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Sprachliche Beschreibung von Wahrscheinlichkeit",
-                        "text": "Du beschreibst Ereignisse mit Begriffen wie „sicher“, „unmöglich“ oder „wahrscheinlich“.[file:3] Ein sicheres Ereignis tritt immer ein, ein unmögliches niemals; viele Ereignisse sind möglich, aber nicht sicher.[file:3]"
-                      },
-                      {
-                        "title": "Beispiele aus Zufallsexperimenten",
-                        "text": "Beim Würfeln ist „eine Zahl von 1 bis 6“ sicher, „eine 7 würfeln“ unmöglich.[file:3] „Eine 6 würfeln“ ist möglich und bei einem fairen Würfel ebenso wahrscheinlich wie jede andere Zahl.[file:3]"
-                      }
-                    ],
-                    "key_terms": [],
-                    "note1_checklist": [
-                      "Ich kann Ereignisse sprachlich sinnvoll als sicher, unmöglich, möglich oder wahrscheinlich einordnen.[file:3]",
-                      "Ich kann meine Einordnung mit Beispielen aus Experimenten begründen.[file:3]"
-                    ],
-                    "sample_questions": [
-                      "Ist es sicher, unmöglich oder möglich, beim Würfeln eine Zahl größer als 6 zu bekommen? Begründe.[file:3]"
-                    ],
-                    "sample_answers": [
-                      "Es ist unmöglich, weil der Würfel nur die Zahlen 1 bis 6 zeigt.[file:3]"
-                    ]
-                  }
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    }
-  ]
-}
-{
-  "school_id": "de_thueringen",
-  "grades": [
-    {
-      "grade_id": "klasse5",
-      "grade_label": "Klasse 5",
-      "subjects": [
-        {
-          "subject_id": "mat",
-          "subject_title": "Mathematik",
-          "modules": [
-            {
-              "module_id": "mat5_mod8",
-              "module_name": "Zuordnungen – Zusammenhänge in Tabellen und Diagrammen",
-              "module_longtext": {
-                "sections": [
-                  {
-                    "title": "Muster und Zusammenhänge erkennen",
-                    "text": "In diesem Modul lernst du, Zusammenhänge zwischen zwei Größen zu erkennen, zu beschreiben und darzustellen, zum Beispiel zwischen Zeit und zurückgelegtem Weg oder zwischen Stückzahl und Preis.[file:3] Du arbeitest mit Zahlenmustern, Wertetabellen und einfachen Diagrammen und bereitest damit das Thema Funktionen in höheren Klassen vor.[file:3]"
-                  },
-                  {
-                    "title": "Alltägliche Zuordnungen",
-                    "text": "Du begegnest Zuordnungen im Alltag, etwa beim Fahrplan (Zeitpunkt – Abfahrtszeit), beim Einkaufen (Menge – Preis) oder beim Messen von Temperaturen (Zeitpunkt – Temperatur).[file:3] Du lernst, solche Situationen mit Tabellen und einfachen Graphen zu beschreiben.[file:3]"
-                  }
-                ]
-              },
-              "subtopics": [
-                {
-                  "id": "mat5_mod8_u1",
-                  "text": "Ich kann einfache Zuordnungen aus Alltagssituationen erkennen und in Worten beschreiben (z. B. Weg–Zeit, Menge–Preis).",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Was ist eine Zuordnung?",
-                        "text": "Bei einer Zuordnung gehört zu jedem Wert einer Größe genau ein Wert einer anderen Größe, zum Beispiel zu jeder Stückzahl ein Preis.[file:3] Du beschreibst solche Zusammenhänge zunächst in Alltagssprache, bevor du sie in Tabellen und Diagrammen darstellst.[file:3]"
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Zuordnung",
-                        "definition": "Regel, die jedem Wert einer Größe genau einen Wert einer anderen Größe zuordnet.[file:3]"
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich erkenne in Texten oder Situationen, welche Größen miteinander zusammenhängen.[file:3]",
-                      "Ich kann eine Zuordnung in eigenen Worten beschreiben (z. B. „Je länger…, desto…“). [file:3]"
-                    ],
-                    "sample_questions": [
-                      "Nenne ein Beispiel für eine Zuordnung aus dem Alltag und beschreibe sie in einem Satz.[file:3]"
-                    ],
-                    "sample_answers": [
-                      "Beim Einkaufen: Der Preis hängt von der Stückzahl ab – je mehr Äpfel ich kaufe, desto höher wird der Gesamtpreis.[file:3]"
-                    ]
-                  }
-                },
-                {
-                  "id": "mat5_mod8_u2",
-                  "text": "Ich kann Zuordnungen in Wertetabellen darstellen, ergänzen und ablesen.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Wertetabellen anlegen",
-                        "text": "Du legst Tabellen an, in denen du zu Werten einer Eingangsgröße (z. B. Stückzahl) die zugeordneten Werte einer Ausgangsgröße (z. B. Preis) einträgst.[file:3] So kannst du Zusammenhänge übersichtlich darstellen und fehlende Werte ergänzen.[file:3]"
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Wertetabelle",
-                        "definition": "Tabelle mit zusammengehörigen Wertepaaren zweier Größen.[file:3]"
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann aus einem Text eine Wertetabelle erstellen.[file:3]",
-                      "Ich kann in einer Tabelle fehlende Werte ergänzen, wenn das Muster klar ist.[file:3]",
-                      "Ich kann aus der Tabelle Fragen beantworten (z. B. „Wie viel kostet…?“).[file:3]"
-                    ],
-                    "sample_questions": [
-                      "Ein Apfel kostet 0,30 €. Ergänze eine Tabelle für 1, 2, 3, 4, 5 Äpfel.[file:3]"
-                    ],
-                    "sample_answers": [
-                      "Stückzahl: 1, 2, 3, 4, 5; Preis: 0,30 €, 0,60 €, 0,90 €, 1,20 €, 1,50 €.[file:3]"
-                    ]
-                  }
-                },
-                {
-                  "id": "mat5_mod8_u3",
-                  "text": "Ich kann einfache Zuordnungen in Diagrammen darstellen und aus Diagrammen Informationen ablesen.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Punkte im Koordinatensystem",
-                        "text": "Du trägst Wertepaaren aus einer Tabelle als Punkte in ein rechtwinkliges Koordinatensystem ein.[file:3] Eine Achse steht für die eine Größe (z. B. Zeit), die andere Achse für die andere Größe (z. B. Weg).[file:3]"
-                      },
-                      {
-                        "title": "Graphen einfacher Zuordnungen",
-                        "text": "Du verbindest bei passenden Situationen die Punkte zu einer Linie und erkennst, ob ein Zusammenhang ungefähr gradlinig ist.[file:3] So siehst du auf einen Blick, wie sich eine Größe mit der anderen verändert.[file:3]"
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "Koordinatensystem",
-                        "definition": "System aus zwei Achsen (x- und y-Achse), mit dem man Punkte und Graphen darstellen kann.[file:3]"
-                      },
-                      {
-                        "term": "Graph",
-                        "definition": "Graphische Darstellung einer Zuordnung im Koordinatensystem.[file:3]"
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich kann aus einer Wertetabelle Punkte im Koordinatensystem eintragen.[file:3]",
-                      "Ich kann aus einem einfachen Diagramm Werte ablesen.[file:3]"
-                    ],
-                    "sample_questions": [
-                      "Eine Tabelle gibt an, wie weit jemand nach 1, 2, 3, 4 Stunden gewandert ist. Wie kannst du das im Koordinatensystem darstellen?[file:3]"
-                    ],
-                    "sample_answers": [
-                      "Ich zeichne ein Koordinatensystem, trage auf die x-Achse die Zeit in Stunden und auf die y-Achse den Weg in Kilometern ein und markiere die Wertepunkte.[file:3]"
-                    ]
-                  }
-                },
-                {
-                  "id": "mat5_mod8_u4",
-                  "text": "Ich kann einfache direkt proportionale Zuordnungen erkennen (z. B. doppelter Einsatz – doppelter Gewinn) und nutzen.",
-                  "status": {
-                    "covered_in_class": false,
-                    "understood": false,
-                    "exam_ready": false
-                  },
-                  "content": {
-                    "explanation_sections": [
-                      {
-                        "title": "Direkte Proportionalität anschaulich",
-                        "text": "Bei direkt proportionalen Zuordnungen gilt: Wird eine Größe verdoppelt, verdoppelt sich auch die andere; wird sie verdreifacht, verdreifacht sich die andere.[file:3] Typische Beispiele sind „Menge–Preis“ bei konstantem Stückpreis oder „Zeit–Weg“ bei konstanter Geschwindigkeit.[file:3]"
-                      }
-                    ],
-                    "key_terms": [
-                      {
-                        "term": "direkt proportionale Zuordnung",
-                        "definition": "Zuordnung, bei der das Verhältnis der zugeordneten Werte konstant ist.[file:3]"
-                      }
-                    ],
-                    "note1_checklist": [
-                      "Ich erkenne einfache Situationen, in denen „doppelt so viel – doppelt so groß“ gilt.[file:3]",
-                      "Ich kann in solchen Fällen mit Verdoppeln, Halbieren usw. rechnen.[file:3]"
-                    ],
-                    "sample_questions": [
-                      "Ein Busunternehmen verlangt 5 € pro Fahrkarte. Ist die Zuordnung „Anzahl Fahrkarten – Gesamtpreis“ direkt proportional? Begründe.[file:3]"
-                    ],
-                    "sample_answers": [
-                      "Ja, denn wenn ich die Anzahl der Fahrkarten verdopple, verdoppelt sich der Preis. Das Verhältnis Preis : Anzahl bleibt immer 5 € pro Karte.[file:3]"
-                    ]
-                  }
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    }
-  ]
-}
-{
-  "school_id": "de_thueringen",
-  "grades": [
-    {
-      "grade_id": "klasse5",
-      "grade_label": "Klasse 5",
-      "subjects": [
-        {
           "subject_id": "mnt",
           "subject_title": "Mensch–Natur–Technik",
           "modules": [
@@ -5625,26 +362,7 @@ const SCHOOL_DATA = {
                   }
                 }
               ]
-            }
-          ]
-        }
-      ]
-    }
-  ]
-}Perfekt! Ich habe nun alle Details zu Modul 2 aus dem Lehrplan. Jetzt erstelle ich den vollständigen JSON-Inhalt für **Modul 2: Samenpflanzen** mit allen Unterthemen gemäß dem Lehrplan.
-
-```json
-{
-  "school_id": "de_thueringen",
-  "grades": [
-    {
-      "grade_id": "klasse5",
-      "grade_label": "Klasse 5",
-      "subjects": [
-        {
-          "subject_id": "mnt",
-          "subject_title": "Mensch–Natur–Technik",
-          "modules": [
+            },
             {
               "module_id": "mnt5_mod2",
               "module_name": "Samenpflanzen",
@@ -6605,24 +1323,7 @@ const SCHOOL_DATA = {
                   }
                 }
               ]
-            }
-          ]
-        }
-      ]
-    }
-  ]
-}
-```{
-  "school_id": "de_thueringen",
-  "grades": [
-    {
-      "grade_id": "klasse5",
-      "grade_label": "Klasse 5",
-      "subjects": [
-        {
-          "subject_id": "mnt",
-          "subject_title": "Mensch–Natur–Technik",
-          "modules": [
+            },
             {
               "module_id": "mnt5_mod3",
               "module_name": "Vielfalt bei Wirbeltieren – gleicher Grundaufbau",
@@ -7276,23 +1977,7 @@ const SCHOOL_DATA = {
                   }
                 }
               ]
-            }
-          ]
-        }
-      ]
-    }
-  ]
-}{
-  "school_id": "de_thueringen",
-  "grades": [
-    {
-      "grade_id": "klasse5",
-      "grade_label": "Klasse 5",
-      "subjects": [
-        {
-          "subject_id": "mnt",
-          "subject_title": "Mensch–Natur–Technik",
-          "modules": [
+            },
             {
               "module_id": "mnt5_mod4",
               "module_name": "Gesunderhaltung unseres Körpers",
@@ -7806,23 +2491,7 @@ const SCHOOL_DATA = {
                   }
                 }
               ]
-            }
-          ]
-        }
-      ]
-    }
-  ]
-}{
-  "school_id": "de_thueringen",
-  "grades": [
-    {
-      "grade_id": "klasse5",
-      "grade_label": "Klasse 5",
-      "subjects": [
-        {
-          "subject_id": "mnt",
-          "subject_title": "Mensch–Natur–Technik",
-          "modules": [
+            },
             {
               "module_id": "mnt5_mod5",
               "module_name": "Das Leben in einem Lebensraum",
@@ -8488,23 +3157,7 @@ const SCHOOL_DATA = {
                   }
                 }
               ]
-            }
-          ]
-        }
-      ]
-    }
-  ]
-}{
-  "school_id": "de_thueringen",
-  "grades": [
-    {
-      "grade_id": "klasse5",
-      "grade_label": "Klasse 5",
-      "subjects": [
-        {
-          "subject_id": "mnt",
-          "subject_title": "Mensch–Natur–Technik",
-          "modules": [
+            },
             {
               "module_id": "mnt5_mod6",
               "module_name": "Bionik – Lösungen aus der Natur für die Technik",
@@ -8787,17 +3440,2008 @@ const SCHOOL_DATA = {
               ]
             }
           ]
-        }
-      ]
-    }
-  ]
-}{
-  "school_id": "de_thueringen",
-  "grades": [
-    {
-      "grade_id": "klasse5",
-      "grade_label": "Klasse 5",
-      "subjects": [
+        },
+        {
+          "subject_id": "mat",
+          "subject_title": "Mathematik",
+          "modules": [
+            {
+              "module_id": "mat5_mod1",
+              "module_name": "Daten erfassen und darstellen",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Überblick über das Modul Daten",
+                    "text": "In diesem Modul lernst du, wie man Daten aus der Umwelt sammelt, ordnet und verständlich darstellt. Daten können zum Beispiel Antworten aus einer Umfrage in der Klasse, Messergebnisse aus einem Experiment oder Beobachtungen aus dem Alltag sein. Du erfährst, wie man solche Daten in Tabellen, Strichlisten und einfachen Diagrammen festhält und wie man daraus Informationen abliest."
+                  },
+                  {
+                    "title": "Warum mit Daten arbeiten?",
+                    "text": "In vielen Bereichen – Nachrichten, Schule, Sport, Politik – begegnen dir Zahlen und Statistiken. Wer sie versteht, kann besser mitreden und sich eine eigene Meinung bilden. Du lernst, einfache Darstellungen zu lesen, selbst zu erstellen und zu überlegen, ob eine Darstellung passend und fair ist. So wirst du Schritt für Schritt sicherer im Umgang mit Daten und Diagrammen."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "mat5_mod1_u1",
+                  "text": "Ich kann einfache Daten sammeln und in Ur- und Strichlisten sowie Tabellen erfassen und ordnen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Was sind Daten?",
+                        "text": "Daten sind gesammelte Informationen, oft in Form von Zahlen oder Merkmalen. Beispiele: Wie viele Geschwister haben die Kinder in deiner Klasse? Welche Lieblingssportarten gibt es? Wie viele rote, blaue und grüne Smarties sind in einer Packung? Solche Informationen musst du übersichtlich festhalten, damit du sie später auswerten kannst."
+                      },
+                      {
+                        "title": "Ur- und Strichlisten",
+                        "text": "Eine Ur- oder Strichliste ist eine einfache Form, Daten zu sammeln. Du schreibst die möglichen Antworten oder Merkmale untereinander und machst für jedes Vorkommen einen Strich. Am Ende kannst du die Striche zusammenzählen. So siehst du schnell, welche Antwort wie oft vorkam."
+                      },
+                      {
+                        "title": "Tabellen anlegen",
+                        "text": "In einer Tabelle ordnest du Daten in Zeilen und Spalten. Zum Beispiel kannst du links die Antwortmöglichkeiten (z. B. Sportarten) und rechts die Häufigkeiten eintragen. Tabellen helfen dir, viele Daten übersichtlich auf einen Blick zu sehen und später in Diagramme zu übertragen."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Daten",
+                        "definition": "Gesammelte Informationen, zum Beispiel Messergebnisse, Umfrageantworten oder Zählungen."
+                      },
+                      {
+                        "term": "Ur- / Strichliste",
+                        "definition": "Einfache Liste, in der für jedes Vorkommen eines Merkmals ein Strich gemacht wird."
+                      },
+                      {
+                        "term": "Tabelle",
+                        "definition": "Übersichtliche Anordnung von Daten in Zeilen und Spalten."
+                      },
+                      {
+                        "term": "Häufigkeit",
+                        "definition": "Gibt an, wie oft ein bestimmtes Merkmal oder eine Antwort vorkommt."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann für eine einfache Fragestellung (z. B. Lieblingsobst) eine Strichliste anlegen.",
+                      "Ich kann aus einer Strichliste die Häufigkeiten abzählen.",
+                      "Ich kann die Ergebnisse einer Strichliste in eine Tabelle übertragen.",
+                      "Ich kann in einer Tabelle klar lesbare Überschriften für Zeilen und Spalten wählen."
+                    ],
+                    "sample_questions": [
+                      "Wie gehst du vor, wenn du herausfinden willst, welche Lieblingsfarbe in deiner Klasse am häufigsten ist?",
+                      "Was ist der Vorteil einer Strichliste gegenüber einer ungeordneten Liste von Antworten?",
+                      "Wie kannst du die Informationen aus einer Strichliste in einer Tabelle darstellen?",
+                      "Was bedeutet es, wenn bei einer Antwort besonders viele Striche stehen?"
+                    ],
+                    "sample_answers": [
+                      "Ich überlege mir passende Antwortmöglichkeiten (z. B. rot, blau, grün …), mache eine Strichliste und frage jede Person in der Klasse. Für jede Antwort mache ich einen Strich bei der passenden Farbe.",
+                      "In einer Strichliste siehst du auf einen Blick, wie oft jede Antwort vorkam. In einer ungeordneten Liste müsstest du alles erst mühsam zusammenzählen.",
+                      "Ich übernehme die Antwortmöglichkeiten als Zeilen in die Tabelle und schreibe in eine zweite Spalte die gezählten Häufigkeiten aus der Strichliste.",
+                      "Viele Striche bedeuten, dass diese Antwort sehr häufig vorkam. Sie ist zum Beispiel die beliebteste Farbe in der Klasse."
+                    ]
+                  }
+                },
+                {
+                  "id": "mat5_mod1_u2",
+                  "text": "Ich kann Daten in Säulen- und Balkendiagrammen darstellen und daraus Informationen ablesen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Warum Diagramme?",
+                        "text": "Diagramme verwandeln Zahlen aus einer Tabelle in Bilder. Dadurch kannst du oft schneller erkennen, was wichtig ist: Was kommt am häufigsten vor? Was ist selten? Wie unterscheiden sich Gruppen? Säulen- und Balkendiagramme sind dafür in Klasse 5 besonders geeignet."
+                      },
+                      {
+                        "title": "Säulen- und Balkendiagramme zeichnen",
+                        "text": "Für ein Säulendiagramm zeichnest du ein Koordinatensystem mit einer waagerechten Achse (x-Achse) und einer senkrechten Achse (y-Achse). Auf die waagerechte Achse schreibst du die Merkmale oder Antworten (z. B. Obstsorten), auf die senkrechte Achse die Häufigkeiten. Für jede Antwort zeichnest du eine Säule mit passender Höhe. Bei Balkendiagrammen liegen die Balken waagerecht; die Idee ist aber die gleiche."
+                      },
+                      {
+                        "title": "Informationen aus Diagrammen ablesen",
+                        "text": "Aus einem Diagramm kannst du ablesen, wie oft etwas vorkam, welche Kategorie am häufigsten oder am seltensten ist und wie groß Unterschiede sind. Du lernst auch, wie wichtig eine passende Skala ist: Die Abstände auf der Achse müssen gleich sein, und die Skala muss so gewählt werden, dass man Unterschiede gut erkennen kann."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Säulendiagramm",
+                        "definition": "Diagramm, in dem Häufigkeiten durch senkrechte Säulen dargestellt werden."
+                      },
+                      {
+                        "term": "Balkendiagramm",
+                        "definition": "Diagramm, in dem Häufigkeiten durch waagerechte Balken dargestellt werden."
+                      },
+                      {
+                        "term": "Skala",
+                        "definition": "Einteilung der Achse mit Zahlenwerten, z. B. 0, 1, 2, 3 …"
+                      },
+                      {
+                        "term": "Achse",
+                        "definition": "Linie im Diagramm, auf der Werte oder Merkmale eingetragen werden (x- und y-Achse)."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann aus einer Tabelle ein einfaches Säulen- oder Balkendiagramm zeichnen.",
+                      "Ich kann Achsen korrekt beschriften (mit Merkmalen bzw. Zahlen und Einheiten).",
+                      "Ich kann aus einem Diagramm die Häufigkeit einer Kategorie ablesen.",
+                      "Ich kann sagen, welche Kategorie am häufigsten und welche am seltensten vorkommt."
+                    ],
+                    "sample_questions": [
+                      "Welche Schritte brauchst du, um aus einer Tabelle ein Säulendiagramm zu erstellen?",
+                      "Wie erkennst du im Diagramm, welche Kategorie am häufigsten ist?",
+                      "Warum ist eine passende Skala auf der Achse wichtig?",
+                      "Was kannst du aus einem Diagramm ablesen, was man aus der Tabelle vielleicht nicht so schnell sieht?"
+                    ],
+                    "sample_answers": [
+                      "Ich zeichne zuerst die Achsen, beschrifte die waagerechte Achse mit den Kategorien und die senkrechte mit den Häufigkeiten. Dann wähle ich eine passende Skala und zeichne für jede Kategorie eine Säule mit der richtigen Höhe.",
+                      "Die Kategorie mit der höchsten Säule oder dem längsten Balken ist die häufigste.",
+                      "Wenn die Skala unregelmäßig oder unpassend gewählt ist, wirken Unterschiede größer oder kleiner, als sie sind, oder man kann sie gar nicht richtig ablesen.",
+                      "Im Diagramm erkenne ich sehr schnell Trends, zum Beispiel welche zwei Kategorien ähnlich häufig sind oder wie stark sich die häufigste von der seltensten unterscheidet."
+                    ]
+                  }
+                },
+                {
+                  "id": "mat5_mod1_u3",
+                  "text": "Ich kann verschiedene Darstellungen (Strichliste, Tabelle, Diagramm) vergleichen und beurteilen, welche passend ist.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Viele Wege, dieselben Daten zu zeigen",
+                        "text": "Dieselben Daten können unterschiedlich dargestellt werden: als Strichliste, als Tabelle oder als Diagramm. Je nach Situation ist eine andere Form besonders praktisch. Beim Sammeln von Daten eignet sich eine Strichliste, beim genauen Nachschauen eine Tabelle und zum schnellen Vergleichen ein Diagramm."
+                      },
+                      {
+                        "title": "Darstellungen kritisch betrachten",
+                        "text": "Nicht jede Darstellung ist fair und übersichtlich. Eine zu grobe oder zu feine Skala, fehlende Beschriftungen oder abgeschnittene Achsen können ein falsches Bild vermitteln. Du lernst, einfache Diagramme daraufhin zu überprüfen, ob sie verständlich und passend sind."
+                      },
+                      {
+                        "title": "Passende Darstellung auswählen",
+                        "text": "Wenn du selbst Daten präsentieren sollst, überlegst du vorher: Was will ich zeigen? Wieviele Kategorien gibt es? Sollen eher genaue Zahlen im Vordergrund stehen oder das schnelle Erkennen von Unterschieden? So entscheidest du, ob eine Tabelle, ein Säulendiagramm oder ein anderes Diagramm am besten geeignet ist."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Darstellung",
+                        "definition": "Art und Weise, wie Daten gezeigt werden, z. B. Liste, Tabelle, Diagramm."
+                      },
+                      {
+                        "term": "angemessene Darstellung",
+                        "definition": "Form der Darstellung, die zu den Daten und zur Fragestellung passt und verständlich ist."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann dieselben Daten in Strichliste, Tabelle und Diagramm wiederfinden.",
+                      "Ich kann sagen, wann eine Strichliste bzw. eine Tabelle bzw. ein Diagramm besonders sinnvoll ist.",
+                      "Ich kann einfache Diagramme daraufhin prüfen, ob sie verständlich und fair gestaltet sind (Beschriftungen, Skala).",
+                      "Ich kann für eine gegebene Fragestellung eine passende Art der Darstellung vorschlagen."
+                    ],
+                    "sample_questions": [
+                      "Wann ist eine Strichliste besser geeignet als ein Diagramm?",
+                      "Welche Vorteile hat eine Tabelle gegenüber einem Diagramm?",
+                      "An welchen Merkmalen erkennst du, dass ein Diagramm nicht gut gestaltet ist?",
+                      "Welche Darstellungsform würdest du wählen, um die Lieblingsfächer deiner Klasse zu präsentieren, und warum?"
+                    ],
+                    "sample_answers": [
+                      "Eine Strichliste ist beim direkten Sammeln von Daten praktisch, zum Beispiel wenn ich in der Klasse herumgehe und Antworten notiere. Ein Diagramm zeichne ich erst später aus den fertigen Daten.",
+                      "In einer Tabelle sehe ich die genauen Zahlen. Ich kann einzelne Werte leicht nachschlagen und zum Beispiel weiterrechnen.",
+                      "Wenn Achsen nicht beschriftet sind, die Skala seltsam gewählt ist oder Teile des Diagramms abgeschnitten sind, kann es zu Missverständnissen kommen. Dann ist das Diagramm nicht gut gestaltet.",
+                      "Ich würde ein Säulen- oder Balkendiagramm wählen, weil man damit schnell sieht, welche Fächer besonders beliebt sind und wie sie im Vergleich zueinander stehen."
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "module_id": "mat5_mod2",
+              "module_name": "Natürliche Zahlen – Zahlen lesen, darstellen und mit ihnen rechnen",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Überblick über das Modul Natürliche Zahlen",
+                    "text": "In diesem Modul beschäftigst du dich mit den natürlichen Zahlen – also den Zahlen, mit denen du zählst: 1, 2, 3, … Du lernst, große Zahlen zu lesen, zu schreiben und in Stellenwerttafeln oder auf dem Zahlenstrahl darzustellen. Außerdem übst du, Zahlen zu ordnen, zu runden und Rechenaufgaben geschickt zu lösen."
+                  },
+                  {
+                    "title": "Rechnen im Alltag und in Sachaufgaben",
+                    "text": "Natürliche Zahlen brauchst du überall: beim Einkaufen, beim Rechnen mit Zeiten, beim Zählen von Personen oder Dingen. Du wiederholst und vertiefst alle vier Grundrechenarten – Plus, Minus, Mal und Geteilt – im Kopf, halbschriftlich und schriftlich. Dabei lernst du, Rechengesetze und Rechentricks zu nutzen, um schneller und sicherer zu rechnen, und du setzt dein Wissen in Sachaufgaben ein."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "mat5_mod2_u1",
+                  "text": "Ich kann natürliche Zahlen in verschiedenen Darstellungen sicher lesen, schreiben, ordnen und vergleichen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Natürliche Zahlen und Stellenwertsystem",
+                        "text": "Natürliche Zahlen sind die Zahlen, mit denen du zählst: 1, 2, 3, … Im Zehnersystem hat jede Ziffer einen bestimmten Stellenwert. Von rechts nach links stehen Einer, Zehner, Hunderter, Tausender, Zehntausender, Hunderttausender, Millionen usw. Eine Zahl wie 305 047 kannst du in einer Stellenwerttafel eintragen, um zu sehen, welche Stelle welchen Wert hat."
+                      },
+                      {
+                        "title": "Zahlen lesen und schreiben",
+                        "text": "Große Zahlen liest du, indem du sie in Dreiergruppen (Hundertergruppen) einteilst. Zum Beispiel: 123 456 789 liest du als „einhundertdreiundzwanzig Millionen vierhundertsechsundfünfzigtausend siebenhundertneunundachtzig“. Du übst, Zahlen in Zifferschreibweise und als Zahlwort zu schreiben und sie sauber mit Dreiertrennungen zu notieren."
+                      },
+                      {
+                        "title": "Zahlen ordnen und vergleichen",
+                        "text": "Um Zahlen zu vergleichen, schaust du zuerst auf die Anzahl der Stellen: Eine Million ist größer als zehntausend, weil sie mehr Stellen hat. Haben Zahlen gleich viele Stellen, vergleichst du Stelle für Stelle von links nach rechts. Du kannst Zahlen auch auf einem Zahlenstrahl markieren, um ihre Größe zu sehen. Zeichen wie <, > und = helfen dir, Vergleiche kurz aufzuschreiben."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "natürliche Zahl",
+                        "definition": "Zahl, mit der man zählt: 1, 2, 3, … (häufig wird auch 0 dazugezählt)."
+                      },
+                      {
+                        "term": "Stellenwert",
+                        "definition": "Bedeutung einer Ziffer je nach Stelle in der Zahl (Einer, Zehner, Hunderter …)."
+                      },
+                      {
+                        "term": "Stellenwerttafel",
+                        "definition": "Tabelle, in der jede Stelle (Einer, Zehner, Hunderter …) eine eigene Spalte hat."
+                      },
+                      {
+                        "term": "Zahlenstrahl",
+                        "definition": "Gerade, auf der Zahlen in der richtigen Reihenfolge eingetragen werden."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann Zahlen bis mindestens 1 000 000 sicher lesen und schreiben.",
+                      "Ich kann Zahlen in eine Stellenwerttafel eintragen und daraus ablesen.",
+                      "Ich kann Zahlen der Größe nach ordnen (auf- und absteigend).",
+                      "Ich kann mit <, > und = Vergleiche zwischen zwei Zahlen notieren."
+                    ],
+                    "sample_questions": [
+                      "Schreibe die Zahl „drei Millionen fünfundzwanzigtausend neunundvierzig“ in Ziffern.",
+                      "In welche Stellenwerttafel gehört die Zahl 207 030?",
+                      "Welche Zahl ist größer: 98 765 oder 99 087? Begründe.",
+                      "Ordne die Zahlen 4 500, 450, 45 000 der Größe nach (aufsteigend)."
+                    ],
+                    "sample_answers": [
+                      "Drei Millionen fünfundzwanzigtausend neunundvierzig schreibt man: 3 025 049.",
+                      "207 030 hat 2 Hunderttausender, 0 Zehntausender, 7 Tausender, 0 Hunderter, 3 Zehner und 0 Einer.",
+                      "99 087 ist größer, weil beide Zahlen fünfstellig sind und die Zehntausender gleich sind (9). Beim Tausender ist 9 größer als 8.",
+                      "Aufsteigend: 450; 4 500; 45 000."
+                    ]
+                  }
+                },
+                {
+                  "id": "mat5_mod2_u2",
+                  "text": "Ich kann natürliche Zahlen sinnvoll runden und Ergebnisse überschlagen (schätzen).",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Warum runden?",
+                        "text": "Im Alltag brauchst du nicht immer ganz genaue Zahlen. Oft reicht eine ungefähre Angabe, zum Beispiel bei Einwohnerzahlen oder Preisen. Du rundest Zahlen, um sie zu vereinfachen und schneller überschlagen zu können, ob ein Ergebnis ungefähr stimmt."
+                      },
+                      {
+                        "title": "Rundungsregeln",
+                        "text": "Beim Runden entscheidest du, auf welche Stelle du runden willst, z. B. auf Zehner, Hunderter oder Tausender. Du schaust auf die Ziffer rechts daneben: Ist sie 0, 1, 2, 3 oder 4, rundest du ab. Ist sie 5, 6, 7, 8 oder 9, rundest du auf. Beispiel: 3 467 gerundet auf Hunderter ist 3 500, weil die Zehnerstelle 6 ist."
+                      },
+                      {
+                        "title": "Überschlagen von Ergebnissen",
+                        "text": "Beim Überschlagen ersetzt du Zahlen durch gerundete Werte, rechnest damit und prüfst so, ob ein genaues Ergebnis ungefähr stimmen kann. Beispiel: 198 + 403 ≈ 200 + 400 = 600. Liegt dein genaues Ergebnis in der Nähe dieser Zahl, ist es wahrscheinlich richtig."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Runden",
+                        "definition": "Ersetzen einer Zahl durch eine einfachere Zahl, die ungefähr gleich groß ist."
+                      },
+                      {
+                        "term": "Überschlag",
+                        "definition": "Grobe Rechnung mit gerundeten Zahlen, um das Ergebnis abzuschätzen."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann Zahlen auf Zehner, Hunderter und Tausender runden.",
+                      "Ich kann erkennen, ob beim Runden auf- oder abgerundet wird.",
+                      "Ich kann bei einfachen Rechnungen einen Überschlag bilden.",
+                      "Ich kann sagen, ob ein Rechenergebnis ungefähr sinnvoll ist."
+                    ],
+                    "sample_questions": [
+                      "Runde 7 384 auf den nächsten Tausender.",
+                      "Erkläre, warum 4 249 auf Hunderter gerundet zu 4 200 wird.",
+                      "Mache einen Überschlag für 1 987 + 3 021.",
+                      "Warum ist ein Überschlag bei Sachaufgaben hilfreich?"
+                    ],
+                    "sample_answers": [
+                      "Auf Tausender gerundet ist 7 384 ungefähr 7 000, weil die Hunderterstelle 3 ist (also abrunden).",
+                      "Die Zehnerstelle ist 4, also wird abgerundet. 4 249 wird zu 4 200.",
+                      "1 987 ≈ 2 000 und 3 021 ≈ 3 000, also ist der Überschlag 2 000 + 3 000 = 5 000.",
+                      "Mit einem Überschlag kannst du schnell prüfen, ob das genaue Ergebnis in etwa stimmen kann und du dich nicht völlig verrechnet hast."
+                    ]
+                  }
+                },
+                {
+                  "id": "mat5_mod2_u3",
+                  "text": "Ich kann mit natürlichen Zahlen sicher im Kopf, halbschriftlich und schriftlich addieren und subtrahieren.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Plus und Minus verstehen",
+                        "text": "Beim Addieren („plus rechnen“) werden Mengen zusammengelegt, beim Subtrahieren („minus rechnen“) wird eine Menge weggenommen oder die Differenz zwischen zwei Zahlen gesucht. Du wiederholst, wie Plus- und Minusaufgaben zusammenhängen und wie du Ergebnisse sinnvoll kontrollieren kannst."
+                      },
+                      {
+                        "title": "Kopfrechnen und halbschriftliche Verfahren",
+                        "text": "Im Kopf rechnest du, indem du Zahlen in einfachere Teile zerlegst, z. B. 48 + 27 = 40 + 20 + 8 + 7. Bei halbschriftlichen Verfahren schreibst du Zwischenschritte auf, aber ohne das volle schriftliche Schema. Du übst verschiedene Strategien wie schrittweises Ergänzen oder Zerlegen."
+                      },
+                      {
+                        "title": "Schriftliche Addition und Subtraktion",
+                        "text": "Bei der schriftlichen Addition und Subtraktion schreibst du Zahlen untereinander, achtest auf die richtige Stellenanordnung und rechnest Stelle für Stelle. Du wiederholst Tragen und Borgen (Überträge und Entbündeln) und achtest auf sorgfältige Notation, damit du dich nicht vertust."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Summe",
+                        "definition": "Ergebnis einer Addition."
+                      },
+                      {
+                        "term": "Differenz",
+                        "definition": "Ergebnis einer Subtraktion."
+                      },
+                      {
+                        "term": "Übertrag",
+                        "definition": "Zehner, Hunderter usw., die beim schriftlichen Rechnen „mitgenommen“ werden."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann einfache Plus- und Minusaufgaben im Kopf lösen.",
+                      "Ich kann halbschriftlich addieren und subtrahieren (Zwischenschritte notieren).",
+                      "Ich kann schriftlich mit mehrstelligen Zahlen sicher addieren und subtrahieren.",
+                      "Ich kann Ergebnisse mit einem Überschlag oder der Gegenrechnung kontrollieren."
+                    ],
+                    "sample_questions": [
+                      "Löse 387 + 459 halbschriftlich.",
+                      "Rechne 1 002 − 587 schriftlich.",
+                      "Welche Gegenrechnung passt zu 2 356 − 879 = 1 477?",
+                      "Wie kannst du prüfen, ob dein Ergebnis sinnvoll ist?"
+                    ],
+                    "sample_answers": [
+                      "387 + 459: 300 + 400 = 700; 80 + 50 = 130; 7 + 9 = 16; 700 + 130 + 16 = 846.",
+                      "Schriftlich gerechnet ergibt 1 002 − 587 = 415.",
+                      "Zur Subtraktion 2 356 − 879 = 1 477 passt die Addition 1 477 + 879. Wenn sie 2 356 ergibt, stimmt die Rechnung.",
+                      "Ich mache einen Überschlag und/oder benutze die Gegenrechnung (z. B. statt Minus plus rechnen)."
+                    ]
+                  }
+                },
+                {
+                  "id": "mat5_mod2_u4",
+                  "text": "Ich kann mit natürlichen Zahlen sicher im Kopf, halbschriftlich und schriftlich multiplizieren und dividieren und Rechengesetze nutzen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Malnehmen und Teilen verstehen",
+                        "text": "Multiplizieren („malnehmen“) ist wiederholtes Addieren, zum Beispiel 4 · 6 = 6 + 6 + 6 + 6. Dividieren („teilen“) beschreibt, wie eine Menge gleichmäßig aufgeteilt oder in gleich große Gruppen zerlegt wird. Du übst das Einmaleins und seine Umkehrung beim Teilen."
+                      },
+                      {
+                        "title": "Kopfrechnen und halbschriftliche Strategien",
+                        "text": "Beim Malnehmen im Kopf zerlegst du oft eine Zahl in Teile, zum Beispiel 6 · 24 = 6 · (20 + 4) = 6 · 20 + 6 · 4. Beim Teilen nutzt du bekannte Zerlegungen und Vielfache. Halbschriftlich notierst du dir Zwischenergebnisse, ohne gleich das volle schriftliche Schema zu verwenden."
+                      },
+                      {
+                        "title": "Schriftliche Multiplikation und Division",
+                        "text": "Du wiederholst und vertiefst die schriftliche Multiplikation und Division mit mehrstelligen Zahlen. Dabei achtest du auf die richtige Anordnung der Ziffern und gehst Schritt für Schritt vor. Du nutzt auch Rechengesetze: Vertauschungsgesetz (a · b = b · a), Verbindungsgesetz und Verteilungsgesetz, um Aufgaben zu vereinfachen."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Produkt",
+                        "definition": "Ergebnis einer Multiplikation."
+                      },
+                      {
+                        "term": "Quotient",
+                        "definition": "Ergebnis einer Division."
+                      },
+                      {
+                        "term": "Kommutativgesetz",
+                        "definition": "Vertauschungsgesetz: a + b = b + a, a · b = b · a."
+                      },
+                      {
+                        "term": "Distributivgesetz",
+                        "definition": "Verteilungsgesetz: a · (b + c) = a · b + a · c."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kenne das Einmaleins sicher und kann es beim Rechnen nutzen.",
+                      "Ich kann einfache Mal- und Geteiltaufgaben im Kopf lösen.",
+                      "Ich kann schriftlich mit mehrstelligen Zahlen multiplizieren und dividieren.",
+                      "Ich kann Rechengesetze nutzen, um Aufgaben zu vereinfachen."
+                    ],
+                    "sample_questions": [
+                      "Berechne 6 · 37 mit Hilfe des Distributivgesetzes.",
+                      "Erkläre in einem Beispiel das Kommutativgesetz beim Multiplizieren.",
+                      "Rechne 1 764 : 6 schriftlich.",
+                      "Wie kannst du mit 25 · 48 geschickt rechnen?"
+                    ],
+                    "sample_answers": [
+                      "6 · 37 = 6 · (30 + 7) = 6 · 30 + 6 · 7 = 180 + 42 = 222.",
+                      "Beispiel: 4 · 7 = 7 · 4 = 28. Es ist egal, in welcher Reihenfolge ich die Faktoren schreibe – das Ergebnis ist gleich.",
+                      "Schriftlich gerechnet ergibt 1 764 : 6 = 294.",
+                      "Ich kann 25 · 48 = 25 · (50 − 2) = 25 · 50 − 25 · 2 = 1 250 − 50 = 1 200 rechnen."
+                    ]
+                  }
+                },
+                {
+                  "id": "mat5_mod2_u5",
+                  "text": "Ich kann Teiler, Vielfache, gerade und ungerade Zahlen erkennen und einfache Zusammenhänge nutzen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Gerade und ungerade Zahlen",
+                        "text": "Gerade Zahlen sind durch 2 teilbar, zum Beispiel 8 = 2 · 4. Ungerade Zahlen lassen sich nicht ohne Rest durch 2 teilen, zum Beispiel 9 : 2 = 4 Rest 1. Du erkennst gerade Zahlen an der Endziffer 0, 2, 4, 6, 8, ungerade Zahlen an 1, 3, 5, 7, 9."
+                      },
+                      {
+                        "title": "Vielfache und Teiler",
+                        "text": "Ein Vielfaches von 6 ist zum Beispiel 6, 12, 18, 24, … – also Ergebnisse von 6 · 1, 6 · 2, 6 · 3, …. Ein Teiler von 12 ist eine Zahl, durch die man 12 ohne Rest teilen kann, zum Beispiel 1, 2, 3, 4, 6, 12. Du lernst, Vielfache und Teiler einfacher Zahlen zu finden und solche Begriffe in Sachaufgaben zu nutzen."
+                      },
+                      {
+                        "title": "Anwendungen im Alltag",
+                        "text": "Teiler und Vielfache brauchst du zum Beispiel, wenn du Dinge gleichmäßig aufteilst oder Gruppen bildest (z. B. „Wie viele Teams mit gleicher Spielerzahl sind möglich?“). Du kannst so Entscheidungsaufgaben strukturieren und sicherer lösen."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "gerade Zahl",
+                        "definition": "Natürliche Zahl, die ohne Rest durch 2 teilbar ist."
+                      },
+                      {
+                        "term": "ungerade Zahl",
+                        "definition": "Natürliche Zahl, die beim Teilen durch 2 einen Rest lässt."
+                      },
+                      {
+                        "term": "Vielfaches",
+                        "definition": "Zahl, die als Ergebnis einer Multiplikation mit einer anderen Zahl entsteht (z. B. 18 ist ein Vielfaches von 6)."
+                      },
+                      {
+                        "term": "Teiler",
+                        "definition": "Zahl, durch die man eine andere Zahl ohne Rest teilen kann."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann gerade und ungerade Zahlen sicher unterscheiden.",
+                      "Ich kann zu einer Zahl mehrere Vielfache angeben.",
+                      "Ich kann zu einer Zahl einfache Teiler finden.",
+                      "Ich kann Teiler- und Vielfachwissen in einfachen Sachaufgaben nutzen."
+                    ],
+                    "sample_questions": [
+                      "Nenne fünf gerade und fünf ungerade Zahlen.",
+                      "Gib die ersten fünf Vielfachen von 7 an.",
+                      "Welche Zahlen sind Teiler von 18?",
+                      "Wie kannst du 24 Bonbons gerecht auf 4 Kinder verteilen und welche Rolle spielt hier das Rechnen mit Teilern?"
+                    ],
+                    "sample_answers": [
+                      "Gerade Zahlen: 2, 4, 6, 8, 10; ungerade Zahlen: 1, 3, 5, 7, 9.",
+                      "Die ersten fünf Vielfachen von 7 sind: 7, 14, 21, 28, 35.",
+                      "Teiler von 18 sind: 1, 2, 3, 6, 9, 18.",
+                      "24 Bonbons : 4 Kinder = 6 Bonbons pro Kind. Die 4 ist ein Teiler von 24, weil 24 : 4 ohne Rest aufgeht."
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "module_id": "mat5_mod3",
+              "module_name": "Größen – messen, vergleichen und umrechnen",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Überblick über das Modul Größen",
+                    "text": "In diesem Modul beschäftigst du dich mit Größen aus deinem Alltag: Länge, Zeit, Masse (Gewicht), Geld, Fläche und Volumen. Du lernst, diese Größen zu schätzen, zu messen, in passenden Einheiten anzugeben und zwischen Einheiten umzurechnen. Außerdem übst du, mit Größen in Sachaufgaben zu rechnen und Ergebnisse auf ihre Plausibilität zu prüfen."
+                  },
+                  {
+                    "title": "Messen mit passenden Einheiten",
+                    "text": "Zu jeder Größe gehören geeignete Einheiten: Längen misst du zum Beispiel in Millimeter, Zentimeter, Meter oder Kilometer; Massen in Gramm oder Kilogramm; Zeiten in Sekunden, Minuten oder Stunden; Geld in Euro und Cent. Du lernst, geeignete Messgeräte zu benutzen, Messwerte richtig abzulesen und mit Einheit zu notieren."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "mat5_mod3_u1",
+                  "text": "Ich kann Längen, Zeiten, Massen, Geldbeträge und einfache Volumina schätzen und messen und passende Einheiten verwenden.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Mit Größen im Alltag umgehen",
+                        "text": "Größen begegnen dir ständig: Wie groß ist dein Zimmer? Wie schwer ist dein Schulranzen? Wie lange dauert der Schulweg? Wie viel kostet ein Heft? Wie viel Wasser passt in eine Flasche? Du lernst, solche Fragen mit Hilfe von Messungen und geeigneten Einheiten zu beantworten."
+                      },
+                      {
+                        "title": "Längen messen",
+                        "text": "Längen misst du mit Lineal, Maßband oder Zollstock. Wichtige Einheiten sind Millimeter (mm), Zentimeter (cm), Meter (m) und Kilometer (km). Kurze Strecken misst du in cm oder m, große Entfernungen eher in km. Du legst das Messgerät richtig an (Nullpunkt an den Anfang) und liest den Wert genau ab."
+                      },
+                      {
+                        "title": "Massen messen",
+                        "text": "Massen misst du mit einer Waage. Wichtige Einheiten sind Gramm (g) und Kilogramm (kg). Kleine Massen, zum Beispiel eines Radiergummis, gibst du in g an, größere wie dein Körpergewicht in kg. Du achtest darauf, dass die Waage vor dem Messen auf Null steht."
+                      },
+                      {
+                        "title": "Zeit messen",
+                        "text": "Zeiten misst du mit einer Uhr oder Stoppuhr. Die wichtigsten Einheiten sind Sekunde (s), Minute (min) und Stunde (h). Du kannst angeben, wie lange etwas dauert (z. B. 15 min Pause) oder wann etwas stattfindet (z. B. 7:45 Uhr)."
+                      },
+                      {
+                        "title": "Geld und Volumen",
+                        "text": "Geldbeträge gibst du in Euro (€) und Cent (ct) an. 100 Cent sind 1 Euro. Volumen (Rauminhalt) misst du zum Beispiel in Milliliter (ml) oder Liter (l), etwa bei Getränken. Du liest Messbecher richtig ab und achtest auf die Skala."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Größe",
+                        "definition": "Etwas Messbares wie Länge, Zeit, Masse, Fläche, Volumen oder Geldbetrag."
+                      },
+                      {
+                        "term": "Einheit",
+                        "definition": "festgelegtes Maß, mit dem eine Größe angegeben wird (z. B. Meter, Kilogramm, Minute)."
+                      },
+                      {
+                        "term": "Messgerät",
+                        "definition": "Gerät, mit dem man eine Größe misst (z. B. Lineal, Waage, Uhr, Messbecher)."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann für eine Alltagssituation passende Größen und Einheiten nennen.",
+                      "Ich kann Längen, Zeiten, Massen und einfache Volumina mit geeigneten Messgeräten messen.",
+                      "Ich kann Messwerte mit Einheit notieren (z. B. 1,25 m; 450 g; 20 min; 2,50 €).",
+                      "Ich kann einfache Schätzungen mit Messungen vergleichen und bewerten."
+                    ],
+                    "sample_questions": [
+                      "Mit welchen Einheiten misst du die Länge deines Tisches, die Dauer eines Films und dein Körpergewicht?",
+                      "Warum ist es wichtig, beim Messen den Nullpunkt richtig anzulegen?",
+                      "Wie viele Cent sind 3,40 €?",
+                      "Wie kannst du abschätzen, ob 5 Liter Wasser für eine Gießkanne viel oder wenig sind?"
+                    ],
+                    "sample_answers": [
+                      "Die Tischlänge messe ich in Zentimeter oder Meter, die Filmdauer in Minuten, mein Körpergewicht in Kilogramm.",
+                      "Wenn der Nullpunkt nicht am Anfang des Gegenstandes liegt, ist der Messwert zu groß oder zu klein und damit falsch.",
+                      "3,40 € sind 340 Cent, weil 1 € = 100 Cent ist.",
+                      "Ich vergleiche mit etwas Bekanntem, z. B. mit einer 1,5-l-Flasche. Drei bis vier Flaschen sind etwa 5 Liter – das ist für eine Gießkanne eher viel."
+                    ]
+                  }
+                },
+                {
+                  "id": "mat5_mod3_u2",
+                  "text": "Ich kann Einheiten von Längen, Massen, Zeiten, Geld und Volumina umrechnen und in Sachaufgaben richtig verwenden.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Längeneinheiten umrechnen",
+                        "text": "Für Längen gilt: 10 mm = 1 cm, 100 cm = 1 m, 1 000 m = 1 km. Du übst, zwischen diesen Einheiten zu wechseln, zum Beispiel 3,5 m = 350 cm oder 2 km = 2 000 m. Eine Stellenwerttafel für Längen kann dir helfen, die Umrechnungen zu verstehen."
+                      },
+                      {
+                        "title": "Massen- und Volumeneinheiten umrechnen",
+                        "text": "Für Massen gilt: 1 000 g = 1 kg, 1 000 kg = 1 t (Tonne). Für Volumen: 1 000 ml = 1 l. Du lernst, typische Alltagsmengen einzuordnen, zum Beispiel wie schwer 1 kg ist oder wie viel 500 ml sind, und rechnest zwischen g und kg sowie ml und l um."
+                      },
+                      {
+                        "title": "Zeiteinheiten umrechnen",
+                        "text": "Für Zeiten ist wichtig: 60 s = 1 min, 60 min = 1 h. Außerdem kennst du: 24 h = 1 Tag, etwa 30 Tage = 1 Monat (je nach Monat) und 12 Monate = 1 Jahr. Du rechnest zum Beispiel 90 min = 1 h 30 min oder 2,5 h = 2 h 30 min um."
+                      },
+                      {
+                        "title": "Geldbeträge umrechnen",
+                        "text": "Geldrechnen basiert auf 100 ct = 1 €. Du kannst Beträge wie 3,75 € in 375 ct umrechnen und umgekehrt. In Sachaufgaben achtest du darauf, Geldbeträge mit zwei Nachkommastellen anzugeben und richtig zu addieren oder subtrahieren."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Umrechnen",
+                        "definition": "Größenangabe von einer Einheit in eine andere passende Einheit derselben Größe übertragen."
+                      },
+                      {
+                        "term": "Tonne (t)",
+                        "definition": "Große Masseneinheit; 1 t = 1 000 kg."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann zwischen mm, cm, m und km umrechnen.",
+                      "Ich kann zwischen g, kg (und ggf. t) umrechnen.",
+                      "Ich kann zwischen ml und l umrechnen.",
+                      "Ich kann zwischen s, min und h umrechnen.",
+                      "Ich kann zwischen € und ct umrechnen."
+                    ],
+                    "sample_questions": [
+                      "Wie viele Zentimeter sind 2,3 m?",
+                      "Wandle 1 500 g in kg um.",
+                      "Wie viele Minuten sind 2,25 h?",
+                      "Wandle 560 ct in Euro um."
+                    ],
+                    "sample_answers": [
+                      "2,3 m = 230 cm, weil 1 m = 100 cm ist.",
+                      "1 500 g = 1,5 kg, weil 1 000 g = 1 kg.",
+                      "2,25 h = 2 h + 0,25 h; 0,25 h sind 15 min, also 2 h 15 min.",
+                      "560 ct = 5,60 €, weil 100 ct = 1 €."
+                    ]
+                  }
+                },
+                {
+                  "id": "mat5_mod3_u3",
+                  "text": "Ich kann mit Größen in einfachen Sachaufgaben rechnen und Ergebnisse auf Plausibilität prüfen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Größen in Sachaufgaben",
+                        "text": "In vielen Textaufgaben kommen Größen vor, zum Beispiel beim Einkaufen, beim Planen einer Fahrt oder beim Kochen. Du lernst, wichtige Informationen aus dem Text zu entnehmen, Einheiten bei Bedarf umzurechnen und passende Rechenoperationen zu wählen (plus, minus, mal, geteilt)."
+                      },
+                      {
+                        "title": "Einheiten mitrechnen und aufschreiben",
+                        "text": "Beim Rechnen mit Größen schreibst du Einheiten mit auf, zum Beispiel 3 m + 2 m = 5 m oder 4 · 250 ml = 1 000 ml = 1 l. Du achtest darauf, nur Größen mit gleichen Einheiten direkt zu addieren oder zu subtrahieren und rechnest vorher um, wenn nötig."
+                      },
+                      {
+                        "title": "Ergebnisse prüfen",
+                        "text": "Nach einer Rechnung überlegst du, ob dein Ergebnis zum Sachverhalt passt. Dabei helfen dir Überschläge, Vergleich mit Alltagswissen (z. B. Tankvolumen, Körpergewicht) und die Kontrolle der Einheiten. Wenn zum Beispiel der Preis für ein Brötchen höher ist als für eine ganze Torte, stimmt etwas nicht."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Sachaufgabe",
+                        "definition": "Textaufgabe aus einer Alltagssituation, in der gerechnet werden muss."
+                      },
+                      {
+                        "term": "Plausibilität",
+                        "definition": "Glaubwürdigkeit bzw. Sinnhaftigkeit eines Ergebnisses im Zusammenhang der Aufgabe."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann aus einer Sachaufgabe die wichtigen Größen und Einheiten herausfiltern.",
+                      "Ich kann Einheiten bei Bedarf vor dem Rechnen umrechnen.",
+                      "Ich kann passende Rechenoperationen für eine Größenaufgabe auswählen.",
+                      "Ich kann prüfen, ob mein Ergebnis von der Größenordnung sinnvoll ist."
+                    ],
+                    "sample_questions": [
+                      "Ein Radweg ist 12 km lang. Lisa fährt jeden Tag 3 km davon. Wie viele Tage braucht sie, um ihn einmal ganz abzufahren?",
+                      "Du kaufst 3 Hefte für je 1,49 €. Wie viel zahlst du insgesamt?",
+                      "Eine Flasche fasst 1,5 l Saft. Wie viele Milliliter sind das?",
+                      "Woran merkst du, dass ein Ergebnis wie 3 000 kg für das Gewicht einer Tafel Schokolade nicht plausibel ist?"
+                    ],
+                    "sample_answers": [
+                      "Sie braucht 12 km : 3 km/Tag = 4 Tage.",
+                      "3 · 1,49 € = 4,47 €.",
+                      "1,5 l = 1 500 ml, weil 1 l = 1 000 ml.",
+                      "3 000 kg wären so schwer wie ein Auto oder mehr – das passt nicht zu einer Tafel Schokolade, die in der Regel unter 1 kg wiegt. Das Ergebnis ist also unplausibel."
+                    ]
+                  }
+                },
+                {
+                  "id": "mat5_mod3_u4",
+                  "text": "Ich kann einfache Maßstäbe und Karten nutzen, um reale Längen zu bestimmen oder Zeichnungen anzufertigen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Was ist ein Maßstab?",
+                        "text": "Ein Maßstab zeigt, wie stark eine Zeichnung oder Karte verkleinert oder vergrößert wurde. Zum Beispiel bedeutet der Maßstab 1 : 100, dass 1 cm auf der Zeichnung 100 cm (also 1 m) in Wirklichkeit entspricht. Du lernst, solche Angaben zu lesen und in Rechnungen umzusetzen."
+                      },
+                      {
+                        "title": "Längen auf Karten und Plänen",
+                        "text": "Auf Stadtplänen oder Landkarten kannst du mit einem Lineal Entfernungen messen und mit Hilfe des Maßstabs in echte Entfernungen umrechnen. Ebenso kannst du aus bekannten realen Längen passende Zeichnungslängen berechnen, um maßstäbliche Skizzen zu erstellen."
+                      },
+                      {
+                        "title": "Maßstab in einfachen Aufgaben anwenden",
+                        "text": "Du bearbeitest Aufgaben wie: „Auf einem Plan im Maßstab 1 : 50 ist ein Tisch 4 cm lang eingezeichnet. Wie lang ist er in Wirklichkeit?“ oder „Die echte Strecke ist 500 m, wie lang ist sie auf der Karte im Maßstab 1 : 1 000?“ So verbindest du Größenvorstellungen mit Rechnen und Zeichnen."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Maßstab",
+                        "definition": "Verhältnis zwischen einer Länge in einer Zeichnung und der entsprechenden wirklichen Länge."
+                      },
+                      {
+                        "term": "maßstäblich",
+                        "definition": "Zeichnung oder Modell, das die Größenverhältnisse der Wirklichkeit korrekt verkleinert oder vergrößert wiedergibt."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann einfache Maßstabsangaben wie 1 : 10, 1 : 100 verstehen.",
+                      "Ich kann aus einer Zeichnung im Maßstab die wirkliche Länge berechnen.",
+                      "Ich kann aus einer wirklichen Länge die Zeichnungslänge bestimmen.",
+                      "Ich kann Entfernungen auf einfachen Karten mit Maßstab abschätzen."
+                    ],
+                    "sample_questions": [
+                      "Ein Zimmer ist im Maßstab 1 : 50 gezeichnet. Die Wand ist 6 cm lang. Wie lang ist sie in Wirklichkeit?",
+                      "Eine Straße ist 2 km lang. Wie lang ist sie auf einer Karte im Maßstab 1 : 10 000?",
+                      "Was bedeutet der Maßstab 1 : 1?",
+                      "Warum benutzt man bei Karten verkleinernde Maßstäbe?"
+                    ],
+                    "sample_answers": [
+                      "6 cm · 50 = 300 cm = 3 m. Die Wand ist in Wirklichkeit 3 m lang.",
+                      "2 km = 2 000 m = 200 000 cm. Im Maßstab 1 : 10 000 ist die Zeichnungslänge 200 000 cm : 10 000 = 20 cm.",
+                      "1 : 1 bedeutet, dass Zeichnung und Wirklichkeit gleich groß sind – es handelt sich also nicht um eine Verkleinerung.",
+                      "Weil die wirklichen Entfernungen sehr groß sind und sonst nicht auf ein Blatt Papier passen würden. Durch den Maßstab kann man trotzdem mit den Längen arbeiten."
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "module_id": "mat5_mod4",
+              "module_name": "Figuren und Körper – Formen entdecken, beschreiben und konstruieren",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Formen und Körper in deiner Umwelt",
+                    "text": "In diesem Modul lernst du, geometrische Figuren und Körper bewusst wahrzunehmen und mit Fachbegriffen zu beschreiben. Viele Gegenstände des Alltags – Bücher, Würfelspiele, Dosen, Straßen- und Fensterscheiben – lassen sich als geometrische Figuren oder Körper darstellen. Wenn du erkennst, welche Formen dahinterstecken, kannst du sie besser zeichnen, vergleichen und später damit rechnen."
+                  },
+                  {
+                    "title": "Grundbegriffe der Geometrie",
+                    "text": "Du lernst grundlegende Begriffe wie Punkt, Strecke, Gerade, Strahl, Winkel, parallel und senkrecht kennen und verwendest sie beim Beschreiben von Figuren. Mit Lineal, Geodreieck, Zirkel und ggf. dynamischer Geometriesoftware zeichnest du einfache Figuren und Konstruktionen und übst ein genaues, sorgfältiges Arbeiten."
+                  },
+                  {
+                    "title": "Ebene Figuren, Umfang und Flächeninhalt",
+                    "text": "Du lernst typische ebene Figuren wie Quadrat, Rechteck, Parallelogramm, Raute, Trapez und Drachenviereck kennen und untersuchst ihre Eigenschaften. Außerdem misst und berechnest du Umfang und Flächeninhalt von Quadraten, Rechtecken und einfachen zusammengesetzten Figuren als Vorbereitung auf umfangreichere Aufgaben in Klasse 6."
+                  },
+                  {
+                    "title": "Körper, Netze und Volumen",
+                    "text": "Du erkennst geometrische Körper wie Würfel, Quader, Kugel, Zylinder, Kegel und Pyramide in deiner Umwelt und beschreibst sie mit Fachbegriffen (Ecken, Kanten, Flächen).  Du ordnest Netze zu Würfeln und Quadern zu und lernst einfache Schrägbilder kennen, um räumliche Vorstellungen zu entwickeln. In ersten Aufgaben lernst du, Volumen und Oberfläche von Würfeln und Quadern zu deuten und in einfachen Fällen zu berechnen (vertieft bis Ende Klasse 6). "
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "mat5_mod4_u1",
+                  "text": "Ich kann grundlegende geometrische Begriffe (Punkt, Strecke, Strahl, Gerade, Winkel, parallel, senkrecht) verstehen und verwenden.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Punkt, Strecke, Strahl und Gerade",
+                        "text": "Ein Punkt markiert eine genaue Lage im Raum oder auf dem Papier. Eine Strecke ist die kürzeste Verbindung zwischen zwei Punkten und hat eine begrenzte Länge. Eine Gerade verläuft unendlich weit in beide Richtungen, ein Strahl beginnt in einem Punkt und verläuft dann unendlich in eine Richtung."
+                      },
+                      {
+                        "title": "Winkel verstehen",
+                        "text": "Ein Winkel entsteht, wenn zwei Strahlen oder Strecken in einem Punkt zusammentreffen. Der Treffpunkt heißt Scheitel, die Strahlen heißen Schenkel des Winkels. Du lernst, Winkel mit dem Geodreieck zu messen, grob zu schätzen und verschiedene Winkelarten (spitz, recht, stumpf) zu unterscheiden."
+                      },
+                      {
+                        "title": "Parallel und senkrecht",
+                        "text": "Zwei Geraden oder Strecken sind parallel, wenn sie immer den gleichen Abstand zueinander haben und sich bei einer Verlängerung nie schneiden. Sie sind senkrecht, wenn sie sich unter einem rechten Winkel (90 Grad) schneiden. Du übst, parallele und senkrechte Strecken zu erkennen und mit Lineal und Geodreieck zu zeichnen."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Punkt",
+                        "definition": "Grundelement der Geometrie; markiert eine genaue Lage, hat selbst keine Ausdehnung."
+                      },
+                      {
+                        "term": "Strecke",
+                        "definition": "Verbindung zweier Punkte mit begrenzter Länge."
+                      },
+                      {
+                        "term": "Gerade",
+                        "definition": "Unendlich lange Linie ohne Krümmung."
+                      },
+                      {
+                        "term": "Strahl",
+                        "definition": "Beginnt in einem Punkt und verläuft von dort aus unendlich in eine Richtung."
+                      },
+                      {
+                        "term": "Winkel",
+                        "definition": "Figur, die durch zwei Strahlen mit gemeinsamer Anfangsstelle entsteht."
+                      },
+                      {
+                        "term": "parallel",
+                        "definition": "Geraden oder Strecken mit konstantem Abstand, die sich niemals schneiden."
+                      },
+                      {
+                        "term": "senkrecht",
+                        "definition": "Geraden oder Strecken, die sich in einem rechten Winkel (90°) schneiden."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann Punkt, Strecke, Strahl und Gerade an Beispielen unterscheiden.",
+                      "Ich kann einfache Winkel mit dem Geodreieck messen und grob schätzen.",
+                      "Ich kann erklären, wann zwei Geraden parallel bzw. senkrecht sind.",
+                      "Ich kann parallele und senkrechte Strecken mit Lineal und Geodreieck zeichnen."
+                    ],
+                    "sample_questions": [
+                      "Erkläre den Unterschied zwischen einer Strecke und einer Geraden.",
+                      "Wie erkennst du einen rechten Winkel, und wie misst du einen Winkel mit dem Geodreieck?",
+                      "Gib ein Beispiel aus dem Alltag für parallele und ein Beispiel für senkrechte Linien.",
+                      "Was ist ein Strahl, und wie unterscheidet er sich von einer Strecke?"
+                    ],
+                    "sample_answers": [
+                      "Eine Strecke hat zwei Endpunkte und eine begrenzte Länge, eine Gerade geht in beide Richtungen unendlich weiter.",
+                      "Ein rechter Winkel ist 90°. Ich lege das Geodreieck mit der Mittellinie auf den Scheitelpunkt, richte eine Schenkelseite an der 0°-Markierung aus und lese an der anderen Schenkelseite den Winkel ab.",
+                      "Parallele Linien: Schienen einer Eisenbahn; senkrechte Linien: eine Hauswand im rechten Winkel zum Boden.",
+                      "Ein Strahl hat einen Anfangspunkt und verläuft von dort aus unendlich in eine Richtung. Eine Strecke hat zwei Endpunkte und ist begrenzt."
+                    ]
+                  }
+                },
+                {
+                  "id": "mat5_mod4_u2",
+                  "text": "Ich kann ebene Figuren (Quadrat, Rechteck, Parallelogramm, Raute, Trapez, Drachenviereck) erkennen, beschreiben und zeichnen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Ebene Figuren und ihre Eigenschaften",
+                        "text": "Ebene Figuren liegen in einer Ebene, zum Beispiel auf einem Blatt Papier. Viele Figuren haben vier Seiten (Vierecke), zum Beispiel Quadrat, Rechteck, Parallelogramm, Raute, Trapez und Drachenviereck. Du beschreibst sie anhand von Seitenlängen, Winkelgrößen und Parallelität."
+                      },
+                      {
+                        "title": "Quadrat und Rechteck",
+                        "text": "Ein Quadrat hat vier gleich lange Seiten und vier rechte Winkel. Ein Rechteck hat vier rechte Winkel, aber gegenüberliegende Seiten sind nur paarweise gleich lang. Beide sind besondere Vierecke, die sich gut zum Üben von Umfang und Flächeninhalt eignen."
+                      },
+                      {
+                        "title": "Parallelogramm, Raute, Trapez, Drachenviereck",
+                        "text": "Ein Parallelogramm hat je zwei gegenüberliegende, parallele Seiten. Eine Raute (Rhombus) hat vier gleich lange Seiten, aber nicht unbedingt rechte Winkel. Ein Trapez hat mindestens ein Paar paralleler Seiten, ein Drachenviereck zwei Paare gleich langer Nachbarseiten. Du lernst, diese Figuren zu erkennen, zu skizzieren und ihre Eigenschaften zu benennen."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Viereck",
+                        "definition": "Ebene Figur mit vier Seiten."
+                      },
+                      {
+                        "term": "Quadrat",
+                        "definition": "Viereck mit vier gleich langen Seiten und vier rechten Winkeln."
+                      },
+                      {
+                        "term": "Rechteck",
+                        "definition": "Viereck mit vier rechten Winkeln; gegenüberliegende Seiten sind gleich lang."
+                      },
+                      {
+                        "term": "Parallelogramm",
+                        "definition": "Viereck mit je zwei parallelen gegenüberliegenden Seiten."
+                      },
+                      {
+                        "term": "Raute",
+                        "definition": "Viereck mit vier gleich langen Seiten."
+                      },
+                      {
+                        "term": "Trapez",
+                        "definition": "Viereck mit mindestens einem Paar paralleler Seiten."
+                      },
+                      {
+                        "term": "Drachenviereck",
+                        "definition": "Viereck mit zwei Paaren gleich langer Nachbarseiten."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann Quadrat, Rechteck, Parallelogramm, Raute, Trapez und Drachenviereck in Abbildungen unterscheiden.",
+                      "Ich kann wichtige Eigenschaften dieser Figuren benennen (Seiten, Winkel, Parallelität). ",
+                      "Ich kann einfache Vierecke mit Lineal und Geodreieck skizzieren und zeichnen.",
+                      "Ich kann Figuren aus dem Alltag passenden geometrischen Vierecken zuordnen."
+                    ],
+                    "sample_questions": [
+                      "Wodurch unterscheiden sich Quadrat und Rechteck?",
+                      "Welche Eigenschaften hat ein Parallelogramm?",
+                      "Gib ein Alltagsbeispiel für ein Rechteck und eines für ein Trapez.",
+                      "Wie erkennst du eine Raute in einer Zeichnung?"
+                    ],
+                    "sample_answers": [
+                      "Beim Quadrat sind alle vier Seiten gleich lang und alle vier Winkel sind rechte Winkel; beim Rechteck sind alle vier Winkel recht, aber nur die gegenüberliegenden Seiten gleich lang.",
+                      "Ein Parallelogramm hat zwei Paare paralleler, gegenüberliegender Seiten, gegenüberliegende Seiten sind gleich lang und gegenüberliegende Winkel sind gleich groß.",
+                      "Rechteck: eine Tür oder ein Buch; Trapez: ein Tisch mit schrägen Beinen und abgeschrägter Unterseite oder ein Straßenverkehrsschild in Trapezform.",
+                      "Bei einer Raute sind alle vier Seiten gleich lang, aber die Winkel sind nicht zwingend 90°."
+                    ]
+                  }
+                },
+                {
+                  "id": "mat5_mod4_u3",
+                  "text": "Ich kann Umfang und Flächeninhalt von Quadraten und Rechtecken messen und berechnen (auch einfache zusammengesetzte Figuren).",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Umfang – Grenze einer Figur",
+                        "text": "Der Umfang ist die Länge der Randlinie einer Figur. Du kannst ihn bestimmen, indem du alle Seitenlängen addierst oder bei Rechtecken und Quadraten passende Formeln anwendest. Der Umfang wird in Längeneinheiten wie cm oder m angegeben."
+                      },
+                      {
+                        "title": "Flächeninhalt – wie viel Platz eine Figur einnimmt",
+                        "text": "Der Flächeninhalt gibt an, wie groß die Fläche innerhalb der Randlinie ist. Du kannst ihn für Rechtecke und Quadrate mit Formeln berechnen, zum Beispiel A = a · b für das Rechteck und A = a · a für das Quadrat. Der Flächeninhalt wird in Flächeneinheiten wie cm² oder m² angegeben."
+                      },
+                      {
+                        "title": "Zusammengesetzte Figuren",
+                        "text": "Viele Flächen im Alltag sind keine einfachen Rechtecke. Du kannst solche Figuren in Rechtecke und Quadrate zerlegen, ihre Flächen berechnen und addieren. So lernst du, auch unregelmäßigere Formen zu behandeln, indem du sie in bekannte Teilflächen gliederst."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Umfang",
+                        "definition": "Summe aller Seitenlängen einer Figur."
+                      },
+                      {
+                        "term": "Flächeninhalt",
+                        "definition": "Maß dafür, wie groß die Fläche innerhalb einer Figur ist."
+                      },
+                      {
+                        "term": "Quadratmeter (m²)",
+                        "definition": "Flächeneinheit; Fläche eines Quadrats mit 1 m Seitenlänge."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann bei Quadraten und Rechtecken den Umfang messen und berechnen.",
+                      "Ich kenne die Formeln für den Flächeninhalt von Quadrat und Rechteck und kann sie anwenden.",
+                      "Ich kann Einheiten für Länge und Fläche unterscheiden (z. B. cm vs. cm²).",
+                      "Ich kann einfache zusammengesetzte Figuren in Rechtecke zerlegen und ihren Flächeninhalt bestimmen."
+                    ],
+                    "sample_questions": [
+                      "Berechne den Umfang eines Rechtecks mit 5 cm und 8 cm Seitenlänge.",
+                      "Ein Quadrat hat die Seitenlänge 6 cm. Wie groß sind Umfang und Flächeninhalt?",
+                      "Warum ist 3 cm · 4 cm = 12 cm² und nicht 12 cm?",
+                      "Wie kannst du den Flächeninhalt einer L-förmigen Figur bestimmen, die aus zwei Rechtecken besteht?"
+                    ],
+                    "sample_answers": [
+                      "Umfang: U = 2 · (5 cm + 8 cm) = 2 · 13 cm = 26 cm.",
+                      "Umfang: U = 4 · 6 cm = 24 cm; Flächeninhalt: A = 6 cm · 6 cm = 36 cm².",
+                      "Weil du zwei Längen miteinander multiplizierst (cm · cm), entsteht eine Flächeneinheit (cm²). Du berechnest also eine Fläche, nicht eine einfache Länge.",
+                      "Ich teile die L-Form in zwei Rechtecke auf, berechne die Flächen beider Rechtecke und addiere sie."
+                    ]
+                  }
+                },
+                {
+                  "id": "mat5_mod4_u4",
+                  "text": "Ich kann geometrische Körper (Würfel, Quader, Kugel, Zylinder, Kegel, Pyramide) erkennen, beschreiben und in meiner Umwelt wiederfinden.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Körper und ihre Bausteine",
+                        "text": "Geometrische Körper haben drei Dimensionen: Länge, Breite und Höhe. Du beschreibst sie mit ihren Ecken, Kanten und Flächen. Ein Würfel hat zum Beispiel 8 Ecken, 12 Kanten und 6 kongruente Quadrate als Flächen."
+                      },
+                      {
+                        "title": "Wichtige Körperarten",
+                        "text": "Typische Körper sind Würfel, Quader, Kugel, Zylinder, Kegel und Pyramide. Viele Alltagsgegenstände haben ungefähr diese Form: eine Getränkekiste (Quader), ein Würfelspiel (Würfel), eine Dose (Zylinder), ein Eishörnchen (Kegel), ein Ball (Kugel)."
+                      },
+                      {
+                        "title": "Körper im Alltag erkennen",
+                        "text": "Du übst, Gegenstände aus deiner Umgebung den geometrischen Körpern zuzuordnen. So verbindest du abstrakte Begriffe mit konkreten Erfahrungen und baust deine räumliche Vorstellung weiter aus."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Körper",
+                        "definition": "Dreidimensionale geometrische Figur."
+                      },
+                      {
+                        "term": "Würfel",
+                        "definition": "Körper mit sechs kongruenten quadratischen Flächen."
+                      },
+                      {
+                        "term": "Quader",
+                        "definition": "Körper mit sechs rechteckigen Flächen; gegenüberliegende Flächen sind gleich."
+                      },
+                      {
+                        "term": "Zylinder",
+                        "definition": "Körper mit zwei kongruenten, parallelen Kreisflächen und einer Mantelfläche."
+                      },
+                      {
+                        "term": "Kegel",
+                        "definition": "Körper mit einer Kreisfläche und einer Mantelfläche, die zu einer Spitze zusammenläuft."
+                      },
+                      {
+                        "term": "Pyramide",
+                        "definition": "Körper mit einer Vielecksfläche als Grundfläche und Dreiecksflächen, die in einer Spitze zusammenlaufen."
+                      },
+                      {
+                        "term": "Kugel",
+                        "definition": "Rotationskörper, bei dem alle Punkte der Oberfläche den gleichen Abstand vom Mittelpunkt haben."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann Würfel, Quader, Kugel, Zylinder, Kegel und Pyramide benennen und beschreiben.",
+                      "Ich kann die Anzahl von Ecken, Kanten und Flächen bei Würfel und Quader angeben.",
+                      "Ich kann Gegenstände aus meiner Umwelt passenden Körpern zuordnen.",
+                      "Ich kann einfache Schrägbilder von Würfeln und Quadern deuten."
+                    ],
+                    "sample_questions": [
+                      "Wie viele Ecken, Kanten und Flächen hat ein Würfel?",
+                      "Nenne zu jedem Körper (Würfel, Quader, Zylinder, Kugel, Kegel, Pyramide) einen Gegenstand aus dem Alltag.",
+                      "Worin unterscheidet sich ein Quader von einem Würfel?",
+                      "Warum sagt man, dass ein Ball näher an der Form einer Kugel als an der eines Quaders ist?"
+                    ],
+                    "sample_answers": [
+                      "Ein Würfel hat 8 Ecken, 12 Kanten und 6 Flächen.",
+                      "Würfel: Spielwürfel; Quader: Bücherkarton; Zylinder: Getränkedose; Kugel: Fußball; Kegel: Eiswaffel; Pyramide: Pyramiden-Souvenir.",
+                      "Beim Würfel sind alle Kanten gleich lang und alle Flächen sind Quadrate; beim Quader sind nur die gegenüberliegenden Kanten gleich lang und die Flächen sind Rechtecke.",
+                      "Ein Ball ist in alle Richtungen gleich rund, alle Punkte seiner Oberfläche sind ungefähr gleich weit vom Mittelpunkt entfernt – das passt zur Kugel und nicht zum Quader."
+                    ]
+                  }
+                },
+                {
+                  "id": "mat5_mod4_u5",
+                  "text": "Ich kann einfache Netze und Schrägbilder von Würfeln und Quadern zuordnen und erste Aufgaben zu Volumen und Oberfläche verstehen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Netze von Würfel und Quader",
+                        "text": "Ein Netz ist eine zweidimensionale Darstellung eines Körpers, die durch Falten zu dem Körper zusammengesetzt werden kann. Du erkennst Netze von Würfeln und Quadern und prüfst, ob sie sich zu einem Körper falten lassen."
+                      },
+                      {
+                        "title": "Schrägbilder zur Darstellung von Körpern",
+                        "text": "Schrägbilder zeigen Körper räumlich auf einer ebenen Fläche. Du lernst einfache Schrägbilder von Würfeln und Quadern zu lesen und grob selbst zu zeichnen. Dadurch trainierst du dein räumliches Vorstellungsvermögen."
+                      },
+                      {
+                        "title": "Volumen und Oberfläche in Grundfällen",
+                        "text": "Volumen beschreibt, wie viel Raum ein Körper einnimmt, die Oberfläche die Gesamtfläche aller Außenflächen. Für Würfel und Quader kannst du mit Hilfe ihrer Kantenlängen einfache Volumen- und Oberflächenaufgaben bearbeiten, zum Beispiel Volumen eines Würfels mit Kantenlänge 2 cm. In Klasse 5 bleibt dies vorbereitend und wird bis Ende Klasse 6 vertieft."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Netz",
+                        "definition": "Ausgebreitete Flächen eines Körpers in der Ebene, die sich zu dem Körper zusammenfalten lassen."
+                      },
+                      {
+                        "term": "Schrägbild",
+                        "definition": "Zeichnung, die einen Körper räumlich wirken lässt."
+                      },
+                      {
+                        "term": "Volumen",
+                        "definition": "Rauminhalt eines Körpers, zum Beispiel in cm³ oder m³."
+                      },
+                      {
+                        "term": "Oberfläche",
+                        "definition": "Summe der Flächeninhalte aller Außenflächen eines Körpers."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann Netze von Würfeln und Quadern erkennen und passende Körper zuordnen.",
+                      "Ich kann einfache Schrägbilder von Würfeln und Quadern deuten.",
+                      "Ich weiß, dass Volumen in Raumeinheiten (z. B. cm³) angegeben wird.",
+                      "Ich kann in einfachen Fällen das Volumen eines Würfels mit bekannter Kantenlänge bestimmen."
+                    ],
+                    "sample_questions": [
+                      "Woran erkennst du, ob ein gezeichnetes Netz zu einem Würfel gehört?",
+                      "Was versteht man unter Volumen? Nenne eine passende Einheit.",
+                      "Ein Würfel hat die Kantenlänge 3 cm. Wie groß ist sein Volumen?",
+                      "Warum ist es sinnvoll, Netze zu betrachten, wenn man die Oberfläche eines Körpers berechnen möchte?"
+                    ],
+                    "sample_answers": [
+                      "Bei einem Würfelnetz müssen genau sechs Quadrate so angeordnet sein, dass an jeder Kante nach dem Falten genau eine andere Fläche anliegt, ohne Lücke und ohne Überlappung.",
+                      "Volumen ist der Rauminhalt eines Körpers, z. B. in cm³ oder m³.",
+                      "Volumen: V = 3 cm · 3 cm · 3 cm = 27 cm³.",
+                      "Im Netz liegen alle Flächen des Körpers nebeneinander in der Ebene, daher kann ich ihre Flächeninhalte leichter berechnen und zur Oberfläche addieren."
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "module_id": "mat5_mod5",
+              "module_name": "Gebrochene Zahlen – Brüche und Dezimalzahlen verstehen",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Warum gebrochene Zahlen?",
+                    "text": "In diesem Modul lernst du Zahlen kennen, die zwischen den natürlichen Zahlen liegen, zum Beispiel 1/2 oder 3/4.[file:3] Solche gebrochenen Zahlen brauchst du überall im Alltag: beim Kochen, beim Teilen von Dingen, bei Längenangaben oder bei Geldbeträgen.[file:3]"
+                  },
+                  {
+                    "title": "Brüche anschaulich und als Zahl",
+                    "text": "Du baust ein Verständnis dafür auf, was ein Bruch bedeutet: einen Anteil eines Ganzen oder einer Menge.[file:3] Du stellst Brüche mit Bildern, auf dem Zahlenstrahl und mit der Bruchschreibweise dar und lernst die Begriffe Zähler, Nenner und Bruchstrich sicher zu verwenden.[file:3]"
+                  },
+                  {
+                    "title": "Von Brüchen zu Dezimalbrüchen",
+                    "text": "Du lernst Dezimalzahlen (Kommazahlen) wie 0,5 oder 2,75 kennen und stellst sie in der Stellenwerttafel und auf dem Zahlenstrahl dar.[file:3] Du übst, einfache Brüche in Dezimalbrüche und umgekehrt umzuwandeln und mit beiden Darstellungen zu rechnen.[file:3]"
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "mat5_mod5_u1",
+                  "text": "Ich kann Brüche mit Zähler, Nenner und Bruchstrich verstehen, darstellen und in Alltagssituationen deuten.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Aufbau eines Bruchs",
+                        "text": "Ein Bruch wie 3/4 besteht aus Zähler, Nenner und Bruchstrich.[file:3] Der Nenner (unten) gibt an, in wie viele gleich große Teile das Ganze geteilt wurde; der Zähler (oben) zeigt, wie viele dieser Teile gemeint sind.[file:3]"
+                      },
+                      {
+                        "title": "Brüche anschaulich darstellen",
+                        "text": "Du stellst Brüche mit Flächenmodellen (z. B. Kreise, Rechtecke), Strecken oder Mengen dar.[file:3] So erkennst du, dass zum Beispiel 1/2 einer Schokolade etwas anderes ist als 1/2 einer viel größeren Schokolade, aber der Anteil gleich bleibt.[file:3]"
+                      },
+                      {
+                        "title": "Brüche im Alltag",
+                        "text": "Brüche tauchen in vielen Alltagssituationen auf, etwa bei Rezepten (1/2 Liter Milch), bei Uhrzeiten (Viertelstunde) oder beim Teilen von Dingen (eine Pizza in 8 Stücke).[file:3] Du übst, solche Situationen mit Bruchschreibweise zu beschreiben und umgekehrt.[file:3]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Bruch",
+                        "definition": "Zahl, die einen Anteil eines Ganzen beschreibt, geschrieben mit Zähler, Bruchstrich und Nenner.[file:3]"
+                      },
+                      {
+                        "term": "Zähler",
+                        "definition": "Zahl im Bruch, die angibt, wie viele Teile genommen werden.[file:3]"
+                      },
+                      {
+                        "term": "Nenner",
+                        "definition": "Zahl im Bruch, die angibt, in wie viele Teile das Ganze geteilt wurde.[file:3]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann Zähler und Nenner benennen und erklären.[file:3]",
+                      "Ich kann einfache Brüche zeichnen (z. B. 1/2, 1/3, 3/4). [file:3]",
+                      "Ich kann Alltagssituationen mit einfachen Brüchen beschreiben.[file:3]",
+                      "Ich kann sagen, ob ein Bruch größer, kleiner oder gleich 1 ist (anschaulich). [file:3]"
+                    ],
+                    "sample_questions": [
+                      "Was bedeutet der Bruch 3/4 anschaulich?[file:3]",
+                      "Wie würdest du 1/2 Pizza in einer Zeichnung darstellen?[file:3]",
+                      "Ist 5/4 größer oder kleiner als 1? Begründe.[file:3]",
+                      "Nenne eine Alltagssituation, in der 1/3 vorkommen kann.[file:3]"
+                    ],
+                    "sample_answers": [
+                      "3/4 bedeutet: Ein Ganzes ist in 4 gleich große Teile geteilt, und 3 dieser Teile werden betrachtet.[file:3]",
+                      "Ich zeichne einen Kreis als Pizza, teile ihn in 2 gleich große Stücke und markiere eines davon.[file:3]",
+                      "5/4 ist größer als 1, weil 4/4 genau 1 Ganzes sind und 5/4 noch ein Viertel mehr ist.[file:3]",
+                      "Zum Beispiel: Ein Kuchen wird in 3 gleich große Stücke geteilt, und jede Person bekommt 1/3.[file:3]"
+                    ]
+                  }
+                },
+                {
+                  "id": "mat5_mod5_u2",
+                  "text": "Ich kann Brüche ordnen, vergleichen, erweitern und kürzen (in einfachen Fällen).",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Echte und unechte Brüche, gemischte Zahlen",
+                        "text": "Ein echter Bruch ist kleiner als 1, der Zähler ist kleiner als der Nenner, z. B. 3/5.[file:3] Ein unechter Bruch ist größer oder gleich 1, der Zähler ist größer oder gleich dem Nenner, z. B. 7/4.[file:3] Du lernst, unechte Brüche in gemischte Zahlen umzuwandeln (z. B. 7/4 = 1 3/4) und umgekehrt.[file:3]"
+                      },
+                      {
+                        "title": "Erweitern und Kürzen von Brüchen",
+                        "text": "Beim Erweitern multiplizierst du Zähler und Nenner mit derselben Zahl, beim Kürzen teilst du beide durch dieselbe Zahl.[file:3] Der Wert des Bruchs bleibt dabei gleich, z. B. 1/2 = 2/4 = 3/6.[file:3]"
+                      },
+                      {
+                        "title": "Brüche ordnen und vergleichen",
+                        "text": "Du vergleichst Brüche anschaulich mit Bildern oder auf dem Zahlenstrahl.[file:3] In einfachen Fällen nutzt du gleichnamige Brüche, also Brüche mit demselben Nenner, um zu entscheiden, welcher größer ist.[file:3]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "echter Bruch",
+                        "definition": "Bruch mit Zähler kleiner als Nenner (Wert kleiner als 1). [file:3]"
+                      },
+                      {
+                        "term": "unechter Bruch",
+                        "definition": "Bruch mit Zähler größer oder gleich Nenner (Wert größer oder gleich 1). [file:3]"
+                      },
+                      {
+                        "term": "gemischte Zahl",
+                        "definition": "Zahl aus einer ganzen Zahl und einem Bruch, z. B. 2 1/3.[file:3]"
+                      },
+                      {
+                        "term": "erweitern",
+                        "definition": "Zähler und Nenner mit derselben Zahl multiplizieren.[file:3]"
+                      },
+                      {
+                        "term": "kürzen",
+                        "definition": "Zähler und Nenner durch dieselbe Zahl teilen.[file:3]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann echte und unechte Brüche unterscheiden.[file:3]",
+                      "Ich kann unechte Brüche in gemischte Zahlen umwandeln und zurück.[file:3]",
+                      "Ich kann einfache Brüche erweitern und kürzen (z. B. mit 2, 3, 4). [file:3]",
+                      "Ich kann gleichnamige Brüche vergleichen und der Größe nach ordnen.[file:3]"
+                    ],
+                    "sample_questions": [
+                      "Ist 7/3 ein echter oder ein unechter Bruch? Schreibe ihn als gemischte Zahl.[file:3]",
+                      "Erweitere 1/3 mit 4 und kürze 8/12 so weit wie möglich.[file:3]",
+                      "Welche Zahl ist größer: 3/8 oder 5/8?[file:3]",
+                      "Ordne 1/2, 2/3, 1/4 der Größe nach (vom kleinsten zum größten) – gern zuerst anschaulich.[file:3]"
+                    ],
+                    "sample_answers": [
+                      "7/3 ist ein unechter Bruch, als gemischte Zahl: 2 1/3.[file:3]",
+                      "1/3 erweitert mit 4 ergibt 4/12; 8/12 gekürzt durch 4 ist 2/3.[file:3]",
+                      "5/8 ist größer als 3/8, weil beide den gleichen Nenner haben und 5 größer als 3 ist.[file:3]",
+                      "Anschaulich sieht man, dass 1/4 < 1/2 < 2/3; also: 1/4, 1/2, 2/3.[file:3]"
+                    ]
+                  }
+                },
+                {
+                  "id": "mat5_mod5_u3",
+                  "text": "Ich kann einfache Rechnungen mit Brüchen durchführen (v. a. mit gleichen Nennern) und in Sachaufgaben anwenden.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Brüche addieren und subtrahieren",
+                        "text": "Bei gleichen Nennern addierst oder subtrahierst du nur die Zähler, der Nenner bleibt gleich.[file:3] Beispiel: 1/8 + 3/8 = 4/8 = 1/2.[file:3]"
+                      },
+                      {
+                        "title": "Brüche in Sachaufgaben",
+                        "text": "Du verwendest Bruchrechnungen in einfachen Textaufgaben, zum Beispiel bei Kuchenstücken, Wegstrecken oder Zeitangaben.[file:3] Dabei hilft dir eine Skizze, den Sachverhalt zu verstehen.[file:3]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "gleichnamige Brüche",
+                        "definition": "Brüche mit gleichem Nenner.[file:3]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann einfache gleichnamige Brüche addieren und subtrahieren.[file:3]",
+                      "Ich kann Ergebnisse ggf. kürzen.[file:3]",
+                      "Ich kann zu einer Sachaufgabe mit Teilen eines Ganzen eine passende Bruchrechnung aufstellen.[file:3]"
+                    ],
+                    "sample_questions": [
+                      "Berechne 2/5 + 1/5.[file:3]",
+                      "Eine Tafel Schokolade ist in 8 Stücke geteilt. Du isst 3 Stücke, deine Freundin 2. Welchen Anteil habt ihr zusammen gegessen?[file:3]",
+                      "Subtrahiere 5/6 − 1/6.[file:3]"
+                    ],
+                    "sample_answers": [
+                      "2/5 + 1/5 = 3/5.[file:3]",
+                      "3/8 + 2/8 = 5/8 der Tafel.[file:3]",
+                      "5/6 − 1/6 = 4/6 = 2/3 (gekürzt). [file:3]"
+                    ]
+                  }
+                },
+                {
+                  "id": "mat5_mod5_u4",
+                  "text": "Ich kann Dezimalbrüche in der Stellenwerttafel und auf dem Zahlenstrahl darstellen, ordnen und runden.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Dezimalbrüche und Stellenwerttafel",
+                        "text": "Dezimalbrüche sind Zahlen mit Komma, zum Beispiel 0,5 oder 2,37.[file:3] Rechts vom Komma stehen Zehntel-, Hundertstel-, Tausendstelstellen usw.[file:3] Du trägst Dezimalzahlen in eine Stellenwerttafel ein und liest sie korrekt vor.[file:3]"
+                      },
+                      {
+                        "title": "Dezimalzahlen auf dem Zahlenstrahl",
+                        "text": "Du ordnest Dezimalzahlen auf dem Zahlenstrahl ein und erkennst, welche größer oder kleiner sind.[file:3] Dabei nutzt du dein Verständnis von Stellenwerten und vergleichst zum Beispiel 3,4 und 3,25.[file:3]"
+                      },
+                      {
+                        "title": "Runden von Dezimalzahlen",
+                        "text": "Du rundest Dezimalzahlen auf eine bestimmte Stelle (z. B. auf Zehntel oder Hundertstel) nach den bekannten Rundungsregeln.[file:3]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Dezimalbruch",
+                        "definition": "Bruch, der als Kommazahl geschrieben wird, z. B. 0,75.[file:3]"
+                      },
+                      {
+                        "term": "Zehntelstelle",
+                        "definition": "Erste Stelle rechts vom Komma.[file:3]"
+                      },
+                      {
+                        "term": "Hundertstelstelle",
+                        "definition": "Zweite Stelle rechts vom Komma.[file:3]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann Dezimalzahlen korrekt in eine Stellenwerttafel eintragen.[file:3]",
+                      "Ich kann Dezimalzahlen auf dem Zahlenstrahl darstellen und vergleichen.[file:3]",
+                      "Ich kann Dezimalzahlen auf eine vorgegebene Stelle runden.[file:3]"
+                    ],
+                    "sample_questions": [
+                      "Schreibe 3,207 in eine Stellenwerttafel (Einer, Zehntel, Hundertstel, Tausendstel).[file:3]",
+                      "Welche Zahl ist größer: 4,5 oder 4,35? Begründe.[file:3]",
+                      "Runde 7,386 auf ein Zehntel.[file:3]"
+                    ],
+                    "sample_answers": [
+                      "3 Einer, 2 Zehntel, 0 Hundertstel, 7 Tausendstel.[file:3]",
+                      "4,5 ist größer, weil beide Zahlen 4 Einer haben, aber 0,5 > 0,35.[file:3]",
+                      "7,386 ≈ 7,4, weil an der Hundertstelstelle eine 8 steht (also aufrunden). [file:3]"
+                    ]
+                  }
+                },
+                {
+                  "id": "mat5_mod5_u5",
+                  "text": "Ich kann einfache Brüche in Dezimalbrüche und Prozentangaben umwandeln und umgekehrt (in Grundfällen).",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Von Bruch zu Dezimalzahl",
+                        "text": "Du wandelst einfache Brüche in Dezimalzahlen um, vor allem mit Nennern 2, 4, 5, 10, 20, 25 und 100.[file:3] Zum Beispiel 1/2 = 0,5, 1/4 = 0,25, 3/4 = 0,75.[file:3]"
+                      },
+                      {
+                        "title": "Prozent als besondere Schreibweise",
+                        "text": "Prozentangaben sind Brüche mit Nenner 100, z. B. 25 % = 25/100 = 0,25.[file:3] Du nutzt einfache Prozentwerte, um Anteile anschaulich zu beschreiben.[file:3]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Prozent",
+                        "definition": "Anteil mit Bezugsgröße 100, geschrieben mit dem Zeichen %.[file:3]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kenne die Umwandlung einiger Standardbrüche in Dezimalzahlen (1/2, 1/4, 3/4, 1/5, 2/5). [file:3]",
+                      "Ich kann einfache Prozentwerte als Bruch und Dezimalzahl angeben.[file:3]",
+                      "Ich kann in einfachen Sachaufgaben zwischen Bruch, Dezimalzahl und Prozent wechseln.[file:3]"
+                    ],
+                    "sample_questions": [
+                      "Wandle 1/2, 1/4 und 3/4 in Dezimalzahlen um.[file:3]",
+                      "Was bedeutet 50 % als Bruch und als Dezimalzahl?[file:3]",
+                      "Schreibe 0,2 als Bruch und als Prozentangabe.[file:3]"
+                    ],
+                    "sample_answers": [
+                      "1/2 = 0,5; 1/4 = 0,25; 3/4 = 0,75.[file:3]",
+                      "50 % = 50/100 = 1/2 = 0,5.[file:3]",
+                      "0,2 = 2/10 = 1/5 = 20 %.[file:3]"
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "module_id": "mat5_mod6",
+              "module_name": "Dreiecke und Kreis – Winkel, Formen und Konstruktionen",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Dreiecke und Kreise in der Umwelt",
+                    "text": "In diesem Modul lernst du, Dreiecke und Kreise bewusst wahrzunehmen und mit Fachbegriffen zu beschreiben.[file:3] Viele Bauwerke, Verkehrszeichen und Alltagsgegenstände enthalten Dreiecke oder Kreise, zum Beispiel Brückenkonstruktionen, Dachformen oder Räder.[file:3]"
+                  },
+                  {
+                    "title": "Winkel messen und Dreiecke beschreiben",
+                    "text": "Du wiederholst den Umgang mit Winkeln und übst, sie mit dem Geodreieck zu schätzen, zu messen und zu zeichnen.[file:3] Dann unterscheidest du Dreiecke nach Seiten und Winkeln und beschreibst sie mit passenden Begriffen.[file:3]"
+                  },
+                  {
+                    "title": "Kreis, Radius und Durchmesser",
+                    "text": "Du lernst die Grundbegriffe zum Kreis kennen: Mittelpunkt, Radius und Durchmesser.[file:3] Mit dem Zirkel zeichnest du Kreise und erkennst Zusammenhänge zwischen Radius und Durchmesser.[file:3]"
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "mat5_mod6_u1",
+                  "text": "Ich kann Winkelarten erkennen, Winkel schätzen, messen und zeichnen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Winkelarten",
+                        "text": "Du unterscheidest spitze, rechte, stumpfe und gestreckte Winkel.[file:3] Ein rechter Winkel hat 90°, spitze Winkel sind kleiner als 90°, stumpfe größer als 90° und kleiner als 180°, ein gestreckter Winkel hat 180°.[file:3]"
+                      },
+                      {
+                        "title": "Winkel messen und zeichnen",
+                        "text": "Mit dem Geodreieck misst du Winkelgrößen und zeichnest Winkel mit vorgegebenem Maß.[file:3] Du lernst, den Nullpunkt korrekt anzulegen und den richtigen Zahlenrand zu verwenden.[file:3]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "spitzer Winkel",
+                        "definition": "Winkel kleiner als 90°.[file:3]"
+                      },
+                      {
+                        "term": "rechter Winkel",
+                        "definition": "Winkel mit 90°.[file:3]"
+                      },
+                      {
+                        "term": "stumpfer Winkel",
+                        "definition": "Winkel größer als 90° und kleiner als 180°.[file:3]"
+                      },
+                      {
+                        "term": "gestreckter Winkel",
+                        "definition": "Winkel mit 180°.[file:3]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann Winkelarten an Beispielen erkennen.[file:3]",
+                      "Ich kann Winkel mit dem Geodreieck messen.[file:3]",
+                      "Ich kann Winkel mit vorgegebener Größe zeichnen.[file:3]"
+                    ],
+                    "sample_questions": [
+                      "Ist ein Winkel von 45° spitz, recht oder stumpf?[file:3]",
+                      "Wie misst du einen gegebenen Winkel mit dem Geodreieck? Beschreibe die Schritte.[file:3]",
+                      "Zeichne einen Winkel von 120° und benenne seine Art.[file:3]"
+                    ],
+                    "sample_answers": [
+                      "45° ist ein spitzer Winkel.[file:3]",
+                      "Ich lege die Mittellinie des Geodreiecks auf den Scheitelpunkt und eine Schenkelseite auf die 0°-Markierung, dann lese ich an der anderen Schenkelseite den Winkel ab.[file:3]",
+                      "120° ist ein stumpfer Winkel.[file:3]"
+                    ]
+                  }
+                },
+                {
+                  "id": "mat5_mod6_u2",
+                  "text": "Ich kann Dreiecke nach Seiten- und Winkelgrößen einteilen und beschreiben.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Dreiecksarten nach Seiten",
+                        "text": "Du unterscheidest gleichseitige, gleichschenklige und ungleichseitige Dreiecke.[file:3] Ein gleichseitiges Dreieck hat drei gleich lange Seiten, ein gleichschenkliges zwei gleich lange Seiten, ein ungleichseitiges alle Seiten verschieden.[file:3]"
+                      },
+                      {
+                        "title": "Dreiecksarten nach Winkeln",
+                        "text": "Nach Winkeln unterscheidest du spitzwinklige, rechtwinklige und stumpfwinklige Dreiecke.[file:3] Ein rechtwinkliges Dreieck hat einen rechten Winkel, spitzwinklige nur spitze Winkel, stumpfwinklige einen stumpfen Winkel.[file:3]"
+                      },
+                      {
+                        "title": "Dreiecke skizzieren und zeichnen",
+                        "text": "Du skizzierst Dreiecke frei Hand und zeichnest einfache Dreiecke mit Lineal und Geodreieck.[file:3] Dabei achtest du auf ungefähr passende Seitenlängen und Winkelgrößen.[file:3]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "gleichseitiges Dreieck",
+                        "definition": "Dreieck mit drei gleich langen Seiten.[file:3]"
+                      },
+                      {
+                        "term": "gleichschenkliges Dreieck",
+                        "definition": "Dreieck mit zwei gleich langen Seiten.[file:3]"
+                      },
+                      {
+                        "term": "rechtwinkliges Dreieck",
+                        "definition": "Dreieck mit einem rechten Winkel.[file:3]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann Dreiecke nach Seiten- und Winkelgrößen einteilen.[file:3]",
+                      "Ich kann Dreiecke in Bildern erkennen und passend benennen.[file:3]",
+                      "Ich kann einfache Dreiecke skizzieren und zeichnen.[file:3]"
+                    ],
+                    "sample_questions": [
+                      "Beschreibe ein gleichseitiges Dreieck.[file:3]",
+                      "Woran erkennst du ein rechtwinkliges Dreieck?[file:3]",
+                      "Kann ein Dreieck gleichzeitig gleichschenklig und rechtwinklig sein? Begründe kurz.[file:3]"
+                    ],
+                    "sample_answers": [
+                      "Ein gleichseitiges Dreieck hat drei gleich lange Seiten und drei gleich große Winkel.[file:3]",
+                      "Ich suche nach einem rechten Winkel (90°) im Dreieck.[file:3]",
+                      "Ja, wenn zwei Seiten gleich lang sind und die eingeschlossene Ecke ein rechter Winkel ist.[file:3]"
+                    ]
+                  }
+                },
+                {
+                  "id": "mat5_mod6_u3",
+                  "text": "Ich kenne wichtige Sätze zu Dreiecken in Grundzügen (z. B. Summe der Innenwinkel) und kann sie anschaulich nutzen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Innenwinkelsumme im Dreieck",
+                        "text": "Die Summe der Innenwinkel in jedem Dreieck beträgt 180°.[file:3] Du entdeckst diesen Zusammenhang durch Zerlegen oder Umklappen und nutzt ihn in einfachen Aufgaben.[file:3]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Innenwinkelsumme",
+                        "definition": "Summe aller Innenwinkel eines Vielecks; im Dreieck 180°.[file:3]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich weiß, dass die Innenwinkelsumme im Dreieck 180° beträgt.[file:3]",
+                      "Ich kann fehlende Winkelgröße in einem Dreieck berechnen, wenn zwei Winkel bekannt sind.[file:3]"
+                    ],
+                    "sample_questions": [
+                      "Die Winkel eines Dreiecks sind 40° und 70°. Wie groß ist der dritte Winkel?[file:3]"
+                    ],
+                    "sample_answers": [
+                      "Die Summe ist 180°. 40° + 70° = 110°. Der dritte Winkel ist 180° − 110° = 70°.[file:3]"
+                    ]
+                  }
+                },
+                {
+                  "id": "mat5_mod6_u4",
+                  "text": "Ich kann Kreise mit dem Zirkel zeichnen und Radius, Durchmesser und Mittelpunkt sicher verwenden.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Grundbegriffe zum Kreis",
+                        "text": "Ein Kreis ist die Menge aller Punkte, die von einem festen Punkt (Mittelpunkt) denselben Abstand haben.[file:3] Der Abstand heißt Radius, der doppelte Radius ist der Durchmesser.[file:3]"
+                      },
+                      {
+                        "title": "Kreise konstruieren",
+                        "text": "Mit dem Zirkel stellst du den Radius ein und zeichnest Kreise um einen Mittelpunkt.[file:3] Du übst sauberes Arbeiten und das Markieren von Mittelpunkt, Radius und Durchmesser in Zeichnungen.[file:3]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Mittelpunkt",
+                        "definition": "Punkt im Inneren des Kreises mit gleichem Abstand zu allen Punkten der Kreislinie.[file:3]"
+                      },
+                      {
+                        "term": "Radius",
+                        "definition": "Abstand vom Mittelpunkt zur Kreislinie.[file:3]"
+                      },
+                      {
+                        "term": "Durchmesser",
+                        "definition": "Strecke durch den Mittelpunkt, die zwei Punkte des Kreises verbindet; doppelt so lang wie der Radius.[file:3]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann Kreise mit vorgegebenem Radius zeichnen.[file:3]",
+                      "Ich kann Mittelpunkt, Radius und Durchmesser in einer Kreiszeichnung eintragen.[file:3]",
+                      "Ich kenne den Zusammenhang Durchmesser = 2 · Radius.[file:3]"
+                    ],
+                    "sample_questions": [
+                      "Ein Kreis hat den Radius 3 cm. Wie lang ist der Durchmesser?[file:3]",
+                      "Wie zeichnest du einen Kreis mit Radius 4 cm mit dem Zirkel?[file:3]"
+                    ],
+                    "sample_answers": [
+                      "Der Durchmesser ist 6 cm, weil er doppelt so lang ist wie der Radius.[file:3]",
+                      "Ich stelle den Zirkel auf 4 cm ein, setze die Zirkelspitze auf den Mittelpunkt und ziehe eine ganze Umdrehung.[file:3]"
+                    ]
+                  }
+                },
+                {
+                  "id": "mat5_mod6_u5",
+                  "text": "Ich kann in einfachen Figuren Dreiecke und Kreise erkennen, skizzieren und für Sachaufgaben nutzen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Formen in Sachaufgaben nutzen",
+                        "text": "Viele Sachaufgaben enthalten Dreiecke und Kreise, zum Beispiel bei Wegen auf einem runden Platz oder bei Dachformen.[file:3] Du lernst, solche Formen in Skizzen zu erkennen und zur Lösung der Aufgaben zu verwenden.[file:3]"
+                      }
+                    ],
+                    "key_terms": [],
+                    "note1_checklist": [
+                      "Ich kann in Sachaufgaben passende Dreiecke oder Kreise in einer Skizze markieren.[file:3]",
+                      "Ich kann Eigenschaften von Dreiecken und Kreisen zur Bearbeitung einfacher Aufgaben nutzen.[file:3]"
+                    ],
+                    "sample_questions": [
+                      "Zeichne eine Skizze zu einer Aufgabe, in der ein Weg um einen runden Teich und ein gerader Weg quer darüber vorkommen.[file:3]"
+                    ],
+                    "sample_answers": [
+                      "Ich zeichne einen Kreis für den Teich, einen Bogen für den Weg am Rand und eine Strecke durch den Kreis für den geraden Weg.[file:3]"
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "module_id": "mat5_mod7",
+              "module_name": "Statistische Kenngrößen und Zufall – Daten auswerten und mit Zufall experimentieren",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Daten besser verstehen",
+                    "text": "In diesem Modul lernst du, Datensammlungen nicht nur darzustellen, sondern auch zusammenzufassen und zu beschreiben.[file:3] Dabei helfen dir statistische Kenngrößen wie Minimum, Maximum, Spannweite, Median, Modalwert und Durchschnitt (arithmetisches Mittel).[file:3]"
+                  },
+                  {
+                    "title": "Zufallsexperimente untersuchen",
+                    "text": "Du führst einfache Zufallsexperimente wie Würfeln oder Münzwurf durch und wertest die Ergebnisse aus.[file:3] So entwickelst du Vorstellungen von möglichen und wahrscheinlichen Ereignissen, ohne mit Wahrscheinlichkeitszahlen rechnen zu müssen.[file:3]"
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "mat5_mod7_u1",
+                  "text": "Ich kann aus Datensammlungen einfache statistische Kenngrößen bestimmen (Minimum, Maximum, Spannweite, Modalwert, Median, Durchschnitt).",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Minimum, Maximum und Spannweite",
+                        "text": "Das Minimum ist der kleinste Wert in einer Datensammlung, das Maximum der größte.[file:3] Die Spannweite ist die Differenz zwischen Maximum und Minimum und zeigt, wie weit die Werte auseinander liegen.[file:3]"
+                      },
+                      {
+                        "title": "Modalwert (Modus)",
+                        "text": "Der Modalwert ist der Wert, der am häufigsten vorkommt.[file:3] Es kann auch mehrere Modalwerte geben, wenn mehrere Werte gleich oft auftreten.[file:3]"
+                      },
+                      {
+                        "title": "Median und Durchschnitt",
+                        "text": "Der Median ist der „mittlere“ Wert einer geordneten Datenliste: die Hälfte der Werte liegt darunter, die andere Hälfte darüber.[file:3] Der Durchschnitt (arithmetisches Mittel) wird gebildet, indem du alle Werte addierst und durch die Anzahl der Werte teilst.[file:3]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Minimum",
+                        "definition": "Kleinster Wert in einer Datensammlung.[file:3]"
+                      },
+                      {
+                        "term": "Maximum",
+                        "definition": "Größter Wert in einer Datensammlung.[file:3]"
+                      },
+                      {
+                        "term": "Spannweite",
+                        "definition": "Differenz zwischen Maximum und Minimum.[file:3]"
+                      },
+                      {
+                        "term": "Modalwert (Modus)",
+                        "definition": "Wert, der am häufigsten vorkommt.[file:3]"
+                      },
+                      {
+                        "term": "Median",
+                        "definition": "Mittlerer Wert einer geordneten Datenreihe.[file:3]"
+                      },
+                      {
+                        "term": "arithmetisches Mittel",
+                        "definition": "Durchschnittswert; Summe aller Werte geteilt durch ihre Anzahl.[file:3]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann aus einer kleinen Datentabelle Minimum, Maximum und Spannweite ablesen.[file:3]",
+                      "Ich kann den Modalwert bestimmen.[file:3]",
+                      "Ich kann eine gegebene kleine Datenreihe ordnen und den Median finden.[file:3]",
+                      "Ich kann den Durchschnitt aus wenigen Zahlen berechnen.[file:3]"
+                    ],
+                    "sample_questions": [
+                      "Die Werte 3, 7, 4, 7, 2, 9 liegen vor. Bestimme Minimum, Maximum und Spannweite.[file:3]",
+                      "Was ist der Modalwert in der Reihe 2, 5, 5, 3, 2, 5?[file:3]",
+                      "Bestimme den Median der geordneten Werte 1, 3, 4, 7, 9.[file:3]",
+                      "Berechne den Durchschnitt der Zahlen 4, 6, 10.[file:3]"
+                    ],
+                    "sample_answers": [
+                      "Minimum = 2, Maximum = 9, Spannweite = 9 − 2 = 7.[file:3]",
+                      "Modalwert ist 5, weil 5 am häufigsten vorkommt.[file:3]",
+                      "Median ist 4, weil er in der Mitte steht.[file:3]",
+                      "Durchschnitt: (4 + 6 + 10) : 3 = 20 : 3 ≈ 6,67.[file:3]"
+                    ]
+                  }
+                },
+                {
+                  "id": "mat5_mod7_u2",
+                  "text": "Ich kann Daten mit Hilfe von Kenngrößen beschreiben, vergleichen und in einfachen Diagrammen zusammenfassen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Daten mit Kenngrößen charakterisieren",
+                        "text": "Mit Minimum, Maximum, Spannweite, Modalwert, Median und Durchschnitt kannst du eine Datensammlung kurz beschreiben.[file:3] Du erkennst zum Beispiel, ob Werte eng beieinander liegen oder stark streuen.[file:3]"
+                      },
+                      {
+                        "title": "Datensätze vergleichen",
+                        "text": "Du vergleichst zwei Datensätze, indem du ihre Kenngrößen gegenüberstellst.[file:3] So kannst du Aussagen treffen wie „Gruppe A hat im Durchschnitt bessere Ergebnisse, aber in Gruppe B sind die Ergebnisse gleichmäßiger verteilt“.[file:3]"
+                      }
+                    ],
+                    "key_terms": [],
+                    "note1_checklist": [
+                      "Ich kann zu einem Datensatz passende Kenngrößen berechnen und in Worten deuten.[file:3]",
+                      "Ich kann zwei einfache Datensätze mit Hilfe von Durchschnitt und Spannweite vergleichen.[file:3]"
+                    ],
+                    "sample_questions": [
+                      "Zwei Klassen schreiben einen Test. In Klasse A liegen die Werte eng beieinander, in Klasse B sehr weit auseinander. Welche Kenngröße zeigt dir das an?[file:3]"
+                    ],
+                    "sample_answers": [
+                      "Die Spannweite zeigt, wie weit die Werte auseinander liegen.[file:3]"
+                    ]
+                  }
+                },
+                {
+                  "id": "mat5_mod7_u3",
+                  "text": "Ich kann einfache Zufallsexperimente planen, durchführen und die Ergebnisse in Tabellen und Diagrammen darstellen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Zufallsexperimente",
+                        "text": "Typische Zufallsexperimente sind Würfeln, Münzwurf oder das Ziehen von farbigen Kugeln aus einem Beutel.[file:3] Du planst, wie oft du ein Experiment durchführen möchtest, notierst die Ergebnisse und wertest sie aus.[file:3]"
+                      },
+                      {
+                        "title": "Absolute und relative Häufigkeit",
+                        "text": "Die absolute Häufigkeit ist die Anzahl, wie oft ein Ergebnis vorkommt.[file:3] Die relative Häufigkeit ist der Anteil an allen Versuchen (z. B. „bei 20 Würfen kam 8-mal eine 6, das sind 8/20 = 0,4“).[file:3]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Zufallsexperiment",
+                        "definition": "Versuch, dessen Ergebnis nicht sicher vorhergesagt werden kann.[file:3]"
+                      },
+                      {
+                        "term": "Ereignis",
+                        "definition": "Menge von möglichen Ergebnissen, z. B. „gerade Zahl beim Würfeln“.[file:3]"
+                      },
+                      {
+                        "term": "absolute Häufigkeit",
+                        "definition": "Anzahl, wie oft ein Ergebnis beobachtet wurde.[file:3]"
+                      },
+                      {
+                        "term": "relative Häufigkeit",
+                        "definition": "Anteil eines Ergebnisses an der Gesamtzahl der Versuche.[file:3]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann ein einfaches Zufallsexperiment planen (z. B. 30-mal würfeln). [file:3]",
+                      "Ich kann Ergebnisse in einer Strichliste und Tabelle erfassen.[file:3]",
+                      "Ich kann aus meinen Daten absolute und einfache relative Häufigkeiten bestimmen.[file:3]"
+                    ],
+                    "sample_questions": [
+                      "Du würfelst 20-mal. 5-mal kommt eine 6. Wie groß sind absolute und relative Häufigkeit der 6?[file:3]"
+                    ],
+                    "sample_answers": [
+                      "Absolute Häufigkeit: 5; relative Häufigkeit: 5/20 = 0,25 = 25 %.[file:3]"
+                    ]
+                  }
+                },
+                {
+                  "id": "mat5_mod7_u4",
+                  "text": "Ich kann Ereignisse mit „sicher“, „unmöglich“, „möglich“ und „wahrscheinlich“ beschreiben und begründen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Sprachliche Beschreibung von Wahrscheinlichkeit",
+                        "text": "Du beschreibst Ereignisse mit Begriffen wie „sicher“, „unmöglich“ oder „wahrscheinlich“.[file:3] Ein sicheres Ereignis tritt immer ein, ein unmögliches niemals; viele Ereignisse sind möglich, aber nicht sicher.[file:3]"
+                      },
+                      {
+                        "title": "Beispiele aus Zufallsexperimenten",
+                        "text": "Beim Würfeln ist „eine Zahl von 1 bis 6“ sicher, „eine 7 würfeln“ unmöglich.[file:3] „Eine 6 würfeln“ ist möglich und bei einem fairen Würfel ebenso wahrscheinlich wie jede andere Zahl.[file:3]"
+                      }
+                    ],
+                    "key_terms": [],
+                    "note1_checklist": [
+                      "Ich kann Ereignisse sprachlich sinnvoll als sicher, unmöglich, möglich oder wahrscheinlich einordnen.[file:3]",
+                      "Ich kann meine Einordnung mit Beispielen aus Experimenten begründen.[file:3]"
+                    ],
+                    "sample_questions": [
+                      "Ist es sicher, unmöglich oder möglich, beim Würfeln eine Zahl größer als 6 zu bekommen? Begründe.[file:3]"
+                    ],
+                    "sample_answers": [
+                      "Es ist unmöglich, weil der Würfel nur die Zahlen 1 bis 6 zeigt.[file:3]"
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "module_id": "mat5_mod8",
+              "module_name": "Zuordnungen – Zusammenhänge in Tabellen und Diagrammen",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Muster und Zusammenhänge erkennen",
+                    "text": "In diesem Modul lernst du, Zusammenhänge zwischen zwei Größen zu erkennen, zu beschreiben und darzustellen, zum Beispiel zwischen Zeit und zurückgelegtem Weg oder zwischen Stückzahl und Preis.[file:3] Du arbeitest mit Zahlenmustern, Wertetabellen und einfachen Diagrammen und bereitest damit das Thema Funktionen in höheren Klassen vor.[file:3]"
+                  },
+                  {
+                    "title": "Alltägliche Zuordnungen",
+                    "text": "Du begegnest Zuordnungen im Alltag, etwa beim Fahrplan (Zeitpunkt – Abfahrtszeit), beim Einkaufen (Menge – Preis) oder beim Messen von Temperaturen (Zeitpunkt – Temperatur).[file:3] Du lernst, solche Situationen mit Tabellen und einfachen Graphen zu beschreiben.[file:3]"
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "mat5_mod8_u1",
+                  "text": "Ich kann einfache Zuordnungen aus Alltagssituationen erkennen und in Worten beschreiben (z. B. Weg–Zeit, Menge–Preis).",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Was ist eine Zuordnung?",
+                        "text": "Bei einer Zuordnung gehört zu jedem Wert einer Größe genau ein Wert einer anderen Größe, zum Beispiel zu jeder Stückzahl ein Preis.[file:3] Du beschreibst solche Zusammenhänge zunächst in Alltagssprache, bevor du sie in Tabellen und Diagrammen darstellst.[file:3]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Zuordnung",
+                        "definition": "Regel, die jedem Wert einer Größe genau einen Wert einer anderen Größe zuordnet.[file:3]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich erkenne in Texten oder Situationen, welche Größen miteinander zusammenhängen.[file:3]",
+                      "Ich kann eine Zuordnung in eigenen Worten beschreiben (z. B. „Je länger…, desto…“). [file:3]"
+                    ],
+                    "sample_questions": [
+                      "Nenne ein Beispiel für eine Zuordnung aus dem Alltag und beschreibe sie in einem Satz.[file:3]"
+                    ],
+                    "sample_answers": [
+                      "Beim Einkaufen: Der Preis hängt von der Stückzahl ab – je mehr Äpfel ich kaufe, desto höher wird der Gesamtpreis.[file:3]"
+                    ]
+                  }
+                },
+                {
+                  "id": "mat5_mod8_u2",
+                  "text": "Ich kann Zuordnungen in Wertetabellen darstellen, ergänzen und ablesen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Wertetabellen anlegen",
+                        "text": "Du legst Tabellen an, in denen du zu Werten einer Eingangsgröße (z. B. Stückzahl) die zugeordneten Werte einer Ausgangsgröße (z. B. Preis) einträgst.[file:3] So kannst du Zusammenhänge übersichtlich darstellen und fehlende Werte ergänzen.[file:3]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Wertetabelle",
+                        "definition": "Tabelle mit zusammengehörigen Wertepaaren zweier Größen.[file:3]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann aus einem Text eine Wertetabelle erstellen.[file:3]",
+                      "Ich kann in einer Tabelle fehlende Werte ergänzen, wenn das Muster klar ist.[file:3]",
+                      "Ich kann aus der Tabelle Fragen beantworten (z. B. „Wie viel kostet…?“).[file:3]"
+                    ],
+                    "sample_questions": [
+                      "Ein Apfel kostet 0,30 €. Ergänze eine Tabelle für 1, 2, 3, 4, 5 Äpfel.[file:3]"
+                    ],
+                    "sample_answers": [
+                      "Stückzahl: 1, 2, 3, 4, 5; Preis: 0,30 €, 0,60 €, 0,90 €, 1,20 €, 1,50 €.[file:3]"
+                    ]
+                  }
+                },
+                {
+                  "id": "mat5_mod8_u3",
+                  "text": "Ich kann einfache Zuordnungen in Diagrammen darstellen und aus Diagrammen Informationen ablesen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Punkte im Koordinatensystem",
+                        "text": "Du trägst Wertepaaren aus einer Tabelle als Punkte in ein rechtwinkliges Koordinatensystem ein.[file:3] Eine Achse steht für die eine Größe (z. B. Zeit), die andere Achse für die andere Größe (z. B. Weg).[file:3]"
+                      },
+                      {
+                        "title": "Graphen einfacher Zuordnungen",
+                        "text": "Du verbindest bei passenden Situationen die Punkte zu einer Linie und erkennst, ob ein Zusammenhang ungefähr gradlinig ist.[file:3] So siehst du auf einen Blick, wie sich eine Größe mit der anderen verändert.[file:3]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Koordinatensystem",
+                        "definition": "System aus zwei Achsen (x- und y-Achse), mit dem man Punkte und Graphen darstellen kann.[file:3]"
+                      },
+                      {
+                        "term": "Graph",
+                        "definition": "Graphische Darstellung einer Zuordnung im Koordinatensystem.[file:3]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann aus einer Wertetabelle Punkte im Koordinatensystem eintragen.[file:3]",
+                      "Ich kann aus einem einfachen Diagramm Werte ablesen.[file:3]"
+                    ],
+                    "sample_questions": [
+                      "Eine Tabelle gibt an, wie weit jemand nach 1, 2, 3, 4 Stunden gewandert ist. Wie kannst du das im Koordinatensystem darstellen?[file:3]"
+                    ],
+                    "sample_answers": [
+                      "Ich zeichne ein Koordinatensystem, trage auf die x-Achse die Zeit in Stunden und auf die y-Achse den Weg in Kilometern ein und markiere die Wertepunkte.[file:3]"
+                    ]
+                  }
+                },
+                {
+                  "id": "mat5_mod8_u4",
+                  "text": "Ich kann einfache direkt proportionale Zuordnungen erkennen (z. B. doppelter Einsatz – doppelter Gewinn) und nutzen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Direkte Proportionalität anschaulich",
+                        "text": "Bei direkt proportionalen Zuordnungen gilt: Wird eine Größe verdoppelt, verdoppelt sich auch die andere; wird sie verdreifacht, verdreifacht sich die andere.[file:3] Typische Beispiele sind „Menge–Preis“ bei konstantem Stückpreis oder „Zeit–Weg“ bei konstanter Geschwindigkeit.[file:3]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "direkt proportionale Zuordnung",
+                        "definition": "Zuordnung, bei der das Verhältnis der zugeordneten Werte konstant ist.[file:3]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich erkenne einfache Situationen, in denen „doppelt so viel – doppelt so groß“ gilt.[file:3]",
+                      "Ich kann in solchen Fällen mit Verdoppeln, Halbieren usw. rechnen.[file:3]"
+                    ],
+                    "sample_questions": [
+                      "Ein Busunternehmen verlangt 5 € pro Fahrkarte. Ist die Zuordnung „Anzahl Fahrkarten – Gesamtpreis“ direkt proportional? Begründe.[file:3]"
+                    ],
+                    "sample_answers": [
+                      "Ja, denn wenn ich die Anzahl der Fahrkarten verdopple, verdoppelt sich der Preis. Das Verhältnis Preis : Anzahl bleibt immer 5 € pro Karte.[file:3]"
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
         {
           "subject_id": "mus",
           "subject_title": "Musik",
@@ -8988,24 +5632,7 @@ const SCHOOL_DATA = {
                   }
                 }
               ]
-            }
-          ]
-        }
-      ]
-    }
-  ]
-}
-{
-  "school_id": "de_thueringen",
-  "grades": [
-    {
-      "grade_id": "klasse5",
-      "grade_label": "Klasse 5",
-      "subjects": [
-        {
-          "subject_id": "mus",
-          "subject_title": "Musik",
-          "modules": [
+            },
             {
               "module_id": "mus5_mod2",
               "module_name": "Musik gestalten und erleben – Instrumentales Musizieren und Medien",
@@ -9218,10 +5845,3048 @@ const SCHOOL_DATA = {
               ]
             }
           ]
+        },
+        {
+          "subject_id": "geschi",
+          "subject_title": "Geschichte",
+          "modules": [
+            {
+              "module_id": "hist5_mod1",
+              "module_name": "Begegnung mit dem Unterrichtsfach Geschichte",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Was ist Geschichte?",
+                    "text": "In diesem Modul lernst du das neue Fach Geschichte kennen und erfährst, womit es sich beschäftigt.[file:6] Du unterscheidest zwischen der Vergangenheit (dem, was wirklich passiert ist) und Geschichte als der Art, wie Menschen diese Vergangenheit erzählen, deuten und aufschreiben.[file:6]"
+                  },
+                  {
+                    "title": "Mit Spuren der Vergangenheit arbeiten",
+                    "text": "Du begegnest ersten historischen Quellen wie alten Bildern, Gegenständen, Texten oder Gebäuden und lernst, dass wir daraus etwas über vergangenes Leben erfahren können.[file:6] Außerdem erkennst du, dass es Darstellungen gibt (z. B. Lehrbuchtexte, Filme), in denen andere schon eine Deutung der Vergangenheit vorgenommen haben.[file:6]"
+                  },
+                  {
+                    "title": "Orientierung in Zeit und Raum",
+                    "text": "Du übst, Ereignisse zeitlich grob einzuordnen und einfache Zeitleisten zu lesen und zu erstellen.[file:6] Du lernst, dass der Geschichtsunterricht dir hilft, dein eigenes Leben und deine Umwelt als Teil einer längeren Entwicklung zu verstehen.[file:6]"
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "hist5_mod1_u1",
+                  "text": "Ich kann erklären, was mit ‚Vergangenheit‘ und was mit ‚Geschichte‘ gemeint ist und warum Geschichte immer auch gedeutet wird.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Vergangenheit und Geschichte unterscheiden",
+                        "text": "Vergangenheit meint alles, was früher wirklich geschehen ist – auch das, woran sich niemand mehr erinnert.[file:6] Geschichte ist das, was Menschen später darüber erzählen, schreiben und darstellen; sie ist also immer eine Auswahl und Deutung dieser Vergangenheit.[file:6]"
+                      },
+                      {
+                        "title": "Geschichte als Konstruktion",
+                        "text": "Menschen stellen Fragen an die Vergangenheit und wählen aus, was sie wichtig finden.[file:6] Deshalb gibt es unterschiedliche Erzählungen über ein und dieselben Ereignisse, die du vergleichen und hinterfragen lernen sollst.[file:6]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Vergangenheit",
+                        "definition": "Alles, was in früheren Zeiten wirklich passiert ist.[file:6]"
+                      },
+                      {
+                        "term": "Geschichte",
+                        "definition": "Darstellungen und Deutungen der Vergangenheit, die Menschen erstellen.[file:6]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann in einem Satz sagen, was Vergangenheit ist.[file:6]",
+                      "Ich kann in einem Satz sagen, was Geschichte ist.[file:6]",
+                      "Ich kann erklären, warum es zu einem Ereignis verschiedene Geschichten geben kann.[file:6]"
+                    ],
+                    "sample_questions": [
+                      "Erkläre den Unterschied zwischen Vergangenheit und Geschichte in eigenen Worten.",
+                      "Warum erzählen Menschen manchmal unterschiedlich über dasselbe historische Ereignis?"
+                    ],
+                    "sample_answers": [
+                      "Vergangenheit ist das, was wirklich passiert ist. Geschichte ist das, wie wir später darüber erzählen und schreiben.",
+                      "Weil jeder andere Dinge wichtig findet, unterschiedliche Informationen hat oder eine eigene Meinung und Sicht auf das Ereignis besitzt."
+                    ]
+                  }
+                },
+                {
+                  "id": "hist5_mod1_u2",
+                  "text": "Ich kann einfache Arten von Quellen und Darstellungen erkennen und voneinander unterscheiden.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Was sind historische Quellen?",
+                        "text": "Quellen sind alle Überreste und Zeugnisse aus der Zeit, die du untersuchst, z. B. Urkunden, Briefe, Fotos, Werkzeuge, Gebäude oder Augenzeugenberichte.[file:6] Sie stammen direkt aus der Vergangenheit und helfen dir, Informationen zu sammeln.[file:6]"
+                      },
+                      {
+                        "title": "Was sind Darstellungen?",
+                        "text": "Darstellungen sind spätere Erzählungen über die Vergangenheit, z. B. Lehrbuchtexte, Filme, Ausstellungen oder Podcasts.[file:6] Andere haben hier Quellen ausgewertet und daraus eine zusammenhängende Geschichte gemacht.[file:6]"
+                      },
+                      {
+                        "title": "Quellen vs. Darstellungen",
+                        "text": "Im Unterricht lernst du, am Material zu erkennen, ob es eine Quelle oder eine Darstellung ist, und wie man beides nutzt, um mehr über die Vergangenheit zu erfahren.[file:6]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Quelle",
+                        "definition": "Zeugnis aus der untersuchten Zeit selbst (z. B. Brief, Münze, Foto). [file:6]"
+                      },
+                      {
+                        "term": "Darstellung",
+                        "definition": "Spätere Erzählung oder Zusammenfassung von Geschichte, die auf Quellen beruht.[file:6]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann an Beispielen erklären, was eine Quelle ist.[file:6]",
+                      "Ich kann an Beispielen erklären, was eine Darstellung ist.[file:6]",
+                      "Ich kann bei einfachen Materialien sagen, ob es sich eher um eine Quelle oder eine Darstellung handelt.[file:6]"
+                    ],
+                    "sample_questions": [
+                      "Ist ein mittelalterlicher Brief eine Quelle oder eine Darstellung? Begründe.",
+                      "Ist ein heutiger Film über das alte Rom eine Quelle oder eine Darstellung? Begründe.",
+                      "Nenne je zwei Beispiele für Quellen und Darstellungen."
+                    ],
+                    "sample_answers": [
+                      "Ein mittelalterlicher Brief ist eine Quelle, weil er direkt aus der damaligen Zeit stammt.",
+                      "Ein heutiger Film über das alte Rom ist eine Darstellung, weil er später erstellt wurde und die Vergangenheit nacherzählt.",
+                      "Quellen: alte Urkunde, Münze; Darstellungen: Geschichtsbuch, Museumstext."
+                    ]
+                  }
+                },
+                {
+                  "id": "hist5_mod1_u3",
+                  "text": "Ich kann einfache Fragen an die Vergangenheit stellen und erkennen, dass meine Fragen etwas mit meiner Gegenwart zu tun haben.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Fragen an Geschichte stellen",
+                        "text": "Geschichte beginnt mit Fragen, z. B. „Wie haben Kinder früher gelebt?“ oder „Warum gab es bestimmte Erfindungen?“[file:6] Du lernst, aus deiner eigenen Lebenswelt heraus solche Fragen zu formulieren.[file:6]"
+                      },
+                      {
+                        "title": "Gegenwartsbezug",
+                        "text": "Viele Fragen an die Vergangenheit entstehen, weil dich etwas in der Gegenwart interessiert oder verunsichert.[file:6] Du entdeckst, dass man aus der Geschichte etwas für das heutige Leben lernen kann, ohne dass die Situationen genau gleich sind.[file:6]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Historische Frage",
+                        "definition": "Frage, die auf ein Problem oder Interesse bezogen ist und sich auf etwas in der Vergangenheit richtet.[file:6]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann zu einem Bild oder Gegenstand aus der Vergangenheit mindestens zwei Fragen formulieren.[file:6]",
+                      "Ich kann erklären, warum mich eine dieser Fragen heute interessiert.[file:6]"
+                    ],
+                    "sample_questions": [
+                      "Formuliere drei Fragen, die du an das Leben von Kindern im Mittelalter hast.",
+                      "Warum möchtest du wissen, wie Schule früher war?"
+                    ],
+                    "sample_answers": [
+                      "Zum Beispiel: Mussten Kinder damals auch zur Schule gehen? Welche Kleidung trugen sie? Welche Arbeiten mussten sie erledigen?",
+                      "Weil ich dann vergleichen kann, was heute besser oder schlechter ist und warum Schule sich verändert hat."
+                    ]
+                  }
+                },
+                {
+                  "id": "hist5_mod1_u4",
+                  "text": "Ich kann historische Ereignisse und Entwicklungen grob zeitlich einordnen und einfache Zeitleisten lesen bzw. ergänzen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Zeit und Epochen grob überblicken",
+                        "text": "Du lernst erste Einteilungen der Geschichte kennen (z. B. Vor- und Frühgeschichte, Antike, Mittelalter, Neuzeit), ohne sie genau datieren zu müssen.[file:6] Wichtig ist, dass du verstehst, dass diese Einteilungen Menschen erfunden haben, um Geschichte besser zu ordnen.[file:6]"
+                      },
+                      {
+                        "title": "Arbeiten mit Zeitleisten",
+                        "text": "An einfachen Zeitleisten übst du, Ereignisse in die richtige Reihenfolge zu bringen, ungefähre Zeitabstände einzuschätzen und eigene Markierungen (z. B. dein Geburtsjahr) einzutragen.[file:6]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Zeitleiste",
+                        "definition": "Grafische Darstellung von Zeit, auf der Ereignisse in der richtigen Reihenfolge eingezeichnet werden.[file:6]"
+                      },
+                      {
+                        "term": "Epoche",
+                        "definition": "Größerer Abschnitt der Geschichte mit bestimmten typischen Merkmalen.[file:6]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann eine einfache Zeitleiste lesen und sagen, welches Ereignis früher oder später liegt.[file:6]",
+                      "Ich kann mein eigenes Leben grob zeitlich einordnen (z. B. Geburtsjahr im Verhältnis zu behandelten Epochen). [file:6]"
+                    ],
+                    "sample_questions": [
+                      "Ordne die Begriffe in eine sinnvolle zeitliche Reihenfolge: Mittelalter, Antike, Neuzeit.",
+                      "Trage auf einer Zeitleiste dein Geburtsjahr und zwei behandelte historische Ereignisse ein."
+                    ],
+                    "sample_answers": [
+                      "Antike – Mittelalter – Neuzeit.",
+                      "Die Antwort hängt von der konkreten Zeitleiste ab; wichtig ist, dass das Geburtsjahr deutlich nach den historischen Beispielen liegt."
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "module_id": "hist5_mod2",
+              "module_name": "Menschen in vorgeschichtlicher Zeit",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Spuren der ersten Menschen",
+                    "text": "In diesem Modul beschäftigst du dich mit den ersten Menschen und damit, wie sie gelebt haben, lange bevor es Schrift gab.[file:6] Du lernst, dass wir über die vorgeschichtliche Zeit vor allem durch Funde wie Werkzeuge, Knochen, Höhlenmalereien und Siedlungsreste etwas erfahren.[file:6]"
+                  },
+                  {
+                    "title": "Vom Jagen und Sammeln zum Ackerbau",
+                    "text": "Du untersuchst, wie sich Menschen von Jägern und Sammlern zu sesshaften Bauern entwickelten und wie sich dadurch ihre Lebensweise stark veränderte (Neolithische Revolution).[file:6] Du vergleichst die Lebensbedingungen in Alt- und Jungsteinzeit und erkennst, welche Folgen Ackerbau und Viehzucht hatten.[file:6]"
+                  },
+                  {
+                    "title": "Die Bedeutung von Metall",
+                    "text": "Du lernst, wie die Menschen lernten, Metalle zu gewinnen und zu verarbeiten, und warum sich dadurch Geräte, Waffen und das Zusammenleben der Menschen weiter veränderten.[file:6]"
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "hist5_mod2_u1",
+                  "text": "Ich kann die Entwicklung und Verbreitung der ersten Menschen in Grundzügen beschreiben.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Die ersten Menschen und ihr Lebensraum",
+                        "text": "Die ältesten Spuren von Menschen finden sich in Afrika, von wo aus sich verschiedene Menschengruppen in vielen tausend Jahren nach Europa, Asien und andere Teile der Welt ausbreiteten.[file:6] Sie passten sich an unterschiedliche Lebensbedingungen an, z. B. in Wäldern, Savannen oder kälteren Regionen."
+                      },
+                      {
+                        "title": "Lebensweise der frühen Menschen",
+                        "text": "Die frühen Menschen lebten in kleinen Gruppen, waren unterwegs, um Nahrung zu suchen, und nutzten einfache Werkzeuge aus Stein, Knochen oder Holz.[file:6] Sie lernten nach und nach, das Feuer zu beherrschen, was ihr Leben sicherer und vielfältiger machte.[file:6]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Vor- und Frühgeschichte",
+                        "definition": "Zeitraum der Menschheitsgeschichte vor der Erfindung der Schrift.[file:6]"
+                      },
+                      {
+                        "term": "Jäger und Sammler",
+                        "definition": "Menschen, die von der Jagd auf Tiere und dem Sammeln von Pflanzen leben und nicht sesshaft sind.[file:6]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann sagen, dass die ersten Menschen aus Afrika stammen und sich von dort aus verbreitet haben. [file:6]",
+                      "Ich kann die Lebensweise der frühen Menschen in wenigen Sätzen beschreiben. [file:6]"
+                    ],
+                    "sample_questions": [
+                      "Woher stammen nach heutigem Wissen die ersten Menschen?",
+                      "Wie lebten Jäger und Sammler – nenne zwei Merkmale."
+                    ],
+                    "sample_answers": [
+                      "Die ersten Menschen stammen nach heutigem Wissen aus Afrika.",
+                      "Sie lebten in kleinen Gruppen und zogen umher, um Tiere zu jagen und essbare Pflanzen zu sammeln."
+                    ]
+                  }
+                },
+                {
+                  "id": "hist5_mod2_u2",
+                  "text": "Ich kann Überlebensstrategien und Kultur der Jäger und Sammler (Feuer, Wohnen, Werkzeuge/Waffen) erklären.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Feuer als wichtige Entdeckung",
+                        "text": "Die Beherrschung des Feuers war ein entscheidender Schritt: Feuer spendete Wärme, Licht, Schutz vor wilden Tieren und half beim Garen von Speisen.[file:6] Wahrscheinlich nutzten frühe Menschen zunächst natürlich entstandenes Feuer und lernten später, selbst Feuer zu entfachen."
+                      },
+                      {
+                        "title": "Wohnen in der Altsteinzeit",
+                        "text": "Jäger und Sammler lebten in einfachen Behausungen wie Zelten, Hütten oder nutzten Höhlen als Schutz.[file:6] Ihre Wohnplätze waren meist dort, wo es ausreichend Nahrung und Wasser gab; sie zogen weiter, wenn die Umgebung nicht mehr genug bot."
+                      },
+                      {
+                        "title": "Werkzeuge und Waffen",
+                        "text": "Sie stellten Werkzeuge aus Stein, Holz und Knochen her, z. B. Faustkeile, Speere oder Schaber.[file:6] Diese halfen bei der Jagd, beim Zerteilen von Tieren und beim Bearbeiten von Fellen und Holz."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Altsteinzeit",
+                        "definition": "Ältester Abschnitt der Steinzeit, in dem Menschen als Jäger und Sammler lebten und einfache Steinwerkzeuge nutzten.[file:6]"
+                      },
+                      {
+                        "term": "Werkzeug",
+                        "definition": "Gegenstand, der bei der Arbeit hilft, z. B. beim Schneiden, Schaben, Jagen.[file:6]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann erklären, warum Feuer für Jäger und Sammler wichtig war. [file:6]",
+                      "Ich kann typische Behausungen der Altsteinzeit beschreiben. [file:6]",
+                      "Ich kann Beispiele für Werkzeuge und Waffen nennen und wozu sie dienten. [file:6]"
+                    ],
+                    "sample_questions": [
+                      "Nenne zwei Vorteile, die Feuer für die Menschen der Altsteinzeit hatte.",
+                      "Wie sahen typische Wohnplätze von Jägern und Sammlern aus?",
+                      "Welche zwei Werkzeuge oder Waffen der Altsteinzeit kennst du und wie wurden sie genutzt?"
+                    ],
+                    "sample_answers": [
+                      "Feuer gab Wärme und Schutz und ermöglichte das Garen von Nahrung.",
+                      "Sie lebten in einfachen Hütten, Zelten oder Höhlen in der Nähe von Wasser und Jagdgebieten.",
+                      "Faustkeil: zum Schneiden und Zerteilen; Speer: zur Jagd auf Tiere."
+                    ]
+                  }
+                },
+                {
+                  "id": "hist5_mod2_u3",
+                  "text": "Ich kann den Wandel von der Altsteinzeit zur Jungsteinzeit (Neolithische Revolution) und die Veränderungen im Leben der Menschen beschreiben.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Vom Umherziehen zur Sesshaftigkeit",
+                        "text": "In der Jungsteinzeit begannen Menschen, Pflanzen gezielt anzubauen und Tiere zu halten, statt nur zu jagen und zu sammeln.[file:6] Dadurch wurden sie sesshaft, bauten feste Häuser und Dörfer und lebten länger an einem Ort."
+                      },
+                      {
+                        "title": "Neolithische Revolution",
+                        "text": "Dieser Übergang zur produzierenden Wirtschaftsweise (Ackerbau und Viehzucht) wird als Neolithische Revolution bezeichnet.[file:6] Sie veränderte vieles: Nahrungssicherheit konnte steigen, aber Menschen waren stärker von Ernten abhängig und Krankheiten konnten sich in größeren Siedlungen leichter ausbreiten."
+                      },
+                      {
+                        "title": "Neue Aufgaben und Techniken",
+                        "text": "Mit Ackerbau und Viehzucht entstanden neue Aufgaben wie Felder bestellen, Vorräte lagern und Tiere versorgen.[file:6] Werkzeuge wurden weiterentwickelt, z. B. Poliersteine, Sicheln, Mahlsteine."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Jungsteinzeit",
+                        "definition": "Jüngerer Abschnitt der Steinzeit, in dem Menschen sesshaft wurden und Ackerbau und Viehzucht betrieben.[file:6]"
+                      },
+                      {
+                        "term": "Neolithische Revolution",
+                        "definition": "Grundlegender Wandel von der Lebensweise der Jäger und Sammler hin zu Ackerbau und Viehzucht.[file:6]"
+                      },
+                      {
+                        "term": "Sesshaftigkeit",
+                        "definition": "Menschen bleiben an einem festen Ort und bauen dort dauerhafte Häuser und Dörfer.[file:6]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann mindestens zwei Unterschiede zwischen Alt- und Jungsteinzeit nennen. [file:6]",
+                      "Ich kann erklären, was mit Neolithischer Revolution gemeint ist. [file:6]"
+                    ],
+                    "sample_questions": [
+                      "Nenne zwei wichtige Veränderungen im Leben der Menschen durch Ackerbau und Viehzucht.",
+                      "Warum spricht man von einer Revolution, obwohl der Wandel viele Generationen dauerte?"
+                    ],
+                    "sample_answers": [
+                      "Die Menschen wurden sesshaft und lebten in Dörfern; sie bauten Getreide an und hielten Haustiere.",
+                      "Weil sich die Lebensweise der Menschen grundlegend und dauerhaft verändert hat – ähnlich wie bei einer politischen Revolution, nur langsamer."
+                    ]
+                  }
+                },
+                {
+                  "id": "hist5_mod2_u4",
+                  "text": "Ich kann erklären, wie die Nutzung von Metallen das Leben der Menschen veränderte.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Metall als neuer Werkstoff",
+                        "text": "Nachdem Menschen Steinwerkzeuge genutzt hatten, entdeckten sie, dass man Metalle wie Kupfer, später Bronze und Eisen gewinnen und formen kann.[file:6] Mit Metall ließen sich haltbarere und schärfere Werkzeuge und Waffen herstellen."
+                      },
+                      {
+                        "title": "Folgen der Metallnutzung",
+                        "text": "Bessere Werkzeuge erleichterten Ackerbau, Handwerk und Bauarbeiten, stärkere Waffen veränderten Kriegführung und Machtverhältnisse.[file:6] Es entstanden neue Berufe (z. B. Schmiede) und Handelswege für Metalle."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Metallzeit",
+                        "definition": "Epochen, in denen Metalle wie Bronze und Eisen für Werkzeuge und Waffen genutzt wurden (Bronzezeit, Eisenzeit)."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann mindestens ein Beispiel nennen, wie Metallwerkzeuge das Arbeiten erleichterten.",
+                      "Ich kann einfache Folgen der Metallnutzung für Gesellschaft und Handel beschreiben."
+                    ],
+                    "sample_questions": [
+                      "Warum waren Metallwerkzeuge für Bauern und Handwerker ein Vorteil?",
+                      "Wie konnten Metalle den Handel zwischen verschiedenen Gruppen fördern?"
+                    ],
+                    "sample_answers": [
+                      "Sie waren haltbarer und schärfer als Steinwerkzeuge und machten viele Arbeiten schneller und leichter.",
+                      "Metalle waren wertvoll und wurden über weite Strecken getauscht, sodass Gruppen miteinander in Kontakt kamen und Handel betrieben."
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "module_id": "hist5_mod3",
+              "module_name": "Ägypten – Beispiel einer frühen Hochkultur",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Leben am Nil",
+                    "text": "In diesem Modul lernst du Ägypten als Beispiel einer frühen Hochkultur kennen und untersuchst, warum sich dort eine mächtige Gesellschaft mit besonderen Leistungen entwickelt hat.[file:6] Du erfährst, welche Rolle der Nil für Landwirtschaft, Verkehr, Religion und das alltägliche Leben spielte.[file:6]"
+                  },
+                  {
+                    "title": "Ordnung und Religion",
+                    "text": "Du setzt dich mit der hierarchischen Ordnung der ägyptischen Gesellschaft auseinander und lernst zentrale religiöse Vorstellungen kennen, z. B. Götterwelt, Jenseitsglauben und die Rolle des Pharaos.[file:6] Du erkennst, wie Religion und Herrschaft zusammenwirkten.[file:6]"
+                  },
+                  {
+                    "title": "Schrift, Baukunst und Technik",
+                    "text": "Du lernst wichtige kulturelle Leistungen der Ägypter kennen, etwa die Hieroglyphenschrift, den Pyramidenbau und Techniken der Mumifizierung, und beurteilst ihre Bedeutung.[file:6]"
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "hist5_mod3_u1",
+                  "text": "Ich kann mit Hilfe einer Karte erklären, warum der Nil für die Entwicklung der ägyptischen Gesellschaft und Kultur so wichtig war.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Der Nil als Lebensader",
+                        "text": "Der Nil brachte jedes Jahr Überschwemmungen, die fruchtbaren Schlamm auf die Felder legten und so reiche Ernten ermöglichten.[file:6] In einer sonst wüstenhaften Umgebung wurde das Niltal dadurch zu einem landwirtschaftlichen Gunstraum, in dem viele Menschen leben konnten."
+                      },
+                      {
+                        "title": "Verkehrs- und Handelsweg",
+                        "text": "Der Nil diente als wichtiger Verkehrsweg: Boote transportierten Menschen, Waren und Baumaterial.[file:6] So konnten Städte verbunden, Handel betrieben und das große Reich besser zusammengehalten werden."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Hochkultur",
+                        "definition": "Frühe entwickelte Gesellschaft mit Schrift, Arbeitsteilung, Herrschaftsorganisation, Religion und städtischen Zentren.[file:6]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann auf einer Karte das Niltal zeigen und erklären, wo Landwirtschaft möglich war. [file:6]",
+                      "Ich kann mindestens zwei Gründe nennen, warum der Nil für die Ägypter lebenswichtig war. [file:6]"
+                    ],
+                    "sample_questions": [
+                      "Warum spricht man beim Nil von einer „Lebensader“ Ägyptens?",
+                      "Welche Vorteile brachte der Nil für Landwirtschaft und Verkehr?"
+                    ],
+                    "sample_answers": [
+                      "Ohne den Nil wäre das Umland eine Wüste, durch seine Überschwemmungen wurden die Felder fruchtbar und boten Nahrung.",
+                      "Er sorgte für fruchtbare Böden und diente als Wasser-, Verkehrs- und Handelsweg."
+                    ]
+                  }
+                },
+                {
+                  "id": "hist5_mod3_u2",
+                  "text": "Ich kann anhand von Schemata die hierarchische Ordnung der ägyptischen Gesellschaft beschreiben und einfach bewerten.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Stände und Hierarchie",
+                        "text": "An der Spitze der ägyptischen Gesellschaft stand der Pharao, darunter hohe Beamte, Priester, Schreiber, Handwerker und Bauern; Sklaven standen ganz unten.[file:6] Diese Ordnung wird oft als Pyramide dargestellt, weil wenige oben und viele unten leben."
+                      },
+                      {
+                        "title": "Aufgaben und Lebensbedingungen",
+                        "text": "Der Pharao galt als göttlicher Herrscher und sollte für Ordnung und Gerechtigkeit sorgen.[file:6] Bauern hatten harte Arbeit, trugen die Hauptlast der Versorgung und mussten Abgaben leisten; Schreiber und Beamte hatten eine besondere Stellung, weil sie lesen, schreiben und verwalten konnten."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Hierarchie",
+                        "definition": "Rangordnung in einer Gesellschaft, in der Menschen unterschiedliche Rechte, Pflichten und Macht haben.[file:6]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann die Gesellschaftspyramide Ägyptens beschreiben (wer steht oben, wer unten?). [file:6]",
+                      "Ich kann aus meiner Sicht sagen, was ich an dieser Ordnung gerecht oder ungerecht finde. [file:6]"
+                    ],
+                    "sample_questions": [
+                      "Wer stand in der ägyptischen Gesellschaft ganz oben und wer ganz unten?",
+                      "Warum hatten Schreiber im Alten Ägypten eine besondere Stellung?",
+                      "Was findest du an der Gesellschaftsordnung aus heutiger Sicht problematisch?"
+                    ],
+                    "sample_answers": [
+                      "Ganz oben stand der Pharao, ganz unten standen Sklaven und rechtlose Menschen.",
+                      "Weil sie als wenige schreiben und lesen konnten und wichtige Verwaltungsaufgaben hatten.",
+                      "Dass Menschen je nach Geburt sehr unterschiedliche Rechte hatten und manche fast keine Mitsprache oder Freiheit hatten."
+                    ]
+                  }
+                },
+                {
+                  "id": "hist5_mod3_u3",
+                  "text": "Ich kann zentrale Leistungen und religiöse Vorstellungen der Ägypter (Schrift, Pyramidenbau, Mumifizierung, Götterglaube) beschreiben und beurteilen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Hieroglyphen und Schrift",
+                        "text": "Die Ägypter entwickelten eine Bilderschrift (Hieroglyphen), mit der sie wichtige Dinge festhielten, z. B. Gesetze, Opferlisten, Geschichten und religiöse Texte.[file:6] Schrift war wichtig für Verwaltung, Religion und Kultur und nur ein kleiner Teil der Menschen konnte sie lesen und schreiben."
+                      },
+                      {
+                        "title": "Pyramidenbau",
+                        "text": "Pyramiden waren monumentale Grabstätten für Pharaonen und Ausdruck ihrer Macht und ihres Glaubens an ein Weiterleben nach dem Tod.[file:6] Ihr Bau erforderte viel Planung, Organisation, Wissen über Mathematik und Technik sowie den Einsatz vieler Arbeitskräfte."
+                      },
+                      {
+                        "title": "Mumifizierung und Jenseitsglaube",
+                        "text": "Die Ägypter glaubten an ein Leben nach dem Tod und wollten den Körper für das Jenseits erhalten, darum mumifizierten sie die Toten und statteten ihre Gräber mit Beigaben aus.[file:6]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Hieroglyphen",
+                        "definition": "Alte ägyptische Bilderschrift.[file:6]"
+                      },
+                      {
+                        "term": "Mumifizierung",
+                        "definition": "Besondere Behandlung von Leichen, um den Körper für lange Zeit zu erhalten.[file:6]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann erklären, wozu die Ägypter Schrift nutzten. [file:6]",
+                      "Ich kann sagen, warum Pyramiden und Mumifizierung für den ägyptischen Glauben wichtig waren. [file:6]"
+                    ],
+                    "sample_questions": [
+                      "Warum war die Erfindung der Schrift ein wichtiger Fortschritt für die ägyptische Hochkultur?",
+                      "Welche Vorstellungen vom Leben nach dem Tod hatten die Ägypter?",
+                      "Was beeindruckt dich am Pyramidenbau besonders?"
+                    ],
+                    "sample_answers": [
+                      "Weil sie wichtige Informationen festhalten konnten und so Verwaltung, Religion und Erinnern an Herrscher und Taten möglich wurden.",
+                      "Sie glaubten, dass die Seele im Jenseits weiterlebt und den Körper braucht, darum wollten sie ihn erhalten und mit Beigaben ausstatten.",
+                      "Dass ohne moderne Maschinen riesige Steinblöcke bewegt und präzise Bauwerke errichtet wurden."
+                    ]
+                  }
+                },
+                {
+                  "id": "hist5_mod3_u4",
+                  "text": "Ich kann zentrale Merkmale Ägyptens als früher Hochkultur benennen und in einfachen Vergleichen einordnen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Merkmale einer frühen Hochkultur",
+                        "text": "Typische Merkmale sind u. a. eine starke zentrale Herrschaft, eine klar gegliederte Gesellschaft, Städte, organisierte Landwirtschaft, Schrift und besondere kulturelle Leistungen.[file:6]"
+                      },
+                      {
+                        "title": "Ägypten als Vorbild und Vergleich",
+                        "text": "Du lernst, dass Ägypten eines von mehreren Beispielen für frühe Hochkulturen ist (neben Mesopotamien, Indus-Tal usw.), und ordnest Ägypten als wichtige Grundlage europäischer Kulturentwicklung ein.[file:6]"
+                      }
+                    ],
+                    "key_terms": [],
+                    "note1_checklist": [
+                      "Ich kann mindestens drei Merkmale nennen, die Ägypten zu einer Hochkultur machen. [file:6]",
+                      "Ich kann in einfachen Worten beschreiben, warum Ägypten in der Geschichte wichtig ist. [file:6]"
+                    ],
+                    "sample_questions": [
+                      "Nenne drei Gründe, warum Ägypten als frühe Hochkultur gilt.",
+                      "Wie wirkt die Kultur des Alten Ägypten bis heute nach (z. B. in Sprache, Architektur, Symbolen)?"
+                    ],
+                    "sample_answers": [
+                      "Eine starke Herrschaft (Pharao), Schrift (Hieroglyphen), große Bauwerke (Pyramiden), organisierte Landwirtschaft am Nil.",
+                      "Wir kennen Pyramiden als berühmte Bauwerke, verwenden noch ägyptische Symbole (z. B. Ankh) und beschäftigen uns bis heute in Museen und Filmen mit dieser Kultur."
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "module_id": "hist5_mod4",
+              "module_name": "Antike und Mittelalter – Griechen, Römer und Europa im Wandel",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Von der Polis zum Weltreich",
+                    "text": "In diesem Modul lernst du zwei wichtige antike Kulturen kennen, deren Ideen Europa bis heute prägen: die Griechen und die Römer.[file:6] Du untersuchst ihre Lebensweisen, politische Formen und ihren Einfluss auf spätere Zeiten."
+                  },
+                  {
+                    "title": "Zwischen Burg, Kloster und Stadt",
+                    "text": "Du gewinnst Einblicke in die Lebenswelten des mittelalterlichen Europas: in Adel, Bauern, Geistliche und Stadtbewohner.[file:6] Du erkennst wichtige Veränderungen, z. B. durch Königsherrschaft, Kirche, Ständeordnung, Städte und Reformation.[file:6]"
+                  },
+                  {
+                    "title": "Dauer und Wandel",
+                    "text": "Du übst, Unterschiede und Gemeinsamkeiten zwischen Antike, Mittelalter und deiner eigenen Lebenswelt zu erkennen und erste Vorstellungen von Epochenfolge und historischem Wandel zu entwickeln.[file:6]"
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "hist5_mod4_u1",
+                  "text": "Ich kann erklären, wie die Landschaft Griechenlands zur Entstehung der Polis und zur Seefahrt beigetragen hat.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Griechenland als Insel- und Gebirgsland",
+                        "text": "Die griechische Landschaft ist stark von Gebirgen und Küsten mit vielen Buchten und Inseln geprägt.[file:6] Fruchtbare Ebenen sind klein und oft voneinander getrennt, deshalb entstanden viele einzelne Stadtstaaten (Poleis) statt eines einheitlichen Großreichs.[file:6]"
+                      },
+                      {
+                        "title": "Seefahrt und Handel",
+                        "text": "Weil das Meer überall nah war, nutzten die Griechen früh Schiffe für Handel und Kontakte zu anderen Völkern.[file:6] Das führte zu Austausch von Waren, Ideen und Kultur im gesamten Mittelmeerraum."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Polis (Plural: Poleis)",
+                        "definition": "Griechischer Stadtstaat mit Stadt und Umland, eigener Regierung und eigenen Regeln.[file:6]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann auf einer Karte die Lage Griechenlands beschreiben. [file:6]",
+                      "Ich kann erklären, warum es viele Stadtstaaten gab und warum Seefahrt wichtig war. [file:6]"
+                    ],
+                    "sample_questions": [
+                      "Warum entstanden in Griechenland viele einzelne Poleis statt eines einzigen großen Reiches?",
+                      "Welche Bedeutung hatte das Meer für die Griechen?"
+                    ],
+                    "sample_answers": [
+                      "Weil Gebirge die fruchtbaren Gebiete trennten und jede Region ihre eigene Stadt mit Umland bildete.",
+                      "Das Meer war Verkehrsweg für Handel, Reisen und kulturellen Austausch."
+                    ]
+                  }
+                },
+                {
+                  "id": "hist5_mod4_u2",
+                  "text": "Ich kann Grundzüge der attischen Demokratie und andere Herrschaftsformen (Monarchie, Aristokratie) in einfachen Zügen beschreiben und vergleichen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Herrschaftsformen in der Antike",
+                        "text": "In Griechenland gab es unterschiedliche Herrschaftsformen: Monarchie (Herrschaft eines Königs), Aristokratie (Herrschaft weniger Vornehmer) und Demokratie (Herrschaft des Volkes).[file:6]"
+                      },
+                      {
+                        "title": "Attische Demokratie",
+                        "text": "In Athen durften freie männliche Bürger an der Volksversammlung teilnehmen, mitbestimmen und wichtige Ämter übernehmen.[file:6] Frauen, Sklaven und Zugewanderte waren ausgeschlossen – die Demokratie war also auf einen Teil der Bevölkerung begrenzt.[file:6]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Monarchie",
+                        "definition": "Herrschaftsform, bei der ein König/eine Königin an der Spitze steht.[file:6]"
+                      },
+                      {
+                        "term": "Aristokratie",
+                        "definition": "Herrschaftsform, bei der wenige Adelige oder Vornehme bestimmen.[file:6]"
+                      },
+                      {
+                        "term": "Demokratie",
+                        "definition": "Herrschaftsform, in der (Teile) des Volkes an politischen Entscheidungen beteiligt sind.[file:6]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann einfache Unterschiede zwischen Monarchie, Aristokratie und attischer Demokratie nennen. [file:6]",
+                      "Ich kann in Ansätzen sagen, was ich aus heutiger Sicht an der attischen Demokratie kritisch sehe. [file:6]"
+                    ],
+                    "sample_questions": [
+                      "Wer durfte in Athen an der Demokratie teilnehmen – wer nicht?",
+                      "Nenne einen Unterschied zwischen Monarchie und Demokratie."
+                    ],
+                    "sample_answers": [
+                      "Nur freie männliche Bürger mit Bürgerrecht; Frauen, Sklaven und Zugewanderte durften nicht mitbestimmen.",
+                      "In einer Monarchie entscheidet ein König, in einer Demokratie sind (Teile) des Volkes an Entscheidungen beteiligt."
+                    ]
+                  }
+                },
+                {
+                  "id": "hist5_mod4_u3",
+                  "text": "Ich kann den Aufstieg Roms vom Stadtstaat zum großen Reich in groben Zügen beschreiben und wichtige Folgen (z. B. Romanisierung, Christentum) nennen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Vom Dorf zur Weltmacht",
+                        "text": "Rom begann als kleine Stadt am Tiber und eroberte nach und nach Italien und große Teile Europas, Nordafrikas und des Nahen Ostens.[file:6] Mit Hilfe von gut organisierten Heeren, Straßen und Verwaltung entstand das Imperium Romanum.[file:6]"
+                      },
+                      {
+                        "title": "Romanisierung",
+                        "text": "In vielen eroberten Gebieten verbreiteten sich römische Sprache (Latein), Gesetze, Bauweise, Städtewesen und Lebensgewohnheiten.[file:6] So entstanden Mischformen aus einheimischer und römischer Kultur."
+                      },
+                      {
+                        "title": "Christentum im Römischen Reich",
+                        "text": "Das Christentum entstand zuerst als kleine religiöse Bewegung, breitete sich im Reich aus und wurde schließlich zur Staatsreligion.[file:6]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Imperium Romanum",
+                        "definition": "Das Römische Reich mit seinen weitreichenden eroberten Gebieten.[file:6]"
+                      },
+                      {
+                        "term": "Romanisierung",
+                        "definition": "Ausbreitung römischer Kultur, Sprache und Lebensweise in eroberten Gebieten.[file:6]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann grob beschreiben, wie Rom größer wurde (Eroberungen, Straßen, Verwaltung). [file:6]",
+                      "Ich kann mindestens zwei Dinge nennen, die aus Rom bis in unsere Zeit wirken (z. B. Sprache, Recht, Bauformen). [file:6]"
+                    ],
+                    "sample_questions": [
+                      "Wie gelang es den Römern, ein so großes Reich zu beherrschen?",
+                      "Nenne zwei Bereiche, in denen römische Einflüsse bis heute spürbar sind."
+                    ],
+                    "sample_answers": [
+                      "Durch gut ausgebildete Soldaten, ein Straßennetz, klare Gesetze und eine gut organisierte Verwaltung.",
+                      "In vielen Sprachen und im Rechtssystem, auch in Bauwerken wie Brücken, Straßen oder Amphitheatern."
+                    ]
+                  }
+                },
+                {
+                  "id": "hist5_mod4_u4",
+                  "text": "Ich kann grundlegende Merkmale mittelalterlicher Lebensformen (Königsherrschaft, Ständegesellschaft, Grundherrschaft/Lehnswesen, Klöster, Burgen, Städte) beschreiben.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "König und Ständeordnung",
+                        "text": "Im Mittelalter stand der König an der Spitze, darunter Adel und Klerus (Geistliche), dann die große Gruppe der Bauern.[file:6] Diese Ständegesellschaft legte fest, welche Aufgaben, Rechte und Pflichten die Menschen hatten."
+                      },
+                      {
+                        "title": "Grundherrschaft und Lehnswesen",
+                        "text": "Bauern bewirtschafteten den Boden eines Grundherrn und mussten Abgaben und Frondienste leisten.[file:6] Im Lehnswesen verlieh der König Land oder Rechte an Adelige, die ihm dafür Dienste schuldeten – ein Geflecht gegenseitiger Pflichten.[file:6]"
+                      },
+                      {
+                        "title": "Klöster und Burgen",
+                        "text": "Klöster waren Orte des Gebets, aber auch des Lernens, der Krankenpflege und des Wissens.[file:6] Burgen dienten als Wohnsitze von Adligen und als Schutz- und Machtzentren in einer Region."
+                      },
+                      {
+                        "title": "Städte als neue Zentren",
+                        "text": "Später entstanden immer mehr Städte als Orte des Handels und Handwerks.[file:6] Dort lebten Bürger, die sich teilweise andere Rechte erkämpfen konnten als Menschen auf dem Land."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Ständegesellschaft",
+                        "definition": "Gesellschaftsordnung, in der Menschen festen Ständen mit bestimmten Rechten und Pflichten zugeordnet sind.[file:6]"
+                      },
+                      {
+                        "term": "Lehnswesen",
+                        "definition": "System gegenseitiger Verpflichtungen zwischen König/Lehnsherrn und Vasallen (z. B. Adeligen), oft verbunden mit Landbesitz.[file:6]"
+                      },
+                      {
+                        "term": "Grundherrschaft",
+                        "definition": "Herrschaftsform, bei der ein Grundherr über Land verfügt, das Bauern bewirtschaften und wofür sie Abgaben leisten.[file:6]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann erklären, wie die Ständegesellschaft grob aufgebaut war. [file:6]",
+                      "Ich kann Grundherrschaft/Lehnswesen in einfachen Worten beschreiben. [file:6]",
+                      "Ich kann sagen, wofür Klöster, Burgen und Städte im Mittelalter wichtig waren. [file:6]"
+                    ],
+                    "sample_questions": [
+                      "Wer gehörte im Mittelalter zu den drei Hauptständen?",
+                      "Welche Aufgaben hatten Klöster außer Beten?",
+                      "Warum entstanden ab dem Hochmittelalter immer mehr Städte?"
+                    ],
+                    "sample_answers": [
+                      "Klerus (Geistliche), Adel und Bauern/Bürgertum (je nach Darstellung).",
+                      "Sie waren Zentren des Wissens, schrieben Bücher ab, kümmerten sich um Kranke und Reisende.",
+                      "Weil Handel und Handwerk zunahmen und sich Menschen an wichtigen Handelswegen niederließen."
+                    ]
+                  }
+                },
+                {
+                  "id": "hist5_mod4_u5",
+                  "text": "Ich kann an einem Beispiel (z. B. Burg, Stadt oder Kloster in der Region) Spuren des Mittelalters erkennen und einfache Bezüge zur Gegenwart herstellen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Spurensuche vor Ort",
+                        "text": "In deiner Umgebung gibt es oft Gebäude, Straßennamen, Mauern oder Kirchen, die auf das Mittelalter zurückgehen.[file:6] Du lernst, solche Spuren zu entdecken, zu beschreiben und mithilfe einfacher Informationen zeitlich einzuordnen."
+                      },
+                      {
+                        "title": "Mittelalter und heutiges Leben",
+                        "text": "Du überlegst, wie sich bestimmte mittelalterliche Strukturen bis heute auswirken, z. B. Stadtgrundrisse, Kirchen als Zentren oder ehemalige Burgen als Sehenswürdigkeiten.[file:6]"
+                      }
+                    ],
+                    "key_terms": [],
+                    "note1_checklist": [
+                      "Ich kann ein mittelalterliches Beispiel aus meiner Region nennen und kurz beschreiben. [file:6]",
+                      "Ich kann sagen, welche Rolle dieser Ort heute spielt (z. B. Kirche, Museum, Tourismus). [file:6]"
+                    ],
+                    "sample_questions": [
+                      "Nenne eine Burg, ein Kloster oder eine Kirche in deiner Umgebung und beschreibe, was man dort heute macht.",
+                      "Welche Spuren des Mittelalters fallen dir in deiner Stadt oder deinem Dorf auf?"
+                    ],
+                    "sample_answers": [
+                      "Zum Beispiel Burg X: Früher Wohnsitz eines Adligen und Verteidigungsanlage, heute Museum und Ausflugsziel.",
+                      "Enge Straßen im alten Stadtkern, eine große Kirche im Zentrum, Reste von Stadtmauern oder Toren."
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subject_id": "geo",
+          "subject_title": "Geografie",
+          "modules": [
+            {
+              "module_id": "geo5_mod1",
+              "module_name": "Die Erde als Planet und Lebensraum",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Was macht Geografie aus?",
+                    "text": "In diesem Modul lernst du, was das Fach Geografie eigentlich untersucht und wie es dir hilft, die Welt besser zu verstehen. Du beschäftigst dich mit der Erde als Planet, ihren Bewegungen, wichtigen Hilfsmitteln wie Karten und Gradnetz sowie mit unterschiedlichen Landschaftsräumen und Lebensbedingungen auf der Erde."
+                  },
+                  {
+                    "title": "Die Erde im Weltraum",
+                    "text": "Du beschreibst die Gestalt der Erde, ihre Drehung um die eigene Achse (Rotation) und die Umrundung der Sonne (Revolution). Dadurch verstehst du grundlegende Phänomene wie Tag und Nacht, Jahreszeiten und die unterschiedliche Beleuchtung der Erde."
+                  },
+                  {
+                    "title": "Lebensräume in verschiedenen Klimazonen",
+                    "text": "Du lernst kennen, dass es auf der Erde verschiedene klimatisch geprägte Räume gibt, z. B. Tropen, Wüsten, gemäßigte Zonen oder Polarregionen. Du beschreibst, wie Klima, Landschaft und Vegetation zusammenhängen und wie Menschen sich an unterschiedliche Bedingungen anpassen."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "geo5_mod1_u1",
+                  "text": "Ich kann erklären, was Geografie als Fach untersucht und welche Grundbegriffe dazu gehören.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Geografie – die Lehre von der Erde",
+                        "text": "Geografie beschäftigt sich mit der Erde als Raum, in dem Natur und Mensch zusammenwirken. Dazu gehören Themen wie Landschaften, Klima, Städte und Dörfer, Wirtschaft, Umweltprobleme und vieles mehr."
+                      },
+                      {
+                        "title": "Natur und Gesellschaft",
+                        "text": "Du lernst, dass Geografie sowohl natürliche Grundlagen (z. B. Gebirge, Meere, Klima) als auch menschliche Nutzung (z. B. Landwirtschaft, Städte, Verkehr) zusammen betrachtet. Wichtig ist dabei, Wechselwirkungen zu erkennen: Wie beeinflusst der Mensch die Natur – und wie wirken Naturbedingungen auf das Leben der Menschen zurück?"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Geografie",
+                        "definition": "Wissenschaft, die Räume, Naturbedingungen und menschliche Nutzung der Erde untersucht."
+                      },
+                      {
+                        "term": "Naturraum",
+                        "definition": "Ausschnitt der Erdoberfläche, der vor allem durch natürliche Faktoren wie Klima, Boden, Relief und Vegetation geprägt ist."
+                      },
+                      {
+                        "term": "Lebensraum",
+                        "definition": "Bereich, in dem Menschen, Tiere und Pflanzen leben und wirtschaften."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann in einem Satz erklären, worum es im Fach Geografie geht.",
+                      "Ich kann Beispiele nennen, welche Themen zur Natur und welche zur Nutzung durch den Menschen gehören."
+                    ],
+                    "sample_questions": [
+                      "Womit beschäftigt sich Geografie – nenne zwei Beispiele aus der Natur und zwei aus dem Bereich Mensch/Wirtschaft.",
+                      "Warum gehört \"Klima\" genauso zur Geografie wie \"Stadtentwicklung\"?"
+                    ],
+                    "sample_answers": [
+                      "Geografie untersucht zum Beispiel Gebirge und Meere (Natur) sowie Städte und Landwirtschaft (Mensch/Wirtschaft).",
+                      "Klima gehört zur Naturgrundlage, Stadtentwicklung zur Nutzung – beides hängt zusammen, weil das Klima beeinflusst, wie und wo Menschen Städte bauen."
+                    ]
+                  }
+                },
+                {
+                  "id": "geo5_mod1_u2",
+                  "text": "Ich kann die Gestalt der Erde und ihre Bewegungen (Rotation, Revolution) beschreiben und mit Tag, Nacht und Jahreszeiten verbinden.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Gestalt der Erde",
+                        "text": "Die Erde ist keine perfekte Kugel, sondern annähernd kugelförmig und an den Polen etwas abgeflacht. Sie besitzt eine Erdachse, eine gedachte Linie vom Nordpol zum Südpol, um die sie sich dreht."
+                      },
+                      {
+                        "title": "Rotation – die Drehung der Erde",
+                        "text": "Die Erde dreht sich in 24 Stunden einmal um ihre eigene Achse – das nennt man Rotation. Durch diese Drehung entstehen Tag und Nacht: Die der Sonne zugewandte Seite hat Tag, die abgewandte Seite Nacht."
+                      },
+                      {
+                        "title": "Revolution – die Umlaufbahn um die Sonne",
+                        "text": "Die Erde bewegt sich innerhalb eines Jahres auf einer Umlaufbahn um die Sonne – das nennt man Revolution. Zusammen mit der schiefen Stellung der Erdachse erklärt das die unterschiedlichen Jahreszeiten und die verschieden lange Tageslänge im Jahresverlauf."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Erdachse",
+                        "definition": "Gedachte Drehachse der Erde vom Nordpol zum Südpol."
+                      },
+                      {
+                        "term": "Rotation",
+                        "definition": "Drehung der Erde um ihre eigene Achse in 24 Stunden (Tag/Nacht)."
+                      },
+                      {
+                        "term": "Revolution",
+                        "definition": "Umlauf der Erde um die Sonne in etwa einem Jahr (Jahreslauf)."
+                      },
+                      {
+                        "term": "Nordpol / Südpol",
+                        "definition": "Die beiden Endpunkte der Erdachse an der Erdoberfläche."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann erklären, wie durch die Rotation Tag und Nacht entstehen.",
+                      "Ich kann in einfachen Worten beschreiben, warum es Jahreszeiten gibt."
+                    ],
+                    "sample_questions": [
+                      "Warum ist es auf der Erde gleichzeitig an manchen Orten Tag und an anderen Nacht?",
+                      "Welche Rolle spielt die Rotation der Erde für unseren Alltag?",
+                      "Warum gibt es bei uns verschiedene Jahreszeiten?"
+                    ],
+                    "sample_answers": [
+                      "Weil immer nur die Seite der Erde, die zur Sonne zeigt, Tag hat, die andere Seite liegt im Schatten und hat Nacht.",
+                      "Durch die Rotation wechseln Tag und Nacht in einem regelmäßigen 24-Stunden-Rhythmus – das bestimmt unseren Tagesablauf.",
+                      "Die Erde umkreist die Sonne und ihre Achse ist schräg gestellt. Deshalb ist mal die Nordhalbkugel stärker zur Sonne geneigt (Sommer dort) und mal die Südhalbkugel."
+                    ]
+                  }
+                },
+                {
+                  "id": "geo5_mod1_u3",
+                  "text": "Ich kann das Gradnetz der Erde (Äquator, Pole, Längengrade, Breitengrade, Nullmeridian) in Grundzügen verstehen und zur Orientierung nutzen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Das Gradnetz als Orientierungshilfe",
+                        "text": "Um Orte genau zu bestimmen, verwendet man ein Gradnetz aus Breiten- und Längengraden. Es überzieht die Erde wie ein unsichtbares Netz und hilft, jeden Punkt durch Zahlenangaben zu beschreiben."
+                      },
+                      {
+                        "title": "Äquator, Pole und Nullmeridian",
+                        "text": "Der Äquator teilt die Erde in Nord- und Südhalbkugel. Die Pole (Nordpol, Südpol) sind die Endpunkte der Erdachse; der Nullmeridian verläuft z. B. durch Greenwich bei London und dient als Ausgangslinie für die Längengrade."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Äquator",
+                        "definition": "Größter Breitenkreis, der die Erde in Nord- und Südhalbkugel teilt."
+                      },
+                      {
+                        "term": "Gradnetz",
+                        "definition": "Netz aus Breiten- und Längengraden zur genauen Ortsbestimmung."
+                      },
+                      {
+                        "term": "Nullmeridian",
+                        "definition": "Ausgangslinie der Längengrade mit der Längenzahl 0°, verläuft u. a. durch Greenwich."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann auf einer Atlas-Karte Äquator, Nordpol und Südpol zeigen.",
+                      "Ich kann erklären, wozu man das Gradnetz braucht."
+                    ],
+                    "sample_questions": [
+                      "Wie hilft dir das Gradnetz, einen Ort auf der Erde genau zu beschreiben?",
+                      "Was trennt der Äquator – und wo verläuft er ungefähr?"
+                    ],
+                    "sample_answers": [
+                      "Mit Hilfe von Breiten- und Längengraden kann man jedem Ort Zahlen geben, zum Beispiel 50°N, 11°E, und ihn so eindeutig finden.",
+                      "Der Äquator trennt Nord- und Südhalbkugel und verläuft ungefähr durch die Mitte der Erde, unter anderem durch Teile Afrikas und Südamerikas."
+                    ]
+                  }
+                },
+                {
+                  "id": "geo5_mod1_u4",
+                  "text": "Ich kann unterschiedliche Natur- und Landschaftsräume (Hochgebirge, Tiefland, Mittelgebirge, Ozean) und ihre Vegetation in Grundzügen beschreiben.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Formen der Erdoberfläche",
+                        "text": "Die Erdoberfläche ist sehr unterschiedlich: Es gibt Hochgebirge mit hohen Gipfeln, Mittelgebirge mit abgerundeten Formen, Tiefländer und Ebenen sowie Ozeane und Meere. Diese Reliefformen beeinflussen Klima, Vegetation und Nutzungsmöglichkeiten."
+                      },
+                      {
+                        "title": "Vegetation und Klima",
+                        "text": "In warmen, feuchten Gebieten gibt es meist dichte Vegetation, in kalten oder sehr trockenen Gebieten nur wenig Bewuchs. Du lernst einfache Beispiele kennen, z. B. Regenwald, Graslandschaften, Nadelwälder oder Tundra und ordnest sie grob den Klimaräumen zu."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Hochgebirge",
+                        "definition": "Gebirge mit großen Höhenunterschieden und hohen Gipfeln, oft über der Baumgrenze."
+                      },
+                      {
+                        "term": "Mittelgebirge",
+                        "definition": "Gebirge mit mittleren Höhen und überwiegend abgerundeten Formen."
+                      },
+                      {
+                        "term": "Tiefland",
+                        "definition": "Weitgehend flaches oder leicht gewelltes Gebiet mit geringer Höhe über dem Meer."
+                      },
+                      {
+                        "term": "Ozean",
+                        "definition": "Sehr großes, zusammenhängendes Meer, das weite Teile der Erdoberfläche bedeckt."
+                      },
+                      {
+                        "term": "Vegetation",
+                        "definition": "Gesamtheit der Pflanzen in einem Gebiet."
+                      },
+                      {
+                        "term": "Klima",
+                        "definition": "Durchschnittlicher Witterungsverlauf (z. B. Temperatur, Niederschlag) über einen längeren Zeitraum in einem Gebiet."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann mit einfachen Worten erklären, was Hochgebirge, Mittelgebirge, Tiefland und Ozean sind.",
+                      "Ich kann zu einem gewählten Landschaftsraum Beispiele für Pflanzen und typische Nutzungen nennen."
+                    ],
+                    "sample_questions": [
+                      "Beschreibe ein Hochgebirge und ein Tiefland jeweils mit zwei Merkmalen.",
+                      "Wie unterscheiden sich die Nutzungsmöglichkeiten im Hochgebirge und in einem Tiefland?",
+                      "Nenne ein Beispiel für eine Vegetation, die zu einem kalten Klima passt."
+                    ],
+                    "sample_answers": [
+                      "Ein Hochgebirge hat steile Hänge und hohe Gipfel, im Winter viel Schnee. Ein Tiefland ist flach oder leicht gewellt und liegt nur wenig über dem Meeresspiegel.",
+                      "Im Hochgebirge sind z. B. Weidewirtschaft und Tourismus (Skifahren, Wandern) wichtig, im Tiefland kann man oft gut Ackerbau betreiben und Städte bauen.",
+                      "Zur kalten Klimazone passt zum Beispiel Tundra mit Moosen, Flechten und niedrigen Sträuchern."
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "module_id": "geo5_mod2",
+              "module_name": "Das Leben der Menschen mit Naturrisiken",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Naturrisiken erkennen",
+                    "text": "In diesem Modul lernst du natürliche Vorgänge kennen, die für Menschen gefährlich werden können, z. B. Sturmfluten, Vulkanausbrüche, Erdbeben, Hochwasser oder Lawinen.[file:5] Du beschreibst, wie solche Gefahren entstehen, welche Lebensräume besonders betroffen sind und welche Schutzmaßnahmen möglich sind.[file:5]"
+                  },
+                  {
+                    "title": "Mensch und Natur im Spannungsfeld",
+                    "text": "Du erkennst, dass Menschen oft in gefährdeten Gebieten leben, weil diese z. B. fruchtbare Böden, gute Verkehrslage oder wirtschaftliche Chancen bieten.[file:5] Gleichzeitig lernst du, wie Menschen versuchen, mit Naturrisiken umzugehen und Schäden zu verringern.[file:5]"
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "geo5_mod2_u1",
+                  "text": "Ich kann verschiedene Küstenformen (Flachküste, Steilküste, Wattküste) und ihre Gefährdungen für Menschen beschreiben und einfache Schutzmaßnahmen nennen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Küstenformen und Dynamik",
+                        "text": "Küsten können flach und sandig, steil und felsig oder von Wattflächen geprägt sein.[file:5] Wellen, Strömungen und Gezeiten tragen ständig Material ab (Abtragung), transportieren und lagern es an anderer Stelle wieder ab (Ablagerung).[file:5]"
+                      },
+                      {
+                        "title": "Gefahren an der Küste",
+                        "text": "An Flachküsten drohen Sturmfluten und Überflutungen, an Steilküsten Abstürze und Felsstürze, im Watt können Menschen bei auflaufender Flut in Gefahr geraten.[file:5] Du lernst typische Schutzmaßnahmen wie Deiche, Schutzdünen oder Sperrwerke kennen.[file:5]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Flachküste",
+                        "definition": "Küstenform mit flach ins Meer auslaufendem Land, oft Sandstrände und Dünen.[file:5]"
+                      },
+                      {
+                        "term": "Steilküste",
+                        "definition": "Küstenform mit steil abfallenden Felsen direkt am Meer.[file:5]"
+                      },
+                      {
+                        "term": "Watt",
+                        "definition": "Fläche, die bei Ebbe trockenfällt und bei Flut überflutet wird.[file:5]"
+                      },
+                      {
+                        "term": "Deich",
+                        "definition": "Künstlich aufgeschütteter Damm zum Schutz des Hinterlandes vor Hochwasser und Sturmfluten.[file:5]"
+                      },
+                      {
+                        "term": "Naturrisiko",
+                        "definition": "Gefahr für Menschen und ihre Güter, die von natürlichen Prozessen ausgeht.[file:5]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann den Unterschied zwischen Flachküste, Steilküste und Wattküste beschreiben. [file:5]",
+                      "Ich kann erklären, warum Sturmfluten gefährlich sind. [file:5]",
+                      "Ich kenne mindestens zwei Schutzmaßnahmen an der Küste (z. B. Deich, Dünen). [file:5]"
+                    ],
+                    "sample_questions": [
+                      "Beschreibe eine Flachküste und eine Steilküste jeweils mit zwei Merkmalen.",
+                      "Warum sind Deiche an Flachküsten wichtig?",
+                      "Welche Gefahr besteht für Menschen im Watt bei auflaufender Flut?"
+                    ],
+                    "sample_answers": [
+                      "Eine Flachküste steigt nur langsam an und hat oft Sandstrände; eine Steilküste fällt fast senkrecht zum Meer ab und besteht aus Felsen.",
+                      "Deiche schützen das flache Hinterland davor, dass Meerwasser bei Sturmfluten weit ins Land eindringt.",
+                      "Sie können vom Wasser eingeschlossen werden und den Rückweg nicht rechtzeitig schaffen – es droht Lebensgefahr."
+                    ]
+                  }
+                },
+                {
+                  "id": "geo5_mod2_u2",
+                  "text": "Ich kann Vulkane und Erdbeben als Ursachen für Gefährdungen von Lebensräumen beschreiben und Beispiele nennen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Vulkanausbrüche",
+                        "text": "Vulkane entstehen an Schwächezonen der Erdkruste; bei Ausbrüchen treten Lava, Asche und Gase aus.[file:5] In der Umgebung kann es zu Zerstörungen durch Lavaflüsse, Ascheregen oder Glutwolken kommen, gleichzeitig sorgen vulkanische Böden oft für fruchtige Landwirtschaft.[file:5]"
+                      },
+                      {
+                        "title": "Erdbeben",
+                        "text": "Erdbeben entstehen, wenn sich Spannungen in der Erdkruste plötzlich lösen, häufig an Plattengrenzen.[file:5] Sie können Gebäude einstürzen lassen, Risse im Boden verursachen und über dem Meer Tsunamis auslösen.[file:5]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Vulkan",
+                        "definition": "Öffnung in der Erdkruste, aus der bei Ausbrüchen Lava, Asche und Gase austreten.[file:5]"
+                      },
+                      {
+                        "term": "Erdbeben",
+                        "definition": "Plötzliche Erschütterung der Erdoberfläche durch Bewegungen im Erdinneren.[file:5]"
+                      },
+                      {
+                        "term": "Tsunami",
+                        "definition": "Sehr hohe Meereswelle, die z. B. durch ein Seebeben ausgelöst wird.[file:5]"
+                      },
+                      {
+                        "term": "Relief",
+                        "definition": "Formen der Erdoberfläche, z. B. Berge, Täler, Ebenen.[file:5]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann in einfachen Worten erklären, wie ein Vulkanausbruch entsteht. [file:5]",
+                      "Ich kenne mindestens zwei Gefahren, die von einem Erdbeben ausgehen. [file:5]",
+                      "Ich kann ein Beispielgebiet nennen, in dem Vulkane oder Erdbeben häufig vorkommen. [file:5]"
+                    ],
+                    "sample_questions": [
+                      "Warum leben Menschen trotz der Gefahr in der Nähe von Vulkanen?",
+                      "Nenne zwei Folgen eines starken Erdbebens in einer Stadt.",
+                      "Was ist ein Tsunami und wie kann er entstehen?"
+                    ],
+                    "sample_answers": [
+                      "Weil die vulkanischen Böden fruchtbar sind und gute Ernten ermöglichen, und weil dort oft Tourismus stattfindet.",
+                      "Häuser können einstürzen und Straßen, Wasser- und Stromleitungen werden zerstört.",
+                      "Ein Tsunami ist eine sehr hohe Welle, die z. B. durch ein starkes Seebeben ausgelöst wird und an Küsten große Schäden anrichten kann."
+                    ]
+                  }
+                },
+                {
+                  "id": "geo5_mod2_u3",
+                  "text": "Ich kann an Flüssen Gefährdungen durch Hochwasser beschreiben und einfache Schutzmaßnahmen nennen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Flussabschnitte und Dynamik",
+                        "text": "Flüsse transportieren Wasser und Material von den Quellgebieten bis zur Mündung.[file:5] In den Auen und bei Hochwasser können sie über die Ufer treten und angrenzende Siedlungen oder Felder überfluten.[file:5]"
+                      },
+                      {
+                        "title": "Hochwasser und Schutz",
+                        "text": "Hochwasser entsteht, wenn mehr Wasser in den Fluss gelangt, als im Flussbett abfließen kann (z. B. durch starken Regen, Schneeschmelze). [file:5] Schutzmaßnahmen sind u. a. Deiche, Rückhaltebecken, Überschwemmungsflächen oder der Verzicht auf Bauen in der Aue.[file:5]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Flussaue",
+                        "definition": "Niedrig gelegener Bereich entlang eines Flusses, der bei Hochwasser überflutet werden kann.[file:5]"
+                      },
+                      {
+                        "term": "Ablagerung",
+                        "definition": "Absetzen von mitgeführtem Material (z. B. Sand, Kies), wenn die Transportkraft des Wassers nachlässt.[file:5]"
+                      },
+                      {
+                        "term": "Abtragung",
+                        "definition": "Abtransport von Boden oder Gestein durch Wasser, Wind oder Eis.[file:5]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann erklären, was bei einem Hochwasser passiert. [file:5]",
+                      "Ich kann zwei Maßnahmen nennen, die Menschen vor Hochwasser schützen sollen. [file:5]"
+                    ],
+                    "sample_questions": [
+                      "Warum bauen Menschen trotzdem in Flussauen, obwohl Hochwasser droht?",
+                      "Nenne zwei Maßnahmen, mit denen man Hochwasserschäden verringern kann."
+                    ],
+                    "sample_answers": [
+                      "Weil das Land dort flach und günstig ist und man guten Zugang zum Wasser hat, z. B. für Schifffahrt oder Landwirtschaft.",
+                      "Man kann Deiche bauen und Überschwemmungsflächen freihalten, damit das Wasser sich ausbreiten kann."
+                    ]
+                  }
+                },
+                {
+                  "id": "geo5_mod2_u4",
+                  "text": "Ich kann Wetterextreme (Sturm, Starkregen, Hitze/Kälte) und Massenbewegungen (z. B. Erdrutsch, Lawine) als Naturrisiken beschreiben.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Wetterextreme",
+                        "text": "Starke Stürme, Hagel, Starkregen, Hitzewellen oder Kälteperioden sind Wetterextreme, die Schäden anrichten können.[file:5] Du lernst, wie Wetterberichte und Wetterdienste vor solchen Ereignissen warnen.[file:5]"
+                      },
+                      {
+                        "title": "Massenbewegungen",
+                        "text": "Bei Massenbewegungen rutschen größere Gesteins- oder Schneemassen den Hang hinab, z. B. Erdrutsche oder Lawinen.[file:5] Sie treten besonders an steilen Hängen, in Gebirgen oder nach starken Niederschlägen auf."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Wetter",
+                        "definition": "Zustand der unteren Luftschichten an einem bestimmten Ort zu einer bestimmten Zeit (z. B. Temperatur, Niederschlag, Wind). [file:5]"
+                      },
+                      {
+                        "term": "Wetterdienst",
+                        "definition": "Einrichtung, die Wetterdaten sammelt, Wettervorhersagen erstellt und vor Unwettern warnt.[file:5]"
+                      },
+                      {
+                        "term": "Erdrutsch",
+                        "definition": "Plötzliche Bewegung von Boden- und Gesteinsmassen einen Hang hinab.[file:5]"
+                      },
+                      {
+                        "term": "Lawine",
+                        "definition": "Schnelle Talfahrt großer Schnee- und Eismassen, oft mit Geröll vermischt.[file:5]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann mindestens zwei Wetterextreme nennen und ihre möglichen Folgen beschreiben. [file:5]",
+                      "Ich kann erklären, was eine Lawine ist und wo sie vorkommt. [file:5]"
+                    ],
+                    "sample_questions": [
+                      "Nenne ein Beispiel für ein Wetterextrem in Deutschland und beschreibe die Folgen.",
+                      "Warum sind Lawinen für Menschen im Hochgebirge gefährlich?"
+                    ],
+                    "sample_answers": [
+                      "Starkregen kann zu Überschwemmungen führen, Keller füllen sich mit Wasser und Straßen werden unpassierbar.",
+                      "Lawinen können sehr schnell ins Tal rasen und Häuser, Straßen und Menschen unter sich begraben."
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "module_id": "geo5_mod3",
+              "module_name": "Wirtschaftliches Handeln zwischen Ökonomie und Ökologie",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Wirtschaften in der Umwelt",
+                    "text": "In diesem Modul lernst du, wie menschliches Wirtschaften (z. B. Landwirtschaft, Tourismus, Energie, Verkehr) die Umwelt beeinflusst und welche Unterschiede es zwischen konventionellen und umweltfreundlichen Formen gibt.[file:5] Du beschreibst Beispiele aus Thüringen, Deutschland und Europa und vergleichst die Vor- und Nachteile verschiedener Nutzungsformen.[file:5]"
+                  },
+                  {
+                    "title": "Nachhaltigkeit als Leitidee",
+                    "text": "Du beschäftigst dich mit der Frage, wie Menschen so wirtschaften können, dass Natur und Ressourcen auch für zukünftige Generationen erhalten bleiben.[file:5] Dazu betrachtest du verschiedene Bereiche wie Land- und Forstwirtschaft, Tourismus, Energieerzeugung und Verkehrskonzepte.[file:5]"
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "geo5_mod3_u1",
+                  "text": "Ich kann konventionelle und ökologische Land- und Forstwirtschaft in einfachen Beispielen beschreiben und vergleichen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Konventionelle Landwirtschaft",
+                        "text": "In der konventionellen Landwirtschaft werden oft große Flächen mit wenigen Kulturpflanzen bewirtschaftet, es kommen viele Maschinen, Mineraldünger und Pflanzenschutzmittel zum Einsatz.[file:5] Dadurch können hohe Erträge erzielt werden, aber Boden, Wasser und Artenvielfalt können stärker belastet werden.[file:5]"
+                      },
+                      {
+                        "title": "Ökologische Landwirtschaft",
+                        "text": "Ökologische Landwirtschaft (Bio-Landbau) versucht, ohne synthetische Pflanzenschutzmittel und Mineraldünger auszukommen.[file:5] Stattdessen werden z. B. Fruchtfolgen, Kompost, artgerechte Tierhaltung und der Verzicht auf Gentechnik betont; Erträge sind oft niedriger, dafür wird die Umwelt geschont.[file:5]"
+                      },
+                      {
+                        "title": "Forstwirtschaft",
+                        "text": "Auch Wälder können sehr unterschiedlich genutzt werden: In Monokulturen wachsen meist nur eine Baumart, in naturnahen Mischwäldern verschiedene Baumarten, was die Stabilität des Waldes erhöht.[file:5]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Bioprodukte",
+                        "definition": "Lebensmittel aus ökologischer Landwirtschaft, die bestimmte Umwelt- und Qualitätsstandards einhalten.[file:5]"
+                      },
+                      {
+                        "term": "Boden",
+                        "definition": "Oberste Schicht der Erdkruste, in der Pflanzen wachsen; wichtiger Lebens- und Produktionsraum.[file:5]"
+                      },
+                      {
+                        "term": "landwirtschaftlicher Gunstraum",
+                        "definition": "Gebiet mit günstigen natürlichen Bedingungen für Landwirtschaft (z. B. fruchtbare Böden, mildes Klima). [file:5]"
+                      },
+                      {
+                        "term": "industrielle Tierhaltung",
+                        "definition": "Haltung vieler Tiere auf engem Raum mit hohem Technik- und Futtereinsatz zur Maximierung der Produktion.[file:5]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann zwei Merkmale konventioneller und zwei Merkmale ökologischer Landwirtschaft nennen. [file:5]",
+                      "Ich kann einfache Vor- und Nachteile der beiden Formen beschreiben. [file:5]",
+                      "Ich kann erklären, warum Wälder als Wirtschafts- und Lebensraum wichtig sind. [file:5]"
+                    ],
+                    "sample_questions": [
+                      "Nenne zwei Unterschiede zwischen konventioneller und ökologischer Landwirtschaft.",
+                      "Warum sind Monokulturen im Wald problematisch?",
+                      "Welche Vorteile können Bioprodukte für Umwelt und Verbraucher haben?"
+                    ],
+                    "sample_answers": [
+                      "Konventionell: viel Dünger und Pflanzenschutzmittel, hohe Erträge; ökologisch: weniger Chemie, mehr Fruchtfolgen und artgerechte Tierhaltung.",
+                      "Monokulturen sind anfälliger für Schädlinge und Sturmschäden; wenn nur eine Baumart betroffen ist, kann der ganze Wald geschädigt werden.",
+                      "Bioprodukte schonen Boden und Wasser, fördern Tierschutz und enthalten weniger Rückstände von Pflanzenschutzmitteln."
+                    ]
+                  }
+                },
+                {
+                  "id": "geo5_mod3_u2",
+                  "text": "Ich kann Massentourismus und sanften Tourismus unterscheiden und ihre Auswirkungen auf Menschen und Umwelt erklären.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Massentourismus",
+                        "text": "Beim Massentourismus reisen sehr viele Menschen gleichzeitig in die gleichen Regionen, oft in großen Hotelanlagen und mit pauschalen Angeboten.[file:5] Das bringt zwar Einkommen und Arbeitsplätze, kann aber zu Umweltbelastungen (z. B. Abfall, Wasserverbrauch, Lärm) und zur Veränderung von Lebensweisen führen.[file:5]"
+                      },
+                      {
+                        "title": "Sanfter Tourismus",
+                        "text": "Sanfter oder nachhaltiger Tourismus versucht, die Natur zu schonen und die lokale Bevölkerung einzubeziehen.[file:5] Beispiele sind kleine Pensionen, Wandertourismus, regionale Produkte und Angebote, die an Kultur und Natur angepasst sind.[file:5]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Massentourismus",
+                        "definition": "Tourismusform mit vielen Reisenden, großen Anlagen und starker Konzentration auf wenige Ziele.[file:5]"
+                      },
+                      {
+                        "term": "sanfter Tourismus",
+                        "definition": "Tourismusform, die Umwelt und Kultur möglichst wenig belastet und die lokale Bevölkerung einbindet.[file:5]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann typische Merkmale von Massentourismus und sanftem Tourismus nennen. [file:5]",
+                      "Ich kann erklären, warum Tourismus sowohl Vorteile als auch Nachteile haben kann. [file:5]"
+                    ],
+                    "sample_questions": [
+                      "Nenne zwei Vorteile und zwei Nachteile des Massentourismus für eine Urlaubsregion.",
+                      "Wie kann sanfter Tourismus die Umwelt besser schützen?"
+                    ],
+                    "sample_answers": [
+                      "Vorteile: mehr Arbeitsplätze, mehr Geld für die Region; Nachteile: mehr Müll, höherer Wasserverbrauch, Lärm und Naturzerstörung.",
+                      "Er nutzt kleinere Unterkünfte, respektiert Naturschutzgebiete, setzt auf regionale Produkte und vermeidet große Eingriffe in Landschaft und Kultur."
+                    ]
+                  }
+                },
+                {
+                  "id": "geo5_mod3_u3",
+                  "text": "Ich kann Stromerzeugung aus regenerativen und nicht regenerativen Energieträgern in Grundzügen vergleichen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Nicht regenerative Energieträger",
+                        "text": "Nicht regenerative Energieträger wie Kohle, Erdöl oder Erdgas sind nur begrenzt vorhanden und können sich in menschlichen Zeiträumen nicht erneuern.[file:5] Ihre Nutzung setzt oft große Mengen an CO₂ frei und belastet Umwelt und Klima.[file:5]"
+                      },
+                      {
+                        "title": "Regenerative Energieträger",
+                        "text": "Regenerative Energieträger wie Sonne, Wind, Wasser und Biomasse erneuern sich ständig oder stehen langfristig zur Verfügung.[file:5] Ihre Nutzung verursacht meist weniger Schadstoffe, kann aber ebenfalls Eingriffe in Landschaft und Natur bedeuten (z. B. Staudämme, Windparks). [file:5]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "nicht regenerative Energieträger",
+                        "definition": "Energieträger, die sich nur sehr langsam erneuern und daher begrenzt sind (z. B. Kohle, Erdöl).[file:5]"
+                      },
+                      {
+                        "term": "regenerativer Energieträger",
+                        "definition": "Energieträger, der sich ständig erneuert oder langfristig zur Verfügung steht (z. B. Sonne, Wind). [file:5]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann Beispiele für nicht regenerative und regenerative Energieträger nennen. [file:5]",
+                      "Ich kann einfache Vor- und Nachteile beider Gruppen erklären. [file:5]"
+                    ],
+                    "sample_questions": [
+                      "Nenne zwei nicht regenerative und zwei regenerative Energieträger.",
+                      "Warum will man den Anteil regenerativer Energien in der Stromerzeugung erhöhen?"
+                    ],
+                    "sample_answers": [
+                      "Nicht regenerativ: Kohle, Erdöl; regenerativ: Sonne, Wind.",
+                      "Weil sie das Klima weniger belasten und langfristig verfügbar sind, während fossile Energieträger begrenzt sind und mehr CO₂ freisetzen."
+                    ]
+                  }
+                },
+                {
+                  "id": "geo5_mod3_u4",
+                  "text": "Ich kann einfache Verkehrskonzepte (z. B. ÖPNV, Straßenverkehr) beschreiben und ihre Vor- und Nachteile für Umwelt und Alltag benennen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Verkehrsträger und Verkehrskonzepte",
+                        "text": "Es gibt verschiedene Verkehrsträger wie Auto, Bus, Bahn, Fahrrad oder Flugzeug, die im Personen- und Güterverkehr eingesetzt werden.[file:5] Verkehrskonzepte versuchen, diese Verkehrsmittel so zu planen, dass sie den Alltag erleichtern und die Umwelt möglichst wenig belasten.[file:5]"
+                      },
+                      {
+                        "title": "Öffentlicher Personennahverkehr (ÖPNV)",
+                        "text": "Der ÖPNV umfasst z. B. Busse, Straßenbahnen oder Regionalzüge.[file:5] Er kann viele Menschen gleichzeitig transportieren und so den Autoverkehr und die Umweltbelastung verringern, wenn er gut ausgebaut und attraktiv ist.[file:5]"
+                      },
+                      {
+                        "title": "Verkehrsknoten und Transitverkehr",
+                        "text": "Verkehrsknoten sind Orte, an denen sich wichtige Verkehrswege kreuzen, z. B. Bahnhöfe oder Autobahnkreuze.[file:5] Transitverkehr ist Durchgangsverkehr, der eine Region nur durchquert, um von einem Ort zum anderen zu kommen.[file:5]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "ÖPNV",
+                        "definition": "Öffentlicher Personennahverkehr, z. B. Busse, Straßenbahnen, Regionalzüge.[file:5]"
+                      },
+                      {
+                        "term": "Verkehrsträger",
+                        "definition": "Art des Verkehrsmittels, z. B. Straße, Schiene, Luft, Wasser.[file:5]"
+                      },
+                      {
+                        "term": "Verkehrsknoten",
+                        "definition": "Ort, an dem sich mehrere Verkehrswege treffen oder kreuzen.[file:5]"
+                      },
+                      {
+                        "term": "Transitverkehr",
+                        "definition": "Durchgangsverkehr, der eine Region ohne Ziel dort durchquert.[file:5]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann erklären, was ÖPNV ist und welche Vorteile er haben kann. [file:5]",
+                      "Ich kann Vor- und Nachteile des Autoverkehrs in der Stadt nennen. [file:5]"
+                    ],
+                    "sample_questions": [
+                      "Warum ist ein gut ausgebauter ÖPNV wichtig für Städte?",
+                      "Nenne einen Vorteil und einen Nachteil des Autoverkehrs im Stadtzentrum."
+                    ],
+                    "sample_answers": [
+                      "Weil er viele Menschen ohne eigenes Auto mobil macht, Staus und Abgase verringern kann und weniger Platz pro Person braucht.",
+                      "Vorteil: Man ist flexibel und kommt direkt ans Ziel; Nachteil: Es entstehen Staus, Lärm und Luftverschmutzung, und es wird viel Platz für Straßen und Parkplätze benötigt."
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "module_id": "geo5_mod4",
+              "module_name": "Leben in Städten und ländlichen Regionen",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Stadt und Land – unterschiedliche Lebensräume",
+                    "text": "In diesem Modul lernst du, wie Städte und ländliche Regionen aufgebaut sind und wie die Menschen dort leben und wirtschaften.[file:5] Du vergleichst typische Merkmale, Vorteile und Probleme beider Lebensräume und lernst einfache Stadt-Umland-Beziehungen kennen.[file:5]"
+                  },
+                  {
+                    "title": "Lebenswerte Räume gestalten",
+                    "text": "Du setzt dich damit auseinander, wie Orte so gestaltet werden können, dass Menschen dort gut leben können, z. B. durch Grünflächen, Spielplätze, Verkehrsplanung und gute Versorgung mit Dienstleistungen.[file:5] Dabei spielst du erste einfache Planungsszenarien durch und entwickelst eigene Ideen für dein Umfeld.[file:5]"
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "geo5_mod4_u1",
+                  "text": "Ich kann typische Merkmale von Städten und ländlichen Regionen beschreiben und vergleichen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Merkmale von Städten",
+                        "text": "Städte zeichnen sich durch eine höhere Bebauungsdichte, viele Arbeitsplätze im Dienstleistungs- und Industriebereich, ein ausgeprägtes Verkehrsnetz und ein vielfältiges Angebot an Schulen, Geschäften und Freizeitmöglichkeiten aus.[file:5]"
+                      },
+                      {
+                        "title": "Merkmale ländlicher Regionen",
+                        "text": "Ländliche Regionen sind dünner besiedelt, es gibt mehr land- und forstwirtschaftliche Flächen und oft weniger, aber dafür kleinere Zentren mit wichtigen Einrichtungen.[file:5] Wege zu weiterführenden Schulen, Ärzten oder größeren Einkaufsmöglichkeiten können länger sein.[file:5]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "städtische Lebensweise",
+                        "definition": "Leben in einer eher dicht bebauten Umgebung mit vielen Angeboten, Arbeitsplätzen und Verkehr.[file:5]"
+                      },
+                      {
+                        "term": "ländliche Lebensweise",
+                        "definition": "Leben in dünner besiedelten Gebieten mit mehr Naturflächen und oft engerer Nachbarschaft.[file:5]"
+                      },
+                      {
+                        "term": "Infrastruktur",
+                        "definition": "Ausstattung eines Raumes mit Verkehrswegen, Versorgungsleitungen, Schulen, Ärzten, Einkaufsmöglichkeiten usw.[file:5]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann je drei typische Merkmale einer Stadt und einer ländlichen Region nennen. [file:5]",
+                      "Ich kann einen Vorteil und einen Nachteil des Lebens in der Stadt und auf dem Land beschreiben. [file:5]"
+                    ],
+                    "sample_questions": [
+                      "Nenne drei Dinge, die für eine Stadt typisch sind.",
+                      "Welche Vorteile kann das Leben auf dem Land haben?",
+                      "Welches Problem kann in einer Großstadt häufiger auftreten als auf dem Land?"
+                    ],
+                    "sample_answers": [
+                      "Viele Menschen, dichter Verkehr, große Auswahl an Geschäften und Freizeitangeboten.",
+                      "Mehr Ruhe, viel Natur, oft enger Kontakt zu den Nachbarn.",
+                      "Staus und Luftverschmutzung durch dichten Verkehr."
+                    ]
+                  }
+                },
+                {
+                  "id": "geo5_mod4_u2",
+                  "text": "Ich kann die räumliche Organisation einer Stadt (Wohngebiete, Gewerbegebiete, Zentrum, Erholungsgebiete) in einfachen Beispielen beschreiben.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Aufbau einer Stadt",
+                        "text": "Eine Stadt besteht aus verschiedenen Bereichen (Funktionsräumen), z. B. Wohngebieten, Gewerbegebieten, Industrieflächen, Erholungsgebieten und einem Zentrum.[file:5] Im Zentrum befinden sich häufig wichtige Einrichtungen wie Rathaus, größere Geschäfte, kulturelle Angebote und Knotenpunkte des Verkehrs.[file:5]"
+                      },
+                      {
+                        "title": "Wohn- und Gewerbegebiete",
+                        "text": "Wohngebiete sind vor allem von Häusern und Wohnungen geprägt, oft mit Schulen, kleinen Läden und Spielplätzen in der Nähe.[file:5] Gewerbegebiete sind auf Handel, Dienstleistungen oder leichte Produktion ausgerichtet, Industriegebiete eher auf größere Fabriken.[file:5]"
+                      },
+                      {
+                        "title": "Erholungsgebiete und Grüngürtel",
+                        "text": "Erholungsgebiete wie Parks, Grünflächen oder stadtnahes Umland bieten Raum für Freizeit, Sport und Naturerleben und sind wichtig für die Lebensqualität in Städten.[file:5]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Wohngebiet",
+                        "definition": "Teil einer Stadt, in dem vor allem gewohnt wird, mit Häusern und Wohnungen.[file:5]"
+                      },
+                      {
+                        "term": "Gewerbegebiet",
+                        "definition": "Bereich mit Betrieben des Handels, Handwerks oder leichter Industrie.[file:5]"
+                      },
+                      {
+                        "term": "Erholungsgebiet",
+                        "definition": "Bereich, der vor allem für Freizeit und Erholung genutzt wird (z. B. Park, See). [file:5]"
+                      },
+                      {
+                        "term": "Zentrum",
+                        "definition": "Kernbereich der Stadt mit hoher Dichte an Geschäften, Dienstleistungen und Verkehr.[file:5]"
+                      },
+                      {
+                        "term": "Grüngürtel",
+                        "definition": "Zusammenhängende Grünzone um eine Stadt, die als Erholungsraum und zur Trennung von Stadt und Umland dient.[file:5]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann in einem Stadtplan Wohngebiete, Gewerbe-/Industriegebiete und das Zentrum erkennen. [file:5]",
+                      "Ich kann erklären, warum Erholungsgebiete für eine Stadt wichtig sind. [file:5]"
+                    ],
+                    "sample_questions": [
+                      "Welche Funktionen erfüllt das Stadtzentrum?",
+                      "Nenne zwei Beispiele für Erholungsgebiete in einer Stadt.",
+                      "Warum planen Städte Grüngürtel oder größere Parks?"
+                    ],
+                    "sample_answers": [
+                      "Im Zentrum gibt es viele Geschäfte, Dienstleistungen, wichtige Gebäude wie das Rathaus und gute Verkehrsanbindungen.",
+                      "Parks, Spielplätze, Uferbereiche an Flüssen oder Seen.",
+                      "Damit die Menschen einen Ort zum Ausruhen, Spielen und für Sport haben und die Luftqualität verbessert wird."
+                    ]
+                  }
+                },
+                {
+                  "id": "geo5_mod4_u3",
+                  "text": "Ich kann einfache Stadt-Umland-Beziehungen beschreiben (z. B. Pendeln, Versorgung, Freizeit).",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Verflechtungen zwischen Stadt und Umland",
+                        "text": "Stadt und Umland sind eng miteinander verbunden: Menschen aus dem Umland pendeln zum Arbeiten, Einkaufen oder zur Schule in die Stadt, während die Stadt vom Umland z. B. Lebensmittel oder Erholungsräume bezieht.[file:5]"
+                      },
+                      {
+                        "title": "Pendler und Versorgungsfunktionen",
+                        "text": "Pendler wohnen an einem Ort und arbeiten an einem anderen, meist in der Stadt.[file:5] Die Stadt bietet oft ein größeres Angebot an Arbeitsplätzen, Einkaufsmöglichkeiten und Dienstleistungen, die auch von Menschen aus umliegenden Dörfern genutzt werden.[file:5]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Stadt-Umland-Beziehung",
+                        "definition": "Wechselseitige Beziehungen zwischen einer Stadt und den umliegenden ländlichen Gemeinden (z. B. Pendeln, Versorgung, Erholung).[file:5]"
+                      },
+                      {
+                        "term": "Pendler",
+                        "definition": "Person, die regelmäßig zwischen Wohnort und Arbeits- oder Schulort hin- und herfährt.[file:5]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann Beispiele nennen, wie Menschen aus dem Umland eine Stadt nutzen. [file:5]",
+                      "Ich kann erklären, warum das Umland für die Stadt wichtig ist. [file:5]"
+                    ],
+                    "sample_questions": [
+                      "Inwiefern sind Dörfer im Umland auf die nahe Stadt angewiesen?",
+                      "Nenne zwei Beispiele dafür, wie die Stadt vom Umland profitiert."
+                    ],
+                    "sample_answers": [
+                      "Sie nutzen die Stadt für Arbeitsplätze, weiterführende Schulen, größere Krankenhäuser und Einkaufsmöglichkeiten.",
+                      "Die Stadt erhält aus dem Umland Lebensmittel und hat Erholungsräume wie Wälder und Seen in der Nähe."
+                    ]
+                  }
+                },
+                {
+                  "id": "geo5_mod4_u4",
+                  "text": "Ich kann Ideen für die Gestaltung lebenswerter Räume in meinem Umfeld entwickeln und begründen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Lebensqualität in Stadt und Land",
+                        "text": "Lebenswerte Räume zeichnen sich durch eine gute Erreichbarkeit wichtiger Einrichtungen, sichere Wege, Grünflächen, Spiel- und Sportmöglichkeiten sowie eine gute Umweltqualität aus.[file:5] Du überlegst, was in deinem Ort oder Stadtteil bereits vorhanden ist und was verbessert werden könnte.[file:5]"
+                      },
+                      {
+                        "title": "Einfache Planungsideen",
+                        "text": "Du lernst, einfache Skizzen oder Steckbriefe zu erstellen, in denen du deine Ideen darstellst (z. B. neuer Spielplatz, mehr Bänke, sichere Radwege, Bäume entlang der Straße).[file:5] Dabei begründest du, warum deine Vorschläge den Raum lebenswerter machen würden.[file:5]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "lebenswerter Raum",
+                        "definition": "Ort, an dem Menschen gerne wohnen, arbeiten und ihre Freizeit verbringen, weil wichtige Bedürfnisse gut erfüllt werden.[file:5]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann sagen, was mir an meinem Ort gefällt und was nicht. [file:5]",
+                      "Ich kann eine einfache Idee zur Verbesserung meines Umfelds entwickeln und begründen. [file:5]"
+                    ],
+                    "sample_questions": [
+                      "Nenne eine Stelle in deinem Ort, die du verbessern würdest, und erkläre wie.",
+                      "Welche drei Dinge sind dir für einen lebenswerten Wohnort besonders wichtig?"
+                    ],
+                    "sample_answers": [
+                      "Den Platz vor der Schule: Ich würde mehr Sitzgelegenheiten und Bäume anlegen, damit man in den Pausen draußen im Schatten sitzen kann.",
+                      "Wichtige Dinge sind für mich gute Busverbindungen, sichere Wege für Fußgänger und Radfahrer und Grünflächen zum Spielen und Erholen."
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subject_id": "deu",
+          "subject_title": "Deutsch",
+          "modules": [
+            {
+              "module_id": "deu5_mod1",
+              "module_name": "Texte rezipieren – lesen, hören, sehen",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Warum Lesen, Hören und Sehen im Deutschunterricht wichtig sind",
+                    "text": "Im Deutschunterricht begegnest du vielen verschiedenen Texten: Geschichten, Gedichten, Comics, Sachtexten, Hörspielen, Filmausschnitten oder Internetseiten. Wenn du solche Texte gut verstehst, kannst du Informationen gewinnen, Neues lernen und dich in fremde Welten hineinversetzen. Lesen, Hören und Sehen sind deshalb die Grundlage für fast alles, was du in der Schule lernst – nicht nur im Fach Deutsch."
+                  },
+                  {
+                    "title": "Texte verstehen – mit Kopf und Gefühl",
+                    "text": "Texte zu rezipieren bedeutet, dass du sie mit allen Sinnen aufnimmst und verstehst. Beim Lesen und Hören arbeitest du nicht nur mit den Augen oder Ohren, sondern auch mit deinem Kopf und deinen Gefühlen: Du stellst dir Bilder vor, ordnest Informationen, vergleichst mit eigenen Erfahrungen und bildest dir eine Meinung. So erkennst du, worum es in einem Text geht, welche Absicht jemand mit einem Text verfolgt und wie der Text auf dich wirkt."
+                  },
+                  {
+                    "title": "Lesestrategien und Hörstrategien nutzen",
+                    "text": "Gute Leserinnen und Leser haben Tricks, wie sie Texte besser verstehen: Sie überlegen vorher, worum es gehen könnte, überfliegen einen Text, markieren Wichtiges oder stellen sich Fragen zum Inhalt. Auch beim Hören ist es hilfreich, sich zu konzentrieren, auf Schlüsselwörter zu achten und sich Notizen zu machen. In diesem Modul lernst du solche Strategien kennen und übst sie an verschiedenen Textsorten, damit du Texte immer sicherer verstehen kannst."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "deu5_mod1_u1",
+                  "text": "Ich kann einfache literarische Texte (Erzählungen, Gedichte, Szenen) sinnerfassend lesen und grundlegende Merkmale benennen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Literarische Texte – Geschichten, Gedichte, Szenen",
+                        "text": "Literarische Texte sind erfundene Texte. Dazu gehören Geschichten (Erzählungen), Gedichte und kleine Theaterszenen. In ihnen geht es um Figuren, Erlebnisse, Gedanken und Gefühle. Oft erzählen sie von Problemen oder Wünschen, die du aus deinem eigenen Leben kennst. Literarische Texte wollen dich nachdenken lassen, unterhalten oder berühren – nicht nur informieren."
+                      },
+                      {
+                        "title": "Eine Geschichte verstehen",
+                        "text": "Wenn du eine Geschichte liest, achtest du auf die wichtigsten Bausteine: Wer sind die Hauptfiguren? Wo und wann spielt die Geschichte? Welches Problem oder welcher Konflikt taucht auf? Wie entwickelt sich die Handlung und wie endet sie? Du lernst, zwischen wichtigen und unwichtigen Details zu unterscheiden und den roten Faden einer Erzählung zu erkennen."
+                      },
+                      {
+                        "title": "Ein Gedicht entdecken",
+                        "text": "Gedichte sind oft kürzer als Geschichten, aber sehr dicht: In wenigen Zeilen stecken viele Bilder, Gefühle und Gedanken. Du achtest auf Reime, Strophen, Rhythmus und besondere Wörter oder Bilder (z. B. Vergleiche). Wichtig ist vor allem, dass du sagst, was das Gedicht bei dir auslöst: Welche Stimmung spürst du? Woran musst du denken?"
+                      },
+                      {
+                        "title": "Szenen und Spiele",
+                        "text": "Kleine Theaterszenen bestehen aus Figuren, die miteinander sprechen und handeln. Statt eines Erzählers siehst du direkt, was auf der Bühne passiert. Du lernst, Regieanweisungen zu erkennen (z. B. ‚laut‘, ‚leise‘, ‚geht nach links‘) und zu verstehen, wie Figuren durch ihre Sprache und ihr Verhalten dargestellt werden."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "literarischer Text",
+                        "definition": "Erfundener Text wie z. B. Geschichte, Gedicht oder Theaterszene, in dem Erlebnisse, Gedanken und Gefühle gestaltet werden."
+                      },
+                      {
+                        "term": "Erzählung",
+                        "definition": "Geschriebene Geschichte mit Figuren, Ort, Zeit, Handlung und einem Anfang, einer Mitte und einem Ende."
+                      },
+                      {
+                        "term": "Gedicht",
+                        "definition": "Literarischer Text in Versen und Strophen, oft mit Reimen und besonderem Rhythmus."
+                      },
+                      {
+                        "term": "Figur",
+                        "definition": "Person oder Wesen, das in einem literarischen Text vorkommt."
+                      },
+                      {
+                        "term": "Handlung",
+                        "definition": "Das, was in einer Geschichte passiert – die Abfolge der Ereignisse."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann erklären, was literarische Texte sind.",
+                      "Ich kann aus einer Erzählung die wichtigsten Figuren und das Thema nennen.",
+                      "Ich kann grob nacherzählen, worum es in einer gelesenen Geschichte geht.",
+                      "Ich kann in einem einfachen Gedicht Reime und Strophen erkennen.",
+                      "Ich kann sagen, welche Stimmung eine Geschichte oder ein Gedicht bei mir auslöst."
+                    ],
+                    "sample_questions": [
+                      "Was ist der Unterschied zwischen einer Sachinformation und einer erfundenen Geschichte?",
+                      "Nenne die wichtigsten Figuren und das Thema einer Geschichte, die ihr im Unterricht gelesen habt.",
+                      "Wie ist ein einfaches Gedicht aufgebaut?",
+                      "Wie fühlst du dich beim Lesen einer bestimmten Geschichte oder eines Gedichts und warum?"
+                    ],
+                    "sample_answers": [
+                      "Eine Sachinformation will vor allem informieren und Wirkliches beschreiben, eine erfundene Geschichte erzählt von ausgedachten Figuren und Erlebnissen und will mich oft auch unterhalten oder nachdenken lassen.",
+                      "In der Geschichte ‚…‘ sind die Hauptfiguren … und …. Das Thema der Geschichte ist zum Beispiel Freundschaft bzw. Streit und Versöhnung.",
+                      "Ein einfaches Gedicht besteht oft aus mehreren Strophen. Jede Strophe hat eine bestimmte Anzahl von Versen. Es gibt häufig Reime am Versende und einen spürbaren Rhythmus.",
+                      "Beim Lesen der Geschichte ‚…‘ fühle ich mich traurig bzw. fröhlich, weil der Hauptfigur etwas passiert, das ich gut nachempfinden kann, zum Beispiel weil sie ausgegrenzt wird oder weil sie ein Problem löst."
+                    ]
+                  }
+                },
+                {
+                  "id": "deu5_mod1_u2",
+                  "text": "Ich kann Sach- und Gebrauchstexte lesen, Informationen entnehmen und deren Zweck erkennen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Sachtexte und Gebrauchstexte im Alltag",
+                        "text": "Sachtexte und Gebrauchstexte begegnen dir jeden Tag: Arbeitsanweisungen im Heft, Infotexte in Büchern, Zeitungsartikel für Kinder, Spielanleitungen, Fahrpläne, Internetseiten, Plakate oder Schilder. Sie wollen dich informieren, etwas erklären, dich zu etwas auffordern oder dir Regeln mitteilen."
+                      },
+                      {
+                        "title": "Informationen gezielt finden",
+                        "text": "Beim Lesen eines Sachtextes musst du nicht alles gleich wichtig finden. Oft suchst du gezielt bestimmte Informationen. Du lernst, Überschriften, Zwischenüberschriften, Bilder, Tabellen und Hervorhebungen zu nutzen, um dich im Text zu orientieren. Du kannst Fragen an den Text stellen wie: Wer? Was? Wann? Wo? Warum? und suchst dann passende Textstellen dazu."
+                      },
+                      {
+                        "title": "Zweck eines Textes erkennen",
+                        "text": "Jeder Text hat einen bestimmten Zweck: Ein Bericht informiert über ein Ereignis, eine Spielanleitung erklärt Schritt für Schritt, was zu tun ist, ein Plakat will dich auf etwas aufmerksam machen oder dich zu etwas bewegen. Du lernst, an Sprache und Aufbau zu erkennen, ob ein Text eher informieren, erklären, warnen oder werben will."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Sachtext",
+                        "definition": "Text, der über wirkliche Dinge, Personen oder Vorgänge informiert oder etwas erklärt."
+                      },
+                      {
+                        "term": "Gebrauchstext",
+                        "definition": "Kurztext mit praktischem Nutzen im Alltag, z. B. Spielanleitung, Aushang, Plakat oder Fahrplan."
+                      },
+                      {
+                        "term": "Information",
+                        "definition": "gezielte Auskunft über eine Sache, z. B. eine Zahl, ein Fakt oder eine Erklärung."
+                      },
+                      {
+                        "term": "Überschrift",
+                        "definition": "Titel eines Textes, der knapp sagt, worum es im Text geht."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann Sachtexte und Gebrauchstexte von Geschichten unterscheiden.",
+                      "Ich kann aus einem Sachtext gezielt bestimmte Informationen entnehmen.",
+                      "Ich kann den Zweck eines einfachen Textes nennen (z. B. informieren, erklären, warnen, werben).",
+                      "Ich kann wichtige Informationen aus einem Text in Stichpunkten festhalten."
+                    ],
+                    "sample_questions": [
+                      "Woran erkennst du, dass ein Text ein Sachtext und keine Geschichte ist?",
+                      "Welche Informationen kannst du aus einer Spielanleitung entnehmen?",
+                      "Welchen Zweck hat ein Plakat oder Flyer, den ihr im Unterricht betrachtet habt?",
+                      "Fasse die wichtigsten Informationen eines kurzen Sachtextes in 3 Stichpunkten zusammen."
+                    ],
+                    "sample_answers": [
+                      "Ein Sachtext berichtet über wirkliche Dinge, benutzt oft Fachwörter und ist meist sachlich geschrieben. Es gibt keine ausgedachten Figuren oder erfundene Handlung wie in einer Geschichte.",
+                      "Aus einer Spielanleitung erfahre ich zum Beispiel, wie viele Spieler mitmachen, welches Material ich brauche und wie die einzelnen Spielschritte ablaufen.",
+                      "Ein Plakat für eine Schulveranstaltung soll mich informieren, wann und wo etwas stattfindet, und mich dazu einladen, daran teilzunehmen.",
+                      "Die wichtigsten Informationen sind zum Beispiel: 1. Worum es geht, 2. die wichtigsten Fakten dazu, 3. eine wichtige Erklärung oder Folge."
+                    ]
+                  }
+                },
+                {
+                  "id": "deu5_mod1_u3",
+                  "text": "Ich kann Lesestrategien anwenden, um Texte besser zu verstehen, und meine Leseergebnisse geordnet festhalten.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Vor dem Lesen – sich vorbereiten",
+                        "text": "Bevor du einen Text genau liest, kannst du dir einen Überblick verschaffen: Du schaust dir Überschrift, Bilder, fett gedruckte Wörter und eventuell Zwischenüberschriften an. Du überlegst, was du schon über das Thema weißt und stellst dir Fragen: Worum könnte es gehen? Was möchte ich herausfinden? So bereitest du dein Denken auf den Text vor."
+                      },
+                      {
+                        "title": "Beim Lesen – Wichtiges erkennen",
+                        "text": "Während du liest, achtest du auf Schlüsselwörter und Sätze, in denen viel Wichtiges steht. Du kannst sie unterstreichen, markieren oder Randnotizen machen. Unbekannte Wörter versuchst du aus dem Zusammenhang zu erschließen oder schlägst sie nach. Du liest nicht zu schnell, sondern so, dass du den Inhalt wirklich verstehst."
+                      },
+                      {
+                        "title": "Nach dem Lesen – Zusammenfassen und sichern",
+                        "text": "Nach dem Lesen überlegst du: Was war die Hauptaussage? Welche wichtigen Informationen habe ich gefunden? Du kannst deine Ergebnisse in Stichpunkten notieren, eine kurze Inhaltsangabe schreiben oder eine kleine Mindmap zum Textthema anlegen. So vergisst du das Gelesene nicht so schnell und kannst es später leichter wiederholen."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Lesestrategie",
+                        "definition": "bewusste Vorgehensweise, die dir hilft, einen Text besser zu verstehen (z. B. Fragen stellen, Markieren, Zusammenfassen)."
+                      },
+                      {
+                        "term": "Schlüsselwort",
+                        "definition": "wichtiges Wort in einem Text, das für das Thema oder den Inhalt besonders bedeutend ist."
+                      },
+                      {
+                        "term": "Inhaltsangabe",
+                        "definition": "kurze, sachliche Zusammenfassung der wichtigsten Inhalte eines Textes in eigenen Worten."
+                      },
+                      {
+                        "term": "Mindmap",
+                        "definition": "Skizze, in der ein Thema in der Mitte steht und wichtige Unterpunkte strahlenförmig angeordnet sind."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann vor dem Lesen Vermutungen zum Inhalt eines Textes anstellen.",
+                      "Ich kann beim Lesen wichtige Stellen markieren oder mit Stichworten am Rand versehen.",
+                      "Ich kann einen kurzen Text mit wenigen Sätzen oder Stichpunkten zusammenfassen.",
+                      "Ich kann sagen, welche Lesestrategien mir persönlich helfen."
+                    ],
+                    "sample_questions": [
+                      "Was kannst du tun, bevor du einen Text liest, um dich vorzubereiten?",
+                      "Wie erkennst du beim Lesen, welche Textstellen besonders wichtig sind?",
+                      "Wie kannst du nach dem Lesen eines Textes dein Verständnis überprüfen?",
+                      "Welche Lesestrategie hat dir bei einem bestimmten Text besonders geholfen und warum?"
+                    ],
+                    "sample_answers": [
+                      "Ich schaue mir Überschrift und Bilder an und überlege, worum es gehen könnte. Außerdem denke ich darüber nach, was ich zum Thema schon weiß.",
+                      "Wichtige Textstellen erkenne ich daran, dass sie zentrale Fragen beantworten oder viele wichtige Informationen enthalten. Oft sind sie durch Signalwörter oder Beispiele gekennzeichnet.",
+                      "Ich kann versuchen, den Text in eigenen Worten nachzuerzählen oder eine kurze Inhaltsangabe schreiben. Wenn ich das schaffe, habe ich den Text verstanden.",
+                      "Mir hilft es besonders, wichtige Wörter zu unterstreichen und am Rand Stichworte zu notieren, weil ich so beim Wiederholen schnell die wichtigsten Inhalte wiederfinde."
+                    ]
+                  }
+                },
+                {
+                  "id": "deu5_mod1_u4",
+                  "text": "Ich kann einfache Hör- und Hörsehtexte (z. B. Hörspiele, Videos, Vorlesesituationen) verstehen und wichtige Informationen entnehmen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Hören und Sehen – mehr als nur nebenbei",
+                        "text": "Im Deutschunterricht hörst du zum Beispiel Geschichten, Hörspiele, Gespräche oder schaust kurze Videos und Filmszenen. Um sie gut zu verstehen, musst du dich konzentrieren: Du hörst aufmerksam zu, achtest auf Stimmen, Geräusche, Musik, aber auch auf Bilder, Gestik und Mimik der Personen. So erkennst du nicht nur, was gesagt wird, sondern auch, wie es gemeint ist."
+                      },
+                      {
+                        "title": "Wichtige Informationen aus Hörtexten holen",
+                        "text": "Wie beim Lesen kannst du auch beim Hören bestimmte Fragen im Kopf haben: Wer? Was? Wann? Wo? Warum? Du kannst beim Zuhören Stichworte notieren, um dir wichtige Dinge zu merken. Manche Texte hörst du in Etappen oder auch mehrmals, um alle Informationen zu erfassen. Du lernst, Hauptaussagen von Nebensachen zu unterscheiden."
+                      },
+                      {
+                        "title": "Stimmung und Absicht erkennen",
+                        "text": "An der Stimme, der Musik, der Lautstärke und dem Sprechtempo erkennst du oft, welche Stimmung ein Text hat und welche Absicht jemand verfolgt. Spricht eine Person ruhig und sachlich, will sie meist informieren. Spricht jemand laut und schnell, kann das auf Aufregung oder Spannung hinweisen. Du übst, solche Wirkungen zu beschreiben."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Hörtext",
+                        "definition": "Text, den du nicht liest, sondern hörst, z. B. Geschichte, Hörspiel, Radiobeitrag."
+                      },
+                      {
+                        "term": "Hörsehtext",
+                        "definition": "Text, den du gleichzeitig hörst und siehst, z. B. Film, Video, Theateraufführung."
+                      },
+                      {
+                        "term": "Hauptaussage",
+                        "definition": "wichtigste Aussage eines Textes – das, worum es im Kern geht."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann beim Hören konzentriert bleiben und Störungen möglichst ausblenden.",
+                      "Ich kann aus einem gehörten Text wichtige Informationen herausschreiben.",
+                      "Ich kann in eigenen Worten wiedergeben, worum es in einem Hörtext ging.",
+                      "Ich kann einfache Wirkungen von Stimme, Musik und Geräuschen beschreiben."
+                    ],
+                    "sample_questions": [
+                      "Wie bereitest du dich auf das Hören eines Hörtextes vor?",
+                      "Welche Informationen hast du aus einem gehörten Hörspiel oder Vortrag entnommen?",
+                      "Wie würdest du kurz erzählen, worum es in einem Hörtext ging?",
+                      "Was verraten dir Stimme und Musik über die Stimmung eines Hörtextes?"
+                    ],
+                    "sample_answers": [
+                      "Ich setze mich so hin, dass ich gut hören kann, lege Stifte bereit und überlege, worauf ich besonders achten möchte. Manchmal schaue ich mir vorher auch eine Überschrift oder ein Bild an, wenn es das gibt.",
+                      "Aus dem Hörspiel habe ich erfahren, wer die Hauptfiguren sind, wo die Geschichte spielt und welches Problem sie haben.",
+                      "In dem Hörtext ging es darum, dass … (Hauptaussage in 2–3 Sätzen wiedergeben).",
+                      "Eine ruhige, langsame Stimme mit leiser Musik wirkt eher nachdenklich oder traurig, eine laute Stimme mit schneller Musik kann aufregend oder fröhlich wirken."
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "module_id": "deu5_mod2",
+              "module_name": "Texte produzieren – sprechen und schreiben",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Sprechen und Schreiben – sich verständlich ausdrücken",
+                    "text": "Im Deutschunterricht lernst du nicht nur, Texte zu verstehen, sondern auch, selbst zu sprechen und zu schreiben. Wenn du dich klar und passend ausdrücken kannst, hilft dir das in der Schule, im Freundeskreis und später im Beruf. Du übst, in Gesprächen mitzuwirken, kleine Vorträge zu halten und verschiedene Textsorten zu schreiben – vom Erlebnisbericht bis zum Steckbrief."
+                  },
+                  {
+                    "title": "Schritt für Schritt zu besseren Texten",
+                    "text": "Gute Texte entstehen selten beim ersten Versuch. Du lernst, wie man das Sprechen und Schreiben plant: Ideen sammeln, ordnen, einen Einstieg finden, den Hauptteil aufbauen und einen passenden Schluss formulieren. Danach überarbeitest du deine Texte: Du verbesserst Wortwahl, Satzbau und Rechtschreibung. So werden deine mündlichen und schriftlichen Beiträge immer klarer und wirkungsvoller."
+                  },
+                  {
+                    "title": "Adressaten- und situationsgerecht sprechen und schreiben",
+                    "text": "Je nachdem, mit wem du sprichst oder für wen du schreibst, passt du deine Sprache an. In einer Klassenkonferenz formulierst du anders als in einer Chat-Nachricht an Freunde. Du lernst, Texte so zu gestalten, dass sie für die jeweilige Situation und die angesprochenen Personen angemessen sind."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "deu5_mod2_u1",
+                  "text": "Ich kann in einfachen Gesprächssituationen angemessen sprechen und an Gesprächen teilnehmen (dialogisches Sprechen).",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Gespräche führen – zuhören und reden",
+                        "text": "Zu einem Gespräch gehören immer mindestens zwei Personen. Wichtig ist nicht nur, was du sagst, sondern auch, dass du anderen zuhörst. Du lernst, nicht zu unterbrechen, Rückfragen zu stellen und auf das einzugehen, was andere sagen. So entsteht ein echtes Hin und Her, kein Durcheinander-Reden."
+                      },
+                      {
+                        "title": "Sich klar und freundlich ausdrücken",
+                        "text": "In Gesprächen versuchst du, deutlich und in vollständigen Sätzen zu sprechen. Du schaust deine Gesprächspartner an, sprichst nicht zu leise und nicht zu laut und achtest auf eine freundliche Wortwahl. So zeigst du Respekt und sorgst dafür, dass dich andere gut verstehen."
+                      },
+                      {
+                        "title": "Meinungen äußern und begründen",
+                        "text": "Oft geht es in Gesprächen nicht nur um Informationen, sondern auch um Meinungen. Du lernst, deine Meinung zu sagen und kurz zu begründen, zum Beispiel mit ‚Ich finde das gut, weil …‘. Gleichzeitig übst du, andere Meinungen auszuhalten und sachlich darauf zu reagieren."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "dialogisches Sprechen",
+                        "definition": "Sprechen im Austausch mit anderen, zum Beispiel im Gespräch oder in einer Diskussion."
+                      },
+                      {
+                        "term": "Gesprächsregel",
+                        "definition": "Vereinbarung, wie man im Gespräch miteinander umgeht (z. B. ausreden lassen, melden, zuhören)."
+                      },
+                      {
+                        "term": "Meinung",
+                        "definition": "persönliche Ansicht zu einer Sache, die man begründen kann."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann Gesprächsregeln nennen und einhalten.",
+                      "Ich kann anderen zuhören und auf ihre Beiträge eingehen.",
+                      "Ich kann meine Meinung in einfachen Sätzen sagen und begründen.",
+                      "Ich kann in einer kleinen Gruppe ein Gespräch zu einem Thema führen."
+                    ],
+                    "sample_questions": [
+                      "Nenne drei wichtige Gesprächsregeln für den Unterricht.",
+                      "Wie kannst du zeigen, dass du deinem Gegenüber zuhörst?",
+                      "Formuliere deine Meinung zu einem Thema und begründe sie mit einem Satz.",
+                      "Wie reagierst du, wenn jemand eine andere Meinung hat als du?"
+                    ],
+                    "sample_answers": [
+                      "Wichtige Gesprächsregeln sind: sich melden, andere ausreden lassen, zuhören und nicht durcheinander reden.",
+                      "Ich schaue die Person an, nicke oder mache kurze Rückmeldungen wie ‚mhm‘ oder ‚aha‘ und gehe in meiner Antwort auf das ein, was sie gesagt hat.",
+                      "Ich finde Hausaufgaben wichtig, weil man damit üben kann, was man im Unterricht gelernt hat.",
+                      "Ich bleibe höflich und sage zum Beispiel: ‚Ich sehe das anders, weil …‘ und erkläre meine Sicht, ohne die andere Person zu beleidigen."
+                    ]
+                  }
+                },
+                {
+                  "id": "deu5_mod2_u2",
+                  "text": "Ich kann kurze, vorbereitete Redebeiträge halten und Ergebnisse präsentieren (monologisches Sprechen).",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Kurze Vorträge planen",
+                        "text": "Bevor du etwas vor der Klasse vorträgst, planst du deinen Beitrag: Du überlegst dir ein Thema, sammelst Stichwörter und ordnest sie. Für einen kurzen Vortrag reichen oft Einleitung, Hauptteil und Schluss. Du kannst dir einen Spickzettel mit Stichpunkten schreiben, aber du liest nicht alles ab."
+                      },
+                      {
+                        "title": "Sicher und verständlich sprechen",
+                        "text": "Beim Vortragen ist es wichtig, dass alle dich gut verstehen. Du sprichst langsam und deutlich, machst Pausen und schaust immer wieder ins Publikum. Wenn du Bilder, Plakate oder Folien benutzt, erklärst du sie mit einfachen Sätzen und verweist mit Hand oder Zeigestock darauf."
+                      },
+                      {
+                        "title": "Ergebnisse aus Gruppenarbeit vorstellen",
+                        "text": "Oft arbeitest du in einer Gruppe und ihr sollt eure Ergebnisse vorstellen. Dann überlegt ihr gemeinsam, wer welchen Teil präsentiert. Du achtest darauf, dass du die Arbeit der Gruppe verständlich zusammenfasst und keine wichtigen Punkte vergisst."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Vortrag",
+                        "definition": "geplanter, zusammenhängender Redebeitrag vor Zuhörerinnen und Zuhörern."
+                      },
+                      {
+                        "term": "Präsentation",
+                        "definition": "Vorstellung von Ergebnissen, oft unterstützt durch Plakate oder andere Medien."
+                      },
+                      {
+                        "term": "Stichwortzettel",
+                        "definition": "Zettel mit kurzen Notizen, die bei einem Vortrag helfen, nichts zu vergessen."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann einen kurzen Vortrag mit Einleitung, Hauptteil und Schluss planen.",
+                      "Ich kann zu einem Thema wichtige Stichpunkte sammeln.",
+                      "Ich kann meine Stimme beim Vortragen so einsetzen, dass man mich gut versteht.",
+                      "Ich kann gemeinsam mit anderen eine Gruppenarbeit präsentieren."
+                    ],
+                    "sample_questions": [
+                      "Wie baust du einen kurzen Vortrag sinnvoll auf?",
+                      "Warum ist ein Stichwortzettel hilfreicher als ein komplett ausformulierter Text beim Vortragen?",
+                      "Was ist beim Vortragen wichtig, damit die Klasse dir gut folgen kann?",
+                      "Wie könnt ihr in der Gruppe eine Präsentation aufteilen?"
+                    ],
+                    "sample_answers": [
+                      "Ich beginne mit einer kurzen Einleitung, in der ich sage, worum es geht. Im Hauptteil nenne und erkläre ich die wichtigsten Punkte. Am Schluss fasse ich kurz zusammen oder ziehe ein kleines Fazit.",
+                      "Mit einem Stichwortzettel kann ich freier sprechen und habe Blickkontakt zur Klasse. Wenn ich einen ganzen Text ablese, wirkt es oft langweilig und ich verliere den Kontakt zu den Zuhörern.",
+                      "Ich spreche laut und deutlich, schaue in die Klasse, mache Pausen und erkläre Fachwörter. Außerdem ist es wichtig, nicht zu schnell zu sprechen.",
+                      "Wir können die Teile aufteilen, zum Beispiel erklärt jede Person einen Unterpunkt oder eine Seite des Plakats."
+                    ]
+                  }
+                },
+                {
+                  "id": "deu5_mod2_u3",
+                  "text": "Ich kann einfache erzählende Texte in verständlicher Form schreiben (z. B. Erlebniserzählung).",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Von der Idee zur Erzählung",
+                        "text": "Bevor du eine Geschichte schreibst, überlegst du dir, was passieren soll. Du wählst ein Erlebnis (wirklich erlebt oder ausgedacht) und planst Anfang, spannenden Mittelteil und Schluss. Es hilft, zuerst eine kurze Stichwortliste oder einen Erzählplan anzulegen."
+                      },
+                      {
+                        "title": "Aufbau einer Erlebniserzählung",
+                        "text": "Eine Erlebniserzählung berichtet in der Ich- oder Er-Form von einem Ereignis. Am Anfang stellst du kurz Ort, Zeit und Beteiligte vor. Im Hauptteil beschreibst du das Geschehen Schritt für Schritt, besonders die spannenden Stellen. Am Schluss sagst du, wie alles ausgegangen ist und wie du dich dabei gefühlt hast."
+                      },
+                      {
+                        "title": "Sprachliche Gestaltung",
+                        "text": "Damit deine Erzählung lebendig wird, benutzt du passende Verben, Adjektive und wörtliche Rede. Du achtest auf die Zeitform (meist Präteritum in der Vergangenheit) und darauf, dass du beim Erzählen nicht zwischen den Zeiten springst. Deine Sätze sollen gut lesbar und nicht zu lang sein."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Erlebniserzählung",
+                        "definition": "Erzählung über ein (wirkliches oder ausgedachtes) Erlebnis, meist in der Ich-Form, mit klar erkennbarem Anfang, Mittelteil und Schluss."
+                      },
+                      {
+                        "term": "wörtliche Rede",
+                        "definition": "wörtlich wiedergegebene Äußerung einer Figur, meist in Anführungszeichen."
+                      },
+                      {
+                        "term": "Präteritum",
+                        "definition": "Zeitform der Vergangenheit, die in Erzählungen häufig verwendet wird (z. B. ‚ich ging‘, ‚er sagte‘)."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann zu einem Erlebnis einen Erzählplan mit Anfang, Mittelteil und Schluss erstellen.",
+                      "Ich kann eine einfache Erlebniserzählung in der Vergangenheit schreiben.",
+                      "Ich kann wörtliche Rede korrekt einsetzen (Anführungszeichen, Satzzeichen).",
+                      "Ich kann meine Erzählung noch einmal lesen und verbessern."
+                    ],
+                    "sample_questions": [
+                      "Welche Teile gehören zu einer Erlebniserzählung?",
+                      "Warum ist ein Erzählplan vor dem Schreiben hilfreich?",
+                      "In welcher Zeitform schreibst du eine Erlebniserzählung und warum?",
+                      "Wie kannst du eine fertige Erzählung verbessern?"
+                    ],
+                    "sample_answers": [
+                      "Zu einer Erlebniserzählung gehören ein kurzer, einführender Anfang, ein ausführlicher Hauptteil mit dem eigentlichen Erlebnis und ein Schluss, in dem klar wird, wie alles endet und wie sich die Erzählerin oder der Erzähler fühlt.",
+                      "Mit einem Erzählplan vergesse ich keine wichtigen Ereignisse und kann die Reihenfolge gut überlegen. So wird mein Text übersichtlicher.",
+                      "Ich schreibe meistens im Präteritum, weil so deutlich wird, dass das Geschehen in der Vergangenheit liegt und es im Deutschen die typische Erzählzeit ist.",
+                      "Ich lese meine Erzählung noch einmal durch, achte auf Rechtschreibung und Satzzeichen, ersetze langweilige Wörter durch passendere und ergänze Stellen, die noch unklar sind."
+                    ]
+                  }
+                },
+                {
+                  "id": "deu5_mod2_u4",
+                  "text": "Ich kann einfache informierende Texte schreiben (z. B. Bericht, Beschreibung, Steckbrief).",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Informierende Texte – sachlich und klar",
+                        "text": "Informierende Texte sollen anderen Menschen etwas erklären oder mitteilen. Sie sind sachlich geschrieben, das heißt, du bleibst bei den Fakten und benutzt keine Übertreibungen oder Gefühlsausdrücke wie in einer Geschichte. Beispiele sind Berichte über Ereignisse, Beschreibungen von Personen, Tieren oder Dingen sowie Steckbriefe."
+                      },
+                      {
+                        "title": "Einen Bericht verfassen",
+                        "text": "Ein einfacher Bericht beantwortet die W-Fragen: Wer? Was? Wann? Wo? Wie? Warum? Du beginnst mit den wichtigsten Informationen und schilderst den Ablauf in sachlicher Form. Du schreibst in der Vergangenheit und benutzt keine wörtliche Rede oder Ausrufe wie in einer Erzählung."
+                      },
+                      {
+                        "title": "Beschreibungen und Steckbriefe",
+                        "text": "Bei Beschreibungen kommt es darauf an, ein Objekt so genau zu schildern, dass sich andere ein Bild machen können. Du gehst systematisch vor, zum Beispiel von oben nach unten oder von außen nach innen. Ein Steckbrief fasst die wichtigsten Daten zu einer Person, einem Tier oder einem Gegenstand in kurzer Form zusammen, meist in Stichpunkten."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Bericht",
+                        "definition": "sachlicher Text, der kurz und klar über ein Ereignis informiert und die wichtigsten W-Fragen beantwortet."
+                      },
+                      {
+                        "term": "Beschreibung",
+                        "definition": "Text, der Aussehen oder Eigenschaften von Personen, Tieren, Gegenständen oder Orten genau darstellt."
+                      },
+                      {
+                        "term": "Steckbrief",
+                        "definition": "übersichtliche Sammlung wichtiger Angaben zu einer Person, einem Tier oder einem Gegenstand, oft in Stichpunkten."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann einfache Berichte zu einem Ereignis verfassen.",
+                      "Ich kann eine Person, ein Tier oder einen Gegenstand geordnet beschreiben.",
+                      "Ich kann einen Steckbrief mit den wichtigsten Angaben erstellen.",
+                      "Ich kann sachliche und erzählende Sprache unterscheiden."
+                    ],
+                    "sample_questions": [
+                      "Welche W-Fragen beantwortet ein Bericht?",
+                      "Worin unterscheidet sich ein Bericht von einer Erzählung?",
+                      "Wie gehst du vor, wenn du eine Person beschreiben sollst?",
+                      "Was gehört in einen Steckbrief?"
+                    ],
+                    "sample_answers": [
+                      "Ein Bericht beantwortet vor allem: Wer? Was? Wann? Wo? Wie? und manchmal auch Warum?",
+                      "Ein Bericht ist sachlich und knapp, verwendet keine wörtliche Rede und erzählt keine Gefühle. Eine Erzählung schildert ein Erlebnis ausführlicher, mit Gedanken und Gefühlen und oft mit wörtlicher Rede.",
+                      "Ich überlege mir eine Reihenfolge, z. B. zuerst das Aussehen (Größe, Haare, Kleidung), dann besondere Merkmale und schließlich vielleicht typische Verhaltensweisen.",
+                      "In einen Steckbrief gehören zum Beispiel Name, Alter, Wohnort oder Lebensraum, besondere Merkmale und wichtige Eigenschaften."
+                    ]
+                  }
+                },
+                {
+                  "id": "deu5_mod2_u5",
+                  "text": "Ich kann beim Schreiben planen, überarbeiten und geeignete Schreibstrategien nutzen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Schreiben planen",
+                        "text": "Bevor du mit dem eigentlichen Schreiben beginnst, lohnt es sich, kurz zu planen: Was ist das Thema? Welche Textsorte schreibe ich? Wer soll meinen Text lesen? Welche Hauptpunkte müssen unbedingt hinein? Du kannst dazu ein Cluster, eine Liste oder eine kurze Gliederung anlegen."
+                      },
+                      {
+                        "title": "Rohfassung und Überarbeitung",
+                        "text": "Zuerst schreibst du eine Rohfassung, ohne alles perfekt machen zu wollen. Danach liest du den Text noch einmal in Ruhe. Du achtest auf Rechtschreibung, Satzbau, Wiederholungen und unklare Stellen. Oft hilft es, wenn eine Mitschülerin oder ein Mitschüler deinen Text liest und dir eine Rückmeldung gibt."
+                      },
+                      {
+                        "title": "Eigene Schreibstrategien entwickeln",
+                        "text": "Nicht alle arbeiten beim Schreiben gleich. Manche brauchen zuerst viel Zeit zum Planen, andere schreiben lieber sofort los und verbessern später. Du probierst verschiedene Arbeitsweisen aus und findest heraus, was dir hilft, gute Texte zu schreiben und dabei im Zeitrahmen zu bleiben."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Rohfassung",
+                        "definition": "erste Version eines Textes, die noch überarbeitet werden soll."
+                      },
+                      {
+                        "term": "Überarbeitung",
+                        "definition": "Verbesserung eines Textes nach dem ersten Schreiben, z. B. in Bezug auf Inhalt, Sprache und Rechtschreibung."
+                      },
+                      {
+                        "term": "Schreibstrategie",
+                        "definition": "bewusste Vorgehensweise, wie man einen Text plant, schreibt und überarbeitet."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann vor dem Schreiben Ideen sammeln und ordnen.",
+                      "Ich kann eine erste Fassung schreiben, ohne mich an jeder Stelle aufzuhalten.",
+                      "Ich kann meinen Text gezielt überarbeiten (Inhalt, Sprache, Rechtschreibung).",
+                      "Ich kenne mindestens eine Schreibstrategie, die mir hilft, rechtzeitig fertig zu werden."
+                    ],
+                    "sample_questions": [
+                      "Was machst du, bevor du mit dem eigentlichen Schreiben beginnst?",
+                      "Warum ist es sinnvoll, zunächst eine Rohfassung zu schreiben?",
+                      "Worauf achtest du bei der Überarbeitung deines Textes?",
+                      "Welche Schreibstrategie hilft dir persönlich am meisten?"
+                    ],
+                    "sample_answers": [
+                      "Ich sammle Ideen, überlege mir die Textsorte und mache mir Stichworte oder eine kleine Gliederung.",
+                      "In der Rohfassung kann ich meine Gedanken erst einmal festhalten, ohne auf jedes Detail zu achten. Die Feinheiten verbessere ich später.",
+                      "Ich schaue, ob alle wichtigen Inhalte enthalten sind, verbessere unklare oder sehr lange Sätze, ersetze langweilige Wörter und korrigiere Rechtschreibfehler.",
+                      "Mir hilft es, zuerst eine Mindmap zu machen, dann die Rohfassung zu schreiben und am Ende mit einem Partnertextvergleich zu überarbeiten."
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "module_id": "deu5_mod3",
+              "module_name": "Über Sprache, Sprachverwendung und Sprachenlernen reflektieren",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Sprache bewusst wahrnehmen und nutzen",
+                    "text": "Im Deutschunterricht lernst du nicht nur, richtig zu lesen, zu sprechen und zu schreiben, sondern auch, über Sprache nachzudenken. Du untersuchst, wie Wörter und Sätze gebaut sind, wie Rechtschreibung funktioniert und warum Menschen in unterschiedlichen Situationen unterschiedlich sprechen. Wenn du Sprache besser verstehst, kannst du sie sicherer und bewusster einsetzen."
+                  },
+                  {
+                    "title": "Grammatik und Rechtschreibung als Werkzeuge",
+                    "text": "Grammatik und Rechtschreibung sind keine Selbstzwecke, sondern Werkzeuge: Sie helfen dir, verständlich und eindeutig zu formulieren. Du übst wichtige Regeln und Strategien – zum Beispiel zur Groß- und Kleinschreibung, zu Wortarten und zu Satzbauplänen – und lernst, wie du Fehler selbst findest und verbesserst."
+                  },
+                  {
+                    "title": "Über Sprachgebrauch und Sprachenlernen nachdenken",
+                    "text": "Sprache verändert sich, und Menschen sprechen nicht überall gleich. Du entdeckst Unterschiede zwischen gesprochener und geschriebener Sprache, zwischen Umgangssprache und Standardsprache und lernst, in welcher Situation welche Sprache passend ist. Außerdem überlegst du, wie du Sprachen am besten lernen kannst und wie dir dein Wissen aus Deutsch beim Lernen von Fremdsprachen hilft."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "deu5_mod3_u1",
+                  "text": "Ich kann grundlegende Rechtschreibregeln anwenden (Groß- und Kleinschreibung, Laut-Buchstaben-Zuordnung, Dehnung/Schärfung, s-Laute, Satzzeichen).",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Groß- und Kleinschreibung",
+                        "text": "In der deutschen Sprache werden Satzanfänge und Nomen (Namenwörter) großgeschrieben. Du lernst, Nomen zu erkennen (z. B. durch Artikel wie „der“, „die“, „das“) und konsequent großzuschreiben. Auch Überschriften und Eigennamen (Personen-, Orts- und Markennamen) werden großgeschrieben."
+                      },
+                      {
+                        "title": "Laut-Buchstaben-Zuordnung, Dehnung und Schärfung",
+                        "text": "Viele Wörter schreibt man so, wie man sie spricht, aber nicht alle. Du übst, wie Laute durch Buchstaben oder Buchstabengruppen wiedergegeben werden (z. B. „ch“, „sch“, „ie“). Bei Dehnung (langem Vokal) und Schärfung (kurzem Vokal) helfen dir Strategien: Wörter verlängern („Tag“ – „Tage“), verwandte Wörter suchen oder auf bekannte Muster achten („fahren“, „Rad“ – „Räder“)."
+                      },
+                      {
+                        "title": "Unterschiedliche s-Laute",
+                        "text": "Im Deutschen gibt es verschiedene Schreibweisen für den s-Laut: „s“, „ss“ und „ß“. Du lernst einfache Grundregeln, z. B.: Nach kurzem, betontem Vokal steht meist „ss“ (Masse), nach langem Vokal oder Diphthong steht oft „ß“ (Fuß, draußen). Am Wortanfang und vor Konsonanten steht meist „s“ (Sonne, Haus)."
+                      },
+                      {
+                        "title": "Satzzeichen am Satzende und bei der wörtlichen Rede",
+                        "text": "Jeder Satz endet mit einem Satzzeichen: Punkt, Fragezeichen oder Ausrufezeichen. Du wiederholst, wie man Aussagesatz, Fragesatz und Ausruf-/Aufforderungssatz erkennt und passend beendet. Bei der wörtlichen Rede setzt du Anführungszeichen und beachtest die Stellung von Komma und Punkt im Zusammenhang mit Redebegleitsätzen."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Nomen",
+                        "definition": "Namenwort; bezeichnet Menschen, Tiere, Dinge oder Begriffe und wird großgeschrieben."
+                      },
+                      {
+                        "term": "Dehnung",
+                        "definition": "Länger gesprochener Vokal, der oft durch bestimmte Buchstabenfolgen (z. B. „ie“) angezeigt wird."
+                      },
+                      {
+                        "term": "Schärfung",
+                        "definition": "kurzer, betonter Vokal, auf den häufig Doppelkonsonanten folgen (z. B. „Mitte“)."
+                      },
+                      {
+                        "term": "wörtliche Rede",
+                        "definition": "genaue Wiedergabe dessen, was jemand sagt, in Anführungszeichen."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann Nomen im Satz erkennen und großschreiben.",
+                      "Ich kann Satzanfänge und Eigennamen großschreiben.",
+                      "Ich kann bei vielen Wörtern mit kurzem/langem Vokal die richtige Schreibung (z. B. ss/ß, Doppelkonsonant) finden.",
+                      "Ich kann Aussagesätze, Fragesätze und Aufforderungssätze mit passenden Satzzeichen beenden.",
+                      "Ich kann einfache Sätze mit wörtlicher Rede korrekt mit Anführungszeichen und Satzzeichen schreiben."
+                    ],
+                    "sample_questions": [
+                      "Welche Wörter werden im Deutschen immer großgeschrieben?",
+                      "Erkläre mit einem Beispiel, wie du die Schreibung eines Wortes mit kurzem Vokal überprüfst.",
+                      "Wann steht am Satzende ein Fragezeichen?",
+                      "Setze in einem einfachen Beispielsatz die wörtliche Rede mit den richtigen Anführungszeichen und Satzzeichen."
+                    ],
+                    "sample_answers": [
+                      "Großgeschrieben werden Nomen (z. B. der Hund, die Schule), Satzanfänge und Eigennamen (z. B. Anna, Weimar).",
+                      "Ich kann das Wort verlängern. Bei „Tag“ spreche ich das g in „Tage“ deutlich mit – so sehe ich, dass am Ende ein „g“ geschrieben wird.",
+                      "Ein Fragezeichen steht am Satzende, wenn der Satz eine Frage ausdrückt, auf die ich eine Antwort erwarten kann, z. B. „Kommst du mit?“.",
+                      "Beispiel: Paul sagte: „Ich komme heute später nach Hause.“ – Die wörtliche Rede steht in Anführungszeichen, davor steht ein Doppelpunkt."
+                    ]
+                  }
+                },
+                {
+                  "id": "deu5_mod3_u2",
+                  "text": "Ich kann grundlegende Wortarten (Nomen, Verb, Adjektiv, Artikel, Pronomen) erkennen und gezielt verwenden.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Wortarten – Bausteine der Sätze",
+                        "text": "Wortarten helfen dir, Wörter nach ihrer Aufgabe im Satz zu ordnen. In Klasse 5 übst du vor allem Nomen, Verben, Adjektive, Artikel und einfache Pronomen. Wenn du weißt, zu welcher Wortart ein Wort gehört, kannst du Regeln der Grammatik und Rechtschreibung besser anwenden."
+                      },
+                      {
+                        "title": "Nomen, Verben, Adjektive",
+                        "text": "Nomen (Namenwörter) bezeichnen Dinge, Lebewesen oder Begriffe und werden großgeschrieben. Verben (Tunwörter) benennen Tätigkeiten, Vorgänge oder Zustände und lassen sich beugen (ich gehe, du gehst …). Adjektive (Wiewörter) beschreiben Eigenschaften („laut“, „schnell“) und werden klein geschrieben, außer wenn sie als Nomen verwendet werden."
+                      },
+                      {
+                        "title": "Artikel und Pronomen",
+                        "text": "Artikel (Begleiterwörter) stehen meist vor Nomen und zeigen Geschlecht und Anzahl an („der, die, das“, „ein, eine“). Pronomen (Fürwörter) können Nomen vertreten („ich, du, er, sie, es, wir, ihr, sie“) oder genauer bestimmen („dieser, jener, mein, dein“). In Klasse 5 lernst du vor allem Personalpronomen und einfache Besitzpronomen kennen."
+                      },
+                      {
+                        "title": "Wortarten im eigenen Schreiben nutzen",
+                        "text": "Beim Schreiben versuchst du, abwechslungsreiche Verben und Adjektive zu verwenden, damit deine Texte lebendig werden. Du achtest auf passende Artikel und Pronomen, damit klar ist, wer oder was gemeint ist. In Übungen ordnest du Wörter zu Wortarten und veränderst sie gezielt (z. B. aus Adjektiven Nomen machen: „der Große“)."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Verb",
+                        "definition": "Tunwort; bezeichnet eine Tätigkeit, einen Vorgang oder einen Zustand und lässt sich beugen."
+                      },
+                      {
+                        "term": "Adjektiv",
+                        "definition": "Eigenschaftswort; beschreibt, wie jemand oder etwas ist."
+                      },
+                      {
+                        "term": "Artikel",
+                        "definition": "Begleiter eines Nomens (z. B. der, die, das, ein, eine)."
+                      },
+                      {
+                        "term": "Pronomen",
+                        "definition": "Fürwort; vertritt oder begleitet ein Nomen (z. B. ich, du, mein, dieser)."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann in einfachen Sätzen Nomen, Verben und Adjektive finden und benennen.",
+                      "Ich kann passende Artikel zu Nomen setzen (z. B. der, die, das).",
+                      "Ich kann einfache Pronomen richtig verwenden (ich, du, er, sie, es, wir, ihr, sie; mein, dein).",
+                      "Ich kann beim Schreiben bewusst verschiedene Verben und Adjektive einsetzen."
+                    ],
+                    "sample_questions": [
+                      "Unterstreiche in einem Beispielsatz alle Nomen und markiere die Verben doppelt.",
+                      "Welche Wortart ist „schnell“ in dem Satz „Der Hund läuft schnell“ und warum?",
+                      "Ersetze in einem Satz ein Nomen durch ein passendes Pronomen.",
+                      "Warum ist es wichtig, verschiedene Verben und Adjektive zu benutzen?"
+                    ],
+                    "sample_answers": [
+                      "Beispiel: „Das Mädchen liest ein Buch.“ – Nomen: Mädchen, Buch; Verben: liest.",
+                      "„schnell“ ist ein Adjektiv, weil es beschreibt, wie der Hund läuft.",
+                      "Aus „Lisa geht nach Hause.“ kann ich „Sie geht nach Hause.“ machen – „sie“ ist ein Pronomen und vertritt „Lisa“. ",
+                      "Mit verschiedenen Verben und Adjektiven werden Texte genauer und spannender; die Leserinnen und Leser können sich alles besser vorstellen."
+                    ]
+                  }
+                },
+                {
+                  "id": "deu5_mod3_u3",
+                  "text": "Ich kann einfache Satzarten und Satzglieder erkennen und nutzen, um Sätze zu bauen und zu verbessern.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Satzarten – Aussage, Frage, Aufforderung",
+                        "text": "Sätze können verschiedene Aufgaben haben: Eine Aussage informiert über etwas, eine Frage möchte etwas wissen, eine Aufforderung fordert jemanden zu etwas auf. Du erkennst Satzarten an der Wortstellung und am Satzzeichen am Ende. Beim Schreiben achtest du darauf, die passende Form zu wählen."
+                      },
+                      {
+                        "title": "Subjekt und Prädikat – Grundgerüst des Satzes",
+                        "text": "Jeder vollständige Satz braucht mindestens ein Subjekt (Wer oder was?) und ein Prädikat (Was tut wer?). Das Subjekt ist meist ein Nomen oder Pronomen, das Prädikat ist das gebeugte Verb. Du lernst, diese beiden Satzglieder zu finden, z. B. mit der Wer-oder-was-Frage und der Was-tut-jemand-Frage."
+                      },
+                      {
+                        "title": "Weitere Satzglieder kennenlernen",
+                        "text": "Zu einem Satz können weitere Satzglieder gehören, zum Beispiel Objekte (Wen oder was? Wem? Wovon?) und Angaben zu Ort, Zeit oder Art und Weise. In Klasse 5 lernst du erste einfache Fälle kennen und übst, wie man Sätze durch zusätzliche Satzglieder genauer machen kann."
+                      },
+                      {
+                        "title": "Sätze verbessern",
+                        "text": "Mit dem Wissen über Satzarten und Satzglieder kannst du deine Sätze verbessern: Du vermeidest unvollständige Sätze, achtest auf eine sinnvolle Reihenfolge der Satzglieder und variierst den Satzanfang. So wirkt dein Text flüssiger und abwechslungsreicher."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Subjekt",
+                        "definition": "Satzglied, das angibt, wer oder was etwas tut; steht meist im Nominativ."
+                      },
+                      {
+                        "term": "Prädikat",
+                        "definition": "Satzglied, das aussagt, was geschieht oder was jemand tut; umfasst das gebeugte Verb."
+                      },
+                      {
+                        "term": "Satzart",
+                        "definition": "Art eines Satzes nach seiner Funktion: Aussage-, Frage- oder Aufforderungssatz."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann Aussage-, Frage- und Aufforderungssätze unterscheiden.",
+                      "Ich kann in einfachen Sätzen Subjekt und Prädikat finden.",
+                      "Ich kann durch zusätzliche Angaben Sätze genauer machen (z. B. wann, wo).",
+                      "Ich kann beim Schreiben unvollständige Sätze erkennen und verbessern."
+                    ],
+                    "sample_questions": [
+                      "Wie erkennst du einen Fragesatz?",
+                      "Bestimme in einem Beispielsatz Subjekt und Prädikat.",
+                      "Erweitere den Satz „Der Hund bellt.“ so, dass er genauer wird.",
+                      "Warum ist es wichtig, vollständige Sätze zu schreiben?"
+                    ],
+                    "sample_answers": [
+                      "Ein Fragesatz beginnt oft mit einem Fragewort oder dem Verb, endet mit einem Fragezeichen und drückt eine Frage aus.",
+                      "Beispiel: „Das Mädchen rennt.“ – Subjekt: „Das Mädchen“ (Wer rennt?), Prädikat: „rennt“ (Was tut das Mädchen?).",
+                      "Ich kann ergänzen: „Der Hund bellt laut im Garten, als es klingelt.“ – Jetzt weiß man, wie und wo der Hund bellt und wann.",
+                      "Vollständige Sätze sind leichter zu verstehen und zeigen klar, wer was tut. In Texten wirken sie ordentlicher und verständlicher."
+                    ]
+                  }
+                },
+                {
+                  "id": "deu5_mod3_u4",
+                  "text": "Ich kann Unterschiede zwischen gesprochener und geschriebener Sprache sowie zwischen Umgangssprache und Standardsprache erkennen und angemessen sprechen/schreiben.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Gesprochene und geschriebene Sprache",
+                        "text": "Wenn du sprichst, benutzt du oft andere Wörter und Satzformen als beim Schreiben. In der gesprochenen Sprache helfen dir Tonfall, Mimik und Gestik. Beim Schreiben müssen alle Informationen im Text stehen. Du übst, für schriftliche Texte vollständige Sätze und eine genauere Wortwahl zu benutzen als in der Alltagssprache."
+                      },
+                      {
+                        "title": "Umgangssprache und Standardsprache",
+                        "text": "Umgangssprache verwendest du meist mit Freunden und Familie. Sie kann Dialekt, Abkürzungen oder Jugendsprache enthalten. Standardsprache ist die „Hochsprache“, wie du sie in der Schule, in Nachrichten oder in offiziellen Texten brauchst. Du lernst, in welchen Situationen welche Sprache passend ist, und kannst umgangssprachliche Ausdrücke in Standardsprache umformulieren."
+                      },
+                      {
+                        "title": "Sprache bewusst wählen",
+                        "text": "Sprache kann höflich oder unhöflich, sachlich oder salopp wirken. Du überlegst, wie du zum Beispiel eine Bitte oder Kritik so formulierst, dass sie respektvoll ist. Dazu passt du Wortwahl, Satzbau und Ton an die Situation an, etwa im Brief an eine Lehrkraft anders als im Chat mit einer Freundin."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Umgangssprache",
+                        "definition": "lockere Alltagssprache, die man vor allem im Gespräch mit Freunden und Familie benutzt."
+                      },
+                      {
+                        "term": "Standardsprache",
+                        "definition": "allgemein anerkannte Hochsprache, die in Schule, Medien und offiziellen Texten verwendet wird."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann Beispiele für Umgangssprache und Standardsprache nennen.",
+                      "Ich kann einfache umgangssprachliche Sätze in Standardsprache umformulieren.",
+                      "Ich kann erklären, warum in bestimmten Situationen Standardsprache erwartet wird.",
+                      "Ich kann beim Schreiben und Sprechen bewusst eine passende Sprachebene wählen."
+                    ],
+                    "sample_questions": [
+                      "Nenne ein Beispiel für einen umgangssprachlichen Ausdruck und eine passende Form in Standardsprache.",
+                      "Warum solltest du in einer Klassenarbeit Standardsprache verwenden?",
+                      "Wie würdest du eine Bitte an eine Lehrkraft höflich formulieren?",
+                      "Woran merkst du, dass ein Text eher umgangssprachlich geschrieben ist?"
+                    ],
+                    "sample_answers": [
+                      "Umgangssprache: „Ey, was geht?“ – Standardsprache: „Hallo, wie geht es dir?“.",
+                      "In einer Klassenarbeit wird erwartet, dass du korrektes Deutsch verwendest. So können alle deinen Text gut verstehen und er wirkt sorgfältig und respektvoll.",
+                      "Zum Beispiel: „Sehr geehrte Frau …, könnten Sie mir bitte noch einmal erklären, wie … funktioniert?“ statt „Sie müssen mir das nochmal zeigen.“",
+                      "Man erkennt Umgangssprache oft an Abkürzungen, vielen Ausrufen, einfachen oder abgebrochenen Sätzen und Wörtern aus der Jugendsprache."
+                    ]
+                  }
+                },
+                {
+                  "id": "deu5_mod3_u5",
+                  "text": "Ich kann Strategien zum Lernen von Sprache und Rechtschreibung nutzen (z. B. Wörterbucharbeit, Regel- und Merkwörter, eigene Fehler verbessern).",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Mit Wörterbuch und Nachschlagewerken arbeiten",
+                        "text": "Ein Wörterbuch hilft dir, Schreibweisen, Wortbedeutungen und Worttrennungen zu klären. Du lernst, Wörter nach dem Alphabet zu suchen und Einträge richtig zu lesen. So kannst du selbstständig Unsicherheiten klären, statt zu raten."
+                      },
+                      {
+                        "title": "Regel- und Merkwörter",
+                        "text": "Viele Wörter folgen klaren Rechtschreibregeln. Andere muss man sich merken (Merkwörter). Du übst, Regeln anzuwenden, wo es geht, und legst dir für schwierige Wörter persönliche Merklisten an. Häufig geübte Wörter fallen dir später leichter."
+                      },
+                      {
+                        "title": "Eigene Fehler auswerten",
+                        "text": "Fehler gehören zum Lernen dazu. Wichtig ist, dass du sie nutzt, um besser zu werden. Du schaust dir an, welche Fehler du häufiger machst (z. B. Groß-/Kleinschreibung, Doppelkonsonanten) und überlegst Strategien, diese zu vermeiden, etwa durch langsames Mitsprechen oder gezieltes Üben dieser Fälle."
+                      },
+                      {
+                        "title": "Sprachenlernen bewusst gestalten",
+                        "text": "Was du im Deutschunterricht über Wörter, Sätze und Rechtschreibung lernst, hilft dir auch beim Lernen von Fremdsprachen. Du vergleichst manchmal deutsche Wörter mit Wörtern aus einer Fremdsprache oder deiner Herkunftssprache und entdeckst Gemeinsamkeiten und Unterschiede. So baust du ein Gefühl für Sprache insgesamt auf."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Wörterbuch",
+                        "definition": "Nachschlagewerk, in dem Wörter erklärt und ihre Schreibweise angegeben werden."
+                      },
+                      {
+                        "term": "Merkwort",
+                        "definition": "Wort, dessen Schreibweise man sich einprägen muss, weil es sich nicht einfach aus Regeln ableiten lässt."
+                      },
+                      {
+                        "term": "Strategie",
+                        "definition": "bewusste Vorgehensweise, um ein Ziel zu erreichen, z. B. bessere Rechtschreibung."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann ein Wörterbuch sicher benutzen, um die Schreibweise eines Wortes zu überprüfen.",
+                      "Ich kann wichtige Rechtschreibregeln anwenden und schwierige Merkwörter gezielt üben.",
+                      "Ich kann typische Fehler in meinen Texten erkennen und verbessern.",
+                      "Ich kann mindestens zwei persönliche Strategien nennen, wie ich meine Rechtschreibung und Sprachkenntnisse verbessere."
+                    ],
+                    "sample_questions": [
+                      "Wie findest du ein Wort schnell im Wörterbuch?",
+                      "Nenne ein Beispiel für ein Merkwort, das du dir besonders eingeprägt hast.",
+                      "Wie kannst du typische Rechtschreibfehler bei dir selbst erkennen?",
+                      "Welche Strategien helfen dir persönlich beim Lernen von Rechtschreibung oder Vokabeln?"
+                    ],
+                    "sample_answers": [
+                      "Ich gehe nach dem Alphabet vor, schaue zuerst den Anfangsbuchstaben, dann die nächsten Buchstaben und vergleiche Wörter, die ähnlich geschrieben sind.",
+                      "Zum Beispiel das Wort „Rhythmus“ – das habe ich mir mit einem Merksatz eingeprägt.",
+                      "Ich lasse meine Texte ein paar Minuten liegen und lese sie dann noch einmal langsam. Fehler, die ich öfter mache, markiere ich und schreibe die Wörter richtig in eine Liste.",
+                      "Mir helfen Karteikarten und das mehrmalige Schreiben schwieriger Wörter. Außerdem spreche ich schwierige Stellen im Wort beim Schreiben deutlich mit."
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subject_id": "eng",
+          "subject_title": "Englisch",
+          "modules": [
+            {
+              "module_id": "eng5_mod1",
+              "module_name": "Listening – Texte hören und verstehen",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Hören in Alltagssituationen",
+                    "text": "In diesem Modul lernst du, einfache Hör- und Hör-Sehtexte zu vertrauten Themen zu verstehen, wenn langsam, deutlich und in einfacher Standardsprache gesprochen wird.[file:4] Dazu gehören z. B. Klassensituationen, kleine Dialoge, Lieder, kurze Geschichten oder Durchsagen."
+                  },
+                  {
+                    "title": "Strategien beim Hörverstehen",
+                    "text": "Du nutzt Bilder, bekannte Wörter, Geräusche, Mimik und Gestik sowie dein Weltwissen, um den Inhalt zu erschließen.[file:4] Du lernst, auf Schlüsselwörter zu achten, Wichtiges von Unwichtigem zu unterscheiden und dir mit Stichwörtern oder kleinen Skizzen Notizen zu machen."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "eng5_mod1_u1",
+                  "text": "Ich kann einfachen Hörtexten zu vertrauten Themen folgen und wichtige Informationen entnehmen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Bekannte Themen hören",
+                        "text": "Die Hörtexte handeln von Dingen aus deinem Alltag: Schule, Familie, Freunde, Hobbys, Wetter oder Tiere.[file:4] Die Sprecher benutzen überwiegend bekannten Wortschatz und einfache Strukturen, manchmal kommen wenige unbekannte Wörter vor, die du aus dem Zusammenhang erschließt.[file:4]"
+                      },
+                      {
+                        "title": "Global, selektiv und detailliert hören",
+                        "text": "Du lernst, je nach Aufgabe unterschiedlich zu hören: mal nur den groben Inhalt (global), mal nur bestimmte Infos (selektiv), mal möglichst viele Details (detailliert).[file:4] Dazu hilft dir, die Aufgabe vorher genau zu lesen und dir klarzumachen, worauf du achten musst."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Hörverstehen",
+                        "definition": "Fähigkeit, gesprochene Texte inhaltlich zu erfassen und wichtige Informationen zu entnehmen.[file:4]"
+                      },
+                      {
+                        "term": "Schlüsselwort",
+                        "definition": "Wichtiges Wort im Text, das dir hilft, den Sinn zu verstehen.[file:4]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann bei einem einfachen Hörtext sagen, worum es insgesamt geht (Thema). [file:4]",
+                      "Ich kann einzelne konkrete Informationen heraushören (z. B. Namen, Zahlen, Orte). [file:4]",
+                      "Ich kann auch weiterzuhören, wenn ich nicht jedes Wort verstehe. [file:4]"
+                    ],
+                    "sample_questions": [
+                      "Worum geht es in dem Gespräch – Schule, Familie oder Hobbys?",
+                      "Welche zwei Hobbys nennt der Junge im Text?",
+                      "Wie alt ist das Mädchen im Hörtext?"
+                    ],
+                    "sample_answers": [
+                      "Das Gespräch geht um Hobbys in der Freizeit.",
+                      "Er sagt, dass er Fußball spielt und gern Computerspiele macht.",
+                      "Sie ist zehn Jahre alt."
+                    ]
+                  }
+                },
+                {
+                  "id": "eng5_mod1_u2",
+                  "text": "Ich kann visuelle Hilfen, Geräusche und meine Vorerfahrungen als Unterstützung beim Verstehen nutzen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Mit Bildern und Gestik arbeiten",
+                        "text": "Bilder, Mimik und Gestik geben dir zusätzliche Hinweise darauf, worum es im Text geht.[file:4] Du verbindest das Gehörte mit dem, was du siehst, und ergänzt fehlende Informationen im Kopf."
+                      },
+                      {
+                        "title": "Weltwissen einsetzen",
+                        "text": "Du nutzt dein Wissen über typische Situationen (z. B. im Klassenzimmer, auf dem Spielplatz oder beim Einkaufen), um Vermutungen zum Inhalt zu bilden.[file:4] So kannst du Verstehenslücken ausgleichen."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Hör-Sehverstehen",
+                        "definition": "Verstehen von Texten, bei denen du gleichzeitig hörst und Bilder oder Videos siehst.[file:4]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann aus Bildern schließen, um welches Thema es im Hörtext geht. [file:4]",
+                      "Ich kann Mimik und Gestik nutzen, um Gefühle oder Absichten zu erkennen. [file:4]"
+                    ],
+                    "sample_questions": [
+                      "Was lässt dich vermuten, dass die beiden im Video Freunde sind?",
+                      "Wie helfen dir Bilder auf dem AB beim Verstehen des Dialogs?"
+                    ],
+                    "sample_answers": [
+                      "Sie lachen zusammen, sprechen locker und stehen nah beieinander.",
+                      "Anhand der Bilder sehe ich schon vorher, welche Situationen vorkommen, z. B. Bus, Schule oder Sportplatz."
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "module_id": "eng5_mod2",
+              "module_name": "Speaking – Englisch sprechen im Alltag",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Einfache Gespräche führen",
+                    "text": "In diesem Modul lernst du, in einfachen Gesprächssituationen zu vertrauten Themen mit elementaren sprachlichen und nicht sprachlichen Mitteln zu interagieren.[file:4] Du übst typische Redemittel für Begrüßung, Verabschiedung, Fragen, Antworten und Höflichkeitsformen."
+                  },
+                  {
+                    "title": "Zusammenhängend sprechen",
+                    "text": "Du trainierst, kurze, einfache, zusammenhängende Aussagen über dich, deine Familie, Freunde, Schule, Freizeit und deinen Tagesablauf zu machen.[file:4] Dazu gehören kleine Präsentationen, kurze Berichte und das Erzählen von Erlebnissen."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "eng5_mod2_u1",
+                  "text": "Ich kann mich vorstellen und einfache Fragen zu meiner Person stellen und beantworten.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Über dich sprechen",
+                        "text": "Du sagst einfache Sätze zu Name, Alter, Wohnort, Herkunft, Familie, Haustieren und Lieblingsdingen.[file:4] Du verwendest feste Wendungen, z. B. „My name is…“, „I live in…“, „I am … years old.“"
+                      },
+                      {
+                        "title": "Fragen stellen",
+                        "text": "Du lernst einfache Frageformen, z. B. „What’s your name?“, „How old are you?“, „Where do you live?“ und reagierst passend darauf.[file:4]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "dialogisches Sprechen",
+                        "definition": "An einem Gespräch teilnehmen, auf andere reagieren und selbst Fragen stellen.[file:4]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann mich auf Englisch kurz vorstellen (Name, Alter, Wohnort). [file:4]",
+                      "Ich kann meinem Partner einfache Fragen stellen und auf seine Antworten reagieren. [file:4]"
+                    ],
+                    "sample_questions": [
+                      "Stelle dich einem neuen Mitschüler aus England vor.",
+                      "Welche drei Fragen kannst du ihm stellen, um ihn besser kennenzulernen?"
+                    ],
+                    "sample_answers": [
+                      "Hello, my name is Lina. I am ten years old. I live in Jena in Germany.",
+                      "What’s your name? – How old are you? – Where do you live?"
+                    ]
+                  }
+                },
+                {
+                  "id": "eng5_mod2_u2",
+                  "text": "Ich kann über meinen Alltag, meine Freizeit und meine Vorlieben in einfachen Sätzen sprechen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Tagesablauf und Schule",
+                        "text": "Du beschreibst einfache Routinen: Aufstehen, Schulweg, Fächer, Pausen, Hausaufgaben und Freizeitaktivitäten.[file:4] Du verwendest einfache Präsensformen und Zeitangaben wie „in the morning“, „after school“."
+                      },
+                      {
+                        "title": "Hobbys und Vorlieben",
+                        "text": "Du sprichst darüber, was du gern oder nicht gern machst, z. B. „I like playing football.“, „I don’t like homework.“[file:4] Du reagierst auf andere, indem du zustimmst oder ablehnst, z. B. „Me too.“, „I don’t.“"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "monologisches Sprechen",
+                        "definition": "Über ein Thema zusammenhängend sprechen, ohne dass jemand direkt antwortet.[file:4]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann meinen Tagesablauf in einfachen Sätzen beschreiben. [file:4]",
+                      "Ich kann sagen, was ich gern oder nicht gern mache. [file:4]"
+                    ],
+                    "sample_questions": [
+                      "Erzähle von einem typischen Schultag.",
+                      "Nenne drei Dinge, die du gern machst, und zwei, die du nicht magst."
+                    ],
+                    "sample_answers": [
+                      "I get up at seven o’clock. I go to school by bus. I have English, maths and PE. After school I do my homework and play outside.",
+                      "I like playing football, listening to music and reading comics. I don’t like doing homework and cleaning my room."
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "module_id": "eng5_mod3",
+              "module_name": "Reading – Texte lesen und verstehen",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Einfache Texte erschließen",
+                    "text": "In diesem Modul lernst du, den wesentlichen Inhalt und einfache Detailinformationen aus kurzen Texten zu vertrauten Themen zu entnehmen.[file:4] Die Texte enthalten überwiegend bekannten Wortschatz und einfache Strukturen und werden oft durch Bilder unterstützt."
+                  },
+                  {
+                    "title": "Lesestrategien nutzen",
+                    "text": "Du nutzt Überschriften, Bilder und Textaufbau, um Leseerwartungen zu bilden und unbekannte Wörter zu erschließen.[file:4] Du lernst Techniken wie Überfliegen (skimming) und Suchlesen (scanning)."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "eng5_mod3_u1",
+                  "text": "Ich kann kurze, einfache Texte zu vertrauten Themen lesen und den Inhalt in eigenen Worten wiedergeben.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Textsorten in Klasse 5/6",
+                        "text": "Du liest z. B. Postkarten, E-Mails, kurze Geschichten, Dialoge, kleine Informationstexte, Plakate oder einfache Arbeitsanweisungen.[file:4]"
+                      },
+                      {
+                        "title": "Wesentliches erfassen",
+                        "text": "Du konzentrierst dich auf die wichtigsten Aussagen und musst nicht jedes Wort verstehen.[file:4] Du nutzt bekannte Wörter, Namen und Zahlen, um den Sinn zu erfassen."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Leseverstehen",
+                        "definition": "Fähigkeit, geschriebene Texte inhaltlich zu erfassen und Informationen zu entnehmen.[file:4]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann nach dem Lesen kurz sagen, worum es in einem Text geht. [file:4]",
+                      "Ich kann aus einem Text einfache Detailinformationen entnehmen (wer, wo, wann). [file:4]"
+                    ],
+                    "sample_questions": [
+                      "Worum geht es in der E-Mail – Schule, Ferien oder Tiere?",
+                      "Wer schreibt den Brief und an wen?"
+                    ],
+                    "sample_answers": [
+                      "Die E-Mail handelt von den Ferien am Meer.",
+                      "Tom schreibt den Brief an seinen Freund Ben."
+                    ]
+                  }
+                },
+                {
+                  "id": "eng5_mod3_u2",
+                  "text": "Ich kann Bilder, Überschriften und bekannte Wörter nutzen, um unbekannte Wörter zu erschließen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Mit dem Kontext arbeiten",
+                        "text": "Du lernst, unbekannte Wörter nicht sofort nachzuschlagen, sondern zuerst aus dem Zusammenhang zu raten.[file:4] Du achtest auf bekannte Wortteile, ähnliche deutsche Wörter und den Satzinhalt."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Signalwort",
+                        "definition": "Wort, das dir Hinweise auf die Textart oder den Inhalt gibt (z. B. tomorrow, birthday, school). [file:4]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann aus Überschriften und Bildern vermuten, worum es im Text geht. [file:4]",
+                      "Ich kann einzelne unbekannte Wörter aus dem Zusammenhang erschließen. [file:4]"
+                    ],
+                    "sample_questions": [
+                      "Was vermutest du zum Inhalt, wenn die Überschrift „My school day“ lautet und ein Klassenraum zu sehen ist?",
+                      "Das Wort „canteen“ kennst du nicht. Was könnte es bedeuten, wenn im Text von lunch at school die Rede ist?"
+                    ],
+                    "sample_answers": [
+                      "Der Text wird von einem Schultag, Unterricht und Pausen handeln.",
+                      "Es könnte die Mensa oder das Schulrestaurant sein, weil man dort zu Mittag isst."
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "module_id": "eng5_mod4",
+              "module_name": "Writing & Mediation – Schreiben und einfach vermitteln",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Einfach schreiben",
+                    "text": "In diesem Modul lernst du, kurze, einfache Texte zu vertrauten Themen zu verfassen, z. B. Einladungen, Grußkarten, kleine Berichte oder Beschreibungen.[file:4] Du achtest auf eine lesbare Schrift, einfache Satzstrukturen und passende Wörter."
+                  },
+                  {
+                    "title": "Einfach vermitteln",
+                    "text": "Du übst, sehr einfache Informationen aus kurzen mündlichen oder schriftlichen Texten sinngemäß in die andere Sprache zu übertragen.[file:4] Typische Situationen sind z. B. einem Austauschschüler kurz zu erklären, worum es in einer deutschsprachigen Nachricht geht."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "eng5_mod4_u1",
+                  "text": "Ich kann kurze, einfache Texte (z. B. Grußkarte, Einladung, kleine Beschreibung) zu vertrauten Themen schreiben.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Textsorten im Schreiben",
+                        "text": "Du schreibst z. B. kurze E-Mails, Einladungen zu einer Party, Postkarten aus dem Urlaub oder kleine Steckbriefe über Personen und Tiere.[file:4]"
+                      },
+                      {
+                        "title": "Einfache Struktur",
+                        "text": "Du verwendest klare, kurze Sätze im Präsens und einfache Verknüpfungen wie „and“, „but“, „because“.[file:4] Du orientierst dich an Beispielen und Bausteinen aus dem Unterricht."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "adressatengerecht",
+                        "definition": "Zum Empfänger passende Formulierungen verwenden (z. B. „Dear …“ am Anfang eines Briefes). [file:4]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann eine einfache Einladung auf Englisch schreiben. [file:4]",
+                      "Ich kann eine Person oder ein Haustier mit einfachen Sätzen beschreiben. [file:4]"
+                    ],
+                    "sample_questions": [
+                      "Schreibe eine kurze Einladung zu deiner Geburtstagsparty.",
+                      "Beschreibe dein Haustier in drei bis fünf Sätzen."
+                    ],
+                    "sample_answers": [
+                      "Dear Max, please come to my birthday party on Saturday at three o’clock. We play games and eat cake. Love, Ben.",
+                      "My dog’s name is Lucky. He is brown and white. He is small and very funny. He likes playing in the garden."
+                    ]
+                  }
+                },
+                {
+                  "id": "eng5_mod4_u2",
+                  "text": "Ich kann sehr einfache Informationen aus kurzen Texten sinngemäß ins Deutsche oder Englische übertragen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Sprachmittlung in Alltagssituationen",
+                        "text": "Du übst, einer Person, die nur Deutsch kann, kurz zu sagen, worum es in einer einfachen englischen Nachricht geht – und umgekehrt.[file:4] Es geht nicht um Wort-für-Wort-Übersetzung, sondern darum, die wichtigsten Informationen weiterzugeben."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Sprachmittlung",
+                        "definition": "Inhalte aus einer Sprache in eigenen Worten in einer anderen Sprache wiedergeben.[file:4]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann meinem Mitschüler auf Deutsch erklären, worum es in einer kurzen englischen Nachricht geht. [file:4]",
+                      "Ich kann einer englischsprachigen Person auf Englisch kurz erklären, was in einem einfachen deutschen Hinweisschild steht. [file:4]"
+                    ],
+                    "sample_questions": [
+                      "Erkläre einem Austauschschüler auf Englisch, was „Kein Durchgang“ auf einem Schild bedeutet.",
+                      "Fasse einem Freund auf Deutsch kurz zusammen, was in einer kurzen englischen Klassenregel steht."
+                    ],
+                    "sample_answers": [
+                      "It means: you must not go through here.",
+                      "In der Klassenregel steht, dass man im Unterricht leise sein und anderen zuhören soll."
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
         }
       ]
     }
   ]
 };
+
 
 
