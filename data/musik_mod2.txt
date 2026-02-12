@@ -1,0 +1,228 @@
+{
+  "school_id": "de_thueringen",
+  "grades": [
+    {
+      "grade_id": "klasse5",
+      "grade_label": "Klasse 5",
+      "subjects": [
+        {
+          "subject_id": "mus",
+          "subject_title": "Musik",
+          "modules": [
+            {
+              "module_id": "mus5_mod2",
+              "module_name": "Musik gestalten und erleben – Instrumentales Musizieren und Medien",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Mit Instrumenten Musik machen",
+                    "text": "In diesem Modul spielst du auf verschiedenen Instrumenten (z. B. Orff-Instrumente, Boomwhackers, Glockenspiel, einfache Tasten- oder Percussioninstrumente) und begleitest Lieder oder kleine Stücke.[file:7] Du lernst, Instrumente gemäß ihrer Spielweise zu gebrauchen, Tempo zu zählen und einfache Notenschrift zu lesen.[file:7]"
+                  },
+                  {
+                    "title": "Musikalische Bausteine ausprobieren",
+                    "text": "Du setzt einfache musikalische Strukturen wie Rhythmen, Klangflächen und kurze Melodien um und erfindest dazu eigene Ideen.[file:7] Dabei musizierst du allein und im Klassenensemble und übernimmst Verantwortung für deinen Teil im gemeinsamen Klangergebnis.[file:7]"
+                  },
+                  {
+                    "title": "Musik und Medien nutzen",
+                    "text": "Du lernst grundlegende Möglichkeiten kennen, Musikmedien (z. B. Computer, Aufnahmegerät, Apps) sinnvoll zu nutzen, einfache Aufnahmen zu machen und kleine Medienprodukte zu erstellen.[file:7] Zudem besprichst du Regeln zum verantwortlichen Umgang mit Medien und mit deiner eigenen Gesundheit (z. B. Lautstärke beim Musikhören).[file:7]"
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "mus5_mod2_u1",
+                  "text": "Ich kann einfache Rhythmen und Melodien auf Instrumenten in ihrer typischen Spieltechnik spielen und ein Lied begleiten.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Instrumente richtig benutzen",
+                        "text": "Du lernst, wie man verschiedene Klasseninstrumente richtig hält und anschlägt, z. B. Trommeln mit Sticks oder Händen, Glockenspiel mit Schlägeln, Rasseln im Takt bewegen.[file:7]"
+                      },
+                      {
+                        "title": "Rhythmen und Begleitungen",
+                        "text": "Du spielst leichte Rhythmuspatterns (z. B. Viertel- und Achtelrhythmen) und begleitest Lieder mit gleichbleibenden Tönen (Bordun) oder einfachen Tonfolgen.[file:7]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Rhythmuspattern",
+                        "definition": "Wiederkehrende rhythmische Figur, die als Begleitung genutzt wird.[file:7]"
+                      },
+                      {
+                        "term": "Bordun",
+                        "definition": "Ein oder zwei gleichbleibende Töne als Begleitung unter einer Melodie.[file:7]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann einen einfachen Rhythmus im richtigen Tempo und mit sicherem Einsatz spielen.[file:7]",
+                      "Ich kann ein bekanntes Lied mit einem passenden Rhythmus oder Bordun auf einem Instrument begleiten.[file:7]"
+                    ],
+                    "sample_questions": [
+                      "Wie musst du ein Instrument (z. B. Trommel oder Glockenspiel) halten und anschlagen, damit es gut klingt?",
+                      "Was ist ein Bordun, und wie kannst du ihn zur Liedbegleitung nutzen?"
+                    ],
+                    "sample_answers": [
+                      "Ich halte es so, dass es frei schwingen kann, und schlage mit lockerer Hand bzw. mit dem Schlägel nicht zu hart an.",
+                      "Ein Bordun sind ein oder zwei gleichbleibende Töne, die ich immer wieder zum Takt des Liedes spiele."
+                    ]
+                  }
+                },
+                {
+                  "id": "mus5_mod2_u2",
+                  "text": "Ich kann einfache musikalische Strukturen (Form, Klang, Rhythmus) musizieren und mit kleinen Improvisationen weiterentwickeln.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Musikalische Bausteine erkennen",
+                        "text": "Du lernst, in kurzen Stücken gleiche, ähnliche und unterschiedliche Teile zu hören und z. B. A–B–A-Strukturen zu erkennen.[file:7]"
+                      },
+                      {
+                        "title": "Improvisieren und erfinden",
+                        "text": "Ausgehend von vorgegebenen Rhythmen oder Tonfolgen erfindest du eigene kleine Varianten, z. B. durch Veränderungen in Rhythmus oder Klangfarbe.[file:7]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Improvisation",
+                        "definition": "Spontanes Erfinden von Musik ohne festgelegte Noten.[file:7]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann einfache musikalische Muster nachspielen.[file:7]",
+                      "Ich kann zu einem Rhythmus oder einer Tonfolge eine kleine eigene Variation improvisieren.[file:7]"
+                    ],
+                    "sample_questions": [
+                      "Wie erkennst du, ob ein Teil eines Stückes gleich oder verändert wiederkommt?",
+                      "Wie kannst du einen vorgegebenen Rhythmus kreativ abwandeln?"
+                    ],
+                    "sample_answers": [
+                      "Ich höre auf die Reihenfolge und den Verlauf und vergleiche, ob Melodie und Rhythmus gleich bleiben oder sich ändern.",
+                      "Ich kann z. B. einige Schläge verdoppeln, Pausen einfügen oder andere Instrumente nutzen."
+                    ]
+                  }
+                },
+                {
+                  "id": "mus5_mod2_u3",
+                  "text": "Ich kann als Mitglied eines Klassenensembles auf meine Mitspieler achten und Verantwortung für meinen Einsatz übernehmen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Gemeinsam musizieren",
+                        "text": "Du übst, auf Zeichen der Lehrkraft oder einer Schülerin/eines Schülers (Leitung) zu achten, gemeinsam zu beginnen und abzuschließen.[file:7]"
+                      },
+                      {
+                        "title": "Aufeinander hören",
+                        "text": "Beim Klassenmusizieren hörst du auf Lautstärke, Tempo und Zusammenspiel, damit ein ausgewogener Gesamtklang entsteht.[file:7]"
+                      }
+                    ],
+                    "key_terms": [],
+                    "note1_checklist": [
+                      "Ich kann auf ein Startzeichen reagieren und rechtzeitig einsetzen.[file:7]",
+                      "Ich kann meine Lautstärke so anpassen, dass man andere Stimmen noch gut hört.[file:7]"
+                    ],
+                    "sample_questions": [
+                      "Warum ist es wichtig, beim Klassenmusizieren auf andere zu hören?",
+                      "Wie zeigst du, dass du Verantwortung für deinen Instrumentalpart übernimmst?"
+                    ],
+                    "sample_answers": [
+                      "Damit alle zusammen im gleichen Tempo und mit passender Lautstärke spielen und kein Chaos entsteht.",
+                      "Ich übe meine Stimme, achte auf Einsatz und Ende und passe meine Lautstärke an."
+                    ]
+                  }
+                },
+                {
+                  "id": "mus5_mod2_u4",
+                  "text": "Ich kann einfache Musikmedien (z. B. Aufnahmegerät, Computer/Tablet) zur Aufnahme und Wiedergabe von Musik zielgerichtet einsetzen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Aufnehmen und Anhören",
+                        "text": "Du lernst, mit Mikrofon oder Aufnahmefunktion kurze Musizierphasen aufzunehmen und in einem geeigneten Format zu speichern.[file:7]"
+                      },
+                      {
+                        "title": "Einfache Medienprodukte",
+                        "text": "Du erstellst z. B. eine kleine Klangcollage oder begleitete Präsentation und nutzt dabei passende Audioformate.[file:7]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Audioformat",
+                        "definition": "Dateityp für Tonaufnahmen (z. B. mp3, wav), der die Speicherung von Klang ermöglicht.[file:7]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann eine kurze Musikaufnahme starten, stoppen und speichern.[file:7]",
+                      "Ich kann eine einfache Präsentation oder Klangcollage mit passenden Tonbeispielen gestalten.[file:7]"
+                    ],
+                    "sample_questions": [
+                      "Wozu ist es hilfreich, das eigene Musizieren aufzunehmen?",
+                      "Was musst du beachten, wenn du eine Musikaufnahme am Computer speichern willst?"
+                    ],
+                    "sample_answers": [
+                      "Ich kann anhören, wie es wirklich klingt, und überlegen, was schon gut ist und was ich verbessern möchte.",
+                      "Ich wähle ein geeignetes Audioformat und speichere an einem Ort, den ich wiederfinde (z. B. Kursordner)."
+                    ]
+                  }
+                },
+                {
+                  "id": "mus5_mod2_u5",
+                  "text": "Ich kann Regeln zum verantwortungsvollen Umgang mit Musikmedien und meiner Gesundheit (Lautstärke) benennen und einhalten.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Gesund hören",
+                        "text": "Du besprichst, welche Lautstärken auf Kopfhörern und Lautsprechern auf Dauer schädlich für das Gehör sein können und wie du dich schützen kannst.[file:7]"
+                      },
+                      {
+                        "title": "Eigentumsrechte achten",
+                        "text": "Du lernst in Ansätzen, dass Musik jemandem gehört und dass man deshalb z. B. beim Kopieren und Teilen von Musik Regeln beachten muss.[file:7]"
+                      }
+                    ],
+                    "key_terms": [],
+                    "note1_checklist": [
+                      "Ich kann erklären, warum zu lautes Musikhören schädlich ist.[file:7]",
+                      "Ich kann einige Regeln nennen, wie ich Musikdateien fair und legal nutze.[file:7]"
+                    ],
+                    "sample_questions": [
+                      "Welche Gefahren gibt es, wenn du häufig sehr laut mit Kopfhörern Musik hörst?",
+                      "Warum darf man nicht einfach alle Musik aus dem Internet beliebig kopieren und weitergeben?"
+                    ],
+                    "sample_answers": [
+                      "Das Gehör kann dauerhaft geschädigt werden, und man hört später vielleicht schlechter oder hat Ohrgeräusche.",
+                      "Weil die Musik urheberrechtlich geschützt ist und die Urheber ein Recht auf ihre Werke und deren Nutzung haben."
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

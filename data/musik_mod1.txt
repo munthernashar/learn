@@ -1,0 +1,204 @@
+{
+  "school_id": "de_thueringen",
+  "grades": [
+    {
+      "grade_id": "klasse5",
+      "grade_label": "Klasse 5",
+      "subjects": [
+        {
+          "subject_id": "mus",
+          "subject_title": "Musik",
+          "modules": [
+            {
+              "module_id": "mus5_mod1",
+              "module_name": "Musik gestalten und erleben – Stimme und Lied",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Mit der eigenen Stimme Musik erleben",
+                    "text": "In diesem Modul steht deine Stimme im Mittelpunkt: Du lernst ein altersgerechtes Repertoire an Liedern verschiedener Stilrichtungen, Herkunft und Sprachen kennen und singst allein und in der Gruppe.[file:7] Dabei achtest du auf Atmung, Haltung, Lautstärke, Intonation und Ausdruck, um Lieder musikalisch gestaltet vortragen zu können.[file:7]"
+                  },
+                  {
+                    "title": "Singen im Chor und mehrstimmig",
+                    "text": "Du übst, mit anderen zusammen im Klassenchor zu singen und erste Formen des mehrstimmigen Singens auszuführen.[file:7] So stärkst du dein musikalisches Gehör, schulst dein Zuhören und übernimmst Verantwortung für das gemeinsame Klangergebnis.[file:7]"
+                  },
+                  {
+                    "title": "Lieder verstehen und gestalten",
+                    "text": "Du setzt dich mit Inhalt, Gedanken- und Gefühlswelt von Liedern auseinander und lernst, musikalische Merkmale zu benennen.[file:7] Außerdem variierst und improvisierst du mit deiner Stimme und gestaltest Lieder situationsgerecht, z. B. für Aufführungen oder den Schulalltag.[file:7]"
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "mus5_mod1_u1",
+                  "text": "Ich kann ein altersgerechtes Repertoire an Liedern verschiedener Stilrichtungen, Herkunft und Sprachen sicher singen (allein und in der Gruppe).",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Liederrepertoire aufbauen",
+                        "text": "Du lernst Lieder aus unterschiedlichen Stilrichtungen (z. B. Volkslied, Kinderlied, Pop-Song, Kanon) sowie aus verschiedenen Ländern und Sprachen kennen.[file:7] Diese Lieder singst du im passenden Tempo, in der richtigen Tonhöhe und mit angepasster Lautstärke.[file:7]"
+                      },
+                      {
+                        "title": "Allein und gemeinsam singen",
+                        "text": "Du übst, Lieder allein (Solo) und mit der Klasse oder in Kleingruppen zu singen.[file:7] Dabei hörst du auf deine Mitsängerinnen und Mitsänger und passt dich dem gemeinsamen Klang an.[file:7]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Repertoire",
+                        "definition": "Sammlung von Liedern, die du kennst und singen kannst.[file:7]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann mehrere Lieder auswendig oder mit Textvorlage sicher mitsingen.[file:7]",
+                      "Ich kann mich in einer Gruppe dem gemeinsamen Klang anpassen (nicht zu laut, nicht zu leise). [file:7]"
+                    ],
+                    "sample_questions": [
+                      "Nenne drei Lieder unterschiedlicher Art, die du im Unterricht gelernt hast.",
+                      "Worauf achtest du, wenn du mit der Klasse zusammen singst?"
+                    ],
+                    "sample_answers": [
+                      "Zum Beispiel: ein deutsches Volkslied, ein englischer Popsong, ein Kanon.",
+                      "Ich achte auf Tempo, Lautstärke und darauf, die gleiche Tonhöhe wie die anderen zu treffen."
+                    ]
+                  }
+                },
+                {
+                  "id": "mus5_mod1_u2",
+                  "text": "Ich kann meine Stimme handlungs- und situationsgerecht einsetzen (Haltung, Atmung, Lautstärke, Artikulation).",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Körperhaltung und Atmung",
+                        "text": "Du lernst, mit lockerer, aufrechter Haltung zu singen und die Atmung bewusst zu steuern.[file:7] So kannst du Töne länger halten, sauber treffen und deine Stimme gesund einsetzen.[file:7]"
+                      },
+                      {
+                        "title": "Lautstärke, Artikulation und Ausdruck",
+                        "text": "Du übst, Lautstärke (Leise/Laut) und Dynamik anzupassen und deutlich zu artikulieren.[file:7] Dadurch werden Text und musikalischer Ausdruck für Zuhörer verständlich und wirkungsvoll.[file:7]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Artikulation",
+                        "definition": "Deutliche Aussprache der Wörter beim Singen.[file:7]"
+                      },
+                      {
+                        "term": "Dynamik",
+                        "definition": "Gestaltung der Lautstärke in der Musik, z. B. leise, laut, crescendierend.[file:7]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann beim Singen eine passende Haltung einnehmen.[file:7]",
+                      "Ich kann bewusst atmen und die Luft einteilen.[file:7]",
+                      "Ich spreche und singe die Texte so, dass man die Wörter gut versteht.[file:7]"
+                    ],
+                    "sample_questions": [
+                      "Warum ist eine aufrechte, lockere Haltung beim Singen wichtig?",
+                      "Wie kannst du mit der Atmung dafür sorgen, dass du eine ganze Phrase ohne Unterbrechung singen kannst?"
+                    ],
+                    "sample_answers": [
+                      "Weil die Luft dann besser fließen kann und die Stimme freier klingt.",
+                      "Ich atme rechtzeitig und tief ein und teile mir die Luft so ein, dass sie bis zum Ende der Phrase reicht."
+                    ]
+                  }
+                },
+                {
+                  "id": "mus5_mod1_u3",
+                  "text": "Ich kann verschiedene Formen des Singens (unisono, Kanon, einfache Mehrstimmigkeit) ausführen und dabei auf den gemeinsamen Klang achten.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Unisono und Kanon",
+                        "text": "Beim unisono Singen singt die ganze Gruppe dieselbe Melodie.[file:7] Beim Kanon setzt eine Gruppe zeitversetzt mit der gleichen Melodie ein – daraus entsteht ein mehrstimmiger Klang.[file:7]"
+                      },
+                      {
+                        "title": "Einfache Mehrstimmigkeit",
+                        "text": "Du lernst einfache zweite Stimmen oder Bordun-Töne zu einer Melodie zu singen.[file:7] Dabei ist wichtig, dass jede Stimme bleibt, ohne in die andere zu rutschen.[file:7]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Unisono",
+                        "definition": "Alle singen dieselbe Melodie in gleicher Tonhöhe.[file:7]"
+                      },
+                      {
+                        "term": "Kanon",
+                        "definition": "Mehrstimmiges Singen derselben Melodie mit zeitlichem Versatz.[file:7]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann einen einfachen Kanon mit meiner Klasse singen.[file:7]",
+                      "Ich kann meine Stimme halten, auch wenn andere etwas anderes singen.[file:7]"
+                    ],
+                    "sample_questions": [
+                      "Was ist der Unterschied zwischen unisono und Kanon?",
+                      "Was musst du tun, damit ein Kanon gut klingt?"
+                    ],
+                    "sample_answers": [
+                      "Unisono: alle gleichzeitig dieselbe Melodie. Kanon: gleiche Melodie, aber Gruppen setzen nacheinander ein.",
+                      "Ich höre auf die anderen Stimmen, bleibe in meiner Stimme und halte das Tempo."
+                    ]
+                  }
+                },
+                {
+                  "id": "mus5_mod1_u4",
+                  "text": "Ich kann Notation von Liedern zur Orientierung nutzen und einfache Angaben (Tonhöhe, Rhythmus, Dynamik) erkennen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Noten als Orientierung",
+                        "text": "Du nutzt die Notenschrift, um Melodien zu verfolgen und Töne und Rhythmen zu erkennen.[file:7] Du siehst, ob Töne höher oder tiefer werden und wie lange ein Ton dauert.[file:7]"
+                      },
+                      {
+                        "title": "Zeichen in der Liednotation",
+                        "text": "Du lernst grundlegende Zeichen wie Notenwerte, Pausen, Taktangaben und einfache Dynamikzeichen (z. B. p, f) kennen und kannst sie beim Singen beachten.[file:7]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Notation",
+                        "definition": "Schriftbild der Musik mit Noten, Pausen und weiteren Zeichen.[file:7]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann einem Lied im Notentext folgen und erkenne, ob die Melodie steigt oder fällt.[file:7]",
+                      "Ich kann einfache Dynamikzeichen deuten und beim Singen umsetzen.[file:7]"
+                    ],
+                    "sample_questions": [
+                      "Wie hilft dir die Notenschrift beim Singen eines neuen Liedes?",
+                      "Was bedeutet es für dein Singen, wenn im Notentext ein leises (p) oder lautes (f) Zeichen steht?"
+                    ],
+                    "sample_answers": [
+                      "Ich sehe Tonhöhe und Tonlänge und kann mich an der Melodie orientieren, auch wenn ich sie noch nicht auswendig kann.",
+                      "Bei p singe ich eher leise, bei f deutlich lauter, ohne zu schreien."
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
