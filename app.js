@@ -330,6 +330,177 @@ function countCompletedSubtopicsInModule(mod) {
   });
   return count;
 }
+function buildSearchIndex() {
+  SEARCH_INDEX = [];
+
+  SCHOOL_DATA.grades.forEach(grade => {
+    grade.subjects.forEach(subject => {
+      subject.modules.forEach(mod => {
+        (mod.subtopics || []).forEach(st => {
+          const entryTextParts = [];
+
+          entryTextParts.push(st.text);
+
+          if (mod.module_name) entryTextParts.push(mod.module_name);
+          if (mod.module_longtext && mod.module_longtext.sections) {
+            mod.module_longtext.sections.forEach(sec => {
+              entryTextParts.push(sec.title || "");
+              entryTextParts.push(sec.text || "");
+            });
+          }
+
+          if (st.content) {
+            (st.content.explanation_sections || []).forEach(sec => {
+              entryTextParts.push(sec.title || "");
+              entryTextParts.push(sec.text || "");
+            });
+            (st.content.key_terms || []).forEach(kt => {
+              entryTextParts.push(kt.term || "");
+              entryTextParts.push(kt.definition || "");
+            });
+            (st.content.note1_checklist || []).forEach(item => entryTextParts.push(item));
+            (st.content.sample_questions || []).forEach(item => entryTextParts.push(item));
+            (st.content.sample_answers || []).forEach(item => entryTextParts.push(item));
+          }
+
+          const fullText = entryTextParts.join(" ").toLowerCase();
+
+          SEARCH_INDEX.push({
+            grade_id: grade.grade_id,
+            grade_label: grade.grade_label,
+            subject_id: subject.subject_id,
+            subject_title: subject.subject_title,
+            module_id: mod.module_id,
+            module_name: mod.module_name,
+            subtopic_id: st.id,
+            subtopic_text: st.text,
+            text: fullText
+          });
+        });
+      });
+    });
+  });
+
+  initSearchUI();
+}
+function initSearchUI() {
+  const input = document.getElementById("searchInput");
+  const resultsBox = document.getElementById("searchResults");
+  if (!input || !resultsBox) return;
+
+  let debounceTimer = null;
+
+  input.addEventListener("input", () => {
+    const q = input.value.trim().toLowerCase();
+
+    if (debounceTimer) clearTimeout(debounceTimer);
+    debounceTimer = setTimeout(() => {
+      if (q.length < 2) {
+        resultsBox.classList.remove("visible");
+        resultsBox.innerHTML = "";
+        return;
+      }
+      const results = searchInIndex(q);
+      renderSearchResults(results);
+    }, 150);
+  });
+
+  document.addEventListener("click", (e) => {
+    if (!resultsBox.contains(e.target) && e.target !== input) {
+      resultsBox.classList.remove("visible");
+    }
+  });
+}
+
+function searchInIndex(query) {
+  const terms = query.split(/\s+/).filter(Boolean);
+  if (terms.length === 0) return [];
+
+  const results = [];
+
+  SEARCH_INDEX.forEach(entry => {
+    const text = entry.text;
+    let matches = 0;
+    terms.forEach(t => {
+      if (text.includes(t)) matches++;
+    });
+
+    if (matches > 0) {
+      results.push({
+        entry,
+        score: matches
+      });
+    }
+  });
+
+  results.sort((a, b) => b.score - a.score);
+
+  return results.slice(0, 20).map(r => r.entry);
+}
+
+function renderSearchResults(results) {
+  const resultsBox = document.getElementById("searchResults");
+  const input = document.getElementById("searchInput");
+  if (!resultsBox) return;
+
+  if (results.length === 0) {
+    resultsBox.innerHTML = `<div class="search-result-item"><span class="search-result-meta">Keine Treffer</span></div>`;
+    resultsBox.classList.add("visible");
+    return;
+  }
+
+  resultsBox.innerHTML = "";
+
+  results.forEach(r => {
+    const div = document.createElement("div");
+    div.className = "search-result-item";
+    div.innerHTML = `
+      <div class="search-result-title">${r.subtopic_text}</div>
+      <div class="search-result-meta">${r.grade_label} → ${r.subject_title} → ${r.module_name}</div>
+    `;
+    div.addEventListener("click", () => {
+      resultsBox.classList.remove("visible");
+      if (input) input.blur();
+      navigateToSubtopic(r);
+    });
+    resultsBox.appendChild(div);
+  });
+
+  resultsBox.classList.add("visible");
+}
+
+function navigateToSubtopic(info) {
+  const grade = SCHOOL_DATA.grades.find(g => g.grade_id === info.grade_id);
+  if (!grade) return;
+  currentGrade = grade;
+
+  const subject = grade.subjects.find(s => s.subject_id === info.subject_id);
+  if (!subject) return;
+  currentSubject = subject;
+
+  const mod = subject.modules.find(m => m.module_id === info.module_id);
+  if (!mod) return;
+  currentModule = mod;
+
+  const subtopic = (mod.subtopics || []).find(st => st.id === info.subtopic_id);
+  if (!subtopic) return;
+  currentSubtopic = subtopic;
+
+  // Schrittweise rendern und Views setzen
+  renderSubjects(grade);
+  showView("subjectView");
+
+  renderModules(subject);
+  showView("moduleView");
+
+  renderSubtopics(mod);
+  showView("subtopicView");
+
+  renderDetail(subtopic);
+  showView("detailView");
+}
+
+
 
 // Service Worker Registrierung
 function registerServiceWorker() {
@@ -337,6 +508,7 @@ function registerServiceWorker() {
     navigator.serviceWorker.register("sw.js").catch(() => {});
   }
 }
+
 
 
 
