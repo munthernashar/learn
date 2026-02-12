@@ -1,0 +1,176 @@
+{
+  "school_id": "de_thueringen",
+  "grades": [
+    {
+      "grade_id": "klasse5",
+      "grade_label": "Klasse 5",
+      "subjects": [
+        {
+          "subject_id": "mat",
+          "subject_title": "Mathematik",
+          "modules": [
+            {
+              "module_id": "mat5_mod8",
+              "module_name": "Zuordnungen – Zusammenhänge in Tabellen und Diagrammen",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Muster und Zusammenhänge erkennen",
+                    "text": "In diesem Modul lernst du, Zusammenhänge zwischen zwei Größen zu erkennen, zu beschreiben und darzustellen, zum Beispiel zwischen Zeit und zurückgelegtem Weg oder zwischen Stückzahl und Preis.[file:3] Du arbeitest mit Zahlenmustern, Wertetabellen und einfachen Diagrammen und bereitest damit das Thema Funktionen in höheren Klassen vor.[file:3]"
+                  },
+                  {
+                    "title": "Alltägliche Zuordnungen",
+                    "text": "Du begegnest Zuordnungen im Alltag, etwa beim Fahrplan (Zeitpunkt – Abfahrtszeit), beim Einkaufen (Menge – Preis) oder beim Messen von Temperaturen (Zeitpunkt – Temperatur).[file:3] Du lernst, solche Situationen mit Tabellen und einfachen Graphen zu beschreiben.[file:3]"
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "mat5_mod8_u1",
+                  "text": "Ich kann einfache Zuordnungen aus Alltagssituationen erkennen und in Worten beschreiben (z. B. Weg–Zeit, Menge–Preis).",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Was ist eine Zuordnung?",
+                        "text": "Bei einer Zuordnung gehört zu jedem Wert einer Größe genau ein Wert einer anderen Größe, zum Beispiel zu jeder Stückzahl ein Preis.[file:3] Du beschreibst solche Zusammenhänge zunächst in Alltagssprache, bevor du sie in Tabellen und Diagrammen darstellst.[file:3]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Zuordnung",
+                        "definition": "Regel, die jedem Wert einer Größe genau einen Wert einer anderen Größe zuordnet.[file:3]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich erkenne in Texten oder Situationen, welche Größen miteinander zusammenhängen.[file:3]",
+                      "Ich kann eine Zuordnung in eigenen Worten beschreiben (z. B. „Je länger…, desto…“). [file:3]"
+                    ],
+                    "sample_questions": [
+                      "Nenne ein Beispiel für eine Zuordnung aus dem Alltag und beschreibe sie in einem Satz.[file:3]"
+                    ],
+                    "sample_answers": [
+                      "Beim Einkaufen: Der Preis hängt von der Stückzahl ab – je mehr Äpfel ich kaufe, desto höher wird der Gesamtpreis.[file:3]"
+                    ]
+                  }
+                },
+                {
+                  "id": "mat5_mod8_u2",
+                  "text": "Ich kann Zuordnungen in Wertetabellen darstellen, ergänzen und ablesen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Wertetabellen anlegen",
+                        "text": "Du legst Tabellen an, in denen du zu Werten einer Eingangsgröße (z. B. Stückzahl) die zugeordneten Werte einer Ausgangsgröße (z. B. Preis) einträgst.[file:3] So kannst du Zusammenhänge übersichtlich darstellen und fehlende Werte ergänzen.[file:3]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Wertetabelle",
+                        "definition": "Tabelle mit zusammengehörigen Wertepaaren zweier Größen.[file:3]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann aus einem Text eine Wertetabelle erstellen.[file:3]",
+                      "Ich kann in einer Tabelle fehlende Werte ergänzen, wenn das Muster klar ist.[file:3]",
+                      "Ich kann aus der Tabelle Fragen beantworten (z. B. „Wie viel kostet…?“).[file:3]"
+                    ],
+                    "sample_questions": [
+                      "Ein Apfel kostet 0,30 €. Ergänze eine Tabelle für 1, 2, 3, 4, 5 Äpfel.[file:3]"
+                    ],
+                    "sample_answers": [
+                      "Stückzahl: 1, 2, 3, 4, 5; Preis: 0,30 €, 0,60 €, 0,90 €, 1,20 €, 1,50 €.[file:3]"
+                    ]
+                  }
+                },
+                {
+                  "id": "mat5_mod8_u3",
+                  "text": "Ich kann einfache Zuordnungen in Diagrammen darstellen und aus Diagrammen Informationen ablesen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Punkte im Koordinatensystem",
+                        "text": "Du trägst Wertepaaren aus einer Tabelle als Punkte in ein rechtwinkliges Koordinatensystem ein.[file:3] Eine Achse steht für die eine Größe (z. B. Zeit), die andere Achse für die andere Größe (z. B. Weg).[file:3]"
+                      },
+                      {
+                        "title": "Graphen einfacher Zuordnungen",
+                        "text": "Du verbindest bei passenden Situationen die Punkte zu einer Linie und erkennst, ob ein Zusammenhang ungefähr gradlinig ist.[file:3] So siehst du auf einen Blick, wie sich eine Größe mit der anderen verändert.[file:3]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Koordinatensystem",
+                        "definition": "System aus zwei Achsen (x- und y-Achse), mit dem man Punkte und Graphen darstellen kann.[file:3]"
+                      },
+                      {
+                        "term": "Graph",
+                        "definition": "Graphische Darstellung einer Zuordnung im Koordinatensystem.[file:3]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann aus einer Wertetabelle Punkte im Koordinatensystem eintragen.[file:3]",
+                      "Ich kann aus einem einfachen Diagramm Werte ablesen.[file:3]"
+                    ],
+                    "sample_questions": [
+                      "Eine Tabelle gibt an, wie weit jemand nach 1, 2, 3, 4 Stunden gewandert ist. Wie kannst du das im Koordinatensystem darstellen?[file:3]"
+                    ],
+                    "sample_answers": [
+                      "Ich zeichne ein Koordinatensystem, trage auf die x-Achse die Zeit in Stunden und auf die y-Achse den Weg in Kilometern ein und markiere die Wertepunkte.[file:3]"
+                    ]
+                  }
+                },
+                {
+                  "id": "mat5_mod8_u4",
+                  "text": "Ich kann einfache direkt proportionale Zuordnungen erkennen (z. B. doppelter Einsatz – doppelter Gewinn) und nutzen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Direkte Proportionalität anschaulich",
+                        "text": "Bei direkt proportionalen Zuordnungen gilt: Wird eine Größe verdoppelt, verdoppelt sich auch die andere; wird sie verdreifacht, verdreifacht sich die andere.[file:3] Typische Beispiele sind „Menge–Preis“ bei konstantem Stückpreis oder „Zeit–Weg“ bei konstanter Geschwindigkeit.[file:3]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "direkt proportionale Zuordnung",
+                        "definition": "Zuordnung, bei der das Verhältnis der zugeordneten Werte konstant ist.[file:3]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich erkenne einfache Situationen, in denen „doppelt so viel – doppelt so groß“ gilt.[file:3]",
+                      "Ich kann in solchen Fällen mit Verdoppeln, Halbieren usw. rechnen.[file:3]"
+                    ],
+                    "sample_questions": [
+                      "Ein Busunternehmen verlangt 5 € pro Fahrkarte. Ist die Zuordnung „Anzahl Fahrkarten – Gesamtpreis“ direkt proportional? Begründe.[file:3]"
+                    ],
+                    "sample_answers": [
+                      "Ja, denn wenn ich die Anzahl der Fahrkarten verdopple, verdoppelt sich der Preis. Das Verhältnis Preis : Anzahl bleibt immer 5 € pro Karte.[file:3]"
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

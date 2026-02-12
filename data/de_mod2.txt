@@ -1,0 +1,324 @@
+{
+  "school_id": "de_thueringen",
+  "grades": [
+    {
+      "grade_id": "klasse5",
+      "grade_label": "Klasse 5",
+      "subjects": [
+        {
+          "subject_id": "deu",
+          "subject_title": "Deutsch",
+          "modules": [
+            {
+              "module_id": "deu5_mod2",
+              "module_name": "Texte produzieren – sprechen und schreiben",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Sprechen und Schreiben – sich verständlich ausdrücken",
+                    "text": "Im Deutschunterricht lernst du nicht nur, Texte zu verstehen, sondern auch, selbst zu sprechen und zu schreiben. Wenn du dich klar und passend ausdrücken kannst, hilft dir das in der Schule, im Freundeskreis und später im Beruf. Du übst, in Gesprächen mitzuwirken, kleine Vorträge zu halten und verschiedene Textsorten zu schreiben – vom Erlebnisbericht bis zum Steckbrief."
+                  },
+                  {
+                    "title": "Schritt für Schritt zu besseren Texten",
+                    "text": "Gute Texte entstehen selten beim ersten Versuch. Du lernst, wie man das Sprechen und Schreiben plant: Ideen sammeln, ordnen, einen Einstieg finden, den Hauptteil aufbauen und einen passenden Schluss formulieren. Danach überarbeitest du deine Texte: Du verbesserst Wortwahl, Satzbau und Rechtschreibung. So werden deine mündlichen und schriftlichen Beiträge immer klarer und wirkungsvoller."
+                  },
+                  {
+                    "title": "Adressaten- und situationsgerecht sprechen und schreiben",
+                    "text": "Je nachdem, mit wem du sprichst oder für wen du schreibst, passt du deine Sprache an. In einer Klassenkonferenz formulierst du anders als in einer Chat-Nachricht an Freunde. Du lernst, Texte so zu gestalten, dass sie für die jeweilige Situation und die angesprochenen Personen angemessen sind."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "deu5_mod2_u1",
+                  "text": "Ich kann in einfachen Gesprächssituationen angemessen sprechen und an Gesprächen teilnehmen (dialogisches Sprechen).",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Gespräche führen – zuhören und reden",
+                        "text": "Zu einem Gespräch gehören immer mindestens zwei Personen. Wichtig ist nicht nur, was du sagst, sondern auch, dass du anderen zuhörst. Du lernst, nicht zu unterbrechen, Rückfragen zu stellen und auf das einzugehen, was andere sagen. So entsteht ein echtes Hin und Her, kein Durcheinander-Reden."
+                      },
+                      {
+                        "title": "Sich klar und freundlich ausdrücken",
+                        "text": "In Gesprächen versuchst du, deutlich und in vollständigen Sätzen zu sprechen. Du schaust deine Gesprächspartner an, sprichst nicht zu leise und nicht zu laut und achtest auf eine freundliche Wortwahl. So zeigst du Respekt und sorgst dafür, dass dich andere gut verstehen."
+                      },
+                      {
+                        "title": "Meinungen äußern und begründen",
+                        "text": "Oft geht es in Gesprächen nicht nur um Informationen, sondern auch um Meinungen. Du lernst, deine Meinung zu sagen und kurz zu begründen, zum Beispiel mit ‚Ich finde das gut, weil …‘. Gleichzeitig übst du, andere Meinungen auszuhalten und sachlich darauf zu reagieren."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "dialogisches Sprechen",
+                        "definition": "Sprechen im Austausch mit anderen, zum Beispiel im Gespräch oder in einer Diskussion."
+                      },
+                      {
+                        "term": "Gesprächsregel",
+                        "definition": "Vereinbarung, wie man im Gespräch miteinander umgeht (z. B. ausreden lassen, melden, zuhören)."
+                      },
+                      {
+                        "term": "Meinung",
+                        "definition": "persönliche Ansicht zu einer Sache, die man begründen kann."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann Gesprächsregeln nennen und einhalten.",
+                      "Ich kann anderen zuhören und auf ihre Beiträge eingehen.",
+                      "Ich kann meine Meinung in einfachen Sätzen sagen und begründen.",
+                      "Ich kann in einer kleinen Gruppe ein Gespräch zu einem Thema führen."
+                    ],
+                    "sample_questions": [
+                      "Nenne drei wichtige Gesprächsregeln für den Unterricht.",
+                      "Wie kannst du zeigen, dass du deinem Gegenüber zuhörst?",
+                      "Formuliere deine Meinung zu einem Thema und begründe sie mit einem Satz.",
+                      "Wie reagierst du, wenn jemand eine andere Meinung hat als du?"
+                    ],
+                    "sample_answers": [
+                      "Wichtige Gesprächsregeln sind: sich melden, andere ausreden lassen, zuhören und nicht durcheinander reden.",
+                      "Ich schaue die Person an, nicke oder mache kurze Rückmeldungen wie ‚mhm‘ oder ‚aha‘ und gehe in meiner Antwort auf das ein, was sie gesagt hat.",
+                      "Ich finde Hausaufgaben wichtig, weil man damit üben kann, was man im Unterricht gelernt hat.",
+                      "Ich bleibe höflich und sage zum Beispiel: ‚Ich sehe das anders, weil …‘ und erkläre meine Sicht, ohne die andere Person zu beleidigen."
+                    ]
+                  }
+                },
+                {
+                  "id": "deu5_mod2_u2",
+                  "text": "Ich kann kurze, vorbereitete Redebeiträge halten und Ergebnisse präsentieren (monologisches Sprechen).",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Kurze Vorträge planen",
+                        "text": "Bevor du etwas vor der Klasse vorträgst, planst du deinen Beitrag: Du überlegst dir ein Thema, sammelst Stichwörter und ordnest sie. Für einen kurzen Vortrag reichen oft Einleitung, Hauptteil und Schluss. Du kannst dir einen Spickzettel mit Stichpunkten schreiben, aber du liest nicht alles ab."
+                      },
+                      {
+                        "title": "Sicher und verständlich sprechen",
+                        "text": "Beim Vortragen ist es wichtig, dass alle dich gut verstehen. Du sprichst langsam und deutlich, machst Pausen und schaust immer wieder ins Publikum. Wenn du Bilder, Plakate oder Folien benutzt, erklärst du sie mit einfachen Sätzen und verweist mit Hand oder Zeigestock darauf."
+                      },
+                      {
+                        "title": "Ergebnisse aus Gruppenarbeit vorstellen",
+                        "text": "Oft arbeitest du in einer Gruppe und ihr sollt eure Ergebnisse vorstellen. Dann überlegt ihr gemeinsam, wer welchen Teil präsentiert. Du achtest darauf, dass du die Arbeit der Gruppe verständlich zusammenfasst und keine wichtigen Punkte vergisst."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Vortrag",
+                        "definition": "geplanter, zusammenhängender Redebeitrag vor Zuhörerinnen und Zuhörern."
+                      },
+                      {
+                        "term": "Präsentation",
+                        "definition": "Vorstellung von Ergebnissen, oft unterstützt durch Plakate oder andere Medien."
+                      },
+                      {
+                        "term": "Stichwortzettel",
+                        "definition": "Zettel mit kurzen Notizen, die bei einem Vortrag helfen, nichts zu vergessen."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann einen kurzen Vortrag mit Einleitung, Hauptteil und Schluss planen.",
+                      "Ich kann zu einem Thema wichtige Stichpunkte sammeln.",
+                      "Ich kann meine Stimme beim Vortragen so einsetzen, dass man mich gut versteht.",
+                      "Ich kann gemeinsam mit anderen eine Gruppenarbeit präsentieren."
+                    ],
+                    "sample_questions": [
+                      "Wie baust du einen kurzen Vortrag sinnvoll auf?",
+                      "Warum ist ein Stichwortzettel hilfreicher als ein komplett ausformulierter Text beim Vortragen?",
+                      "Was ist beim Vortragen wichtig, damit die Klasse dir gut folgen kann?",
+                      "Wie könnt ihr in der Gruppe eine Präsentation aufteilen?"
+                    ],
+                    "sample_answers": [
+                      "Ich beginne mit einer kurzen Einleitung, in der ich sage, worum es geht. Im Hauptteil nenne und erkläre ich die wichtigsten Punkte. Am Schluss fasse ich kurz zusammen oder ziehe ein kleines Fazit.",
+                      "Mit einem Stichwortzettel kann ich freier sprechen und habe Blickkontakt zur Klasse. Wenn ich einen ganzen Text ablese, wirkt es oft langweilig und ich verliere den Kontakt zu den Zuhörern.",
+                      "Ich spreche laut und deutlich, schaue in die Klasse, mache Pausen und erkläre Fachwörter. Außerdem ist es wichtig, nicht zu schnell zu sprechen.",
+                      "Wir können die Teile aufteilen, zum Beispiel erklärt jede Person einen Unterpunkt oder eine Seite des Plakats."
+                    ]
+                  }
+                },
+                {
+                  "id": "deu5_mod2_u3",
+                  "text": "Ich kann einfache erzählende Texte in verständlicher Form schreiben (z. B. Erlebniserzählung).",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Von der Idee zur Erzählung",
+                        "text": "Bevor du eine Geschichte schreibst, überlegst du dir, was passieren soll. Du wählst ein Erlebnis (wirklich erlebt oder ausgedacht) und planst Anfang, spannenden Mittelteil und Schluss. Es hilft, zuerst eine kurze Stichwortliste oder einen Erzählplan anzulegen."
+                      },
+                      {
+                        "title": "Aufbau einer Erlebniserzählung",
+                        "text": "Eine Erlebniserzählung berichtet in der Ich- oder Er-Form von einem Ereignis. Am Anfang stellst du kurz Ort, Zeit und Beteiligte vor. Im Hauptteil beschreibst du das Geschehen Schritt für Schritt, besonders die spannenden Stellen. Am Schluss sagst du, wie alles ausgegangen ist und wie du dich dabei gefühlt hast."
+                      },
+                      {
+                        "title": "Sprachliche Gestaltung",
+                        "text": "Damit deine Erzählung lebendig wird, benutzt du passende Verben, Adjektive und wörtliche Rede. Du achtest auf die Zeitform (meist Präteritum in der Vergangenheit) und darauf, dass du beim Erzählen nicht zwischen den Zeiten springst. Deine Sätze sollen gut lesbar und nicht zu lang sein."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Erlebniserzählung",
+                        "definition": "Erzählung über ein (wirkliches oder ausgedachtes) Erlebnis, meist in der Ich-Form, mit klar erkennbarem Anfang, Mittelteil und Schluss."
+                      },
+                      {
+                        "term": "wörtliche Rede",
+                        "definition": "wörtlich wiedergegebene Äußerung einer Figur, meist in Anführungszeichen."
+                      },
+                      {
+                        "term": "Präteritum",
+                        "definition": "Zeitform der Vergangenheit, die in Erzählungen häufig verwendet wird (z. B. ‚ich ging‘, ‚er sagte‘)."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann zu einem Erlebnis einen Erzählplan mit Anfang, Mittelteil und Schluss erstellen.",
+                      "Ich kann eine einfache Erlebniserzählung in der Vergangenheit schreiben.",
+                      "Ich kann wörtliche Rede korrekt einsetzen (Anführungszeichen, Satzzeichen).",
+                      "Ich kann meine Erzählung noch einmal lesen und verbessern."
+                    ],
+                    "sample_questions": [
+                      "Welche Teile gehören zu einer Erlebniserzählung?",
+                      "Warum ist ein Erzählplan vor dem Schreiben hilfreich?",
+                      "In welcher Zeitform schreibst du eine Erlebniserzählung und warum?",
+                      "Wie kannst du eine fertige Erzählung verbessern?"
+                    ],
+                    "sample_answers": [
+                      "Zu einer Erlebniserzählung gehören ein kurzer, einführender Anfang, ein ausführlicher Hauptteil mit dem eigentlichen Erlebnis und ein Schluss, in dem klar wird, wie alles endet und wie sich die Erzählerin oder der Erzähler fühlt.",
+                      "Mit einem Erzählplan vergesse ich keine wichtigen Ereignisse und kann die Reihenfolge gut überlegen. So wird mein Text übersichtlicher.",
+                      "Ich schreibe meistens im Präteritum, weil so deutlich wird, dass das Geschehen in der Vergangenheit liegt und es im Deutschen die typische Erzählzeit ist.",
+                      "Ich lese meine Erzählung noch einmal durch, achte auf Rechtschreibung und Satzzeichen, ersetze langweilige Wörter durch passendere und ergänze Stellen, die noch unklar sind."
+                    ]
+                  }
+                },
+                {
+                  "id": "deu5_mod2_u4",
+                  "text": "Ich kann einfache informierende Texte schreiben (z. B. Bericht, Beschreibung, Steckbrief).",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Informierende Texte – sachlich und klar",
+                        "text": "Informierende Texte sollen anderen Menschen etwas erklären oder mitteilen. Sie sind sachlich geschrieben, das heißt, du bleibst bei den Fakten und benutzt keine Übertreibungen oder Gefühlsausdrücke wie in einer Geschichte. Beispiele sind Berichte über Ereignisse, Beschreibungen von Personen, Tieren oder Dingen sowie Steckbriefe."
+                      },
+                      {
+                        "title": "Einen Bericht verfassen",
+                        "text": "Ein einfacher Bericht beantwortet die W-Fragen: Wer? Was? Wann? Wo? Wie? Warum? Du beginnst mit den wichtigsten Informationen und schilderst den Ablauf in sachlicher Form. Du schreibst in der Vergangenheit und benutzt keine wörtliche Rede oder Ausrufe wie in einer Erzählung."
+                      },
+                      {
+                        "title": "Beschreibungen und Steckbriefe",
+                        "text": "Bei Beschreibungen kommt es darauf an, ein Objekt so genau zu schildern, dass sich andere ein Bild machen können. Du gehst systematisch vor, zum Beispiel von oben nach unten oder von außen nach innen. Ein Steckbrief fasst die wichtigsten Daten zu einer Person, einem Tier oder einem Gegenstand in kurzer Form zusammen, meist in Stichpunkten."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Bericht",
+                        "definition": "sachlicher Text, der kurz und klar über ein Ereignis informiert und die wichtigsten W-Fragen beantwortet."
+                      },
+                      {
+                        "term": "Beschreibung",
+                        "definition": "Text, der Aussehen oder Eigenschaften von Personen, Tieren, Gegenständen oder Orten genau darstellt."
+                      },
+                      {
+                        "term": "Steckbrief",
+                        "definition": "übersichtliche Sammlung wichtiger Angaben zu einer Person, einem Tier oder einem Gegenstand, oft in Stichpunkten."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann einfache Berichte zu einem Ereignis verfassen.",
+                      "Ich kann eine Person, ein Tier oder einen Gegenstand geordnet beschreiben.",
+                      "Ich kann einen Steckbrief mit den wichtigsten Angaben erstellen.",
+                      "Ich kann sachliche und erzählende Sprache unterscheiden."
+                    ],
+                    "sample_questions": [
+                      "Welche W-Fragen beantwortet ein Bericht?",
+                      "Worin unterscheidet sich ein Bericht von einer Erzählung?",
+                      "Wie gehst du vor, wenn du eine Person beschreiben sollst?",
+                      "Was gehört in einen Steckbrief?"
+                    ],
+                    "sample_answers": [
+                      "Ein Bericht beantwortet vor allem: Wer? Was? Wann? Wo? Wie? und manchmal auch Warum?",
+                      "Ein Bericht ist sachlich und knapp, verwendet keine wörtliche Rede und erzählt keine Gefühle. Eine Erzählung schildert ein Erlebnis ausführlicher, mit Gedanken und Gefühlen und oft mit wörtlicher Rede.",
+                      "Ich überlege mir eine Reihenfolge, z. B. zuerst das Aussehen (Größe, Haare, Kleidung), dann besondere Merkmale und schließlich vielleicht typische Verhaltensweisen.",
+                      "In einen Steckbrief gehören zum Beispiel Name, Alter, Wohnort oder Lebensraum, besondere Merkmale und wichtige Eigenschaften."
+                    ]
+                  }
+                },
+                {
+                  "id": "deu5_mod2_u5",
+                  "text": "Ich kann beim Schreiben planen, überarbeiten und geeignete Schreibstrategien nutzen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Schreiben planen",
+                        "text": "Bevor du mit dem eigentlichen Schreiben beginnst, lohnt es sich, kurz zu planen: Was ist das Thema? Welche Textsorte schreibe ich? Wer soll meinen Text lesen? Welche Hauptpunkte müssen unbedingt hinein? Du kannst dazu ein Cluster, eine Liste oder eine kurze Gliederung anlegen."
+                      },
+                      {
+                        "title": "Rohfassung und Überarbeitung",
+                        "text": "Zuerst schreibst du eine Rohfassung, ohne alles perfekt machen zu wollen. Danach liest du den Text noch einmal in Ruhe. Du achtest auf Rechtschreibung, Satzbau, Wiederholungen und unklare Stellen. Oft hilft es, wenn eine Mitschülerin oder ein Mitschüler deinen Text liest und dir eine Rückmeldung gibt."
+                      },
+                      {
+                        "title": "Eigene Schreibstrategien entwickeln",
+                        "text": "Nicht alle arbeiten beim Schreiben gleich. Manche brauchen zuerst viel Zeit zum Planen, andere schreiben lieber sofort los und verbessern später. Du probierst verschiedene Arbeitsweisen aus und findest heraus, was dir hilft, gute Texte zu schreiben und dabei im Zeitrahmen zu bleiben."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Rohfassung",
+                        "definition": "erste Version eines Textes, die noch überarbeitet werden soll."
+                      },
+                      {
+                        "term": "Überarbeitung",
+                        "definition": "Verbesserung eines Textes nach dem ersten Schreiben, z. B. in Bezug auf Inhalt, Sprache und Rechtschreibung."
+                      },
+                      {
+                        "term": "Schreibstrategie",
+                        "definition": "bewusste Vorgehensweise, wie man einen Text plant, schreibt und überarbeitet."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann vor dem Schreiben Ideen sammeln und ordnen.",
+                      "Ich kann eine erste Fassung schreiben, ohne mich an jeder Stelle aufzuhalten.",
+                      "Ich kann meinen Text gezielt überarbeiten (Inhalt, Sprache, Rechtschreibung).",
+                      "Ich kenne mindestens eine Schreibstrategie, die mir hilft, rechtzeitig fertig zu werden."
+                    ],
+                    "sample_questions": [
+                      "Was machst du, bevor du mit dem eigentlichen Schreiben beginnst?",
+                      "Warum ist es sinnvoll, zunächst eine Rohfassung zu schreiben?",
+                      "Worauf achtest du bei der Überarbeitung deines Textes?",
+                      "Welche Schreibstrategie hilft dir persönlich am meisten?"
+                    ],
+                    "sample_answers": [
+                      "Ich sammle Ideen, überlege mir die Textsorte und mache mir Stichworte oder eine kleine Gliederung.",
+                      "In der Rohfassung kann ich meine Gedanken erst einmal festhalten, ohne auf jedes Detail zu achten. Die Feinheiten verbessere ich später.",
+                      "Ich schaue, ob alle wichtigen Inhalte enthalten sind, verbessere unklare oder sehr lange Sätze, ersetze langweilige Wörter und korrigiere Rechtschreibfehler.",
+                      "Mir hilft es, zuerst eine Mindmap zu machen, dann die Rohfassung zu schreiben und am Ende mit einem Partnertextvergleich zu überarbeiten."
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

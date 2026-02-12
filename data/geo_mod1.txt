@@ -1,0 +1,251 @@
+{
+  "school_id": "de_thueringen",
+  "grades": [
+    {
+      "grade_id": "klasse5",
+      "grade_label": "Klasse 5",
+      "subjects": [
+        {
+          "subject_id": "geo",
+          "subject_title": "Geografie",
+          "modules": [
+            {
+              "module_id": "geo5_mod1",
+              "module_name": "Die Erde als Planet und Lebensraum",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Was macht Geografie aus?",
+                    "text": "In diesem Modul lernst du, was das Fach Geografie eigentlich untersucht und wie es dir hilft, die Welt besser zu verstehen.[file:5] Du beschäftigst dich mit der Erde als Planet, ihren Bewegungen, wichtigen Hilfsmitteln wie Karten und Gradnetz sowie mit unterschiedlichen Landschaftsräumen und Lebensbedingungen auf der Erde.[file:5]"
+                  },
+                  {
+                    "title": "Die Erde im Weltraum",
+                    "text": "Du beschreibst die Gestalt der Erde, ihre Drehung um die eigene Achse (Rotation) und die Umrundung der Sonne (Revolution). [file:5] Dadurch verstehst du grundlegende Phänomene wie Tag und Nacht, Jahreszeiten und die unterschiedliche Beleuchtung der Erde.[file:5]"
+                  },
+                  {
+                    "title": "Lebensräume in verschiedenen Klimazonen",
+                    "text": "Du lernst kennen, dass es auf der Erde verschiedene klimatisch geprägte Räume gibt, z. B. Tropen, Wüsten, gemäßigte Zonen oder Polarregionen.[file:5] Du beschreibst, wie Klima, Landschaft und Vegetation zusammenhängen und wie Menschen sich an unterschiedliche Bedingungen anpassen.[file:5]"
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "geo5_mod1_u1",
+                  "text": "Ich kann erklären, was Geografie als Fach untersucht und welche Grundbegriffe dazu gehören.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Geografie – die Lehre von der Erde",
+                        "text": "Geografie beschäftigt sich mit der Erde als Raum, in dem Natur und Mensch zusammenwirken.[file:5] Dazu gehören Themen wie Landschaften, Klima, Städte und Dörfer, Wirtschaft, Umweltprobleme und vieles mehr.[file:5]"
+                      },
+                      {
+                        "title": "Natur und Gesellschaft",
+                        "text": "Du lernst, dass Geografie sowohl natürliche Grundlagen (z. B. Gebirge, Meere, Klima) als auch menschliche Nutzung (z. B. Landwirtschaft, Städte, Verkehr) zusammen betrachtet.[file:5] Wichtig ist dabei, Wechselwirkungen zu erkennen: Wie beeinflusst der Mensch die Natur – und wie wirken Naturbedingungen auf das Leben der Menschen zurück?[file:5]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Geografie",
+                        "definition": "Wissenschaft, die Räume, Naturbedingungen und menschliche Nutzung der Erde untersucht.[file:5]"
+                      },
+                      {
+                        "term": "Naturraum",
+                        "definition": "Ausschnitt der Erdoberfläche, der vor allem durch natürliche Faktoren wie Klima, Boden, Relief und Vegetation geprägt ist.[file:5]"
+                      },
+                      {
+                        "term": "Lebensraum",
+                        "definition": "Bereich, in dem Menschen, Tiere und Pflanzen leben und wirtschaften.[file:5]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann in einem Satz erklären, worum es im Fach Geografie geht. [file:5]",
+                      "Ich kann Beispiele nennen, welche Themen zur Natur und welche zur Nutzung durch den Menschen gehören. [file:5]"
+                    ],
+                    "sample_questions": [
+                      "Womit beschäftigt sich Geografie – nenne zwei Beispiele aus der Natur und zwei aus dem Bereich Mensch/Wirtschaft.",
+                      "Warum gehört \"Klima\" genauso zur Geografie wie \"Stadtentwicklung\"?"
+                    ],
+                    "sample_answers": [
+                      "Geografie untersucht zum Beispiel Gebirge und Meere (Natur) sowie Städte und Landwirtschaft (Mensch/Wirtschaft).",
+                      "Klima gehört zur Naturgrundlage, Stadtentwicklung zur Nutzung – beides hängt zusammen, weil das Klima beeinflusst, wie und wo Menschen Städte bauen."
+                    ]
+                  }
+                },
+                {
+                  "id": "geo5_mod1_u2",
+                  "text": "Ich kann die Gestalt der Erde und ihre Bewegungen (Rotation, Revolution) beschreiben und mit Tag, Nacht und Jahreszeiten verbinden.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Gestalt der Erde",
+                        "text": "Die Erde ist keine perfekte Kugel, sondern annähernd kugelförmig und an den Polen etwas abgeflacht.[file:5] Sie besitzt eine Erdachse, eine gedachte Linie vom Nordpol zum Südpol, um die sie sich dreht.[file:5]"
+                      },
+                      {
+                        "title": "Rotation – die Drehung der Erde",
+                        "text": "Die Erde dreht sich in 24 Stunden einmal um ihre eigene Achse – das nennt man Rotation.[file:5] Durch diese Drehung entstehen Tag und Nacht: Die der Sonne zugewandte Seite hat Tag, die abgewandte Seite Nacht.[file:5]"
+                      },
+                      {
+                        "title": "Revolution – die Umlaufbahn um die Sonne",
+                        "text": "Die Erde bewegt sich innerhalb eines Jahres auf einer Umlaufbahn um die Sonne – das nennt man Revolution.[file:5] Zusammen mit der schiefen Stellung der Erdachse erklärt das die unterschiedlichen Jahreszeiten und die verschieden lange Tageslänge im Jahresverlauf.[file:5]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Erdachse",
+                        "definition": "Gedachte Drehachse der Erde vom Nordpol zum Südpol.[file:5]"
+                      },
+                      {
+                        "term": "Rotation",
+                        "definition": "Drehung der Erde um ihre eigene Achse in 24 Stunden (Tag/Nacht). [file:5]"
+                      },
+                      {
+                        "term": "Revolution",
+                        "definition": "Umlauf der Erde um die Sonne in etwa einem Jahr (Jahreslauf). [file:5]"
+                      },
+                      {
+                        "term": "Nordpol / Südpol",
+                        "definition": "Die beiden Endpunkte der Erdachse an der Erdoberfläche.[file:5]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann erklären, wie durch die Rotation Tag und Nacht entstehen. [file:5]",
+                      "Ich kann in einfachen Worten beschreiben, warum es Jahreszeiten gibt. [file:5]"
+                    ],
+                    "sample_questions": [
+                      "Warum ist es auf der Erde gleichzeitig an manchen Orten Tag und an anderen Nacht?",
+                      "Welche Rolle spielt die Rotation der Erde für unseren Alltag?",
+                      "Warum gibt es bei uns verschiedene Jahreszeiten?"
+                    ],
+                    "sample_answers": [
+                      "Weil immer nur die Seite der Erde, die zur Sonne zeigt, Tag hat, die andere Seite liegt im Schatten und hat Nacht.",
+                      "Durch die Rotation wechseln Tag und Nacht in einem regelmäßigen 24-Stunden-Rhythmus – das bestimmt unseren Tagesablauf.",
+                      "Die Erde umkreist die Sonne und ihre Achse ist schräg gestellt. Deshalb ist mal die Nordhalbkugel stärker zur Sonne geneigt (Sommer dort) und mal die Südhalbkugel."
+                    ]
+                  }
+                },
+                {
+                  "id": "geo5_mod1_u3",
+                  "text": "Ich kann das Gradnetz der Erde (Äquator, Pole, Längengrade, Breitengrade, Nullmeridian) in Grundzügen verstehen und zur Orientierung nutzen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Das Gradnetz als Orientierungshilfe",
+                        "text": "Um Orte genau zu bestimmen, verwendet man ein Gradnetz aus Breiten- und Längengraden.[file:5] Es überzieht die Erde wie ein unsichtbares Netz und hilft, jeden Punkt durch Zahlenangaben zu beschreiben.[file:5]"
+                      },
+                      {
+                        "title": "Äquator, Pole und Nullmeridian",
+                        "text": "Der Äquator teilt die Erde in Nord- und Südhalbkugel.[file:5] Die Pole (Nordpol, Südpol) sind die Endpunkte der Erdachse; der Nullmeridian verläuft z. B. durch Greenwich bei London und dient als Ausgangslinie für die Längengrade.[file:5]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Äquator",
+                        "definition": "Größter Breitenkreis, der die Erde in Nord- und Südhalbkugel teilt.[file:5]"
+                      },
+                      {
+                        "term": "Gradnetz",
+                        "definition": "Netz aus Breiten- und Längengraden zur genauen Ortsbestimmung.[file:5]"
+                      },
+                      {
+                        "term": "Nullmeridian",
+                        "definition": "Ausgangslinie der Längengrade mit der Längenzahl 0°, verläuft u. a. durch Greenwich.[file:5]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann auf einer Atlas-Karte Äquator, Nordpol und Südpol zeigen. [file:5]",
+                      "Ich kann erklären, wozu man das Gradnetz braucht. [file:5]"
+                    ],
+                    "sample_questions": [
+                      "Wie hilft dir das Gradnetz, einen Ort auf der Erde genau zu beschreiben?",
+                      "Was trennt der Äquator – und wo verläuft er ungefähr?"
+                    ],
+                    "sample_answers": [
+                      "Mit Hilfe von Breiten- und Längengraden kann man jedem Ort Zahlen geben, zum Beispiel 50°N, 11°E, und ihn so eindeutig finden.",
+                      "Der Äquator trennt Nord- und Südhalbkugel und verläuft ungefähr durch die Mitte der Erde, unter anderem durch Teile Afrikas und Südamerikas."
+                    ]
+                  }
+                },
+                {
+                  "id": "geo5_mod1_u4",
+                  "text": "Ich kann unterschiedliche Natur- und Landschaftsräume (Hochgebirge, Tiefland, Mittelgebirge, Ozean) und ihre Vegetation in Grundzügen beschreiben.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Formen der Erdoberfläche",
+                        "text": "Die Erdoberfläche ist sehr unterschiedlich: Es gibt Hochgebirge mit hohen Gipfeln, Mittelgebirge mit abgerundeten Formen, Tiefländer und Ebenen sowie Ozeane und Meere.[file:5] Diese Reliefformen beeinflussen Klima, Vegetation und Nutzungsmöglichkeiten.[file:5]"
+                      },
+                      {
+                        "title": "Vegetation und Klima",
+                        "text": "In warmen, feuchten Gebieten gibt es meist dichte Vegetation, in kalten oder sehr trockenen Gebieten nur wenig Bewuchs.[file:5] Du lernst einfache Beispiele kennen, z. B. Regenwald, Graslandschaften, Nadelwälder oder Tundra und ordnest sie grob den Klimaräumen zu.[file:5]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Hochgebirge",
+                        "definition": "Gebirge mit großen Höhenunterschieden und hohen Gipfeln, oft über der Baumgrenze.[file:5]"
+                      },
+                      {
+                        "term": "Mittelgebirge",
+                        "definition": "Gebirge mit mittleren Höhen und überwiegend abgerundeten Formen.[file:5]"
+                      },
+                      {
+                        "term": "Tiefland",
+                        "definition": "Weitgehend flaches oder leicht gewelltes Gebiet mit geringer Höhe über dem Meer.[file:5]"
+                      },
+                      {
+                        "term": "Ozean",
+                        "definition": "Sehr großes, zusammenhängendes Meer, das weite Teile der Erdoberfläche bedeckt.[file:5]"
+                      },
+                      {
+                        "term": "Vegetation",
+                        "definition": "Gesamtheit der Pflanzen in einem Gebiet.[file:5]"
+                      },
+                      {
+                        "term": "Klima",
+                        "definition": "Durchschnittlicher Witterungsverlauf (z. B. Temperatur, Niederschlag) über einen längeren Zeitraum in einem Gebiet.[file:5]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann mit einfachen Worten erklären, was Hochgebirge, Mittelgebirge, Tiefland und Ozean sind. [file:5]",
+                      "Ich kann zu einem gewählten Landschaftsraum Beispiele für Pflanzen und typische Nutzungen nennen. [file:5]"
+                    ],
+                    "sample_questions": [
+                      "Beschreibe ein Hochgebirge und ein Tiefland jeweils mit zwei Merkmalen.",
+                      "Wie unterscheiden sich die Nutzungsmöglichkeiten im Hochgebirge und in einem Tiefland?",
+                      "Nenne ein Beispiel für eine Vegetation, die zu einem kalten Klima passt."
+                    ],
+                    "sample_answers": [
+                      "Ein Hochgebirge hat steile Hänge und hohe Gipfel, im Winter viel Schnee. Ein Tiefland ist flach oder leicht gewellt und liegt nur wenig über dem Meeresspiegel.",
+                      "Im Hochgebirge sind z. B. Weidewirtschaft und Tourismus (Skifahren, Wandern) wichtig, im Tiefland kann man oft gut Ackerbau betreiben und Städte bauen.",
+                      "Zur kalten Klimazone passt zum Beispiel Tundra mit Moosen, Flechten und niedrigen Sträuchern."
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

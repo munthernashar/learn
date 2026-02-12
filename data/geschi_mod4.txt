@@ -1,0 +1,264 @@
+{
+  "school_id": "de_thueringen",
+  "grades": [
+    {
+      "grade_id": "klasse5",
+      "grade_label": "Klasse 5",
+      "subjects": [
+        {
+          "subject_id": "ges",
+          "subject_title": "Geschichte",
+          "modules": [
+            {
+              "module_id": "hist5_mod4",
+              "module_name": "Antike und Mittelalter – Griechen, Römer und Europa im Wandel",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Von der Polis zum Weltreich",
+                    "text": "In diesem Modul lernst du zwei wichtige antike Kulturen kennen, deren Ideen Europa bis heute prägen: die Griechen und die Römer.[file:6] Du untersuchst ihre Lebensweisen, politische Formen und ihren Einfluss auf spätere Zeiten."
+                  },
+                  {
+                    "title": "Zwischen Burg, Kloster und Stadt",
+                    "text": "Du gewinnst Einblicke in die Lebenswelten des mittelalterlichen Europas: in Adel, Bauern, Geistliche und Stadtbewohner.[file:6] Du erkennst wichtige Veränderungen, z. B. durch Königsherrschaft, Kirche, Ständeordnung, Städte und Reformation.[file:6]"
+                  },
+                  {
+                    "title": "Dauer und Wandel",
+                    "text": "Du übst, Unterschiede und Gemeinsamkeiten zwischen Antike, Mittelalter und deiner eigenen Lebenswelt zu erkennen und erste Vorstellungen von Epochenfolge und historischem Wandel zu entwickeln.[file:6]"
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "hist5_mod4_u1",
+                  "text": "Ich kann erklären, wie die Landschaft Griechenlands zur Entstehung der Polis und zur Seefahrt beigetragen hat.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Griechenland als Insel- und Gebirgsland",
+                        "text": "Die griechische Landschaft ist stark von Gebirgen und Küsten mit vielen Buchten und Inseln geprägt.[file:6] Fruchtbare Ebenen sind klein und oft voneinander getrennt, deshalb entstanden viele einzelne Stadtstaaten (Poleis) statt eines einheitlichen Großreichs.[file:6]"
+                      },
+                      {
+                        "title": "Seefahrt und Handel",
+                        "text": "Weil das Meer überall nah war, nutzten die Griechen früh Schiffe für Handel und Kontakte zu anderen Völkern.[file:6] Das führte zu Austausch von Waren, Ideen und Kultur im gesamten Mittelmeerraum."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Polis (Plural: Poleis)",
+                        "definition": "Griechischer Stadtstaat mit Stadt und Umland, eigener Regierung und eigenen Regeln.[file:6]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann auf einer Karte die Lage Griechenlands beschreiben. [file:6]",
+                      "Ich kann erklären, warum es viele Stadtstaaten gab und warum Seefahrt wichtig war. [file:6]"
+                    ],
+                    "sample_questions": [
+                      "Warum entstanden in Griechenland viele einzelne Poleis statt eines einzigen großen Reiches?",
+                      "Welche Bedeutung hatte das Meer für die Griechen?"
+                    ],
+                    "sample_answers": [
+                      "Weil Gebirge die fruchtbaren Gebiete trennten und jede Region ihre eigene Stadt mit Umland bildete.",
+                      "Das Meer war Verkehrsweg für Handel, Reisen und kulturellen Austausch."
+                    ]
+                  }
+                },
+                {
+                  "id": "hist5_mod4_u2",
+                  "text": "Ich kann Grundzüge der attischen Demokratie und andere Herrschaftsformen (Monarchie, Aristokratie) in einfachen Zügen beschreiben und vergleichen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Herrschaftsformen in der Antike",
+                        "text": "In Griechenland gab es unterschiedliche Herrschaftsformen: Monarchie (Herrschaft eines Königs), Aristokratie (Herrschaft weniger Vornehmer) und Demokratie (Herrschaft des Volkes).[file:6]"
+                      },
+                      {
+                        "title": "Attische Demokratie",
+                        "text": "In Athen durften freie männliche Bürger an der Volksversammlung teilnehmen, mitbestimmen und wichtige Ämter übernehmen.[file:6] Frauen, Sklaven und Zugewanderte waren ausgeschlossen – die Demokratie war also auf einen Teil der Bevölkerung begrenzt.[file:6]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Monarchie",
+                        "definition": "Herrschaftsform, bei der ein König/eine Königin an der Spitze steht.[file:6]"
+                      },
+                      {
+                        "term": "Aristokratie",
+                        "definition": "Herrschaftsform, bei der wenige Adelige oder Vornehme bestimmen.[file:6]"
+                      },
+                      {
+                        "term": "Demokratie",
+                        "definition": "Herrschaftsform, in der (Teile) des Volkes an politischen Entscheidungen beteiligt sind.[file:6]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann einfache Unterschiede zwischen Monarchie, Aristokratie und attischer Demokratie nennen. [file:6]",
+                      "Ich kann in Ansätzen sagen, was ich aus heutiger Sicht an der attischen Demokratie kritisch sehe. [file:6]"
+                    ],
+                    "sample_questions": [
+                      "Wer durfte in Athen an der Demokratie teilnehmen – wer nicht?",
+                      "Nenne einen Unterschied zwischen Monarchie und Demokratie."
+                    ],
+                    "sample_answers": [
+                      "Nur freie männliche Bürger mit Bürgerrecht; Frauen, Sklaven und Zugewanderte durften nicht mitbestimmen.",
+                      "In einer Monarchie entscheidet ein König, in einer Demokratie sind (Teile) des Volkes an Entscheidungen beteiligt."
+                    ]
+                  }
+                },
+                {
+                  "id": "hist5_mod4_u3",
+                  "text": "Ich kann den Aufstieg Roms vom Stadtstaat zum großen Reich in groben Zügen beschreiben und wichtige Folgen (z. B. Romanisierung, Christentum) nennen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Vom Dorf zur Weltmacht",
+                        "text": "Rom begann als kleine Stadt am Tiber und eroberte nach und nach Italien und große Teile Europas, Nordafrikas und des Nahen Ostens.[file:6] Mit Hilfe von gut organisierten Heeren, Straßen und Verwaltung entstand das Imperium Romanum.[file:6]"
+                      },
+                      {
+                        "title": "Romanisierung",
+                        "text": "In vielen eroberten Gebieten verbreiteten sich römische Sprache (Latein), Gesetze, Bauweise, Städtewesen und Lebensgewohnheiten.[file:6] So entstanden Mischformen aus einheimischer und römischer Kultur."
+                      },
+                      {
+                        "title": "Christentum im Römischen Reich",
+                        "text": "Das Christentum entstand zuerst als kleine religiöse Bewegung, breitete sich im Reich aus und wurde schließlich zur Staatsreligion.[file:6]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Imperium Romanum",
+                        "definition": "Das Römische Reich mit seinen weitreichenden eroberten Gebieten.[file:6]"
+                      },
+                      {
+                        "term": "Romanisierung",
+                        "definition": "Ausbreitung römischer Kultur, Sprache und Lebensweise in eroberten Gebieten.[file:6]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann grob beschreiben, wie Rom größer wurde (Eroberungen, Straßen, Verwaltung). [file:6]",
+                      "Ich kann mindestens zwei Dinge nennen, die aus Rom bis in unsere Zeit wirken (z. B. Sprache, Recht, Bauformen). [file:6]"
+                    ],
+                    "sample_questions": [
+                      "Wie gelang es den Römern, ein so großes Reich zu beherrschen?",
+                      "Nenne zwei Bereiche, in denen römische Einflüsse bis heute spürbar sind."
+                    ],
+                    "sample_answers": [
+                      "Durch gut ausgebildete Soldaten, ein Straßennetz, klare Gesetze und eine gut organisierte Verwaltung.",
+                      "In vielen Sprachen und im Rechtssystem, auch in Bauwerken wie Brücken, Straßen oder Amphitheatern."
+                    ]
+                  }
+                },
+                {
+                  "id": "hist5_mod4_u4",
+                  "text": "Ich kann grundlegende Merkmale mittelalterlicher Lebensformen (Königsherrschaft, Ständegesellschaft, Grundherrschaft/Lehnswesen, Klöster, Burgen, Städte) beschreiben.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "König und Ständeordnung",
+                        "text": "Im Mittelalter stand der König an der Spitze, darunter Adel und Klerus (Geistliche), dann die große Gruppe der Bauern.[file:6] Diese Ständegesellschaft legte fest, welche Aufgaben, Rechte und Pflichten die Menschen hatten."
+                      },
+                      {
+                        "title": "Grundherrschaft und Lehnswesen",
+                        "text": "Bauern bewirtschafteten den Boden eines Grundherrn und mussten Abgaben und Frondienste leisten.[file:6] Im Lehnswesen verlieh der König Land oder Rechte an Adelige, die ihm dafür Dienste schuldeten – ein Geflecht gegenseitiger Pflichten.[file:6]"
+                      },
+                      {
+                        "title": "Klöster und Burgen",
+                        "text": "Klöster waren Orte des Gebets, aber auch des Lernens, der Krankenpflege und des Wissens.[file:6] Burgen dienten als Wohnsitze von Adligen und als Schutz- und Machtzentren in einer Region."
+                      },
+                      {
+                        "title": "Städte als neue Zentren",
+                        "text": "Später entstanden immer mehr Städte als Orte des Handels und Handwerks.[file:6] Dort lebten Bürger, die sich teilweise andere Rechte erkämpfen konnten als Menschen auf dem Land."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Ständegesellschaft",
+                        "definition": "Gesellschaftsordnung, in der Menschen festen Ständen mit bestimmten Rechten und Pflichten zugeordnet sind.[file:6]"
+                      },
+                      {
+                        "term": "Lehnswesen",
+                        "definition": "System gegenseitiger Verpflichtungen zwischen König/Lehnsherrn und Vasallen (z. B. Adeligen), oft verbunden mit Landbesitz.[file:6]"
+                      },
+                      {
+                        "term": "Grundherrschaft",
+                        "definition": "Herrschaftsform, bei der ein Grundherr über Land verfügt, das Bauern bewirtschaften und wofür sie Abgaben leisten.[file:6]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann erklären, wie die Ständegesellschaft grob aufgebaut war. [file:6]",
+                      "Ich kann Grundherrschaft/Lehnswesen in einfachen Worten beschreiben. [file:6]",
+                      "Ich kann sagen, wofür Klöster, Burgen und Städte im Mittelalter wichtig waren. [file:6]"
+                    ],
+                    "sample_questions": [
+                      "Wer gehörte im Mittelalter zu den drei Hauptständen?",
+                      "Welche Aufgaben hatten Klöster außer Beten?",
+                      "Warum entstanden ab dem Hochmittelalter immer mehr Städte?"
+                    ],
+                    "sample_answers": [
+                      "Klerus (Geistliche), Adel und Bauern/Bürgertum (je nach Darstellung).",
+                      "Sie waren Zentren des Wissens, schrieben Bücher ab, kümmerten sich um Kranke und Reisende.",
+                      "Weil Handel und Handwerk zunahmen und sich Menschen an wichtigen Handelswegen niederließen."
+                    ]
+                  }
+                },
+                {
+                  "id": "hist5_mod4_u5",
+                  "text": "Ich kann an einem Beispiel (z. B. Burg, Stadt oder Kloster in der Region) Spuren des Mittelalters erkennen und einfache Bezüge zur Gegenwart herstellen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Spurensuche vor Ort",
+                        "text": "In deiner Umgebung gibt es oft Gebäude, Straßennamen, Mauern oder Kirchen, die auf das Mittelalter zurückgehen.[file:6] Du lernst, solche Spuren zu entdecken, zu beschreiben und mithilfe einfacher Informationen zeitlich einzuordnen."
+                      },
+                      {
+                        "title": "Mittelalter und heutiges Leben",
+                        "text": "Du überlegst, wie sich bestimmte mittelalterliche Strukturen bis heute auswirken, z. B. Stadtgrundrisse, Kirchen als Zentren oder ehemalige Burgen als Sehenswürdigkeiten.[file:6]"
+                      }
+                    ],
+                    "key_terms": [],
+                    "note1_checklist": [
+                      "Ich kann ein mittelalterliches Beispiel aus meiner Region nennen und kurz beschreiben. [file:6]",
+                      "Ich kann sagen, welche Rolle dieser Ort heute spielt (z. B. Kirche, Museum, Tourismus). [file:6]"
+                    ],
+                    "sample_questions": [
+                      "Nenne eine Burg, ein Kloster oder eine Kirche in deiner Umgebung und beschreibe, was man dort heute macht.",
+                      "Welche Spuren des Mittelalters fallen dir in deiner Stadt oder deinem Dorf auf?"
+                    ],
+                    "sample_answers": [
+                      "Zum Beispiel Burg X: Früher Wohnsitz eines Adligen und Verteidigungsanlage, heute Museum und Ausflugsziel.",
+                      "Enge Straßen im alten Stadtkern, eine große Kirche im Zentrum, Reste von Stadtmauern oder Toren."
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

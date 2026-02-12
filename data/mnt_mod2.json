@@ -1,0 +1,982 @@
+Perfekt! Ich habe nun alle Details zu Modul 2 aus dem Lehrplan. Jetzt erstelle ich den vollständigen JSON-Inhalt für **Modul 2: Samenpflanzen** mit allen Unterthemen gemäß dem Lehrplan.
+
+```json
+{
+  "school_id": "de_thueringen",
+  "grades": [
+    {
+      "grade_id": "klasse5",
+      "grade_label": "Klasse 5",
+      "subjects": [
+        {
+          "subject_id": "mnt",
+          "subject_title": "Mensch–Natur–Technik",
+          "modules": [
+            {
+              "module_id": "mnt5_mod2",
+              "module_name": "Samenpflanzen",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Überblick über das Modul Samenpflanzen",
+                    "text": "In diesem Modul lernst du die faszinierende Welt der Samenpflanzen kennen. Samenpflanzen sind überall um uns herum – in Gärten, Parks, Wäldern und sogar in deiner Wohnung. Du wirst entdecken, wie Pflanzen aufgebaut sind, wie sie sich vermehren, wie sie sich ernähren und wie vielfältig sie sind. Dabei lernst du auch wichtige chemische und physikalische Grundlagen kennen, die dir helfen, die Natur besser zu verstehen."
+                  },
+                  {
+                    "title": "Was sind Samenpflanzen?",
+                    "text": "Samenpflanzen sind Pflanzen, die sich durch Samen vermehren. Das bedeutet, dass aus einem Samen eine neue Pflanze wachsen kann. Fast alle Pflanzen, die du kennst, gehören zu den Samenpflanzen: Bäume wie Eichen und Kiefern, Blumen wie Rosen und Tulpen, Gemüsepflanzen wie Tomaten und Gurken, und sogar Gräser. Samenpflanzen haben alle einen ähnlichen Grundaufbau, auch wenn sie sehr unterschiedlich aussehen können."
+                  },
+                  {
+                    "title": "Warum sind Samenpflanzen wichtig?",
+                    "text": "Samenpflanzen sind für unser Leben unverzichtbar. Sie produzieren den Sauerstoff, den wir zum Atmen brauchen. Sie liefern uns Nahrung in Form von Obst, Gemüse und Getreide. Aus ihnen werden Kleidung (wie Baumwolle), Papier und viele andere nützliche Dinge hergestellt. Außerdem sind sie Lebensraum für viele Tiere und machen unsere Umwelt schön und lebenswert."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "mnt5_mod2_u1",
+                  "text": "Ich kann den Bau von Samenpflanzen betrachten, beschreiben und die Pflanzenorgane (Wurzel, Sprossachse, Laubblätter, Blüten) benennen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Die Grundorgane der Samenpflanzen",
+                        "text": "Jede Samenpflanze besteht aus vier Hauptorganen: der Wurzel, der Sprossachse, den Laubblättern und den Blüten. Diese Organe haben jeweils besondere Aufgaben, die zusammen das Leben der Pflanze ermöglichen. Stell dir die Pflanze wie einen kleinen Organismus vor, bei dem jedes Teil eine wichtige Rolle spielt – ähnlich wie bei deinem Körper, wo Herz, Lunge und Magen verschiedene Aufgaben haben."
+                      },
+                      {
+                        "title": "Die Wurzel – Halt und Versorgung",
+                        "text": "Die Wurzel ist der Teil der Pflanze, der im Boden steckt. Du siehst sie normalerweise nicht, aber sie ist sehr wichtig. Die Wurzel hat zwei Hauptaufgaben: Erstens verankert sie die Pflanze im Boden, damit sie nicht umfällt. Zweitens nimmt sie Wasser und darin gelöste Nährstoffe (Mineralstoffe) aus dem Boden auf. Die Wurzel verzweigt sich oft in viele kleine Wurzelhaare, die eine sehr große Oberfläche bilden. Dadurch kann die Pflanze besonders viel Wasser aufnehmen – ein cleveres Prinzip der Natur!"
+                      },
+                      {
+                        "title": "Die Sprossachse – Transport und Stütze",
+                        "text": "Die Sprossachse ist der Teil zwischen Wurzel und Blättern. Bei einem Baum ist es der Stamm, bei einer Blume der Stängel. Die Sprossachse hat drei wichtige Aufgaben: Sie hält die Pflanze aufrecht, trägt die Blätter und Blüten und transportiert Wasser und Nährstoffe von der Wurzel zu den Blättern. Im Inneren der Sprossachse gibt es winzige 'Leitungen' (Leitbündel), durch die das Wasser nach oben steigt – ähnlich wie in einem Trinkhalm."
+                      },
+                      {
+                        "title": "Die Laubblätter – Fabriken der Pflanze",
+                        "text": "Laubblätter sind die grünen, meist flachen Teile der Pflanze. Sie sind wie kleine Fabriken, in denen die Pflanze ihre Nahrung selbst herstellt. Mit Hilfe von Sonnenlicht, Wasser und Kohlenstoffdioxid aus der Luft produzieren die Blätter Zucker (Glukose), den die Pflanze als Energiequelle nutzt. Dieser Vorgang heißt Fotosynthese. Die grüne Farbe kommt vom Blattgrün (Chlorophyll), das für diesen Prozess nötig ist. Die Blätter haben oft eine große Oberfläche, um möglichst viel Sonnenlicht einzufangen."
+                      },
+                      {
+                        "title": "Die Blüten – Fortpflanzungsorgane",
+                        "text": "Blüten sind die Fortpflanzungsorgane der Samenpflanzen. In ihnen entstehen die Samen, aus denen neue Pflanzen wachsen können. Blüten sind oft bunt und duften, um Insekten wie Bienen anzulocken. Diese Insekten helfen bei der Bestäubung, also bei der Befruchtung der Blüte. Nicht alle Pflanzen haben auffällige Blüten – manche, wie Gräser, haben ganz kleine, unscheinbare Blüten, die vom Wind bestäubt werden."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Wurzel",
+                        "definition": "Organ der Pflanze, das im Boden verankert ist, die Pflanze festhält und Wasser sowie Mineralstoffe aus dem Boden aufnimmt."
+                      },
+                      {
+                        "term": "Sprossachse",
+                        "definition": "Organ der Pflanze, das Blätter und Blüten trägt und Wasser sowie Nährstoffe transportiert. Bei Bäumen heißt sie Stamm, bei krautigen Pflanzen Stängel."
+                      },
+                      {
+                        "term": "Laubblatt",
+                        "definition": "Grünes, meist flaches Organ der Pflanze, in dem die Fotosynthese stattfindet. Hier wird mit Hilfe von Sonnenlicht Zucker hergestellt."
+                      },
+                      {
+                        "term": "Blüte",
+                        "definition": "Fortpflanzungsorgan der Samenpflanzen, in dem Samen entstehen. Blüten dienen der geschlechtlichen Fortpflanzung."
+                      },
+                      {
+                        "term": "Pflanzenorgane",
+                        "definition": "Die verschiedenen Teile einer Pflanze, die jeweils bestimmte Aufgaben haben: Wurzel, Sprossachse, Laubblätter und Blüten."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann die vier Hauptorgane einer Samenpflanze aufzählen.",
+                      "Ich kann zu jedem Organ mindestens zwei Aufgaben nennen.",
+                      "Ich kann an einer echten Pflanze die Organe zeigen und benennen.",
+                      "Ich kann erklären, warum jedes Organ für die Pflanze wichtig ist."
+                    ],
+                    "sample_questions": [
+                      "Benenne die vier Hauptorgane einer Samenpflanze und beschreibe ihre wichtigsten Aufgaben.",
+                      "Warum hat die Wurzel so viele feine Wurzelhaare? Welchen Vorteil bringt das der Pflanze?",
+                      "Erkläre, warum Laubblätter meistens grün und flach sind.",
+                      "Was ist der Unterschied zwischen Stamm und Stängel?"
+                    ],
+                    "sample_answers": [
+                      "Die vier Hauptorgane sind: Wurzel (verankert die Pflanze und nimmt Wasser auf), Sprossachse (stützt die Pflanze und transportiert Stoffe), Laubblätter (stellen durch Fotosynthese Zucker her), Blüten (dienen der Fortpflanzung und Samenbildung).",
+                      "Die vielen feinen Wurzelhaare vergrößern die Oberfläche der Wurzel enorm. Dadurch kann die Pflanze viel mehr Wasser und Mineralstoffe aus dem Boden aufnehmen, als wenn die Wurzel glatt wäre. Das Prinzip der Oberflächenvergrößerung ist in der Natur sehr wichtig.",
+                      "Laubblätter sind grün, weil sie Chlorophyll (Blattgrün) enthalten, das für die Fotosynthese notwendig ist. Sie sind flach, um eine möglichst große Oberfläche zu haben. So können sie viel Sonnenlicht einfangen, das sie für die Herstellung von Zucker brauchen.",
+                      "Stamm und Stängel sind beides Sprossachsen. Der Stamm ist dick, fest und verholzt – wie bei Bäumen. Der Stängel ist dünn und meist krautig (nicht verholzt) – wie bei Blumen und Gräsern. Beide haben aber die gleichen Aufgaben: Stützen und Transportieren."
+                    ]
+                  }
+                },
+                {
+                  "id": "mnt5_mod2_u2",
+                  "text": "Ich kann verschiedene Samenpflanzen unter Beachtung des Prinzips 'Vielfalt bei gleichem Grundaufbau' vergleichen und den Begriff Samenpflanzen definieren.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Das Prinzip: Vielfalt bei gleichem Grundaufbau",
+                        "text": "Ein faszinierendes Prinzip in der Natur ist, dass sehr unterschiedliche Dinge den gleichen Grundaufbau haben können. Bei Samenpflanzen bedeutet das: Ob eine riesige Eiche, eine kleine Gänseblümchen oder eine Tomatenpflanze – alle haben die gleichen vier Grundorgane (Wurzel, Sprossachse, Laubblätter, Blüten). Aber diese Organe sehen bei jeder Pflanze anders aus und sind an ihre Lebensweise angepasst. Eine Eiche hat einen dicken, verholzten Stamm, ein Gänseblümchen einen dünnen, grünen Stängel. Trotzdem sind beides Sprossachsen mit der gleichen Grundfunktion."
+                      },
+                      {
+                        "title": "Beispiele für Vielfalt bei Samenpflanzen",
+                        "text": "Vergleichen wir einige Samenpflanzen: Eine Sonnenblume wird mehrere Meter hoch und hat große, breite Blätter und riesige gelbe Blüten. Ein Löwenzahn bleibt klein, hat schmale, gezackte Blätter und gelbe Blüten, die später zu Pusteblumen werden. Eine Kiefer ist ein hoher Baum mit Nadeln statt Laubblättern und produziert Zapfen statt bunter Blüten. Alle drei sind Samenpflanzen mit dem gleichen Grundaufbau, aber sie haben sich an unterschiedliche Lebensbedingungen angepasst. Die Kiefer zum Beispiel hat Nadeln, weil sie so auch im Winter weniger Wasser verliert."
+                      },
+                      {
+                        "title": "Definition von Samenpflanzen",
+                        "text": "Samenpflanzen sind Pflanzen, die sich durch Samen vermehren und aus den vier Grundorganen Wurzel, Sprossachse, Laubblätter und Blüten bestehen. Zu den Samenpflanzen gehören fast alle Pflanzen, die du kennst: Laubbäume, Nadelbäume, Sträucher, Kräuter, Gräser, Getreide, Gemüse- und Obstpflanzen. Samenpflanzen sind die am weitesten entwickelte und artenreichste Gruppe im Pflanzenreich."
+                      },
+                      {
+                        "title": "Das Prinzip auch in der Technik",
+                        "text": "Das Prinzip 'Vielfalt bei gleichem Grundaufbau' findest du auch in der Technik. Denk an Fahrzeuge: Ein Fahrrad, ein Motorrad und ein Auto haben alle den gleichen Grundaufbau (Motor oder Antrieb, Räder, Lenkung, Rahmen), sehen aber sehr unterschiedlich aus und haben unterschiedliche Funktionen. Oder Werkzeuge: Hammer, Schraubendreher und Zange sind alle Werkzeuge mit einem Griff und einem Arbeitsteil, aber sie werden für ganz verschiedene Aufgaben genutzt. Die Natur hat also Prinzipien entwickelt, die auch der Mensch in der Technik verwendet."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Samenpflanzen",
+                        "definition": "Pflanzen, die sich durch Samen vermehren und aus den vier Grundorganen Wurzel, Sprossachse, Laubblätter und Blüten bestehen."
+                      },
+                      {
+                        "term": "Vielfalt bei gleichem Grundaufbau",
+                        "text": "Prinzip in Natur und Technik: Verschiedene Lebewesen oder Objekte haben den gleichen grundlegenden Aufbau, sehen aber unterschiedlich aus und sind an verschiedene Aufgaben oder Lebensbedingungen angepasst."
+                      },
+                      {
+                        "term": "Anpassung",
+                        "definition": "Veränderung von Merkmalen eines Lebewesens, die es besser an seinen Lebensraum oder seine Lebensweise anpasst."
+                      },
+                      {
+                        "term": "Artenvielfalt",
+                        "definition": "Die große Anzahl unterschiedlicher Pflanzen- und Tierarten, die es auf der Erde gibt."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann das Prinzip 'Vielfalt bei gleichem Grundaufbau' mit eigenen Worten erklären.",
+                      "Ich kann den Begriff Samenpflanzen sicher definieren.",
+                      "Ich kann mindestens drei verschiedene Samenpflanzen nennen und ihre Unterschiede beschreiben.",
+                      "Ich kann erklären, dass alle Samenpflanzen die gleichen Grundorgane haben, auch wenn sie sehr unterschiedlich aussehen.",
+                      "Ich kann ein Beispiel aus der Technik nennen, bei dem das gleiche Prinzip gilt."
+                    ],
+                    "sample_questions": [
+                      "Definiere den Begriff Samenpflanzen.",
+                      "Erkläre das Prinzip 'Vielfalt bei gleichem Grundaufbau' am Beispiel von drei verschiedenen Samenpflanzen.",
+                      "Warum haben Nadelbäume wie Kiefern Nadeln und keine breiten Laubblätter?",
+                      "Nenne ein Beispiel aus der Technik, bei dem das Prinzip 'Vielfalt bei gleichem Grundaufbau' gilt."
+                    ],
+                    "sample_answers": [
+                      "Samenpflanzen sind Pflanzen, die sich durch Samen vermehren und aus den vier Grundorganen Wurzel, Sprossachse, Laubblätter und Blüten bestehen. Zu ihnen gehören fast alle Pflanzen, die wir kennen, wie Bäume, Sträucher, Kräuter und Gräser.",
+                      "Eine Eiche, ein Gänseblümchen und eine Tomatenpflanze sind alle Samenpflanzen mit dem gleichen Grundaufbau: Wurzel, Sprossachse, Laubblätter und Blüten. Die Eiche hat einen dicken, hohen Stamm, große Blätter und kleine unscheinbare Blüten. Das Gänseblümchen hat einen kurzen, dünnen Stängel, kleine Blätter und weiße Blüten mit gelbem Zentrum. Die Tomatenpflanze hat einen mittleren Stängel, gefiederte Blätter und gelbe Blüten, aus denen später Früchte werden. Alle drei haben also die gleichen Organe, aber diese sehen jeweils anders aus und sind an die Lebensweise der Pflanze angepasst.",
+                      "Nadeln sind eine Anpassung an trockene und kalte Bedingungen. Sie haben eine kleinere Oberfläche als breite Laubblätter, wodurch weniger Wasser verdunstet. So können Nadelbäume auch im Winter, wenn der Boden gefroren ist und kaum Wasser liefert, ihre 'Blätter' behalten. Außerdem hält Schnee auf Nadeln nicht so leicht liegen wie auf breiten Blättern.",
+                      "Fahrzeuge sind ein gutes Beispiel: Fahrrad, Motorrad und Auto haben alle den gleichen Grundaufbau – einen Antrieb, Räder, eine Lenkung und einen Rahmen. Aber sie sehen sehr unterschiedlich aus und haben verschiedene Funktionen. Ein Fahrrad ist klein und wird mit Muskelkraft angetrieben, ein Auto ist größer, hat einen Motor und kann mehrere Personen transportieren."
+                    ]
+                  }
+                },
+                {
+                  "id": "mnt5_mod2_u3",
+                  "text": "Ich kann die Bedeutung der Fortpflanzung erläutern und den Bau von Blüten beschreiben und vergleichen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Warum ist Fortpflanzung wichtig?",
+                        "text": "Fortpflanzung bedeutet, dass Lebewesen Nachkommen erzeugen. Das ist eine der wichtigsten Eigenschaften des Lebens. Ohne Fortpflanzung würde es keine neue Generation geben, und die Art würde aussterben. Bei Pflanzen sorgt die Fortpflanzung dafür, dass neue Pflanzen entstehen, die sich an neuen Orten ansiedeln können. So verbreiten sich Pflanzen und können auch dann weiterleben, wenn die Elternpflanze stirbt oder ihr Lebensraum sich verändert. Die Fortpflanzung sichert also das Überleben der Art."
+                      },
+                      {
+                        "title": "Der Bau einer Blüte",
+                        "text": "Eine typische Blüte besteht aus mehreren Teilen, die von außen nach innen angeordnet sind: Ganz außen sitzen die Kelchblätter (meist grün), die die Knospe schützen. Darüber liegen die Kronblätter (oft bunt gefärbt), die Insekten anlocken. Im Inneren der Blüte befinden sich die Fortpflanzungsorgane: Die Staubblätter (männliche Organe) produzieren den Blütenstaub (Pollen). In der Mitte sitzt der Stempel (weibliches Organ) mit dem Fruchtknoten, in dem später die Samen entstehen. Nicht alle Blüten haben alle diese Teile, aber der Grundaufbau ist ähnlich."
+                      },
+                      {
+                        "title": "Vielfalt bei Blüten",
+                        "text": "Blüten können sehr unterschiedlich aussehen. Eine Tulpe hat große, auffällige Kronblätter und ist becherförmig. Eine Kirschblüte hat fünf weiße oder rosa Kronblätter und ist sternförmig. Eine Löwenzahnblüte besteht eigentlich aus vielen kleinen Einzelblüten, die zusammen wie eine große gelbe Blüte aussehen. Gräser haben ganz kleine, unscheinbare Blüten ohne bunte Kronblätter. Der Grund für diese Vielfalt ist die Bestäubungsart: Bunte Blüten locken Insekten an, unscheinbare Blüten werden meist vom Wind bestäubt."
+                      },
+                      {
+                        "title": "Bestäubung – der Weg zur Befruchtung",
+                        "text": "Damit aus einer Blüte ein Same entstehen kann, muss sie bestäubt werden. Bei der Bestäubung gelangt Pollen von den Staubblättern auf den Stempel. Das kann auf verschiedene Arten geschehen: Insekten wie Bienen, Schmetterlinge und Hummeln besuchen Blüten, um Nektar zu trinken. Dabei bleibt Pollen an ihrem Körper hängen und wird zur nächsten Blüte transportiert (Insektenbestäubung). Der Wind kann Pollen von einer Blüte zur anderen wehen (Windbestäubung). Nach der Bestäubung wandert der Pollen zum Fruchtknoten, wo die Befruchtung stattfindet. Danach entwickeln sich die Samen."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Fortpflanzung",
+                        "definition": "Die Erzeugung von Nachkommen. Bei Pflanzen geschieht das meist durch Samen, die aus befruchteten Blüten entstehen."
+                      },
+                      {
+                        "term": "Blüte",
+                        "definition": "Das Fortpflanzungsorgan der Samenpflanzen, das aus Kelchblättern, Kronblättern, Staubblättern und Stempel besteht."
+                      },
+                      {
+                        "term": "Kelchblätter",
+                        "definition": "Die äußeren, meist grünen Blätter einer Blüte, die die Knospe schützen."
+                      },
+                      {
+                        "term": "Kronblätter",
+                        "definition": "Die meist bunten, auffälligen Blätter einer Blüte, die Insekten anlocken."
+                      },
+                      {
+                        "term": "Staubblätter",
+                        "definition": "Die männlichen Fortpflanzungsorgane einer Blüte, die den Pollen (Blütenstaub) produzieren."
+                      },
+                      {
+                        "term": "Stempel",
+                        "definition": "Das weibliche Fortpflanzungsorgan einer Blüte, das den Fruchtknoten mit den Samenanlagen enthält."
+                      },
+                      {
+                        "term": "Pollen (Blütenstaub)",
+                        "definition": "Die männlichen Keimzellen der Blütenpflanzen, die von den Staubblättern produziert werden."
+                      },
+                      {
+                        "term": "Bestäubung",
+                        "definition": "Die Übertragung von Pollen von den Staubblättern auf den Stempel. Das kann durch Insekten, Wind oder andere Wege geschehen."
+                      },
+                      {
+                        "term": "Befruchtung",
+                        "definition": "Die Verschmelzung einer männlichen und einer weiblichen Keimzelle. Nach der Befruchtung entwickeln sich die Samen."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann erklären, warum Fortpflanzung für Pflanzen wichtig ist.",
+                      "Ich kann die Hauptteile einer Blüte aufzählen und ihre Aufgaben nennen.",
+                      "Ich kann den Unterschied zwischen Bestäubung und Befruchtung erklären.",
+                      "Ich kann zwei verschiedene Arten der Bestäubung nennen und Beispiele geben.",
+                      "Ich kann beschreiben, warum manche Blüten bunt sind und andere nicht."
+                    ],
+                    "sample_questions": [
+                      "Erkläre, warum Fortpflanzung für das Überleben einer Pflanzenart wichtig ist.",
+                      "Beschreibe den Bau einer Blüte von außen nach innen.",
+                      "Was ist der Unterschied zwischen Bestäubung und Befruchtung?",
+                      "Warum haben Blumen oft bunte, duftende Blüten, während Gräser unscheinbare Blüten haben?",
+                      "Welche Rolle spielen Insekten bei der Fortpflanzung von Pflanzen?"
+                    ],
+                    "sample_answers": [
+                      "Fortpflanzung ist wichtig, weil nur so neue Pflanzen entstehen können. Ohne Fortpflanzung würde die Pflanzenart aussterben. Durch die Fortpflanzung können sich Pflanzen verbreiten und neue Lebensräume besiedeln. Auch wenn die Elternpflanze stirbt, leben ihre Nachkommen weiter.",
+                      "Von außen nach innen hat eine Blüte folgende Teile: Kelchblätter (grün, schützen die Knospe), Kronblätter (oft bunt, locken Insekten an), Staubblätter (männliche Organe, produzieren Pollen), Stempel (weibliches Organ mit Fruchtknoten, in dem die Samen entstehen).",
+                      "Bestäubung ist die Übertragung von Pollen von den Staubblättern auf den Stempel. Das ist nur der Transport. Befruchtung ist die Verschmelzung der männlichen Keimzelle aus dem Pollen mit der weiblichen Keimzelle im Fruchtknoten. Erst nach der Befruchtung können Samen entstehen. Bestäubung kommt also zuerst, dann folgt die Befruchtung.",
+                      "Blumen haben bunte, duftende Blüten, weil sie von Insekten bestäubt werden. Die Farben und Düfte locken Bienen, Schmetterlinge und andere Insekten an, die Nektar suchen und dabei Pollen transportieren. Gräser werden vom Wind bestäubt. Sie brauchen keine Insekten anzulocken und haben deshalb kleine, unscheinbare Blüten ohne bunte Kronblätter. Das spart Energie.",
+                      "Insekten wie Bienen und Schmetterlinge besuchen Blüten, um Nektar zu trinken. Dabei bleibt Pollen an ihrem Körper kleben. Wenn sie zur nächsten Blüte fliegen, übertragen sie den Pollen auf deren Stempel – so findet die Bestäubung statt. Ohne Insekten könnten viele Pflanzen keine Samen bilden und sich nicht fortpflanzen. Insekten und Blütenpflanzen helfen sich also gegenseitig."
+                    ]
+                  }
+                },
+                {
+                  "id": "mnt5_mod2_u4",
+                  "text": "Ich kann Fortpflanzung und Entwicklung von Samenpflanzen beschreiben sowie geschlechtliche und ungeschlechtliche Fortpflanzung vergleichen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Von der Blüte zum Samen",
+                        "text": "Nach der Befruchtung entwickelt sich im Fruchtknoten der Same. Der Same enthält einen winzigen Pflanzenembryo und einen Vorrat an Nährstoffen, die der Keimling beim Start braucht. Um den Samen herum bildet sich oft eine Frucht – das kann eine saftige Frucht wie eine Kirsche sein oder eine trockene Frucht wie eine Nuss. Die Frucht schützt den Samen und hilft bei seiner Verbreitung. Wenn der Same reif ist, wird er von der Pflanze abgegeben und kann an einem neuen Ort keimen."
+                      },
+                      {
+                        "title": "Keimung – ein neues Leben beginnt",
+                        "text": "Wenn ein Same auf geeigneten Boden fällt und die Bedingungen stimmen, beginnt er zu keimen. Für die Keimung braucht der Same Wasser, Wärme und Sauerstoff. Das Wasser lässt den Samen aufquellen, die Samenschale platzt auf, und die erste Wurzel (Keimwurzel) wächst nach unten in den Boden. Dann wächst der Keimspross nach oben zum Licht. Die ersten Blätter entfalten sich, und die junge Pflanze beginnt, Fotosynthese zu betreiben. Am Anfang ernährt sich der Keimling noch von den Nährstoffen im Samen, aber bald kann er sich selbst versorgen."
+                      },
+                      {
+                        "title": "Wachstum und Entwicklung",
+                        "text": "Nach der Keimung wächst die junge Pflanze. Die Wurzel wächst tiefer in den Boden, die Sprossachse wird länger, und es bilden sich immer mehr Blätter. Für das Wachstum braucht die Pflanze Wasser, Mineralstoffe, Licht und Wärme. Bei guten Bedingungen wächst die Pflanze schnell und entwickelt sich zu einer ausgewachsenen Pflanze. Irgendwann bildet sie Blüten, wird bestäubt und befruchtet, und der Kreislauf beginnt von vorn. Dieser Kreislauf von Keimung, Wachstum, Fortpflanzung und Tod nennt man den Lebenszyklus der Pflanze."
+                      },
+                      {
+                        "title": "Geschlechtliche Fortpflanzung",
+                        "text": "Bei der geschlechtlichen Fortpflanzung verschmelzen eine männliche und eine weibliche Keimzelle. Bei Pflanzen sind das die Keimzelle im Pollen und die Keimzelle im Fruchtknoten. Aus dieser Verschmelzung (Befruchtung) entsteht ein Same mit einem neuen, einzigartigen Erbgut – eine Mischung aus beiden Elternteilen. Die geschlechtliche Fortpflanzung sorgt für Vielfalt: Jede neue Pflanze ist etwas anders als ihre Eltern. Das ist ein großer Vorteil, denn so können sich Pflanzen besser an veränderte Umweltbedingungen anpassen."
+                      },
+                      {
+                        "title": "Ungeschlechtliche Fortpflanzung",
+                        "text": "Bei der ungeschlechtlichen Fortpflanzung entsteht eine neue Pflanze ohne Befruchtung, also ohne Verschmelzung von Keimzellen. Die neue Pflanze wächst direkt aus einem Teil der Mutterpflanze. Beispiele: Eine Erdbeerpflanze bildet Ausläufer – lange, dünne Triebe, an deren Ende neue Pflänzchen wachsen. Eine Zwiebel bildet Tochterzwiebeln, aus denen neue Pflanzen entstehen. Manche Pflanzen kann man durch Stecklinge vermehren: Man schneidet einen Trieb ab, steckt ihn in die Erde, und er bildet Wurzeln und wächst zu einer neuen Pflanze heran. Der Vorteil: Die neue Pflanze ist genetisch identisch mit der Mutterpflanze (ein Klon). Der Nachteil: Es gibt keine Vielfalt, alle Nachkommen sind gleich."
+                      },
+                      {
+                        "title": "Vergleich: Geschlechtliche und ungeschlechtliche Fortpflanzung",
+                        "text": "Geschlechtliche Fortpflanzung: Es sind zwei Elternteile (oder Keimzellen) beteiligt. Es entsteht ein Same. Die Nachkommen sind genetisch unterschiedlich und vielfältig. Das dauert länger (Bestäubung, Befruchtung, Samenreife). Ungeschlechtliche Fortpflanzung: Es ist nur ein Elternteil beteiligt. Es entsteht keine Befruchtung, sondern ein direkter Abkömmling. Die Nachkommen sind genetisch identisch (Klone). Das geht schneller und ist einfacher. Viele Pflanzen können beide Arten nutzen – je nachdem, was gerade günstiger ist."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Same (Samen)",
+                        "definition": "Organ der Pflanze, das einen Pflanzenembryo und Nährstoffvorrat enthält. Aus dem Samen kann eine neue Pflanze keimen."
+                      },
+                      {
+                        "term": "Frucht",
+                        "definition": "Organ, das den Samen umgibt und schützt. Früchte helfen bei der Verbreitung der Samen."
+                      },
+                      {
+                        "term": "Keimung",
+                        "definition": "Der Prozess, bei dem aus einem Samen eine junge Pflanze (Keimling) wächst. Für die Keimung braucht man Wasser, Wärme und Sauerstoff."
+                      },
+                      {
+                        "term": "Keimling",
+                        "definition": "Die junge Pflanze, die aus einem gekeimten Samen wächst."
+                      },
+                      {
+                        "term": "Geschlechtliche Fortpflanzung",
+                        "definition": "Fortpflanzung, bei der eine männliche und eine weibliche Keimzelle verschmelzen (Befruchtung). Die Nachkommen sind genetisch unterschiedlich."
+                      },
+                      {
+                        "term": "Ungeschlechtliche Fortpflanzung",
+                        "definition": "Fortpflanzung ohne Befruchtung. Eine neue Pflanze entsteht aus einem Teil der Mutterpflanze (z.B. Ausläufer, Zwiebeln, Stecklinge). Die Nachkommen sind genetisch identisch (Klone)."
+                      },
+                      {
+                        "term": "Ausläufer",
+                        "definition": "Lange, dünne Triebe, die manche Pflanzen (z.B. Erdbeere) bilden. An den Enden wachsen neue Pflänzchen – eine Form der ungeschlechtlichen Fortpflanzung."
+                      },
+                      {
+                        "term": "Steckling",
+                        "definition": "Abgeschnittener Pflanzenteil (z.B. Trieb), der in die Erde gesteckt wird und Wurzeln bildet. Eine Methode der ungeschlechtlichen Vermehrung."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann beschreiben, wie aus einer Blüte ein Same entsteht.",
+                      "Ich kann die Bedingungen für die Keimung eines Samens nennen.",
+                      "Ich kann den Unterschied zwischen geschlechtlicher und ungeschlechtlicher Fortpflanzung erklären.",
+                      "Ich kann Beispiele für beide Fortpflanzungsarten bei Pflanzen nennen.",
+                      "Ich kann die Vor- und Nachteile beider Fortpflanzungsarten nennen."
+                    ],
+                    "sample_questions": [
+                      "Beschreibe den Weg von der Blüte zum keimenden Samen.",
+                      "Welche Bedingungen braucht ein Same zum Keimen?",
+                      "Erkläre den Unterschied zwischen geschlechtlicher und ungeschlechtlicher Fortpflanzung.",
+                      "Nenne je zwei Beispiele für geschlechtliche und ungeschlechtliche Fortpflanzung bei Pflanzen.",
+                      "Welche Vorteile hat die geschlechtliche Fortpflanzung gegenüber der ungeschlechtlichen?"
+                    ],
+                    "sample_answers": [
+                      "Nach der Bestäubung wandert der Pollen zum Fruchtknoten, wo die Befruchtung stattfindet. Im Fruchtknoten entwickelt sich dann der Same mit einem Pflanzenembryo und Nährstoffvorrat. Um den Samen bildet sich oft eine Frucht. Wenn der Same reif ist, wird er verbreitet. Fällt er auf geeigneten Boden und findet die richtigen Bedingungen (Wasser, Wärme, Sauerstoff), quillt er auf, die Samenschale platzt, und die Keimwurzel sowie der Keimspross beginnen zu wachsen. So entsteht eine neue Pflanze.",
+                      "Für die Keimung braucht ein Same drei Dinge: Wasser (lässt den Samen aufquellen und aktiviert die Stoffwechselvorgänge), Wärme (die richtige Temperatur, meist zwischen 10 und 25 Grad Celsius) und Sauerstoff (für die Atmung des Keimlings). Manche Samen brauchen auch Licht zum Keimen, andere nicht.",
+                      "Bei der geschlechtlichen Fortpflanzung verschmelzen eine männliche und eine weibliche Keimzelle. Es entstehen Samen, aus denen neue Pflanzen wachsen. Die Nachkommen sind genetisch unterschiedlich – eine Mischung aus beiden Eltern. Bei der ungeschlechtlichen Fortpflanzung entsteht eine neue Pflanze direkt aus einem Teil der Mutterpflanze, ohne Befruchtung. Die Nachkommen sind genetisch identisch mit der Mutterpflanze (Klone).",
+                      "Geschlechtliche Fortpflanzung: Blüten bilden Samen (z.B. Apfelbaum, Sonnenblume); aus Samen wachsen neue Pflanzen. Ungeschlechtliche Fortpflanzung: Erdbeeren bilden Ausläufer, an denen neue Pflanzen wachsen; Kartoffeln bilden Knollen, aus denen neue Kartoffelpflanzen entstehen; man kann Geranien durch Stecklinge vermehren.",
+                      "Die geschlechtliche Fortpflanzung sorgt für genetische Vielfalt. Jede neue Pflanze ist etwas anders, weil sie eine Mischung aus beiden Elternteilen ist. Diese Vielfalt ist ein großer Vorteil: Wenn sich die Umwelt verändert (z.B. neuer Schädling, Klimawandel), ist es wahrscheinlicher, dass einige der verschiedenen Nachkommen überleben können. Bei der ungeschlechtlichen Fortpflanzung sind alle Nachkommen gleich – wenn die Mutterpflanze anfällig für eine Krankheit ist, sind es alle Nachkommen auch."
+                    ]
+                  }
+                },
+                {
+                  "id": "mnt5_mod2_u5",
+                  "text": "Ich kann den Zusammenhang zwischen dem Bau von Samen/Früchten und der Art der Verbreitung ableiten und Gemeinsamkeiten von Flugapparaten in Natur und Technik nennen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Warum müssen Samen verbreitet werden?",
+                        "text": "Pflanzen können sich nicht bewegen. Wenn alle Samen direkt unter der Mutterpflanze keimen würden, hätten die jungen Pflanzen zu wenig Platz, Licht und Nährstoffe. Sie würden sich gegenseitig Konkurrenz machen. Deshalb ist es wichtig, dass Samen verbreitet werden und an neuen Orten keimen können. So können Pflanzen neue Lebensräume besiedeln und haben bessere Überlebenschancen. Die Natur hat dafür viele clevere Methoden entwickelt."
+                      },
+                      {
+                        "title": "Verbreitung durch den Wind (Windverbreitung)",
+                        "text": "Viele Samen und Früchte haben besondere Flugeinrichtungen, damit der Wind sie weit tragen kann. Der Löwenzahn hat einen 'Fallschirm' aus feinen Haaren, der wie ein Gleitschirm funktioniert. Der Ahornsamen hat einen Flügel, der sich beim Fallen dreht – wie ein Propeller oder ein Hubschrauberrotor. Dadurch fällt er langsam und kann vom Wind weggeweht werden. Die Samen der Pappel und Weide haben flauschige Haare, die wie Watte aussehen und leicht durch die Luft schweben. All diese Anpassungen nutzen das gleiche Prinzip: eine große Oberfläche bei geringem Gewicht, damit der Wind den Samen tragen kann."
+                      },
+                      {
+                        "title": "Verbreitung durch Tiere (Tierverbreitung)",
+                        "text": "Manche Früchte sind saftig und schmackhaft. Tiere wie Vögel oder Säugetiere fressen diese Früchte. Die Samen werden dabei verschluckt, passieren unverdaut den Darm und werden mit dem Kot an einem anderen Ort wieder ausgeschieden – oft weit von der Mutterpflanze entfernt. Beispiele: Kirschen, Beeren, Äpfel. Andere Samen haben Häkchen oder Widerhaken (z.B. Kletten), mit denen sie sich im Fell von Tieren oder in Kleidung verhaken und so mitgetragen werden. Auch Eichhörnchen und Eichelhäher sammeln Nüsse und Eicheln und vergraben sie als Vorrat. Manche Verstecke werden vergessen – dort können die Samen dann keimen."
+                      },
+                      {
+                        "title": "Andere Verbreitungsarten",
+                        "text": "Manche Pflanzen schleudern ihre Samen selbst weg. Das Springkraut hat Kapselfrüchte, die bei Berührung aufplatzen und die Samen meterweit wegschleudern (Selbstverbreitung). Wasserpflanzen wie die Seerose haben Samen, die schwimmen können. Sie werden von der Strömung zu neuen Orten getragen (Wasserverbreitung). Kokosnüsse können monatelang im Meerwasser schwimmen und so über große Entfernungen verbreitet werden."
+                      },
+                      {
+                        "title": "Fliegen und Gleiten in der Natur",
+                        "text": "Viele Flugsamen nutzen ähnliche Prinzipien wie die Technik. Der Ahornsamen dreht sich wie ein Propeller oder Hubschrauberrotor – das verlangsamt den Fall. Der Löwenzahn schwebt mit seinem Fallschirm durch die Luft – ähnlich wie ein echter Fallschirm oder Gleitschirm. Manche Baumsamen haben flache Flügel, mit denen sie gleiten können – ähnlich wie ein Segelflugzeug. Das Prinzip ist immer gleich: Die Form und die große Oberfläche nutzen den Luftwiderstand, um langsam zu fallen oder zu gleiten."
+                      },
+                      {
+                        "title": "Gemeinsamkeiten von Flugapparaten in Natur und Technik",
+                        "text": "Sowohl in der Natur als auch in der Technik wird das Prinzip des Auftriebs und des Luftwiderstands genutzt. Ein Segelflugzeug hat breite Flügel mit großer Fläche, um auf Luftströmungen zu gleiten – ähnlich wie Baumsamen mit Flügeln. Ein Fallschirm hat eine große, gewölbte Fläche, die den Fall verlangsamt – genau wie der Löwenzahn-Fallschirm. Ein Hubschrauber hat rotierende Propeller, um in der Luft zu bleiben – der Ahornsamen dreht sich ähnlich. Die Natur hat diese Prinzipien schon Millionen Jahre vor dem Menschen entwickelt. Der Mensch hat sie beobachtet und für die Technik übernommen – das nennt man Bionik."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Samenverbreitung",
+                        "definition": "Die Verbreitung von Samen über größere Entfernungen von der Mutterpflanze, z.B. durch Wind, Tiere, Wasser oder Selbstverbreitung."
+                      },
+                      {
+                        "term": "Windverbreitung",
+                        "definition": "Verbreitung von Samen durch den Wind. Die Samen haben oft Flugeinrichtungen wie Fallschirme, Flügel oder Haare."
+                      },
+                      {
+                        "term": "Tierverbreitung",
+                        "definition": "Verbreitung von Samen durch Tiere. Entweder fressen Tiere die Früchte und scheiden die Samen aus, oder die Samen haften am Fell."
+                      },
+                      {
+                        "term": "Flugeinrichtung",
+                        "definition": "Besondere Strukturen an Samen oder Früchten (z.B. Fallschirm, Flügel, Haare), die das Fliegen oder Gleiten ermöglichen."
+                      },
+                      {
+                        "term": "Luftwiderstand",
+                        "definition": "Die Kraft, die ein Körper beim Bewegen durch die Luft erfährt. Eine große Oberfläche erhöht den Luftwiderstand und bremst die Bewegung."
+                      },
+                      {
+                        "term": "Auftrieb",
+                        "definition": "Die Kraft, die einen Körper in der Luft oder im Wasser nach oben drückt. Flügel und Tragflächen nutzen Auftrieb zum Fliegen oder Gleiten."
+                      },
+                      {
+                        "term": "Bionik",
+                        "definition": "Die Wissenschaft, die Lösungen aus der Natur auf technische Probleme überträgt. Der Mensch lernt von der Natur und nutzt ihre Prinzipien für Erfindungen."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann erklären, warum Samen verbreitet werden müssen.",
+                      "Ich kann mindestens drei verschiedene Verbreitungsarten nennen und Beispiele geben.",
+                      "Ich kann den Zusammenhang zwischen dem Bau eines Samens und seiner Verbreitungsart erklären.",
+                      "Ich kann beschreiben, wie Flugsamen das Prinzip des Luftwiderstands nutzen.",
+                      "Ich kann Gemeinsamkeiten zwischen Flugsamen und technischen Flugapparaten nennen."
+                    ],
+                    "sample_questions": [
+                      "Warum ist es für Pflanzen wichtig, dass ihre Samen verbreitet werden?",
+                      "Beschreibe drei verschiedene Arten der Samenverbreitung und nenne je ein Beispiel.",
+                      "Erkläre, wie der Bau eines Löwenzahnsamens seine Verbreitung ermöglicht.",
+                      "Welche Gemeinsamkeiten gibt es zwischen einem Ahornsamen und einem Hubschrauber?",
+                      "Was versteht man unter Bionik? Gib ein Beispiel aus der Samenverbreitung."
+                    ],
+                    "sample_answers": [
+                      "Wenn alle Samen unter der Mutterpflanze keimen würden, hätten die jungen Pflanzen zu wenig Platz, Licht und Nährstoffe. Sie würden sich gegenseitig Konkurrenz machen und könnten nicht gut wachsen. Durch die Verbreitung können Samen an neuen Orten keimen, wo sie bessere Bedingungen haben. So können Pflanzen auch neue Lebensräume besiedeln.",
+                      "Windverbreitung: Löwenzahn hat einen Fallschirm aus feinen Haaren, der vom Wind weggeweht wird. Tierverbreitung: Kirschen haben saftige Früchte, die von Vögeln gefressen werden. Die Samen werden mit dem Kot ausgeschieden. Selbstverbreitung: Springkraut schleudert seine Samen bei Berührung selbst weg.",
+                      "Der Löwenzahnsamen hat einen 'Fallschirm' aus vielen feinen, weißen Haaren, die sternförmig angeordnet sind. Diese Haare bilden eine große, leichte Fläche. Wenn der Wind weht, erzeugt diese Fläche einen hohen Luftwiderstand, der den Samen trägt und ihn langsam fallen lässt. So kann er vom Wind über weite Strecken transportiert werden. Das Gewicht des Samens ist sehr gering, die Oberfläche aber groß – das ist ideal für die Windverbreitung.",
+                      "Der Ahornsamen hat einen Flügel, der sich beim Fallen dreht und wie ein Propeller wirkt. Ein Hubschrauber hat rotierende Rotorblätter, die ebenfalls wie Propeller arbeiten. Beide nutzen die Rotation, um den Fall zu verlangsamen bzw. in der Luft zu bleiben. Die Form des Ahornflügels und die Form eines Rotorblatts sind ähnlich – sie erzeugen durch die Drehung Auftrieb. Die Natur hat dieses Prinzip schon lange vor dem Menschen entwickelt.",
+                      "Bionik ist die Wissenschaft, die von der Natur lernt und ihre Lösungen auf technische Probleme überträgt. Ein Beispiel ist der Fallschirm: Der Mensch hat beobachtet, wie Löwenzahnsamen langsam durch die Luft schweben. Das Prinzip – eine große, leichte Fläche, die den Luftwiderstand nutzt – wurde auf den Fallschirm übertragen. Menschen können damit sicher aus Flugzeugen springen. Ein anderes Beispiel ist der Hubschrauber, dessen Rotor ähnlich funktioniert wie der drehende Ahornsamenfügel."
+                    ]
+                  }
+                },
+                {
+                  "id": "mnt5_mod2_u6",
+                  "text": "Ich kann die Bedeutung der Ernährung erläutern und die Herstellung von körpereigenen Stoffen bei Samenpflanzen beschreiben (Fotosynthese, Aufnahme von Wasser und Nährstoffen).",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Warum brauchen Pflanzen Ernährung?",
+                        "text": "Genau wie Menschen und Tiere brauchen auch Pflanzen Nahrung, um zu leben. Sie brauchen Energie für alle Lebensvorgänge: für das Wachstum, für die Aufnahme von Wasser, für die Bildung neuer Zellen, für die Blütenbildung. Außerdem brauchen sie Baustoffe, um neue Pflanzenteile aufzubauen – Wurzeln, Blätter, Stängel, Blüten, Früchte. Der große Unterschied zu Tieren ist: Pflanzen können ihre Nahrung selbst herstellen! Sie sind nicht darauf angewiesen, andere Lebewesen zu fressen. Das macht sie zu den wichtigsten Lebewesen auf der Erde, denn sie sind die Grundlage aller Nahrungsketten."
+                      },
+                      {
+                        "title": "Fotosynthese – die Herstellung von Zucker",
+                        "text": "Pflanzen stellen ihre Nahrung in den Blättern durch einen Prozess her, der Fotosynthese heißt. Das Wort kommt von 'Foto' (Licht) und 'Synthese' (Herstellung). Die Pflanze braucht dafür drei Dinge: Kohlenstoffdioxid (CO₂) aus der Luft, Wasser (H₂O) aus dem Boden und Sonnenlicht als Energiequelle. Im Blattgrün (Chlorophyll) der Laubblätter läuft eine chemische Reaktion ab: Aus Kohlenstoffdioxid und Wasser wird Traubenzucker (Glukose) hergestellt. Als 'Abfallprodukt' entsteht Sauerstoff (O₂), den die Pflanze an die Luft abgibt. Die Gleichung lautet vereinfacht: Kohlenstoffdioxid + Wasser + Sonnenlicht → Traubenzucker + Sauerstoff."
+                      },
+                      {
+                        "title": "Die Bedeutung der Fotosynthese",
+                        "text": "Die Fotosynthese ist einer der wichtigsten Prozesse auf der Erde. Erstens: Pflanzen stellen damit ihre eigene Nahrung her – den Zucker, den sie für Wachstum und Energie brauchen. Zweitens: Sie produzieren Sauerstoff, den alle Tiere und Menschen zum Atmen brauchen. Ohne Fotosynthese gäbe es keinen Sauerstoff in der Atmosphäre! Drittens: Pflanzen sind die Grundlage aller Nahrungsketten. Pflanzenfresser ernähren sich von Pflanzen, Fleischfresser fressen Pflanzenfresser. Ohne Pflanzen gäbe es kein Leben auf der Erde, wie wir es kennen."
+                      },
+                      {
+                        "title": "Aufnahme von Wasser und Mineralstoffen",
+                        "text": "Für die Fotosynthese braucht die Pflanze Wasser. Dieses Wasser nimmt sie mit den Wurzeln aus dem Boden auf. Die Wurzel hat viele feine Wurzelhaare, die eine riesige Oberfläche bilden – so kann die Pflanze besonders viel Wasser aufnehmen. Im Wasser sind auch Mineralstoffe (Nährsalze) gelöst, die die Pflanze braucht, z.B. Stickstoff, Phosphor und Kalium. Diese Stoffe kann die Pflanze nicht selbst herstellen, sie muss sie aus dem Boden aufnehmen. Das Prinzip der Oberflächenvergrößerung durch die Wurzelhaare ist ein wichtiger Trick der Natur."
+                      },
+                      {
+                        "title": "Transport von Wasser in der Pflanze",
+                        "text": "Das Wasser muss von der Wurzel bis zu den Blättern transportiert werden – bei einem Baum kann das viele Meter hoch sein. Wie schafft die Pflanze das ohne Pumpe? In der Sprossachse gibt es winzige Röhrchen (Leitgefäße), durch die das Wasser nach oben steigt. Das funktioniert durch Kapillarkraft – die gleiche Kraft, die Wasser in einem dünnen Röhrchen oder einem Schwamm nach oben zieht. Außerdem verdunstet Wasser an den Blättern (über kleine Öffnungen, die Spaltöffnungen), und dieser 'Sog' zieht neues Wasser von unten nach. Man nennt das den Transpirationssog. Du kannst das beobachten, wenn du einen Selleriestängel in gefärbtes Wasser stellst – die Farbe steigt in den Leitgefäßen nach oben."
+                      },
+                      {
+                        "title": "Vom Zucker zu anderen Stoffen",
+                        "text": "Der Traubenzucker, den die Pflanze in den Blättern herstellt, ist erst der Anfang. Die Pflanze wandelt ihn in viele andere Stoffe um: In Stärke, die als Energiespeicher dient (z.B. in Kartoffeln, Getreidekörnern). In Fette und Öle (z.B. in Sonnenblumenkernen, Nüssen). In Cellulose, aus der die Zellwände bestehen. In Eiweiße (Proteine), die für Wachstum und Stoffwechsel wichtig sind. So baut die Pflanze aus einfachen Stoffen (Wasser, Kohlenstoffdioxid, Mineralstoffe) ihren gesamten Körper auf."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Ernährung (bei Pflanzen)",
+                        "definition": "Die Aufnahme und Herstellung von Stoffen, die die Pflanze für Wachstum und Energie braucht. Pflanzen stellen ihre Nahrung selbst her."
+                      },
+                      {
+                        "term": "Fotosynthese",
+                        "definition": "Der Prozess, bei dem Pflanzen mit Hilfe von Sonnenlicht aus Kohlenstoffdioxid und Wasser Traubenzucker herstellen. Dabei entsteht auch Sauerstoff."
+                      },
+                      {
+                        "term": "Chlorophyll (Blattgrün)",
+                        "definition": "Der grüne Farbstoff in den Blättern, der für die Fotosynthese notwendig ist. Er kann Sonnenlicht einfangen und für die Zuckerherstellung nutzen."
+                      },
+                      {
+                        "term": "Kohlenstoffdioxid (CO₂)",
+                        "definition": "Ein Gas in der Luft, das Pflanzen für die Fotosynthese brauchen. Sie nehmen es durch kleine Öffnungen (Spaltöffnungen) in den Blättern auf."
+                      },
+                      {
+                        "term": "Sauerstoff (O₂)",
+                        "definition": "Ein Gas, das bei der Fotosynthese entsteht und von der Pflanze an die Luft abgegeben wird. Alle Tiere und Menschen brauchen Sauerstoff zum Atmen."
+                      },
+                      {
+                        "term": "Traubenzucker (Glukose)",
+                        "definition": "Ein einfacher Zucker, den Pflanzen bei der Fotosynthese herstellen. Er dient als Energiequelle und als Baustein für andere Stoffe."
+                      },
+                      {
+                        "term": "Mineralstoffe (Nährsalze)",
+                        "definition": "Im Wasser gelöste Stoffe aus dem Boden, die Pflanzen mit den Wurzeln aufnehmen. Wichtige Mineralstoffe sind Stickstoff, Phosphor und Kalium."
+                      },
+                      {
+                        "term": "Wurzelhaare",
+                        "definition": "Feine, haarähnliche Fortsätze an den Wurzeln, die die Oberfläche vergrößern. So kann die Pflanze mehr Wasser aufnehmen."
+                      },
+                      {
+                        "term": "Leitgefäße (Leitbündel)",
+                        "definition": "Winzige Röhrchen in der Sprossachse, durch die Wasser und Nährstoffe von der Wurzel zu den Blättern transportiert werden."
+                      },
+                      {
+                        "term": "Kapillarität",
+                        "definition": "Die Fähigkeit von Wasser, in engen Röhrchen nach oben zu steigen. Das hilft der Pflanze beim Wassertransport."
+                      },
+                      {
+                        "term": "Oberflächenvergrößerung",
+                        "definition": "Ein wichtiges Prinzip in der Natur: Eine große Oberfläche ermöglicht mehr Austausch. Beispiele: Wurzelhaare für Wasseraufnahme, Blätter für Lichtaufnahme."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann erklären, warum Pflanzen Ernährung brauchen.",
+                      "Ich kann die Fotosynthese mit eigenen Worten beschreiben.",
+                      "Ich kann die 'Zutaten' und 'Produkte' der Fotosynthese nennen.",
+                      "Ich kann erklären, wie Pflanzen Wasser aufnehmen und transportieren.",
+                      "Ich kann das Prinzip der Oberflächenvergrößerung an Wurzelhaaren und Blättern erklären.",
+                      "Ich kann die Bedeutung der Fotosynthese für das Leben auf der Erde erläutern."
+                    ],
+                    "sample_questions": [
+                      "Erkläre, warum Ernährung für Pflanzen wichtig ist.",
+                      "Was ist Fotosynthese? Beschreibe den Vorgang mit eigenen Worten.",
+                      "Welche 'Zutaten' braucht eine Pflanze für die Fotosynthese und was entsteht dabei?",
+                      "Wie nimmt eine Pflanze Wasser auf und wie wird es zu den Blättern transportiert?",
+                      "Erkläre das Prinzip der Oberflächenvergrößerung an den Wurzelhaaren.",
+                      "Warum ist die Fotosynthese für das Leben auf der Erde so wichtig?"
+                    ],
+                    "sample_answers": [
+                      "Pflanzen brauchen Ernährung für zwei Dinge: Erstens brauchen sie Energie für alle Lebensvorgänge wie Wachstum, Wasseraufnahme und Stoffwechsel. Zweitens brauchen sie Baustoffe, um neue Pflanzenteile wie Wurzeln, Blätter, Blüten und Früchte aufzubauen. Der Unterschied zu Tieren ist, dass Pflanzen ihre Nahrung selbst herstellen können – durch Fotosynthese.",
+                      "Fotosynthese ist der Vorgang, bei dem Pflanzen ihre Nahrung selbst herstellen. In den grünen Blättern läuft eine chemische Reaktion ab: Die Pflanze nimmt Kohlenstoffdioxid aus der Luft und Wasser aus dem Boden auf. Mit Hilfe von Sonnenlicht, das vom Blattgrün (Chlorophyll) eingefangen wird, stellt sie daraus Traubenzucker her. Dabei entsteht auch Sauerstoff, den die Pflanze an die Luft abgibt. Die Fotosynthese findet hauptsächlich in den Laubblättern statt.",
+                      "Zutaten: Kohlenstoffdioxid (aus der Luft), Wasser (aus dem Boden), Sonnenlicht (als Energiequelle), Chlorophyll (um das Licht einzufangen). Produkte: Traubenzucker (Nahrung für die Pflanze), Sauerstoff (wird an die Luft abgegeben). Die vereinfachte Gleichung lautet: Kohlenstoffdioxid + Wasser + Sonnenlicht → Traubenzucker + Sauerstoff.",
+                      "Die Wurzel nimmt Wasser aus dem Boden auf. Sie hat viele feine Wurzelhaare, die die Oberfläche stark vergrößern und so die Wasseraufnahme verbessern. Das Wasser wird dann durch winzige Röhrchen (Leitgefäße) in der Sprossachse nach oben zu den Blättern transportiert. Das funktioniert durch Kapillarkraft – Wasser steigt in engen Röhrchen nach oben – und durch den Transpirationssog: Wasser verdunstet an den Blättern, und dieser Sog zieht neues Wasser von unten nach.",
+                      "Wurzelhaare sind feine, haarähnliche Fortsätze an den Wurzeln. Eine Wurzel kann Tausende solcher Haare haben. Durch diese vielen Haare wird die Oberfläche der Wurzel enorm vergrößert – vielleicht um das Hundertfache oder mehr. Eine größere Oberfläche bedeutet, dass die Pflanze viel mehr Wasser und Mineralstoffe aus dem Boden aufnehmen kann, als wenn die Wurzel glatt wäre. Das Prinzip der Oberflächenvergrößerung ist in der Natur sehr wichtig – man findet es auch bei den Lungen (Lungenbläschen) oder im Darm (Darmzotten).",
+                      "Die Fotosynthese ist der wichtigste biologische Prozess auf der Erde, weil sie Leben überhaupt erst möglich macht. Erstens: Pflanzen produzieren dabei Sauerstoff, den alle Tiere und Menschen zum Atmen brauchen. Zweitens: Pflanzen sind die Grundlage aller Nahrungsketten. Pflanzenfresser fressen Pflanzen, Fleischfresser fressen Pflanzenfresser. Ohne Pflanzen gäbe es keine anderen Lebewesen. Drittens: Pflanzen speichern die Energie des Sonnenlichts in Form von Zucker und anderen Stoffen. Diese Energie ist die Grundlage für fast alles Leben auf der Erde."
+                    ]
+                  }
+                },
+                {
+                  "id": "mnt5_mod2_u7",
+                  "text": "Ich kann den Aufbau von Stoffen mit Hilfe des Teilchenmodells erläutern und verschiedene Aggregatzustände vergleichen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Was sind Stoffe?",
+                        "text": "Alles, was uns umgibt, besteht aus Stoffen: Luft, Wasser, Holz, Metall, Zucker, Salz. Ein Stoff ist eine bestimmte Art von Materie mit bestimmten Eigenschaften. Wasser ist zum Beispiel ein Stoff – es ist flüssig, durchsichtig, geschmacklos und gefriert bei 0°C. Zucker ist ein anderer Stoff – er ist fest, weiß, süß und löst sich in Wasser. Jeder Stoff hat typische Eigenschaften, an denen man ihn erkennen kann. Aber woraus bestehen Stoffe eigentlich? Das erklärt das Teilchenmodell."
+                      },
+                      {
+                        "title": "Das Teilchenmodell",
+                        "text": "Das Teilchenmodell ist eine Vorstellung, die uns hilft, den Aufbau von Stoffen zu verstehen. Es besagt: Alle Stoffe bestehen aus winzigen, für das Auge unsichtbaren Teilchen. Diese Teilchen können Atome oder Moleküle sein, aber für den Anfang reicht es, von 'Teilchen' zu sprechen. Die Teilchen sind ständig in Bewegung. Sie ziehen sich gegenseitig an (Anziehungskräfte). Je nach Abstand und Bewegung der Teilchen hat ein Stoff verschiedene Zustände – fest, flüssig oder gasförmig. Das Teilchenmodell ist ein Denkmodell – wir können die Teilchen nicht sehen, aber das Modell hilft uns, viele Beobachtungen zu erklären."
+                      },
+                      {
+                        "title": "Die drei Aggregatzustände",
+                        "text": "Stoffe können in drei verschiedenen Zuständen (Aggregatzuständen) vorkommen: fest, flüssig und gasförmig. Wasser zum Beispiel kann Eis (fest), Wasser (flüssig) oder Wasserdampf (gasförmig) sein – immer der gleiche Stoff, aber in verschiedenen Zuständen. Welchen Zustand ein Stoff hat, hängt von der Temperatur ab. Bei niedrigen Temperaturen sind Stoffe meist fest, bei höheren flüssig und bei sehr hohen gasförmig. Das Teilchenmodell erklärt, warum das so ist."
+                      },
+                      {
+                        "title": "Fester Aggregatzustand",
+                        "text": "Im festen Zustand sind die Teilchen sehr dicht beieinander und fest angeordnet – wie Soldaten in einer Formation. Sie können nur ein wenig hin und her schwingen, aber nicht ihren Platz verlassen. Deshalb hat ein fester Körper eine feste Form und ein festes Volumen. Beispiele: Eis, Holz, Metall, Zucker, Salz. Die Anziehungskräfte zwischen den Teilchen sind sehr stark. Wenn du ein Stück Holz oder einen Eiswürfel in die Hand nimmst, behält es seine Form."
+                      },
+                      {
+                        "title": "Flüssiger Aggregatzustand",
+                        "text": "Im flüssigen Zustand sind die Teilchen immer noch dicht beieinander, aber sie können sich bewegen und aneinander vorbeigleiten. Deshalb hat eine Flüssigkeit zwar ein festes Volumen (eine bestimmte Menge), aber keine feste Form – sie nimmt die Form des Gefäßes an. Beispiele: Wasser, Öl, Saft, Benzin. Die Anziehungskräfte sind noch vorhanden, aber schwächer als im festen Zustand. Wenn du Wasser von einem Glas in ein anderes gießt, ändert es seine Form, aber die Menge bleibt gleich."
+                      },
+                      {
+                        "title": "Gasförmiger Aggregatzustand",
+                        "text": "Im gasförmigen Zustand sind die Teilchen weit voneinander entfernt und bewegen sich schnell und frei durch den Raum. Sie stoßen manchmal zusammen oder prallen gegen die Wände des Gefäßes. Deshalb hat ein Gas weder eine feste Form noch ein festes Volumen – es füllt den ganzen verfügbaren Raum aus. Beispiele: Luft, Wasserdampf, Kohlenstoffdioxid, Sauerstoff. Die Anziehungskräfte zwischen den Teilchen sind sehr schwach oder fast nicht vorhanden. Wenn du Luft aus einem Ballon lässt, verteilt sie sich im ganzen Raum."
+                      },
+                      {
+                        "title": "Temperatur und Teilchenbewegung",
+                        "text": "Die Temperatur ist ein Maß dafür, wie schnell sich die Teilchen bewegen. Je höher die Temperatur, desto schneller bewegen sich die Teilchen. Wenn du Wasser erwärmst, bewegen sich die Wasserteilchen immer schneller. Irgendwann bewegen sie sich so schnell, dass die Anziehungskräfte sie nicht mehr zusammenhalten können – das Wasser verdampft und wird zu Gas. Wenn du Wasser abkühlst, bewegen sich die Teilchen langsamer. Bei 0°C werden sie so langsam, dass sie sich nicht mehr bewegen können und fest aneinander binden – das Wasser gefriert zu Eis. Temperatur bedeutet also Teilchenbewegung."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Stoff",
+                        "definition": "Eine bestimmte Art von Materie mit bestimmten Eigenschaften. Beispiele: Wasser, Zucker, Eisen, Sauerstoff."
+                      },
+                      {
+                        "term": "Teilchenmodell",
+                        "definition": "Ein Denkmodell, das besagt, dass alle Stoffe aus winzigen, für das Auge unsichtbaren Teilchen bestehen, die sich ständig bewegen."
+                      },
+                      {
+                        "term": "Teilchen",
+                        "definition": "Kleinste Bausteine der Stoffe, z.B. Atome oder Moleküle. Sie sind mit bloßem Auge nicht sichtbar."
+                      },
+                      {
+                        "term": "Aggregatzustand",
+                        "definition": "Der Zustand, in dem ein Stoff vorliegt: fest, flüssig oder gasförmig."
+                      },
+                      {
+                        "term": "Fest (fester Zustand)",
+                        "definition": "Aggregatzustand, bei dem die Teilchen dicht beieinander und fest angeordnet sind. Der Körper hat eine feste Form und ein festes Volumen."
+                      },
+                      {
+                        "term": "Flüssig (flüssiger Zustand)",
+                        "definition": "Aggregatzustand, bei dem die Teilchen dicht beieinander sind, aber sich bewegen können. Die Flüssigkeit hat ein festes Volumen, aber keine feste Form."
+                      },
+                      {
+                        "term": "Gasförmig (gasförmiger Zustand)",
+                        "definition": "Aggregatzustand, bei dem die Teilchen weit voneinander entfernt sind und sich frei bewegen. Das Gas hat weder eine feste Form noch ein festes Volumen."
+                      },
+                      {
+                        "term": "Temperatur",
+                        "definition": "Ein Maß dafür, wie schnell sich die Teilchen bewegen. Hohe Temperatur = schnelle Bewegung, niedrige Temperatur = langsame Bewegung."
+                      },
+                      {
+                        "term": "Anziehungskräfte",
+                        "definition": "Kräfte zwischen den Teilchen, die sie zusammenhalten. Im festen Zustand sind sie stark, im gasförmigen Zustand sehr schwach."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann das Teilchenmodell mit eigenen Worten erklären.",
+                      "Ich kann die drei Aggregatzustände nennen und Beispiele geben.",
+                      "Ich kann beschreiben, wie die Teilchen in jedem Aggregatzustand angeordnet sind.",
+                      "Ich kann den Zusammenhang zwischen Temperatur und Teilchenbewegung erklären.",
+                      "Ich kann mit Hilfe des Teilchenmodells erklären, warum Eis eine feste Form hat, Wasser aber nicht."
+                    ],
+                    "sample_questions": [
+                      "Was besagt das Teilchenmodell?",
+                      "Beschreibe die drei Aggregatzustände und gib je zwei Beispiele.",
+                      "Wie sind die Teilchen im festen, flüssigen und gasförmigen Zustand angeordnet?",
+                      "Erkläre mit Hilfe des Teilchenmodells, was beim Schmelzen von Eis passiert.",
+                      "Was bedeutet Temperatur im Teilchenmodell?"
+                    ],
+                    "sample_answers": [
+                      "Das Teilchenmodell besagt, dass alle Stoffe aus winzigen, unsichtbaren Teilchen bestehen. Diese Teilchen sind ständig in Bewegung und ziehen sich gegenseitig an. Je nachdem, wie dicht die Teilchen beieinander sind und wie schnell sie sich bewegen, ist ein Stoff fest, flüssig oder gasförmig. Das Teilchenmodell ist ein Denkmodell, das uns hilft, viele Eigenschaften von Stoffen zu verstehen.",
+                      "Fest: Die Teilchen sind dicht beieinander und fest angeordnet. Beispiele: Eis, Holz. Flüssig: Die Teilchen sind dicht beieinander, können sich aber bewegen. Beispiele: Wasser, Öl. Gasförmig: Die Teilchen sind weit voneinander entfernt und bewegen sich frei. Beispiele: Luft, Wasserdampf.",
+                      "Fest: Die Teilchen sind sehr dicht beieinander in einer festen Ordnung. Sie können nur ein wenig schwingen, aber nicht ihren Platz verlassen. Flüssig: Die Teilchen sind immer noch dicht beieinander, aber sie können sich bewegen und aneinander vorbeigleiten. Gasförmig: Die Teilchen sind weit voneinander entfernt und bewegen sich schnell und frei durch den ganzen Raum.",
+                      "Eis ist fest, weil die Wasserteilchen bei niedrigen Temperaturen (unter 0°C) fest angeordnet sind und sich kaum bewegen. Wenn man Eis erwärmt, bewegen sich die Teilchen schneller. Bei 0°C ist die Bewegung so stark, dass die Anziehungskräfte die Teilchen nicht mehr fest an ihrem Platz halten können. Die Teilchen können sich nun bewegen und aneinander vorbeigleiten – das Eis schmilzt und wird zu flüssigem Wasser. Der Stoff bleibt der gleiche (H₂O), aber der Aggregatzustand ändert sich von fest zu flüssig.",
+                      "Temperatur ist im Teilchenmodell ein Maß dafür, wie schnell sich die Teilchen bewegen. Je höher die Temperatur, desto schneller bewegen sich die Teilchen. Bei niedrigen Temperaturen bewegen sich die Teilchen langsam, bei hohen Temperaturen schnell. Wenn man einen Stoff erhitzt, führt man ihm Energie zu, und die Teilchen bewegen sich schneller. Wenn man ihn abkühlt, nimmt man Energie weg, und die Teilchen bewegen sich langsamer."
+                    ]
+                  }
+                },
+                {
+                  "id": "mnt5_mod2_u8",
+                  "text": "Ich kann Reinstoffe und Stoffgemische vergleichen sowie den Zusammenhang zwischen Stoffeigenschaften und dem Trennen von Stoffgemischen erläutern.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Was ist ein Reinstoff?",
+                        "text": "Ein Reinstoff besteht nur aus einer einzigen Stoffart. Alle Teilchen sind gleich. Reinstoffe haben ganz bestimmte, unveränderliche Eigenschaften. Zum Beispiel: Reines Wasser gefriert immer bei genau 0°C und siedet bei genau 100°C (bei normalem Luftdruck). Reines Kochsalz ist immer weiß, kristallin und schmeckt salzig. Andere Beispiele für Reinstoffe: destilliertes Wasser, reiner Zucker, reines Eisen, reiner Sauerstoff. In der Natur kommen Reinstoffe allerdings selten vor – die meisten Dinge sind Stoffgemische."
+                      },
+                      {
+                        "title": "Was ist ein Stoffgemisch?",
+                        "text": "Ein Stoffgemisch besteht aus zwei oder mehr verschiedenen Reinstoffen, die miteinander vermischt sind. Die einzelnen Stoffe behalten dabei ihre Eigenschaften. Beispiele: Luft ist ein Gemisch aus Sauerstoff, Stickstoff und anderen Gasen. Milch ist ein Gemisch aus Wasser, Fett, Eiweiß und Zucker. Sand-Wasser-Gemisch besteht aus Sand und Wasser. Salzlösung ist Wasser mit darin gelöstem Salz. Die meisten Dinge in unserem Alltag sind Stoffgemische, keine Reinstoffe."
+                      },
+                      {
+                        "title": "Vergleich: Reinstoff und Stoffgemisch",
+                        "text": "Reinstoff: Besteht aus nur einer Stoffart. Hat genau bestimmte, unveränderliche Eigenschaften (z.B. Schmelzpunkt, Siedepunkt). Kann nicht durch physikalische Methoden in einfachere Stoffe zerlegt werden. Beispiele: Wasser, Sauerstoff, Eisen, Zucker. Stoffgemisch: Besteht aus zwei oder mehr verschiedenen Stoffen. Hat keine genau bestimmten Eigenschaften – sie hängen vom Mischungsverhältnis ab. Kann durch physikalische Methoden (Filtrieren, Verdampfen, Dekantieren) in die einzelnen Stoffe getrennt werden. Beispiele: Luft, Salzwasser, Limonade, Boden."
+                      },
+                      {
+                        "title": "Warum kann man Stoffgemische trennen?",
+                        "text": "Stoffgemische kann man trennen, weil die einzelnen Stoffe unterschiedliche Eigenschaften haben. Wenn ein Stoff fest ist und der andere flüssig, kann man filtrieren. Wenn ein Stoff löslich ist und der andere nicht, kann man ihn auflösen und den unlöslichen Rest entfernen. Wenn ein Stoff früher verdampft als der andere, kann man ihn abdampfen. Wenn ein Stoff magnetisch ist, kann man ihn mit einem Magneten herausziehen. Die verschiedenen Eigenschaften der Stoffe sind der Schlüssel zum Trennen."
+                      },
+                      {
+                        "title": "Trennverfahren: Filtrieren",
+                        "text": "Filtrieren trennt feste Stoffe von Flüssigkeiten. Man gießt das Gemisch durch ein Filter (z.B. Filterpapier). Die Flüssigkeit läuft durch die kleinen Poren des Filters, die festen Teilchen bleiben zurück. Beispiel: Sand-Wasser-Gemisch. Der Sand bleibt im Filter, das Wasser läuft durch. Man nutzt hier den Unterschied im Aggregatzustand (fest/flüssig) und in der Teilchengröße."
+                      },
+                      {
+                        "title": "Trennverfahren: Eindampfen/Verdampfen",
+                        "text": "Eindampfen trennt einen gelösten festen Stoff von einer Flüssigkeit. Man erhitzt die Lösung, die Flüssigkeit verdampft, und der feste Stoff bleibt zurück. Beispiel: Salzlösung. Wenn man Salzwasser erhitzt, verdampft das Wasser, und das Salz bleibt als weißer Feststoff zurück. Man nutzt hier den Unterschied im Siedepunkt (Wasser siedet bei 100°C, Salz erst bei viel höheren Temperaturen)."
+                      },
+                      {
+                        "title": "Trennverfahren: Dekantieren",
+                        "text": "Dekantieren trennt eine Flüssigkeit von einem festen Stoff, der sich am Boden abgesetzt hat. Man gießt die Flüssigkeit vorsichtig ab, der feste Stoff bleibt am Boden. Beispiel: Sand-Wasser-Gemisch, das man eine Weile stehen lässt. Der Sand sinkt nach unten, das Wasser steht oben. Man gießt das Wasser vorsichtig ab. Man nutzt hier den Dichteunterschied (Sand ist schwerer und sinkt)."
+                      },
+                      {
+                        "title": "Trennverfahren: Magnetische Trennung",
+                        "text": "Magnetische Trennung nutzt die magnetischen Eigenschaften eines Stoffes. Wenn ein Stoff magnetisch ist (z.B. Eisen) und der andere nicht (z.B. Sand), kann man einen Magneten benutzen, um die Stoffe zu trennen. Beispiel: Eisen-Sand-Gemisch. Man hält einen Magneten über das Gemisch, die Eisenteilchen werden angezogen und haften am Magneten, der Sand bleibt zurück."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Reinstoff",
+                        "definition": "Ein Stoff, der nur aus einer einzigen Stoffart besteht. Alle Teilchen sind gleich. Reinstoffe haben bestimmte, unveränderliche Eigenschaften."
+                      },
+                      {
+                        "term": "Stoffgemisch",
+                        "definition": "Ein Stoff, der aus zwei oder mehr verschiedenen Reinstoffen besteht, die miteinander vermischt sind. Die einzelnen Stoffe behalten ihre Eigenschaften."
+                      },
+                      {
+                        "term": "Eigenschaften (von Stoffen)",
+                        "definition": "Merkmale, an denen man einen Stoff erkennen kann, z.B. Farbe, Geruch, Geschmack, Schmelzpunkt, Siedepunkt, Löslichkeit, Dichte, magnetische Eigenschaften."
+                      },
+                      {
+                        "term": "Trennverfahren",
+                        "definition": "Methoden, um Stoffgemische in ihre Bestandteile zu zerlegen. Man nutzt dabei unterschiedliche Eigenschaften der Stoffe."
+                      },
+                      {
+                        "term": "Filtrieren",
+                        "definition": "Trennverfahren, bei dem feste Stoffe von Flüssigkeiten getrennt werden. Man gießt das Gemisch durch ein Filter, die Flüssigkeit läuft durch, die festen Teilchen bleiben zurück."
+                      },
+                      {
+                        "term": "Eindampfen/Verdampfen",
+                        "definition": "Trennverfahren, bei dem eine Flüssigkeit durch Erhitzen verdampft wird. Ein gelöster fester Stoff bleibt zurück."
+                      },
+                      {
+                        "term": "Dekantieren",
+                        "definition": "Trennverfahren, bei dem eine Flüssigkeit von einem abgesetzten festen Stoff vorsichtig abgegossen wird."
+                      },
+                      {
+                        "term": "Magnetische Trennung",
+                        "definition": "Trennverfahren, bei dem magnetische Stoffe (z.B. Eisen) mit einem Magneten aus einem Gemisch herausgezogen werden."
+                      },
+                      {
+                        "term": "Lösung",
+                        "definition": "Ein Stoffgemisch, bei dem ein Stoff (z.B. Salz) in einer Flüssigkeit (z.B. Wasser) gleichmäßig verteilt (gelöst) ist."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann den Unterschied zwischen Reinstoff und Stoffgemisch erklären.",
+                      "Ich kann Beispiele für Reinstoffe und Stoffgemische nennen.",
+                      "Ich kann mindestens drei Trennverfahren nennen und erklären.",
+                      "Ich kann beschreiben, welche Stoffeigenschaften man für welches Trennverfahren nutzt.",
+                      "Ich kann für ein gegebenes Stoffgemisch ein geeignetes Trennverfahren vorschlagen."
+                    ],
+                    "sample_questions": [
+                      "Was ist der Unterschied zwischen einem Reinstoff und einem Stoffgemisch?",
+                      "Nenne je drei Beispiele für Reinstoffe und Stoffgemische.",
+                      "Erkläre, wie man ein Sand-Wasser-Gemisch durch Filtrieren trennen kann.",
+                      "Wie kann man Salz aus Salzwasser zurückgewinnen? Beschreibe das Verfahren.",
+                      "Welches Trennverfahren würdest du für ein Eisen-Sand-Gemisch verwenden und warum?"
+                    ],
+                    "sample_answers": [
+                      "Ein Reinstoff besteht nur aus einer einzigen Stoffart. Alle Teilchen sind gleich, und der Stoff hat bestimmte, unveränderliche Eigenschaften (z.B. Schmelzpunkt, Siedepunkt). Ein Stoffgemisch besteht aus zwei oder mehr verschiedenen Stoffen, die miteinander vermischt sind. Die einzelnen Stoffe behalten ihre Eigenschaften, und das Gemisch hat keine genau bestimmten Eigenschaften. Stoffgemische kann man durch physikalische Methoden trennen, Reinstoffe nicht.",
+                      "Reinstoffe: destilliertes Wasser, reiner Zucker, reines Eisen, reiner Sauerstoff, reines Gold, reines Salz. Stoffgemische: Luft (Gasgemisch), Milch (Emulsion), Salzwasser (Lösung), Sand-Wasser-Gemisch, Boden, Limonade.",
+                      "Sand-Wasser-Gemisch besteht aus festem Sand und flüssigem Wasser. Beim Filtrieren gießt man das Gemisch durch ein Filterpapier, das in einem Trichter liegt. Das Filterpapier hat winzige Poren (kleine Löcher). Die Wasserteilchen sind so klein, dass sie durch die Poren passen und durchlaufen. Die Sandkörner sind viel größer und bleiben im Filter zurück. So werden die beiden Stoffe getrennt. Man nutzt hier den Unterschied im Aggregatzustand und in der Teilchengröße.",
+                      "Man erhitzt das Salzwasser in einem Gefäß. Das Wasser beginnt bei 100°C zu sieden und verdampft. Der Wasserdampf entweicht in die Luft. Das Salz kann nicht verdampfen (es hat einen viel höheren Siedepunkt), es bleibt im Gefäß zurück. Wenn das ganze Wasser verdampft ist, bleibt das Salz als weißer, kristalliner Feststoff zurück. Dieses Verfahren heißt Eindampfen oder Verdampfen. Man nutzt den Unterschied im Siedepunkt von Wasser und Salz.",
+                      "Ich würde die magnetische Trennung verwenden. Eisen ist magnetisch, Sand nicht. Ich halte einen starken Magneten über das Gemisch oder führe ihn hindurch. Die Eisenteilchen werden vom Magneten angezogen und haften daran. Der Sand bleibt zurück. So kann ich die beiden Stoffe schnell und einfach trennen. Dieses Verfahren nutzt die unterschiedlichen magnetischen Eigenschaften der beiden Stoffe."
+                    ]
+                  }
+                },
+                {
+                  "id": "mnt5_mod2_u9",
+                  "text": "Ich kann die Umwandlung von Stoffen an einfachen Beispielen beschreiben und Stoffe als Energieträger kennzeichnen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Was ist eine Stoffumwandlung?",
+                        "text": "Bei einer Stoffumwandlung (oder chemischen Reaktion) entstehen aus einem oder mehreren Ausgangsstoffen völlig neue Stoffe mit anderen Eigenschaften. Das ist etwas ganz anderes als ein Wechsel des Aggregatzustands, bei dem der Stoff gleich bleibt. Beispiel: Wenn Wasser zu Eis gefriert, ist es immer noch Wasser (H₂O) – nur in einem anderen Zustand. Aber wenn Holz verbrennt, entstehen völlig neue Stoffe: Asche, Kohlenstoffdioxid und Wasserdampf. Das Holz ist weg, die neuen Stoffe haben ganz andere Eigenschaften. Das ist eine Stoffumwandlung."
+                      },
+                      {
+                        "title": "Beispiel: Verbrennung von Kerzenwachs",
+                        "text": "Eine brennende Kerze ist ein gutes Beispiel für eine Stoffumwandlung. Das Kerzenwachs (ein fester Stoff) schmilzt durch die Hitze der Flamme und wird zu flüssigem Wachs. Der Docht saugt das flüssige Wachs hoch, und in der Flamme verdampft es. Der Wachsdampf reagiert mit Sauerstoff aus der Luft – es findet eine Verbrennung statt. Dabei entstehen neue Stoffe: Kohlenstoffdioxid (CO₂) und Wasserdampf (H₂O). Außerdem werden Energie in Form von Wärme und Licht frei. Die Ausgangsstoffe (Wachs und Sauerstoff) sind verschwunden, neue Stoffe sind entstanden."
+                      },
+                      {
+                        "title": "Beispiel: Verbrennung von Eisenwolle",
+                        "text": "Wenn man Eisenwolle (sehr feine Eisenfäden) erhitzt und anzündet, glüht sie hell auf. Das Eisen reagiert mit Sauerstoff aus der Luft. Dabei entsteht ein neuer Stoff: Eisenoxid (Rost). Das Eisenoxid ist schwarz und spröde – ganz anders als das silbrige, biegsame Eisen. Auch hier findet eine Verbrennung (eine Oxidation) statt, bei der ein neuer Stoff entsteht. Die Reaktion setzt auch Energie in Form von Wärme und Licht frei."
+                      },
+                      {
+                        "title": "Was passiert bei einer Stoffumwandlung?",
+                        "text": "Im Teilchenmodell erklärt: Bei einer Stoffumwandlung werden die Bindungen zwischen den Teilchen der Ausgangsstoffe aufgebrochen, und die Teilchen ordnen sich neu an. Es entstehen neue Bindungen und damit neue Stoffe. Zum Beispiel bei der Verbrennung von Wachs: Die Wachsteilchen und die Sauerstoffteilchen werden getrennt und setzen sich zu Kohlenstoffdioxid- und Wasserteilchen neu zusammen. Die Anzahl der Teilchen (Atome) bleibt gleich, aber ihre Anordnung ändert sich – deshalb entstehen neue Stoffe mit neuen Eigenschaften."
+                      },
+                      {
+                        "title": "Stoffe als Energieträger",
+                        "text": "Viele Stoffe enthalten gespeicherte Energie, die bei chemischen Reaktionen freigesetzt werden kann. Man nennt solche Stoffe Energieträger. Beispiele: Holz, Kohle, Erdöl, Erdgas, Benzin, Wachs, Nahrungsmittel (Zucker, Fett, Stärke). Diese Stoffe sind energiereich. Wenn sie mit Sauerstoff reagieren (verbrennen oder im Körper 'verbrannt' werden), wird die gespeicherte Energie als Wärme oder für Lebensprozesse frei. Andere Stoffe sind energiearm – sie enthalten weniger Energie. Beispiele: Asche, Kohlenstoffdioxid, Wasser. Diese Stoffe sind die 'Abfallprodukte' der Verbrennung."
+                      },
+                      {
+                        "title": "Energieumwandlungen",
+                        "text": "Bei Stoffumwandlungen wird oft Energie umgewandelt. Bei der Verbrennung wird die in den Brennstoffen gespeicherte chemische Energie in Wärme und Licht umgewandelt. Diese Wärme kann weiter genutzt werden: zum Heizen, zum Kochen, zum Antreiben von Motoren. In Kraftwerken wird die Wärme genutzt, um Wasser zu verdampfen, der Dampf treibt Turbinen an, und die Turbinen erzeugen elektrische Energie. Auch in unserem Körper werden Nährstoffe (wie Zucker) mit Sauerstoff 'verbrannt'. Dabei wird Energie frei, die wir für Bewegung, Wachstum und alle Lebensvorgänge brauchen."
+                      },
+                      {
+                        "title": "Energieübertragung durch Strahlung",
+                        "text": "Energie kann auch durch Strahlung übertragen werden, ohne dass Materie transportiert wird. Das wichtigste Beispiel ist das Sonnenlicht. Die Sonne sendet Strahlen (elektromagnetische Wellen) aus, die durch den leeren Weltraum bis zur Erde gelangen. Diese Strahlung erwärmt die Erde und ermöglicht die Fotosynthese in Pflanzen. Auch eine Kerze oder ein Ofen strahlt Wärme aus, die man spüren kann, auch wenn man sie nicht berührt. Das ist Energieübertragung durch Strahlung."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Stoffumwandlung (chemische Reaktion)",
+                        "definition": "Ein Vorgang, bei dem aus Ausgangsstoffen völlig neue Stoffe mit anderen Eigenschaften entstehen. Die Teilchen ordnen sich neu an."
+                      },
+                      {
+                        "term": "Verbrennung",
+                        "definition": "Eine Stoffumwandlung, bei der ein Stoff mit Sauerstoff reagiert. Dabei entstehen neue Stoffe und Energie (Wärme, Licht) wird frei."
+                      },
+                      {
+                        "term": "Ausgangsstoffe",
+                        "definition": "Die Stoffe, die bei einer chemischen Reaktion miteinander reagieren. Sie werden auch Edukte genannt."
+                      },
+                      {
+                        "term": "Produkte (Reaktionsprodukte)",
+                        "definition": "Die neuen Stoffe, die bei einer chemischen Reaktion entstehen."
+                      },
+                      {
+                        "term": "Energieträger",
+                        "definition": "Stoffe, die gespeicherte Energie enthalten. Bei chemischen Reaktionen (z.B. Verbrennung) wird diese Energie freigesetzt."
+                      },
+                      {
+                        "term": "Energiereiche Stoffe",
+                        "definition": "Stoffe, die viel gespeicherte Energie enthalten, z.B. Holz, Kohle, Benzin, Zucker, Fett."
+                      },
+                      {
+                        "term": "Energiearme Stoffe",
+                        "definition": "Stoffe, die wenig gespeicherte Energie enthalten, z.B. Asche, Kohlenstoffdioxid, Wasser. Oft Produkte von Verbrennungen."
+                      },
+                      {
+                        "term": "Energie",
+                        "definition": "Die Fähigkeit, Arbeit zu verrichten oder Wärme abzugeben. Energie kann in verschiedenen Formen auftreten: chemische Energie, Wärme, Licht, Bewegungsenergie, elektrische Energie."
+                      },
+                      {
+                        "term": "Energieumwandlung",
+                        "definition": "Die Umwandlung einer Energieform in eine andere, z.B. chemische Energie in Wärme und Licht bei der Verbrennung."
+                      },
+                      {
+                        "term": "Strahlung",
+                        "definition": "Eine Form der Energieübertragung ohne Transport von Materie, z.B. Sonnenlicht, Wärmestrahlung von einem Ofen."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann den Unterschied zwischen einem Aggregatzustandswechsel und einer Stoffumwandlung erklären.",
+                      "Ich kann an einem Beispiel (z.B. Verbrennung) beschreiben, was bei einer Stoffumwandlung passiert.",
+                      "Ich kann Stoffe als Energieträger kennzeichnen und Beispiele nennen.",
+                      "Ich kann zwischen energiereichen und energiearmen Stoffen unterscheiden.",
+                      "Ich kann beschreiben, wie bei Verbrennungen Energie freigesetzt wird.",
+                      "Ich kann Beispiele für Energieumwandlungen nennen."
+                    ],
+                    "sample_questions": [
+                      "Was ist der Unterschied zwischen dem Schmelzen von Eis und der Verbrennung von Holz?",
+                      "Beschreibe, was bei der Verbrennung einer Kerze passiert. Welche Stoffe entstehen?",
+                      "Was sind Energieträger? Nenne drei Beispiele.",
+                      "Erkläre den Unterschied zwischen energiereichen und energiearmen Stoffen.",
+                      "Beschreibe eine Energieumwandlung, die im Alltag vorkommt.",
+                      "Was ist Energieübertragung durch Strahlung? Gib ein Beispiel."
+                    ],
+                    "sample_answers": [
+                      "Beim Schmelzen von Eis ändert sich nur der Aggregatzustand von fest zu flüssig. Der Stoff bleibt der gleiche: Wasser (H₂O). Die Teilchen bewegen sich nur schneller, aber es entstehen keine neuen Stoffe. Bei der Verbrennung von Holz findet eine chemische Reaktion statt. Das Holz reagiert mit Sauerstoff, und es entstehen völlig neue Stoffe mit anderen Eigenschaften: Asche, Kohlenstoffdioxid und Wasserdampf. Das Holz ist weg, es ist umgewandelt worden.",
+                      "Wenn eine Kerze brennt, schmilzt das feste Wachs durch die Hitze und wird flüssig. Das flüssige Wachs steigt im Docht hoch und verdampft in der Flamme. Der Wachsdampf reagiert mit Sauerstoff aus der Luft – es findet eine Verbrennung statt. Dabei entstehen neue Stoffe: Kohlenstoffdioxid (ein Gas) und Wasserdampf. Außerdem werden Energie in Form von Wärme und Licht freigesetzt. Das ist eine Stoffumwandlung, weil neue Stoffe mit anderen Eigenschaften entstehen.",
+                      "Energieträger sind Stoffe, die gespeicherte Energie enthalten. Diese Energie kann bei chemischen Reaktionen (z.B. Verbrennung) freigesetzt werden. Beispiele: Holz, Kohle, Erdöl, Erdgas, Benzin, Wachs, Nahrungsmittel wie Zucker und Fett. Wir nutzen Energieträger zum Heizen, zum Antreiben von Fahrzeugen, zur Stromerzeugung und als Nahrung für unseren Körper.",
+                      "Energiereiche Stoffe enthalten viel gespeicherte Energie. Beispiele sind Brennstoffe wie Holz, Kohle, Benzin oder Nahrungsmittel wie Zucker und Fett. Wenn diese Stoffe verbrennen oder im Körper 'verbrannt' werden, setzen sie viel Energie frei. Energiearme Stoffe enthalten wenig gespeicherte Energie. Beispiele sind Asche, Kohlenstoffdioxid und Wasser. Das sind oft die Produkte von Verbrennungen. Sie können nicht mehr viel Energie liefern.",
+                      "In einem Kraftwerk wird Kohle verbrannt. Die in der Kohle gespeicherte chemische Energie wird dabei in Wärme umgewandelt. Diese Wärme erhitzt Wasser, das zu Dampf wird. Der Dampf treibt Turbinen an – die Wärmeenergie wird in Bewegungsenergie umgewandelt. Die Turbinen treiben Generatoren an, die elektrische Energie erzeugen – die Bewegungsenergie wird in elektrische Energie umgewandelt. So wird die chemische Energie der Kohle schließlich in elektrischen Strom umgewandelt, den wir zu Hause nutzen können.",
+                      "Energieübertragung durch Strahlung bedeutet, dass Energie durch Strahlen (elektromagnetische Wellen) übertragen wird, ohne dass Materie transportiert wird. Das wichtigste Beispiel ist die Sonne: Sie sendet Lichtstrahlen aus, die durch den leeren Weltraum zur Erde gelangen. Diese Strahlung erwärmt die Erde und liefert die Energie für die Fotosynthese. Ein anderes Beispiel ist ein heißer Ofen: Man spürt die Wärme, auch wenn man ihn nicht berührt. Der Ofen strahlt Wärme ab, die zur Haut gelangt und sie erwärmt."
+                    ]
+                  }
+                },
+                {
+                  "id": "mnt5_mod2_u10",
+                  "text": "Ich kann Samenpflanzen nach verschiedenen Kriterien ordnen (Wuchsformen, Nutzung, Pflanzenfamilien) und die Bedeutung der Einteilung erläutern.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Warum ordnen wir Pflanzen?",
+                        "text": "Es gibt Hunderttausende verschiedene Pflanzenarten auf der Erde. Ohne eine Ordnung wäre das ein riesiges Durcheinander. Durch das Ordnen und Klassifizieren können wir die Vielfalt überschauen, Pflanzen leichter bestimmen und wiederfinden, Verwandtschaften erkennen, Informationen über Pflanzen besser speichern und nutzen. Die Ordnung hilft uns, Pflanzen mit ähnlichen Eigenschaften zusammenzufassen und sie von anderen zu unterscheiden. Das Ordnen nach Kriterien ist ein wichtiges Prinzip – nicht nur in der Biologie, sondern auch in Alltag und Technik."
+                      },
+                      {
+                        "title": "Ordnung nach Wuchsformen",
+                        "text": "Eine einfache Art, Pflanzen zu ordnen, ist nach ihrer Wuchsform – also nach der Art, wie sie wachsen. Kräuter (krautige Pflanzen): Haben weiche, grüne Stängel, die nicht verholzen. Sie werden meist nicht sehr groß und leben oft nur ein Jahr oder einige Jahre. Beispiele: Löwenzahn, Gänseblümchen, Gräser, Getreide, viele Gemüsepflanzen. Sträucher: Haben mehrere verholzte Stämme, die vom Boden aus wachsen. Sie werden mittelhoch (1-5 Meter) und leben mehrere Jahre. Beispiele: Haselnuss, Holunder, Himbeere, Rose. Bäume: Haben einen dicken, verholzten Hauptstamm und eine Krone aus Ästen und Blättern. Sie werden sehr groß (oft über 10 Meter) und leben viele Jahre oder Jahrhunderte. Beispiele: Eiche, Buche, Ahorn, Kiefer."
+                      },
+                      {
+                        "title": "Ordnung nach Nutzung",
+                        "text": "Menschen nutzen Pflanzen für viele Zwecke. Man kann Pflanzen danach ordnen, wie wir sie nutzen. Wildpflanzen: Wachsen in der Natur ohne menschliches Zutun. Beispiele: Löwenzahn, Brennnessel, Buche, Kiefer. Kulturpflanzen: Werden vom Menschen gezielt angebaut und gezüchtet. Man kann sie weiter unterteilen: Nahrungspflanzen (Weizen, Kartoffel, Tomate, Apfelbaum), Futterpflanzen für Tiere (Mais, Klee), Zierpflanzen (Rose, Tulpe, Geranien), Nutzpflanzen für Rohstoffe (Baumwolle für Kleidung, Flachs für Leinen, Holzbäume für Möbel und Papier), Heilpflanzen (Kamille, Pfefferminze). Manche Pflanzen passen in mehrere Kategorien – eine Kartoffel ist sowohl Nahrungspflanze als auch Kulturpflanze."
+                      },
+                      {
+                        "title": "Ordnung nach Verwandtschaft: Pflanzenfamilien",
+                        "text": "Die wissenschaftliche Ordnung der Pflanzen orientiert sich an ihrer Verwandtschaft. Pflanzen, die einen gemeinsamen Vorfahren haben und ähnliche Merkmale aufweisen, werden zu Pflanzenfamilien zusammengefasst. Die Merkmale, nach denen man ordnet, sind vor allem der Blütenbau, die Fruchtform und der Samen. Pflanzen einer Familie haben oft ähnlich aufgebaute Blüten und Früchte. Das hilft bei der Bestimmung: Wenn man die Familie kennt, kann man oft die Art bestimmen. Zwei wichtige Pflanzenfamilien für die 5. Klasse sind: Rosengewächse und Kreuzblütler (oder Schmetterlingsblütler)."
+                      },
+                      {
+                        "title": "Beispiel: Familie der Rosengewächse (Rosaceae)",
+                        "text": "Zu den Rosengewächsen gehören viele wichtige Nutz- und Zierpflanzen. Typische Merkmale: Blüten mit 5 Kelchblättern und 5 Kronblättern, viele Staubblätter, oft in kreisförmiger Anordnung. Früchte können sehr unterschiedlich sein (Apfel, Kirsche, Erdbeere, Hagebutte). Beispiele: Rose (Zierpflanze), Apfelbaum, Birnbaum, Kirschbaum, Pflaumenbaum, Erdbeere, Himbeere, Brombeere. Viele Rosengewächse liefern uns wichtige Nahrungsmittel (Obst). Die Familie zeigt wieder das Prinzip 'Vielfalt bei gleichem Grundaufbau': Alle haben ähnliche Blüten, aber die Pflanzen sehen sehr unterschiedlich aus und bilden verschiedene Früchte."
+                      },
+                      {
+                        "title": "Beispiel: Familie der Kreuzblütler (Brassicaceae)",
+                        "text": "Zu den Kreuzblütlern gehören viele Gemüsepflanzen. Typische Merkmale: Blüten mit 4 Kelchblättern und 4 Kronblättern, die kreuzförmig angeordnet sind (daher der Name), 6 Staubblätter (4 lange, 2 kurze). Früchte sind meist Schoten. Beispiele: Kohl (Weißkohl, Rotkohl, Blumenkohl, Rosenkohl), Raps, Rettich, Radieschen, Senf, Kresse. Viele Kreuzblütler haben einen scharfen oder würzigen Geschmack. Auch hier sieht man: Die Pflanzen sehen sehr unterschiedlich aus (ein Blumenkohl sieht anders aus als ein Rettich), aber sie haben alle den gleichen Blütenbau und gehören zur selben Familie."
+                      },
+                      {
+                        "title": "Bedeutung der Einteilung",
+                        "text": "Die Einteilung von Pflanzen hat viele Vorteile: Übersicht: Wir können die Vielfalt besser verstehen und strukturieren. Bestimmung: Wenn wir die Familie kennen, können wir Pflanzen leichter bestimmen. Wissen nutzen: Pflanzen einer Familie haben oft ähnliche Eigenschaften. Wenn wir wissen, dass eine Pflanze zur Familie der Kreuzblütler gehört, können wir vermuten, dass sie essbar ist und einen würzigen Geschmack hat. Zucht und Anbau: Landwirte und Gärtner können Pflanzen gezielt züchten und anbauen. Schutz: Wir können seltene Arten erkennen und schützen. Kommunikation: Wissenschaftler weltweit verstehen sich, weil sie das gleiche Ordnungssystem verwenden."
+                      },
+                      {
+                        "title": "Ordnungsprinzipien in Alltag und Technik",
+                        "text": "Das Prinzip, Dinge nach Kriterien zu ordnen, findet man überall. Bücher in einer Bibliothek werden nach Themen oder Autoren geordnet. Lebensmittel im Supermarkt sind nach Kategorien sortiert (Milchprodukte, Obst, Getreideprodukte). Werkzeuge werden nach ihrer Funktion geordnet (Schneidewerkzeuge, Schraubwerkzeuge, Messgeräte). Autos werden nach Typen klassifiziert (Kleinwagen, Limousine, SUV, LKW). Ohne Ordnung wäre unser Alltag chaotisch. Die Natur hat uns gelehrt, dass Ordnung und Klassifizierung wichtig und nützlich sind."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Ordnen/Klassifizieren",
+                        "definition": "Das Einteilen von Lebewesen oder Dingen in Gruppen nach bestimmten Kriterien (Merkmalen)."
+                      },
+                      {
+                        "term": "Kriterium (Mehrzahl: Kriterien)",
+                        "definition": "Ein Merkmal oder eine Eigenschaft, nach der man ordnet, z.B. Wuchsform, Nutzung, Blütenbau."
+                      },
+                      {
+                        "term": "Krautige Pflanzen (Kräuter)",
+                        "definition": "Pflanzen mit weichen, grünen Stängeln, die nicht verholzen. Beispiele: Löwenzahn, Gänseblümchen, Gräser."
+                      },
+                      {
+                        "term": "Sträucher",
+                        "definition": "Pflanzen mit mehreren verholzten Stämmen, die vom Boden aus wachsen. Beispiele: Haselnuss, Holunder, Rose."
+                      },
+                      {
+                        "term": "Bäume",
+                        "definition": "Pflanzen mit einem dicken, verholzten Hauptstamm und einer Krone. Beispiele: Eiche, Buche, Kiefer."
+                      },
+                      {
+                        "term": "Wildpflanzen",
+                        "definition": "Pflanzen, die in der Natur wachsen, ohne dass der Mensch sie anpflanzt oder pflegt."
+                      },
+                      {
+                        "term": "Kulturpflanzen",
+                        "definition": "Pflanzen, die vom Menschen gezielt angebaut und gezüchtet werden, z.B. Getreide, Gemüse, Obstbäume."
+                      },
+                      {
+                        "term": "Pflanzenfamilie",
+                        "definition": "Eine Gruppe von Pflanzen, die miteinander verwandt sind und ähnliche Merkmale haben, vor allem im Blütenbau."
+                      },
+                      {
+                        "term": "Rosengewächse (Rosaceae)",
+                        "definition": "Eine Pflanzenfamilie mit Blüten aus 5 Kelch- und 5 Kronblättern. Beispiele: Rose, Apfelbaum, Erdbeere."
+                      },
+                      {
+                        "term": "Kreuzblütler (Brassicaceae)",
+                        "definition": "Eine Pflanzenfamilie mit kreuzförmig angeordneten Blüten (4 Kronblätter). Beispiele: Kohl, Raps, Rettich."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann erklären, warum man Pflanzen ordnet.",
+                      "Ich kann Pflanzen nach Wuchsformen einteilen und Beispiele nennen.",
+                      "Ich kann Pflanzen nach Nutzung einteilen und Beispiele nennen.",
+                      "Ich kann zwei Pflanzenfamilien nennen und ihre typischen Merkmale beschreiben.",
+                      "Ich kann zu jeder Pflanzenfamilie mindestens drei Beispiele nennen.",
+                      "Ich kann die Bedeutung der Pflanzeneinteilung für den Menschen erläutern.",
+                      "Ich kann Beispiele für Ordnungsprinzipien in Alltag und Technik nennen."
+                    ],
+                    "sample_questions": [
+                      "Warum ist es sinnvoll, Pflanzen zu ordnen und zu klassifizieren?",
+                      "Erkläre die Einteilung von Pflanzen nach Wuchsformen. Nenne je zwei Beispiele.",
+                      "Was sind Kulturpflanzen und was sind Wildpflanzen? Gib Beispiele.",
+                      "Beschreibe die typischen Merkmale der Familie der Rosengewächse und nenne drei Beispiele.",
+                      "Beschreibe die typischen Merkmale der Familie der Kreuzblütler und nenne drei Beispiele.",
+                      "Welche Bedeutung hat die Einteilung von Pflanzen in Familien für uns Menschen?",
+                      "Nenne zwei Beispiele, wo im Alltag das Prinzip der Ordnung und Klassifizierung verwendet wird."
+                    ],
+                    "sample_answers": [
+                      "Das Ordnen und Klassifizieren von Pflanzen ist sinnvoll, weil es uns hilft, die riesige Vielfalt zu überschauen und zu verstehen. Wir können Pflanzen leichter bestimmen und wiederfinden. Wir erkennen Verwandtschaften und können Informationen über Pflanzen besser speichern. Wissenschaftler weltweit verstehen sich, weil sie das gleiche System verwenden. Außerdem können wir Pflanzen einer Gruppe oft ähnliche Eigenschaften zuordnen, was bei Anbau, Nutzung und Schutz hilft.",
+                      "Pflanzen kann man nach ihrer Wuchsform einteilen: Kräuter (krautige Pflanzen) haben weiche, grüne Stängel, die nicht verholzen. Beispiele: Löwenzahn, Gänseblümchen. Sträucher haben mehrere verholzte Stämme und werden mittelhoch. Beispiele: Haselnuss, Holunder. Bäume haben einen dicken Hauptstamm und werden sehr groß. Beispiele: Eiche, Kiefer.",
+                      "Wildpflanzen wachsen in der Natur ohne menschliches Zutun. Beispiele: Löwenzahn, Brennnessel, Buche. Kulturpflanzen werden vom Menschen gezielt angebaut und gezüchtet. Beispiele: Weizen, Kartoffel, Apfelbaum, Rose. Der Mensch hat Kulturpflanzen oft über viele Generationen verändert, um sie nützlicher zu machen (größere Früchte, mehr Ertrag, besserer Geschmack).",
+                      "Die Rosengewächse (Rosaceae) haben Blüten mit 5 Kelchblättern und 5 Kronblättern, die oft kreisförmig angeordnet sind. Es gibt viele Staubblätter. Die Früchte können sehr unterschiedlich sein. Drei Beispiele: Rose (Zierpflanze mit duftenden Blüten), Apfelbaum (liefert Früchte, die wir essen), Erdbeere (krautige Pflanze mit roten Früchten). Alle drei gehören zur gleichen Familie, weil sie ähnliche Blüten haben.",
+                      "Die Kreuzblütler (Brassicaceae) haben Blüten mit 4 Kronblättern, die kreuzförmig angeordnet sind, und 6 Staubblättern (4 lange, 2 kurze). Die Früchte sind meist Schoten. Viele haben einen scharfen oder würzigen Geschmack. Drei Beispiele: Kohl (Gemüsepflanze, z.B. Weißkohl, Blumenkohl), Raps (wird für Speiseöl angebaut), Rettich (Wurzelgemüse mit scharfem Geschmack). Alle gehören zur gleichen Familie wegen des typischen Blütenbaus.",
+                      "Die Einteilung von Pflanzen in Familien hilft uns, die Vielfalt zu verstehen und Pflanzen leichter zu bestimmen. Wenn wir die Familie einer Pflanze kennen, können wir oft auf ihre Eigenschaften schließen – zum Beispiel, ob sie essbar ist, welche Ansprüche sie hat oder wie sie sich vermehrt. Landwirte und Gärtner nutzen dieses Wissen beim Anbau. Auch für den Naturschutz ist es wichtig, Verwandtschaften zu kennen, um seltene Arten zu schützen. Die Einteilung hilft uns, unser Wissen zu strukturieren und anzuwenden.",
+                      "In einer Bibliothek werden Bücher nach Themen oder Autoren geordnet, damit man sie leicht findet. Im Supermarkt sind Lebensmittel nach Kategorien sortiert (Milchprodukte, Obst, Fleisch), damit Kunden sich orientieren können. Werkzeuge werden nach ihrer Funktion geordnet (Schraubwerkzeuge, Schneidewerkzeuge), damit man das richtige Werkzeug schnell findet. Das Prinzip der Ordnung nach Kriterien macht unser Leben einfacher und übersichtlicher."
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+```

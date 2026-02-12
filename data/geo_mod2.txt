@@ -1,0 +1,245 @@
+{
+  "school_id": "de_thueringen",
+  "grades": [
+    {
+      "grade_id": "klasse5",
+      "grade_label": "Klasse 5",
+      "subjects": [
+        {
+          "subject_id": "geo",
+          "subject_title": "Geografie",
+          "modules": [
+            {
+              "module_id": "geo5_mod2",
+              "module_name": "Das Leben der Menschen mit Naturrisiken",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Naturrisiken erkennen",
+                    "text": "In diesem Modul lernst du natürliche Vorgänge kennen, die für Menschen gefährlich werden können, z. B. Sturmfluten, Vulkanausbrüche, Erdbeben, Hochwasser oder Lawinen.[file:5] Du beschreibst, wie solche Gefahren entstehen, welche Lebensräume besonders betroffen sind und welche Schutzmaßnahmen möglich sind.[file:5]"
+                  },
+                  {
+                    "title": "Mensch und Natur im Spannungsfeld",
+                    "text": "Du erkennst, dass Menschen oft in gefährdeten Gebieten leben, weil diese z. B. fruchtbare Böden, gute Verkehrslage oder wirtschaftliche Chancen bieten.[file:5] Gleichzeitig lernst du, wie Menschen versuchen, mit Naturrisiken umzugehen und Schäden zu verringern.[file:5]"
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "geo5_mod2_u1",
+                  "text": "Ich kann verschiedene Küstenformen (Flachküste, Steilküste, Wattküste) und ihre Gefährdungen für Menschen beschreiben und einfache Schutzmaßnahmen nennen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Küstenformen und Dynamik",
+                        "text": "Küsten können flach und sandig, steil und felsig oder von Wattflächen geprägt sein.[file:5] Wellen, Strömungen und Gezeiten tragen ständig Material ab (Abtragung), transportieren und lagern es an anderer Stelle wieder ab (Ablagerung).[file:5]"
+                      },
+                      {
+                        "title": "Gefahren an der Küste",
+                        "text": "An Flachküsten drohen Sturmfluten und Überflutungen, an Steilküsten Abstürze und Felsstürze, im Watt können Menschen bei auflaufender Flut in Gefahr geraten.[file:5] Du lernst typische Schutzmaßnahmen wie Deiche, Schutzdünen oder Sperrwerke kennen.[file:5]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Flachküste",
+                        "definition": "Küstenform mit flach ins Meer auslaufendem Land, oft Sandstrände und Dünen.[file:5]"
+                      },
+                      {
+                        "term": "Steilküste",
+                        "definition": "Küstenform mit steil abfallenden Felsen direkt am Meer.[file:5]"
+                      },
+                      {
+                        "term": "Watt",
+                        "definition": "Fläche, die bei Ebbe trockenfällt und bei Flut überflutet wird.[file:5]"
+                      },
+                      {
+                        "term": "Deich",
+                        "definition": "Künstlich aufgeschütteter Damm zum Schutz des Hinterlandes vor Hochwasser und Sturmfluten.[file:5]"
+                      },
+                      {
+                        "term": "Naturrisiko",
+                        "definition": "Gefahr für Menschen und ihre Güter, die von natürlichen Prozessen ausgeht.[file:5]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann den Unterschied zwischen Flachküste, Steilküste und Wattküste beschreiben. [file:5]",
+                      "Ich kann erklären, warum Sturmfluten gefährlich sind. [file:5]",
+                      "Ich kenne mindestens zwei Schutzmaßnahmen an der Küste (z. B. Deich, Dünen). [file:5]"
+                    ],
+                    "sample_questions": [
+                      "Beschreibe eine Flachküste und eine Steilküste jeweils mit zwei Merkmalen.",
+                      "Warum sind Deiche an Flachküsten wichtig?",
+                      "Welche Gefahr besteht für Menschen im Watt bei auflaufender Flut?"
+                    ],
+                    "sample_answers": [
+                      "Eine Flachküste steigt nur langsam an und hat oft Sandstrände; eine Steilküste fällt fast senkrecht zum Meer ab und besteht aus Felsen.",
+                      "Deiche schützen das flache Hinterland davor, dass Meerwasser bei Sturmfluten weit ins Land eindringt.",
+                      "Sie können vom Wasser eingeschlossen werden und den Rückweg nicht rechtzeitig schaffen – es droht Lebensgefahr."
+                    ]
+                  }
+                },
+                {
+                  "id": "geo5_mod2_u2",
+                  "text": "Ich kann Vulkane und Erdbeben als Ursachen für Gefährdungen von Lebensräumen beschreiben und Beispiele nennen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Vulkanausbrüche",
+                        "text": "Vulkane entstehen an Schwächezonen der Erdkruste; bei Ausbrüchen treten Lava, Asche und Gase aus.[file:5] In der Umgebung kann es zu Zerstörungen durch Lavaflüsse, Ascheregen oder Glutwolken kommen, gleichzeitig sorgen vulkanische Böden oft für fruchtige Landwirtschaft.[file:5]"
+                      },
+                      {
+                        "title": "Erdbeben",
+                        "text": "Erdbeben entstehen, wenn sich Spannungen in der Erdkruste plötzlich lösen, häufig an Plattengrenzen.[file:5] Sie können Gebäude einstürzen lassen, Risse im Boden verursachen und über dem Meer Tsunamis auslösen.[file:5]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Vulkan",
+                        "definition": "Öffnung in der Erdkruste, aus der bei Ausbrüchen Lava, Asche und Gase austreten.[file:5]"
+                      },
+                      {
+                        "term": "Erdbeben",
+                        "definition": "Plötzliche Erschütterung der Erdoberfläche durch Bewegungen im Erdinneren.[file:5]"
+                      },
+                      {
+                        "term": "Tsunami",
+                        "definition": "Sehr hohe Meereswelle, die z. B. durch ein Seebeben ausgelöst wird.[file:5]"
+                      },
+                      {
+                        "term": "Relief",
+                        "definition": "Formen der Erdoberfläche, z. B. Berge, Täler, Ebenen.[file:5]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann in einfachen Worten erklären, wie ein Vulkanausbruch entsteht. [file:5]",
+                      "Ich kenne mindestens zwei Gefahren, die von einem Erdbeben ausgehen. [file:5]",
+                      "Ich kann ein Beispielgebiet nennen, in dem Vulkane oder Erdbeben häufig vorkommen. [file:5]"
+                    ],
+                    "sample_questions": [
+                      "Warum leben Menschen trotz der Gefahr in der Nähe von Vulkanen?",
+                      "Nenne zwei Folgen eines starken Erdbebens in einer Stadt.",
+                      "Was ist ein Tsunami und wie kann er entstehen?"
+                    ],
+                    "sample_answers": [
+                      "Weil die vulkanischen Böden fruchtbar sind und gute Ernten ermöglichen, und weil dort oft Tourismus stattfindet.",
+                      "Häuser können einstürzen und Straßen, Wasser- und Stromleitungen werden zerstört.",
+                      "Ein Tsunami ist eine sehr hohe Welle, die z. B. durch ein starkes Seebeben ausgelöst wird und an Küsten große Schäden anrichten kann."
+                    ]
+                  }
+                },
+                {
+                  "id": "geo5_mod2_u3",
+                  "text": "Ich kann an Flüssen Gefährdungen durch Hochwasser beschreiben und einfache Schutzmaßnahmen nennen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Flussabschnitte und Dynamik",
+                        "text": "Flüsse transportieren Wasser und Material von den Quellgebieten bis zur Mündung.[file:5] In den Auen und bei Hochwasser können sie über die Ufer treten und angrenzende Siedlungen oder Felder überfluten.[file:5]"
+                      },
+                      {
+                        "title": "Hochwasser und Schutz",
+                        "text": "Hochwasser entsteht, wenn mehr Wasser in den Fluss gelangt, als im Flussbett abfließen kann (z. B. durch starken Regen, Schneeschmelze). [file:5] Schutzmaßnahmen sind u. a. Deiche, Rückhaltebecken, Überschwemmungsflächen oder der Verzicht auf Bauen in der Aue.[file:5]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Flussaue",
+                        "definition": "Niedrig gelegener Bereich entlang eines Flusses, der bei Hochwasser überflutet werden kann.[file:5]"
+                      },
+                      {
+                        "term": "Ablagerung",
+                        "definition": "Absetzen von mitgeführtem Material (z. B. Sand, Kies), wenn die Transportkraft des Wassers nachlässt.[file:5]"
+                      },
+                      {
+                        "term": "Abtragung",
+                        "definition": "Abtransport von Boden oder Gestein durch Wasser, Wind oder Eis.[file:5]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann erklären, was bei einem Hochwasser passiert. [file:5]",
+                      "Ich kann zwei Maßnahmen nennen, die Menschen vor Hochwasser schützen sollen. [file:5]"
+                    ],
+                    "sample_questions": [
+                      "Warum bauen Menschen trotzdem in Flussauen, obwohl Hochwasser droht?",
+                      "Nenne zwei Maßnahmen, mit denen man Hochwasserschäden verringern kann."
+                    ],
+                    "sample_answers": [
+                      "Weil das Land dort flach und günstig ist und man guten Zugang zum Wasser hat, z. B. für Schifffahrt oder Landwirtschaft.",
+                      "Man kann Deiche bauen und Überschwemmungsflächen freihalten, damit das Wasser sich ausbreiten kann."
+                    ]
+                  }
+                },
+                {
+                  "id": "geo5_mod2_u4",
+                  "text": "Ich kann Wetterextreme (Sturm, Starkregen, Hitze/Kälte) und Massenbewegungen (z. B. Erdrutsch, Lawine) als Naturrisiken beschreiben.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Wetterextreme",
+                        "text": "Starke Stürme, Hagel, Starkregen, Hitzewellen oder Kälteperioden sind Wetterextreme, die Schäden anrichten können.[file:5] Du lernst, wie Wetterberichte und Wetterdienste vor solchen Ereignissen warnen.[file:5]"
+                      },
+                      {
+                        "title": "Massenbewegungen",
+                        "text": "Bei Massenbewegungen rutschen größere Gesteins- oder Schneemassen den Hang hinab, z. B. Erdrutsche oder Lawinen.[file:5] Sie treten besonders an steilen Hängen, in Gebirgen oder nach starken Niederschlägen auf."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Wetter",
+                        "definition": "Zustand der unteren Luftschichten an einem bestimmten Ort zu einer bestimmten Zeit (z. B. Temperatur, Niederschlag, Wind). [file:5]"
+                      },
+                      {
+                        "term": "Wetterdienst",
+                        "definition": "Einrichtung, die Wetterdaten sammelt, Wettervorhersagen erstellt und vor Unwettern warnt.[file:5]"
+                      },
+                      {
+                        "term": "Erdrutsch",
+                        "definition": "Plötzliche Bewegung von Boden- und Gesteinsmassen einen Hang hinab.[file:5]"
+                      },
+                      {
+                        "term": "Lawine",
+                        "definition": "Schnelle Talfahrt großer Schnee- und Eismassen, oft mit Geröll vermischt.[file:5]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann mindestens zwei Wetterextreme nennen und ihre möglichen Folgen beschreiben. [file:5]",
+                      "Ich kann erklären, was eine Lawine ist und wo sie vorkommt. [file:5]"
+                    ],
+                    "sample_questions": [
+                      "Nenne ein Beispiel für ein Wetterextrem in Deutschland und beschreibe die Folgen.",
+                      "Warum sind Lawinen für Menschen im Hochgebirge gefährlich?"
+                    ],
+                    "sample_answers": [
+                      "Starkregen kann zu Überschwemmungen führen, Keller füllen sich mit Wasser und Straßen werden unpassierbar.",
+                      "Lawinen können sehr schnell ins Tal rasen und Häuser, Straßen und Menschen unter sich begraben."
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

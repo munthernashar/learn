@@ -1,0 +1,222 @@
+{
+  "school_id": "de_thueringen",
+  "grades": [
+    {
+      "grade_id": "klasse5",
+      "grade_label": "Klasse 5",
+      "subjects": [
+        {
+          "subject_id": "ges",
+          "subject_title": "Geschichte",
+          "modules": [
+            {
+              "module_id": "hist5_mod2",
+              "module_name": "Menschen in vorgeschichtlicher Zeit",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Spuren der ersten Menschen",
+                    "text": "In diesem Modul beschäftigst du dich mit den ersten Menschen und damit, wie sie gelebt haben, lange bevor es Schrift gab.[file:6] Du lernst, dass wir über die vorgeschichtliche Zeit vor allem durch Funde wie Werkzeuge, Knochen, Höhlenmalereien und Siedlungsreste etwas erfahren.[file:6]"
+                  },
+                  {
+                    "title": "Vom Jagen und Sammeln zum Ackerbau",
+                    "text": "Du untersuchst, wie sich Menschen von Jägern und Sammlern zu sesshaften Bauern entwickelten und wie sich dadurch ihre Lebensweise stark veränderte (Neolithische Revolution).[file:6] Du vergleichst die Lebensbedingungen in Alt- und Jungsteinzeit und erkennst, welche Folgen Ackerbau und Viehzucht hatten.[file:6]"
+                  },
+                  {
+                    "title": "Die Bedeutung von Metall",
+                    "text": "Du lernst, wie die Menschen lernten, Metalle zu gewinnen und zu verarbeiten, und warum sich dadurch Geräte, Waffen und das Zusammenleben der Menschen weiter veränderten.[file:6]"
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "hist5_mod2_u1",
+                  "text": "Ich kann die Entwicklung und Verbreitung der ersten Menschen in Grundzügen beschreiben.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Die ersten Menschen und ihr Lebensraum",
+                        "text": "Die ältesten Spuren von Menschen finden sich in Afrika, von wo aus sich verschiedene Menschengruppen in vielen tausend Jahren nach Europa, Asien und andere Teile der Welt ausbreiteten.[file:6] Sie passten sich an unterschiedliche Lebensbedingungen an, z. B. in Wäldern, Savannen oder kälteren Regionen."
+                      },
+                      {
+                        "title": "Lebensweise der frühen Menschen",
+                        "text": "Die frühen Menschen lebten in kleinen Gruppen, waren unterwegs, um Nahrung zu suchen, und nutzten einfache Werkzeuge aus Stein, Knochen oder Holz.[file:6] Sie lernten nach und nach, das Feuer zu beherrschen, was ihr Leben sicherer und vielfältiger machte.[file:6]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Vor- und Frühgeschichte",
+                        "definition": "Zeitraum der Menschheitsgeschichte vor der Erfindung der Schrift.[file:6]"
+                      },
+                      {
+                        "term": "Jäger und Sammler",
+                        "definition": "Menschen, die von der Jagd auf Tiere und dem Sammeln von Pflanzen leben und nicht sesshaft sind.[file:6]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann sagen, dass die ersten Menschen aus Afrika stammen und sich von dort aus verbreitet haben. [file:6]",
+                      "Ich kann die Lebensweise der frühen Menschen in wenigen Sätzen beschreiben. [file:6]"
+                    ],
+                    "sample_questions": [
+                      "Woher stammen nach heutigem Wissen die ersten Menschen?",
+                      "Wie lebten Jäger und Sammler – nenne zwei Merkmale."
+                    ],
+                    "sample_answers": [
+                      "Die ersten Menschen stammen nach heutigem Wissen aus Afrika.",
+                      "Sie lebten in kleinen Gruppen und zogen umher, um Tiere zu jagen und essbare Pflanzen zu sammeln."
+                    ]
+                  }
+                },
+                {
+                  "id": "hist5_mod2_u2",
+                  "text": "Ich kann Überlebensstrategien und Kultur der Jäger und Sammler (Feuer, Wohnen, Werkzeuge/Waffen) erklären.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Feuer als wichtige Entdeckung",
+                        "text": "Die Beherrschung des Feuers war ein entscheidender Schritt: Feuer spendete Wärme, Licht, Schutz vor wilden Tieren und half beim Garen von Speisen.[file:6] Wahrscheinlich nutzten frühe Menschen zunächst natürlich entstandenes Feuer und lernten später, selbst Feuer zu entfachen."
+                      },
+                      {
+                        "title": "Wohnen in der Altsteinzeit",
+                        "text": "Jäger und Sammler lebten in einfachen Behausungen wie Zelten, Hütten oder nutzten Höhlen als Schutz.[file:6] Ihre Wohnplätze waren meist dort, wo es ausreichend Nahrung und Wasser gab; sie zogen weiter, wenn die Umgebung nicht mehr genug bot."
+                      },
+                      {
+                        "title": "Werkzeuge und Waffen",
+                        "text": "Sie stellten Werkzeuge aus Stein, Holz und Knochen her, z. B. Faustkeile, Speere oder Schaber.[file:6] Diese halfen bei der Jagd, beim Zerteilen von Tieren und beim Bearbeiten von Fellen und Holz."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Altsteinzeit",
+                        "definition": "Ältester Abschnitt der Steinzeit, in dem Menschen als Jäger und Sammler lebten und einfache Steinwerkzeuge nutzten.[file:6]"
+                      },
+                      {
+                        "term": "Werkzeug",
+                        "definition": "Gegenstand, der bei der Arbeit hilft, z. B. beim Schneiden, Schaben, Jagen.[file:6]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann erklären, warum Feuer für Jäger und Sammler wichtig war. [file:6]",
+                      "Ich kann typische Behausungen der Altsteinzeit beschreiben. [file:6]",
+                      "Ich kann Beispiele für Werkzeuge und Waffen nennen und wozu sie dienten. [file:6]"
+                    ],
+                    "sample_questions": [
+                      "Nenne zwei Vorteile, die Feuer für die Menschen der Altsteinzeit hatte.",
+                      "Wie sahen typische Wohnplätze von Jägern und Sammlern aus?",
+                      "Welche zwei Werkzeuge oder Waffen der Altsteinzeit kennst du und wie wurden sie genutzt?"
+                    ],
+                    "sample_answers": [
+                      "Feuer gab Wärme und Schutz und ermöglichte das Garen von Nahrung.",
+                      "Sie lebten in einfachen Hütten, Zelten oder Höhlen in der Nähe von Wasser und Jagdgebieten.",
+                      "Faustkeil: zum Schneiden und Zerteilen; Speer: zur Jagd auf Tiere."
+                    ]
+                  }
+                },
+                {
+                  "id": "hist5_mod2_u3",
+                  "text": "Ich kann den Wandel von der Altsteinzeit zur Jungsteinzeit (Neolithische Revolution) und die Veränderungen im Leben der Menschen beschreiben.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Vom Umherziehen zur Sesshaftigkeit",
+                        "text": "In der Jungsteinzeit begannen Menschen, Pflanzen gezielt anzubauen und Tiere zu halten, statt nur zu jagen und zu sammeln.[file:6] Dadurch wurden sie sesshaft, bauten feste Häuser und Dörfer und lebten länger an einem Ort."
+                      },
+                      {
+                        "title": "Neolithische Revolution",
+                        "text": "Dieser Übergang zur produzierenden Wirtschaftsweise (Ackerbau und Viehzucht) wird als Neolithische Revolution bezeichnet.[file:6] Sie veränderte vieles: Nahrungssicherheit konnte steigen, aber Menschen waren stärker von Ernten abhängig und Krankheiten konnten sich in größeren Siedlungen leichter ausbreiten."
+                      },
+                      {
+                        "title": "Neue Aufgaben und Techniken",
+                        "text": "Mit Ackerbau und Viehzucht entstanden neue Aufgaben wie Felder bestellen, Vorräte lagern und Tiere versorgen.[file:6] Werkzeuge wurden weiterentwickelt, z. B. Poliersteine, Sicheln, Mahlsteine."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Jungsteinzeit",
+                        "definition": "Jüngerer Abschnitt der Steinzeit, in dem Menschen sesshaft wurden und Ackerbau und Viehzucht betrieben.[file:6]"
+                      },
+                      {
+                        "term": "Neolithische Revolution",
+                        "definition": "Grundlegender Wandel von der Lebensweise der Jäger und Sammler hin zu Ackerbau und Viehzucht.[file:6]"
+                      },
+                      {
+                        "term": "Sesshaftigkeit",
+                        "definition": "Menschen bleiben an einem festen Ort und bauen dort dauerhafte Häuser und Dörfer.[file:6]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann mindestens zwei Unterschiede zwischen Alt- und Jungsteinzeit nennen. [file:6]",
+                      "Ich kann erklären, was mit Neolithischer Revolution gemeint ist. [file:6]"
+                    ],
+                    "sample_questions": [
+                      "Nenne zwei wichtige Veränderungen im Leben der Menschen durch Ackerbau und Viehzucht.",
+                      "Warum spricht man von einer Revolution, obwohl der Wandel viele Generationen dauerte?"
+                    ],
+                    "sample_answers": [
+                      "Die Menschen wurden sesshaft und lebten in Dörfern; sie bauten Getreide an und hielten Haustiere.",
+                      "Weil sich die Lebensweise der Menschen grundlegend und dauerhaft verändert hat – ähnlich wie bei einer politischen Revolution, nur langsamer."
+                    ]
+                  }
+                },
+                {
+                  "id": "hist5_mod2_u4",
+                  "text": "Ich kann erklären, wie die Nutzung von Metallen das Leben der Menschen veränderte.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Metall als neuer Werkstoff",
+                        "text": "Nachdem Menschen Steinwerkzeuge genutzt hatten, entdeckten sie, dass man Metalle wie Kupfer, später Bronze und Eisen gewinnen und formen kann.[file:6] Mit Metall ließen sich haltbarere und schärfere Werkzeuge und Waffen herstellen."
+                      },
+                      {
+                        "title": "Folgen der Metallnutzung",
+                        "text": "Bessere Werkzeuge erleichterten Ackerbau, Handwerk und Bauarbeiten, stärkere Waffen veränderten Kriegführung und Machtverhältnisse.[file:6] Es entstanden neue Berufe (z. B. Schmiede) und Handelswege für Metalle."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Metallzeit",
+                        "definition": "Epochen, in denen Metalle wie Bronze und Eisen für Werkzeuge und Waffen genutzt wurden (Bronzezeit, Eisenzeit)."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann mindestens ein Beispiel nennen, wie Metallwerkzeuge das Arbeiten erleichterten.",
+                      "Ich kann einfache Folgen der Metallnutzung für Gesellschaft und Handel beschreiben."
+                    ],
+                    "sample_questions": [
+                      "Warum waren Metallwerkzeuge für Bauern und Handwerker ein Vorteil?",
+                      "Wie konnten Metalle den Handel zwischen verschiedenen Gruppen fördern?"
+                    ],
+                    "sample_answers": [
+                      "Sie waren haltbarer und schärfer als Steinwerkzeuge und machten viele Arbeiten schneller und leichter.",
+                      "Metalle waren wertvoll und wurden über weite Strecken getauscht, sodass Gruppen miteinander in Kontakt kamen und Handel betrieben."
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

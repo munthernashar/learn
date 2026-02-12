@@ -1,0 +1,299 @@
+{
+  "school_id": "de_thueringen",
+  "grades": [
+    {
+      "grade_id": "klasse5",
+      "grade_label": "Klasse 5",
+      "subjects": [
+        {
+          "subject_id": "mat",
+          "subject_title": "Mathematik",
+          "modules": [
+            {
+              "module_id": "mat5_mod5",
+              "module_name": "Gebrochene Zahlen – Brüche und Dezimalzahlen verstehen",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Warum gebrochene Zahlen?",
+                    "text": "In diesem Modul lernst du Zahlen kennen, die zwischen den natürlichen Zahlen liegen, zum Beispiel 1/2 oder 3/4.[file:3] Solche gebrochenen Zahlen brauchst du überall im Alltag: beim Kochen, beim Teilen von Dingen, bei Längenangaben oder bei Geldbeträgen.[file:3]"
+                  },
+                  {
+                    "title": "Brüche anschaulich und als Zahl",
+                    "text": "Du baust ein Verständnis dafür auf, was ein Bruch bedeutet: einen Anteil eines Ganzen oder einer Menge.[file:3] Du stellst Brüche mit Bildern, auf dem Zahlenstrahl und mit der Bruchschreibweise dar und lernst die Begriffe Zähler, Nenner und Bruchstrich sicher zu verwenden.[file:3]"
+                  },
+                  {
+                    "title": "Von Brüchen zu Dezimalbrüchen",
+                    "text": "Du lernst Dezimalzahlen (Kommazahlen) wie 0,5 oder 2,75 kennen und stellst sie in der Stellenwerttafel und auf dem Zahlenstrahl dar.[file:3] Du übst, einfache Brüche in Dezimalbrüche und umgekehrt umzuwandeln und mit beiden Darstellungen zu rechnen.[file:3]"
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "mat5_mod5_u1",
+                  "text": "Ich kann Brüche mit Zähler, Nenner und Bruchstrich verstehen, darstellen und in Alltagssituationen deuten.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Aufbau eines Bruchs",
+                        "text": "Ein Bruch wie 3/4 besteht aus Zähler, Nenner und Bruchstrich.[file:3] Der Nenner (unten) gibt an, in wie viele gleich große Teile das Ganze geteilt wurde; der Zähler (oben) zeigt, wie viele dieser Teile gemeint sind.[file:3]"
+                      },
+                      {
+                        "title": "Brüche anschaulich darstellen",
+                        "text": "Du stellst Brüche mit Flächenmodellen (z. B. Kreise, Rechtecke), Strecken oder Mengen dar.[file:3] So erkennst du, dass zum Beispiel 1/2 einer Schokolade etwas anderes ist als 1/2 einer viel größeren Schokolade, aber der Anteil gleich bleibt.[file:3]"
+                      },
+                      {
+                        "title": "Brüche im Alltag",
+                        "text": "Brüche tauchen in vielen Alltagssituationen auf, etwa bei Rezepten (1/2 Liter Milch), bei Uhrzeiten (Viertelstunde) oder beim Teilen von Dingen (eine Pizza in 8 Stücke).[file:3] Du übst, solche Situationen mit Bruchschreibweise zu beschreiben und umgekehrt.[file:3]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Bruch",
+                        "definition": "Zahl, die einen Anteil eines Ganzen beschreibt, geschrieben mit Zähler, Bruchstrich und Nenner.[file:3]"
+                      },
+                      {
+                        "term": "Zähler",
+                        "definition": "Zahl im Bruch, die angibt, wie viele Teile genommen werden.[file:3]"
+                      },
+                      {
+                        "term": "Nenner",
+                        "definition": "Zahl im Bruch, die angibt, in wie viele Teile das Ganze geteilt wurde.[file:3]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann Zähler und Nenner benennen und erklären.[file:3]",
+                      "Ich kann einfache Brüche zeichnen (z. B. 1/2, 1/3, 3/4). [file:3]",
+                      "Ich kann Alltagssituationen mit einfachen Brüchen beschreiben.[file:3]",
+                      "Ich kann sagen, ob ein Bruch größer, kleiner oder gleich 1 ist (anschaulich). [file:3]"
+                    ],
+                    "sample_questions": [
+                      "Was bedeutet der Bruch 3/4 anschaulich?[file:3]",
+                      "Wie würdest du 1/2 Pizza in einer Zeichnung darstellen?[file:3]",
+                      "Ist 5/4 größer oder kleiner als 1? Begründe.[file:3]",
+                      "Nenne eine Alltagssituation, in der 1/3 vorkommen kann.[file:3]"
+                    ],
+                    "sample_answers": [
+                      "3/4 bedeutet: Ein Ganzes ist in 4 gleich große Teile geteilt, und 3 dieser Teile werden betrachtet.[file:3]",
+                      "Ich zeichne einen Kreis als Pizza, teile ihn in 2 gleich große Stücke und markiere eines davon.[file:3]",
+                      "5/4 ist größer als 1, weil 4/4 genau 1 Ganzes sind und 5/4 noch ein Viertel mehr ist.[file:3]",
+                      "Zum Beispiel: Ein Kuchen wird in 3 gleich große Stücke geteilt, und jede Person bekommt 1/3.[file:3]"
+                    ]
+                  }
+                },
+                {
+                  "id": "mat5_mod5_u2",
+                  "text": "Ich kann Brüche ordnen, vergleichen, erweitern und kürzen (in einfachen Fällen).",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Echte und unechte Brüche, gemischte Zahlen",
+                        "text": "Ein echter Bruch ist kleiner als 1, der Zähler ist kleiner als der Nenner, z. B. 3/5.[file:3] Ein unechter Bruch ist größer oder gleich 1, der Zähler ist größer oder gleich dem Nenner, z. B. 7/4.[file:3] Du lernst, unechte Brüche in gemischte Zahlen umzuwandeln (z. B. 7/4 = 1 3/4) und umgekehrt.[file:3]"
+                      },
+                      {
+                        "title": "Erweitern und Kürzen von Brüchen",
+                        "text": "Beim Erweitern multiplizierst du Zähler und Nenner mit derselben Zahl, beim Kürzen teilst du beide durch dieselbe Zahl.[file:3] Der Wert des Bruchs bleibt dabei gleich, z. B. 1/2 = 2/4 = 3/6.[file:3]"
+                      },
+                      {
+                        "title": "Brüche ordnen und vergleichen",
+                        "text": "Du vergleichst Brüche anschaulich mit Bildern oder auf dem Zahlenstrahl.[file:3] In einfachen Fällen nutzt du gleichnamige Brüche, also Brüche mit demselben Nenner, um zu entscheiden, welcher größer ist.[file:3]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "echter Bruch",
+                        "definition": "Bruch mit Zähler kleiner als Nenner (Wert kleiner als 1). [file:3]"
+                      },
+                      {
+                        "term": "unechter Bruch",
+                        "definition": "Bruch mit Zähler größer oder gleich Nenner (Wert größer oder gleich 1). [file:3]"
+                      },
+                      {
+                        "term": "gemischte Zahl",
+                        "definition": "Zahl aus einer ganzen Zahl und einem Bruch, z. B. 2 1/3.[file:3]"
+                      },
+                      {
+                        "term": "erweitern",
+                        "definition": "Zähler und Nenner mit derselben Zahl multiplizieren.[file:3]"
+                      },
+                      {
+                        "term": "kürzen",
+                        "definition": "Zähler und Nenner durch dieselbe Zahl teilen.[file:3]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann echte und unechte Brüche unterscheiden.[file:3]",
+                      "Ich kann unechte Brüche in gemischte Zahlen umwandeln und zurück.[file:3]",
+                      "Ich kann einfache Brüche erweitern und kürzen (z. B. mit 2, 3, 4). [file:3]",
+                      "Ich kann gleichnamige Brüche vergleichen und der Größe nach ordnen.[file:3]"
+                    ],
+                    "sample_questions": [
+                      "Ist 7/3 ein echter oder ein unechter Bruch? Schreibe ihn als gemischte Zahl.[file:3]",
+                      "Erweitere 1/3 mit 4 und kürze 8/12 so weit wie möglich.[file:3]",
+                      "Welche Zahl ist größer: 3/8 oder 5/8?[file:3]",
+                      "Ordne 1/2, 2/3, 1/4 der Größe nach (vom kleinsten zum größten) – gern zuerst anschaulich.[file:3]"
+                    ],
+                    "sample_answers": [
+                      "7/3 ist ein unechter Bruch, als gemischte Zahl: 2 1/3.[file:3]",
+                      "1/3 erweitert mit 4 ergibt 4/12; 8/12 gekürzt durch 4 ist 2/3.[file:3]",
+                      "5/8 ist größer als 3/8, weil beide den gleichen Nenner haben und 5 größer als 3 ist.[file:3]",
+                      "Anschaulich sieht man, dass 1/4 < 1/2 < 2/3; also: 1/4, 1/2, 2/3.[file:3]"
+                    ]
+                  }
+                },
+                {
+                  "id": "mat5_mod5_u3",
+                  "text": "Ich kann einfache Rechnungen mit Brüchen durchführen (v. a. mit gleichen Nennern) und in Sachaufgaben anwenden.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Brüche addieren und subtrahieren",
+                        "text": "Bei gleichen Nennern addierst oder subtrahierst du nur die Zähler, der Nenner bleibt gleich.[file:3] Beispiel: 1/8 + 3/8 = 4/8 = 1/2.[file:3]"
+                      },
+                      {
+                        "title": "Brüche in Sachaufgaben",
+                        "text": "Du verwendest Bruchrechnungen in einfachen Textaufgaben, zum Beispiel bei Kuchenstücken, Wegstrecken oder Zeitangaben.[file:3] Dabei hilft dir eine Skizze, den Sachverhalt zu verstehen.[file:3]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "gleichnamige Brüche",
+                        "definition": "Brüche mit gleichem Nenner.[file:3]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann einfache gleichnamige Brüche addieren und subtrahieren.[file:3]",
+                      "Ich kann Ergebnisse ggf. kürzen.[file:3]",
+                      "Ich kann zu einer Sachaufgabe mit Teilen eines Ganzen eine passende Bruchrechnung aufstellen.[file:3]"
+                    ],
+                    "sample_questions": [
+                      "Berechne 2/5 + 1/5.[file:3]",
+                      "Eine Tafel Schokolade ist in 8 Stücke geteilt. Du isst 3 Stücke, deine Freundin 2. Welchen Anteil habt ihr zusammen gegessen?[file:3]",
+                      "Subtrahiere 5/6 − 1/6.[file:3]"
+                    ],
+                    "sample_answers": [
+                      "2/5 + 1/5 = 3/5.[file:3]",
+                      "3/8 + 2/8 = 5/8 der Tafel.[file:3]",
+                      "5/6 − 1/6 = 4/6 = 2/3 (gekürzt). [file:3]"
+                    ]
+                  }
+                },
+                {
+                  "id": "mat5_mod5_u4",
+                  "text": "Ich kann Dezimalbrüche in der Stellenwerttafel und auf dem Zahlenstrahl darstellen, ordnen und runden.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Dezimalbrüche und Stellenwerttafel",
+                        "text": "Dezimalbrüche sind Zahlen mit Komma, zum Beispiel 0,5 oder 2,37.[file:3] Rechts vom Komma stehen Zehntel-, Hundertstel-, Tausendstelstellen usw.[file:3] Du trägst Dezimalzahlen in eine Stellenwerttafel ein und liest sie korrekt vor.[file:3]"
+                      },
+                      {
+                        "title": "Dezimalzahlen auf dem Zahlenstrahl",
+                        "text": "Du ordnest Dezimalzahlen auf dem Zahlenstrahl ein und erkennst, welche größer oder kleiner sind.[file:3] Dabei nutzt du dein Verständnis von Stellenwerten und vergleichst zum Beispiel 3,4 und 3,25.[file:3]"
+                      },
+                      {
+                        "title": "Runden von Dezimalzahlen",
+                        "text": "Du rundest Dezimalzahlen auf eine bestimmte Stelle (z. B. auf Zehntel oder Hundertstel) nach den bekannten Rundungsregeln.[file:3]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Dezimalbruch",
+                        "definition": "Bruch, der als Kommazahl geschrieben wird, z. B. 0,75.[file:3]"
+                      },
+                      {
+                        "term": "Zehntelstelle",
+                        "definition": "Erste Stelle rechts vom Komma.[file:3]"
+                      },
+                      {
+                        "term": "Hundertstelstelle",
+                        "definition": "Zweite Stelle rechts vom Komma.[file:3]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann Dezimalzahlen korrekt in eine Stellenwerttafel eintragen.[file:3]",
+                      "Ich kann Dezimalzahlen auf dem Zahlenstrahl darstellen und vergleichen.[file:3]",
+                      "Ich kann Dezimalzahlen auf eine vorgegebene Stelle runden.[file:3]"
+                    ],
+                    "sample_questions": [
+                      "Schreibe 3,207 in eine Stellenwerttafel (Einer, Zehntel, Hundertstel, Tausendstel).[file:3]",
+                      "Welche Zahl ist größer: 4,5 oder 4,35? Begründe.[file:3]",
+                      "Runde 7,386 auf ein Zehntel.[file:3]"
+                    ],
+                    "sample_answers": [
+                      "3 Einer, 2 Zehntel, 0 Hundertstel, 7 Tausendstel.[file:3]",
+                      "4,5 ist größer, weil beide Zahlen 4 Einer haben, aber 0,5 > 0,35.[file:3]",
+                      "7,386 ≈ 7,4, weil an der Hundertstelstelle eine 8 steht (also aufrunden). [file:3]"
+                    ]
+                  }
+                },
+                {
+                  "id": "mat5_mod5_u5",
+                  "text": "Ich kann einfache Brüche in Dezimalbrüche und Prozentangaben umwandeln und umgekehrt (in Grundfällen).",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Von Bruch zu Dezimalzahl",
+                        "text": "Du wandelst einfache Brüche in Dezimalzahlen um, vor allem mit Nennern 2, 4, 5, 10, 20, 25 und 100.[file:3] Zum Beispiel 1/2 = 0,5, 1/4 = 0,25, 3/4 = 0,75.[file:3]"
+                      },
+                      {
+                        "title": "Prozent als besondere Schreibweise",
+                        "text": "Prozentangaben sind Brüche mit Nenner 100, z. B. 25 % = 25/100 = 0,25.[file:3] Du nutzt einfache Prozentwerte, um Anteile anschaulich zu beschreiben.[file:3]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Prozent",
+                        "definition": "Anteil mit Bezugsgröße 100, geschrieben mit dem Zeichen %.[file:3]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kenne die Umwandlung einiger Standardbrüche in Dezimalzahlen (1/2, 1/4, 3/4, 1/5, 2/5). [file:3]",
+                      "Ich kann einfache Prozentwerte als Bruch und Dezimalzahl angeben.[file:3]",
+                      "Ich kann in einfachen Sachaufgaben zwischen Bruch, Dezimalzahl und Prozent wechseln.[file:3]"
+                    ],
+                    "sample_questions": [
+                      "Wandle 1/2, 1/4 und 3/4 in Dezimalzahlen um.[file:3]",
+                      "Was bedeutet 50 % als Bruch und als Dezimalzahl?[file:3]",
+                      "Schreibe 0,2 als Bruch und als Prozentangabe.[file:3]"
+                    ],
+                    "sample_answers": [
+                      "1/2 = 0,5; 1/4 = 0,25; 3/4 = 0,75.[file:3]",
+                      "50 % = 50/100 = 1/2 = 0,5.[file:3]",
+                      "0,2 = 2/10 = 1/5 = 20 %.[file:3]"
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

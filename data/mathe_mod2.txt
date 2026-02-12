@@ -1,0 +1,328 @@
+{
+  "school_id": "de_thueringen",
+  "grades": [
+    {
+      "grade_id": "klasse5",
+      "grade_label": "Klasse 5",
+      "subjects": [
+        {
+          "subject_id": "mat",
+          "subject_title": "Mathematik",
+          "modules": [
+            {
+              "module_id": "mat5_mod2",
+              "module_name": "Natürliche Zahlen – Zahlen lesen, darstellen und mit ihnen rechnen",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Überblick über das Modul Natürliche Zahlen",
+                    "text": "In diesem Modul beschäftigst du dich mit den natürlichen Zahlen – also den Zahlen, mit denen du zählst: 1, 2, 3, … Du lernst, große Zahlen zu lesen, zu schreiben und in Stellenwerttafeln oder auf dem Zahlenstrahl darzustellen. Außerdem übst du, Zahlen zu ordnen, zu runden und Rechenaufgaben geschickt zu lösen."
+                  },
+                  {
+                    "title": "Rechnen im Alltag und in Sachaufgaben",
+                    "text": "Natürliche Zahlen brauchst du überall: beim Einkaufen, beim Rechnen mit Zeiten, beim Zählen von Personen oder Dingen. Du wiederholst und vertiefst alle vier Grundrechenarten – Plus, Minus, Mal und Geteilt – im Kopf, halbschriftlich und schriftlich. Dabei lernst du, Rechengesetze und Rechentricks zu nutzen, um schneller und sicherer zu rechnen, und du setzt dein Wissen in Sachaufgaben ein."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "mat5_mod2_u1",
+                  "text": "Ich kann natürliche Zahlen in verschiedenen Darstellungen sicher lesen, schreiben, ordnen und vergleichen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Natürliche Zahlen und Stellenwertsystem",
+                        "text": "Natürliche Zahlen sind die Zahlen, mit denen du zählst: 1, 2, 3, … Im Zehnersystem hat jede Ziffer einen bestimmten Stellenwert. Von rechts nach links stehen Einer, Zehner, Hunderter, Tausender, Zehntausender, Hunderttausender, Millionen usw. Eine Zahl wie 305 047 kannst du in einer Stellenwerttafel eintragen, um zu sehen, welche Stelle welchen Wert hat."
+                      },
+                      {
+                        "title": "Zahlen lesen und schreiben",
+                        "text": "Große Zahlen liest du, indem du sie in Dreiergruppen (Hundertergruppen) einteilst. Zum Beispiel: 123 456 789 liest du als „einhundertdreiundzwanzig Millionen vierhundertsechsundfünfzigtausend siebenhundertneunundachtzig“. Du übst, Zahlen in Zifferschreibweise und als Zahlwort zu schreiben und sie sauber mit Dreiertrennungen zu notieren."
+                      },
+                      {
+                        "title": "Zahlen ordnen und vergleichen",
+                        "text": "Um Zahlen zu vergleichen, schaust du zuerst auf die Anzahl der Stellen: Eine Million ist größer als zehntausend, weil sie mehr Stellen hat. Haben Zahlen gleich viele Stellen, vergleichst du Stelle für Stelle von links nach rechts. Du kannst Zahlen auch auf einem Zahlenstrahl markieren, um ihre Größe zu sehen. Zeichen wie <, > und = helfen dir, Vergleiche kurz aufzuschreiben."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "natürliche Zahl",
+                        "definition": "Zahl, mit der man zählt: 1, 2, 3, … (häufig wird auch 0 dazugezählt)."
+                      },
+                      {
+                        "term": "Stellenwert",
+                        "definition": "Bedeutung einer Ziffer je nach Stelle in der Zahl (Einer, Zehner, Hunderter …)."
+                      },
+                      {
+                        "term": "Stellenwerttafel",
+                        "definition": "Tabelle, in der jede Stelle (Einer, Zehner, Hunderter …) eine eigene Spalte hat."
+                      },
+                      {
+                        "term": "Zahlenstrahl",
+                        "definition": "Gerade, auf der Zahlen in der richtigen Reihenfolge eingetragen werden."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann Zahlen bis mindestens 1 000 000 sicher lesen und schreiben.",
+                      "Ich kann Zahlen in eine Stellenwerttafel eintragen und daraus ablesen.",
+                      "Ich kann Zahlen der Größe nach ordnen (auf- und absteigend).",
+                      "Ich kann mit <, > und = Vergleiche zwischen zwei Zahlen notieren."
+                    ],
+                    "sample_questions": [
+                      "Schreibe die Zahl „drei Millionen fünfundzwanzigtausend neunundvierzig“ in Ziffern.",
+                      "In welche Stellenwerttafel gehört die Zahl 207 030?",
+                      "Welche Zahl ist größer: 98 765 oder 99 087? Begründe.",
+                      "Ordne die Zahlen 4 500, 450, 45 000 der Größe nach (aufsteigend)."
+                    ],
+                    "sample_answers": [
+                      "Drei Millionen fünfundzwanzigtausend neunundvierzig schreibt man: 3 025 049.",
+                      "207 030 hat 2 Hunderttausender, 0 Zehntausender, 7 Tausender, 0 Hunderter, 3 Zehner und 0 Einer.",
+                      "99 087 ist größer, weil beide Zahlen fünfstellig sind und die Zehntausender gleich sind (9). Beim Tausender ist 9 größer als 8.",
+                      "Aufsteigend: 450; 4 500; 45 000."
+                    ]
+                  }
+                },
+                {
+                  "id": "mat5_mod2_u2",
+                  "text": "Ich kann natürliche Zahlen sinnvoll runden und Ergebnisse überschlagen (schätzen).",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Warum runden?",
+                        "text": "Im Alltag brauchst du nicht immer ganz genaue Zahlen. Oft reicht eine ungefähre Angabe, zum Beispiel bei Einwohnerzahlen oder Preisen. Du rundest Zahlen, um sie zu vereinfachen und schneller überschlagen zu können, ob ein Ergebnis ungefähr stimmt."
+                      },
+                      {
+                        "title": "Rundungsregeln",
+                        "text": "Beim Runden entscheidest du, auf welche Stelle du runden willst, z. B. auf Zehner, Hunderter oder Tausender. Du schaust auf die Ziffer rechts daneben: Ist sie 0, 1, 2, 3 oder 4, rundest du ab. Ist sie 5, 6, 7, 8 oder 9, rundest du auf. Beispiel: 3 467 gerundet auf Hunderter ist 3 500, weil die Zehnerstelle 6 ist."
+                      },
+                      {
+                        "title": "Überschlagen von Ergebnissen",
+                        "text": "Beim Überschlagen ersetzt du Zahlen durch gerundete Werte, rechnest damit und prüfst so, ob ein genaues Ergebnis ungefähr stimmen kann. Beispiel: 198 + 403 ≈ 200 + 400 = 600. Liegt dein genaues Ergebnis in der Nähe dieser Zahl, ist es wahrscheinlich richtig."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Runden",
+                        "definition": "Ersetzen einer Zahl durch eine einfachere Zahl, die ungefähr gleich groß ist."
+                      },
+                      {
+                        "term": "Überschlag",
+                        "definition": "Grobe Rechnung mit gerundeten Zahlen, um das Ergebnis abzuschätzen."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann Zahlen auf Zehner, Hunderter und Tausender runden.",
+                      "Ich kann erkennen, ob beim Runden auf- oder abgerundet wird.",
+                      "Ich kann bei einfachen Rechnungen einen Überschlag bilden.",
+                      "Ich kann sagen, ob ein Rechenergebnis ungefähr sinnvoll ist."
+                    ],
+                    "sample_questions": [
+                      "Runde 7 384 auf den nächsten Tausender.",
+                      "Erkläre, warum 4 249 auf Hunderter gerundet zu 4 200 wird.",
+                      "Mache einen Überschlag für 1 987 + 3 021.",
+                      "Warum ist ein Überschlag bei Sachaufgaben hilfreich?"
+                    ],
+                    "sample_answers": [
+                      "Auf Tausender gerundet ist 7 384 ungefähr 7 000, weil die Hunderterstelle 3 ist (also abrunden).",
+                      "Die Zehnerstelle ist 4, also wird abgerundet. 4 249 wird zu 4 200.",
+                      "1 987 ≈ 2 000 und 3 021 ≈ 3 000, also ist der Überschlag 2 000 + 3 000 = 5 000.",
+                      "Mit einem Überschlag kannst du schnell prüfen, ob das genaue Ergebnis in etwa stimmen kann und du dich nicht völlig verrechnet hast."
+                    ]
+                  }
+                },
+                {
+                  "id": "mat5_mod2_u3",
+                  "text": "Ich kann mit natürlichen Zahlen sicher im Kopf, halbschriftlich und schriftlich addieren und subtrahieren.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Plus und Minus verstehen",
+                        "text": "Beim Addieren („plus rechnen“) werden Mengen zusammengelegt, beim Subtrahieren („minus rechnen“) wird eine Menge weggenommen oder die Differenz zwischen zwei Zahlen gesucht. Du wiederholst, wie Plus- und Minusaufgaben zusammenhängen und wie du Ergebnisse sinnvoll kontrollieren kannst."
+                      },
+                      {
+                        "title": "Kopfrechnen und halbschriftliche Verfahren",
+                        "text": "Im Kopf rechnest du, indem du Zahlen in einfachere Teile zerlegst, z. B. 48 + 27 = 40 + 20 + 8 + 7. Bei halbschriftlichen Verfahren schreibst du Zwischenschritte auf, aber ohne das volle schriftliche Schema. Du übst verschiedene Strategien wie schrittweises Ergänzen oder Zerlegen."
+                      },
+                      {
+                        "title": "Schriftliche Addition und Subtraktion",
+                        "text": "Bei der schriftlichen Addition und Subtraktion schreibst du Zahlen untereinander, achtest auf die richtige Stellenanordnung und rechnest Stelle für Stelle. Du wiederholst Tragen und Borgen (Überträge und Entbündeln) und achtest auf sorgfältige Notation, damit du dich nicht vertust."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Summe",
+                        "definition": "Ergebnis einer Addition."
+                      },
+                      {
+                        "term": "Differenz",
+                        "definition": "Ergebnis einer Subtraktion."
+                      },
+                      {
+                        "term": "Übertrag",
+                        "definition": "Zehner, Hunderter usw., die beim schriftlichen Rechnen „mitgenommen“ werden."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann einfache Plus- und Minusaufgaben im Kopf lösen.",
+                      "Ich kann halbschriftlich addieren und subtrahieren (Zwischenschritte notieren).",
+                      "Ich kann schriftlich mit mehrstelligen Zahlen sicher addieren und subtrahieren.",
+                      "Ich kann Ergebnisse mit einem Überschlag oder der Gegenrechnung kontrollieren."
+                    ],
+                    "sample_questions": [
+                      "Löse 387 + 459 halbschriftlich.",
+                      "Rechne 1 002 − 587 schriftlich.",
+                      "Welche Gegenrechnung passt zu 2 356 − 879 = 1 477?",
+                      "Wie kannst du prüfen, ob dein Ergebnis sinnvoll ist?"
+                    ],
+                    "sample_answers": [
+                      "387 + 459: 300 + 400 = 700; 80 + 50 = 130; 7 + 9 = 16; 700 + 130 + 16 = 846.",
+                      "Schriftlich gerechnet ergibt 1 002 − 587 = 415.",
+                      "Zur Subtraktion 2 356 − 879 = 1 477 passt die Addition 1 477 + 879. Wenn sie 2 356 ergibt, stimmt die Rechnung.",
+                      "Ich mache einen Überschlag und/oder benutze die Gegenrechnung (z. B. statt Minus plus rechnen)."
+                    ]
+                  }
+                },
+                {
+                  "id": "mat5_mod2_u4",
+                  "text": "Ich kann mit natürlichen Zahlen sicher im Kopf, halbschriftlich und schriftlich multiplizieren und dividieren und Rechengesetze nutzen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Malnehmen und Teilen verstehen",
+                        "text": "Multiplizieren („malnehmen“) ist wiederholtes Addieren, zum Beispiel 4 · 6 = 6 + 6 + 6 + 6. Dividieren („teilen“) beschreibt, wie eine Menge gleichmäßig aufgeteilt oder in gleich große Gruppen zerlegt wird. Du übst das Einmaleins und seine Umkehrung beim Teilen."
+                      },
+                      {
+                        "title": "Kopfrechnen und halbschriftliche Strategien",
+                        "text": "Beim Malnehmen im Kopf zerlegst du oft eine Zahl in Teile, zum Beispiel 6 · 24 = 6 · (20 + 4) = 6 · 20 + 6 · 4. Beim Teilen nutzt du bekannte Zerlegungen und Vielfache. Halbschriftlich notierst du dir Zwischenergebnisse, ohne gleich das volle schriftliche Schema zu verwenden."
+                      },
+                      {
+                        "title": "Schriftliche Multiplikation und Division",
+                        "text": "Du wiederholst und vertiefst die schriftliche Multiplikation und Division mit mehrstelligen Zahlen. Dabei achtest du auf die richtige Anordnung der Ziffern und gehst Schritt für Schritt vor. Du nutzt auch Rechengesetze: Vertauschungsgesetz (a · b = b · a), Verbindungsgesetz und Verteilungsgesetz, um Aufgaben zu vereinfachen."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Produkt",
+                        "definition": "Ergebnis einer Multiplikation."
+                      },
+                      {
+                        "term": "Quotient",
+                        "definition": "Ergebnis einer Division."
+                      },
+                      {
+                        "term": "Kommutativgesetz",
+                        "definition": "Vertauschungsgesetz: a + b = b + a, a · b = b · a."
+                      },
+                      {
+                        "term": "Distributivgesetz",
+                        "definition": "Verteilungsgesetz: a · (b + c) = a · b + a · c."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kenne das Einmaleins sicher und kann es beim Rechnen nutzen.",
+                      "Ich kann einfache Mal- und Geteiltaufgaben im Kopf lösen.",
+                      "Ich kann schriftlich mit mehrstelligen Zahlen multiplizieren und dividieren.",
+                      "Ich kann Rechengesetze nutzen, um Aufgaben zu vereinfachen."
+                    ],
+                    "sample_questions": [
+                      "Berechne 6 · 37 mit Hilfe des Distributivgesetzes.",
+                      "Erkläre in einem Beispiel das Kommutativgesetz beim Multiplizieren.",
+                      "Rechne 1 764 : 6 schriftlich.",
+                      "Wie kannst du mit 25 · 48 geschickt rechnen?"
+                    ],
+                    "sample_answers": [
+                      "6 · 37 = 6 · (30 + 7) = 6 · 30 + 6 · 7 = 180 + 42 = 222.",
+                      "Beispiel: 4 · 7 = 7 · 4 = 28. Es ist egal, in welcher Reihenfolge ich die Faktoren schreibe – das Ergebnis ist gleich.",
+                      "Schriftlich gerechnet ergibt 1 764 : 6 = 294.",
+                      "Ich kann 25 · 48 = 25 · (50 − 2) = 25 · 50 − 25 · 2 = 1 250 − 50 = 1 200 rechnen."
+                    ]
+                  }
+                },
+                {
+                  "id": "mat5_mod2_u5",
+                  "text": "Ich kann Teiler, Vielfache, gerade und ungerade Zahlen erkennen und einfache Zusammenhänge nutzen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Gerade und ungerade Zahlen",
+                        "text": "Gerade Zahlen sind durch 2 teilbar, zum Beispiel 8 = 2 · 4. Ungerade Zahlen lassen sich nicht ohne Rest durch 2 teilen, zum Beispiel 9 : 2 = 4 Rest 1. Du erkennst gerade Zahlen an der Endziffer 0, 2, 4, 6, 8, ungerade Zahlen an 1, 3, 5, 7, 9."
+                      },
+                      {
+                        "title": "Vielfache und Teiler",
+                        "text": "Ein Vielfaches von 6 ist zum Beispiel 6, 12, 18, 24, … – also Ergebnisse von 6 · 1, 6 · 2, 6 · 3, …. Ein Teiler von 12 ist eine Zahl, durch die man 12 ohne Rest teilen kann, zum Beispiel 1, 2, 3, 4, 6, 12. Du lernst, Vielfache und Teiler einfacher Zahlen zu finden und solche Begriffe in Sachaufgaben zu nutzen."
+                      },
+                      {
+                        "title": "Anwendungen im Alltag",
+                        "text": "Teiler und Vielfache brauchst du zum Beispiel, wenn du Dinge gleichmäßig aufteilst oder Gruppen bildest (z. B. „Wie viele Teams mit gleicher Spielerzahl sind möglich?“). Du kannst so Entscheidungsaufgaben strukturieren und sicherer lösen."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "gerade Zahl",
+                        "definition": "Natürliche Zahl, die ohne Rest durch 2 teilbar ist."
+                      },
+                      {
+                        "term": "ungerade Zahl",
+                        "definition": "Natürliche Zahl, die beim Teilen durch 2 einen Rest lässt."
+                      },
+                      {
+                        "term": "Vielfaches",
+                        "definition": "Zahl, die als Ergebnis einer Multiplikation mit einer anderen Zahl entsteht (z. B. 18 ist ein Vielfaches von 6)."
+                      },
+                      {
+                        "term": "Teiler",
+                        "definition": "Zahl, durch die man eine andere Zahl ohne Rest teilen kann."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann gerade und ungerade Zahlen sicher unterscheiden.",
+                      "Ich kann zu einer Zahl mehrere Vielfache angeben.",
+                      "Ich kann zu einer Zahl einfache Teiler finden.",
+                      "Ich kann Teiler- und Vielfachwissen in einfachen Sachaufgaben nutzen."
+                    ],
+                    "sample_questions": [
+                      "Nenne fünf gerade und fünf ungerade Zahlen.",
+                      "Gib die ersten fünf Vielfachen von 7 an.",
+                      "Welche Zahlen sind Teiler von 18?",
+                      "Wie kannst du 24 Bonbons gerecht auf 4 Kinder verteilen und welche Rolle spielt hier das Rechnen mit Teilern?"
+                    ],
+                    "sample_answers": [
+                      "Gerade Zahlen: 2, 4, 6, 8, 10; ungerade Zahlen: 1, 3, 5, 7, 9.",
+                      "Die ersten fünf Vielfachen von 7 sind: 7, 14, 21, 28, 35.",
+                      "Teiler von 18 sind: 1, 2, 3, 6, 9, 18.",
+                      "24 Bonbons : 4 Kinder = 6 Bonbons pro Kind. Die 4 ist ein Teiler von 24, weil 24 : 4 ohne Rest aufgeht."
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "school_id": "de_thueringen",
+  "grades": [
+    {
+      "grade_id": "klasse5",
+      "grade_label": "Klasse 5",
+      "subjects": [
+        {
+          "subject_id": "geo",
+          "subject_title": "Geografie",
+          "modules": [
+            {
+              "module_id": "geo5_mod3",
+              "module_name": "Wirtschaftliches Handeln zwischen Ökonomie und Ökologie",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Wirtschaften in der Umwelt",
+                    "text": "In diesem Modul lernst du, wie menschliches Wirtschaften (z. B. Landwirtschaft, Tourismus, Energie, Verkehr) die Umwelt beeinflusst und welche Unterschiede es zwischen konventionellen und umweltfreundlichen Formen gibt.[file:5] Du beschreibst Beispiele aus Thüringen, Deutschland und Europa und vergleichst die Vor- und Nachteile verschiedener Nutzungsformen.[file:5]"
+                  },
+                  {
+                    "title": "Nachhaltigkeit als Leitidee",
+                    "text": "Du beschäftigst dich mit der Frage, wie Menschen so wirtschaften können, dass Natur und Ressourcen auch für zukünftige Generationen erhalten bleiben.[file:5] Dazu betrachtest du verschiedene Bereiche wie Land- und Forstwirtschaft, Tourismus, Energieerzeugung und Verkehrskonzepte.[file:5]"
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "geo5_mod3_u1",
+                  "text": "Ich kann konventionelle und ökologische Land- und Forstwirtschaft in einfachen Beispielen beschreiben und vergleichen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Konventionelle Landwirtschaft",
+                        "text": "In der konventionellen Landwirtschaft werden oft große Flächen mit wenigen Kulturpflanzen bewirtschaftet, es kommen viele Maschinen, Mineraldünger und Pflanzenschutzmittel zum Einsatz.[file:5] Dadurch können hohe Erträge erzielt werden, aber Boden, Wasser und Artenvielfalt können stärker belastet werden.[file:5]"
+                      },
+                      {
+                        "title": "Ökologische Landwirtschaft",
+                        "text": "Ökologische Landwirtschaft (Bio-Landbau) versucht, ohne synthetische Pflanzenschutzmittel und Mineraldünger auszukommen.[file:5] Stattdessen werden z. B. Fruchtfolgen, Kompost, artgerechte Tierhaltung und der Verzicht auf Gentechnik betont; Erträge sind oft niedriger, dafür wird die Umwelt geschont.[file:5]"
+                      },
+                      {
+                        "title": "Forstwirtschaft",
+                        "text": "Auch Wälder können sehr unterschiedlich genutzt werden: In Monokulturen wachsen meist nur eine Baumart, in naturnahen Mischwäldern verschiedene Baumarten, was die Stabilität des Waldes erhöht.[file:5]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Bioprodukte",
+                        "definition": "Lebensmittel aus ökologischer Landwirtschaft, die bestimmte Umwelt- und Qualitätsstandards einhalten.[file:5]"
+                      },
+                      {
+                        "term": "Boden",
+                        "definition": "Oberste Schicht der Erdkruste, in der Pflanzen wachsen; wichtiger Lebens- und Produktionsraum.[file:5]"
+                      },
+                      {
+                        "term": "landwirtschaftlicher Gunstraum",
+                        "definition": "Gebiet mit günstigen natürlichen Bedingungen für Landwirtschaft (z. B. fruchtbare Böden, mildes Klima). [file:5]"
+                      },
+                      {
+                        "term": "industrielle Tierhaltung",
+                        "definition": "Haltung vieler Tiere auf engem Raum mit hohem Technik- und Futtereinsatz zur Maximierung der Produktion.[file:5]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann zwei Merkmale konventioneller und zwei Merkmale ökologischer Landwirtschaft nennen. [file:5]",
+                      "Ich kann einfache Vor- und Nachteile der beiden Formen beschreiben. [file:5]",
+                      "Ich kann erklären, warum Wälder als Wirtschafts- und Lebensraum wichtig sind. [file:5]"
+                    ],
+                    "sample_questions": [
+                      "Nenne zwei Unterschiede zwischen konventioneller und ökologischer Landwirtschaft.",
+                      "Warum sind Monokulturen im Wald problematisch?",
+                      "Welche Vorteile können Bioprodukte für Umwelt und Verbraucher haben?"
+                    ],
+                    "sample_answers": [
+                      "Konventionell: viel Dünger und Pflanzenschutzmittel, hohe Erträge; ökologisch: weniger Chemie, mehr Fruchtfolgen und artgerechte Tierhaltung.",
+                      "Monokulturen sind anfälliger für Schädlinge und Sturmschäden; wenn nur eine Baumart betroffen ist, kann der ganze Wald geschädigt werden.",
+                      "Bioprodukte schonen Boden und Wasser, fördern Tierschutz und enthalten weniger Rückstände von Pflanzenschutzmitteln."
+                    ]
+                  }
+                },
+                {
+                  "id": "geo5_mod3_u2",
+                  "text": "Ich kann Massentourismus und sanften Tourismus unterscheiden und ihre Auswirkungen auf Menschen und Umwelt erklären.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Massentourismus",
+                        "text": "Beim Massentourismus reisen sehr viele Menschen gleichzeitig in die gleichen Regionen, oft in großen Hotelanlagen und mit pauschalen Angeboten.[file:5] Das bringt zwar Einkommen und Arbeitsplätze, kann aber zu Umweltbelastungen (z. B. Abfall, Wasserverbrauch, Lärm) und zur Veränderung von Lebensweisen führen.[file:5]"
+                      },
+                      {
+                        "title": "Sanfter Tourismus",
+                        "text": "Sanfter oder nachhaltiger Tourismus versucht, die Natur zu schonen und die lokale Bevölkerung einzubeziehen.[file:5] Beispiele sind kleine Pensionen, Wandertourismus, regionale Produkte und Angebote, die an Kultur und Natur angepasst sind.[file:5]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Massentourismus",
+                        "definition": "Tourismusform mit vielen Reisenden, großen Anlagen und starker Konzentration auf wenige Ziele.[file:5]"
+                      },
+                      {
+                        "term": "sanfter Tourismus",
+                        "definition": "Tourismusform, die Umwelt und Kultur möglichst wenig belastet und die lokale Bevölkerung einbindet.[file:5]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann typische Merkmale von Massentourismus und sanftem Tourismus nennen. [file:5]",
+                      "Ich kann erklären, warum Tourismus sowohl Vorteile als auch Nachteile haben kann. [file:5]"
+                    ],
+                    "sample_questions": [
+                      "Nenne zwei Vorteile und zwei Nachteile des Massentourismus für eine Urlaubsregion.",
+                      "Wie kann sanfter Tourismus die Umwelt besser schützen?"
+                    ],
+                    "sample_answers": [
+                      "Vorteile: mehr Arbeitsplätze, mehr Geld für die Region; Nachteile: mehr Müll, höherer Wasserverbrauch, Lärm und Naturzerstörung.",
+                      "Er nutzt kleinere Unterkünfte, respektiert Naturschutzgebiete, setzt auf regionale Produkte und vermeidet große Eingriffe in Landschaft und Kultur."
+                    ]
+                  }
+                },
+                {
+                  "id": "geo5_mod3_u3",
+                  "text": "Ich kann Stromerzeugung aus regenerativen und nicht regenerativen Energieträgern in Grundzügen vergleichen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Nicht regenerative Energieträger",
+                        "text": "Nicht regenerative Energieträger wie Kohle, Erdöl oder Erdgas sind nur begrenzt vorhanden und können sich in menschlichen Zeiträumen nicht erneuern.[file:5] Ihre Nutzung setzt oft große Mengen an CO₂ frei und belastet Umwelt und Klima.[file:5]"
+                      },
+                      {
+                        "title": "Regenerative Energieträger",
+                        "text": "Regenerative Energieträger wie Sonne, Wind, Wasser und Biomasse erneuern sich ständig oder stehen langfristig zur Verfügung.[file:5] Ihre Nutzung verursacht meist weniger Schadstoffe, kann aber ebenfalls Eingriffe in Landschaft und Natur bedeuten (z. B. Staudämme, Windparks). [file:5]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "nicht regenerative Energieträger",
+                        "definition": "Energieträger, die sich nur sehr langsam erneuern und daher begrenzt sind (z. B. Kohle, Erdöl).[file:5]"
+                      },
+                      {
+                        "term": "regenerativer Energieträger",
+                        "definition": "Energieträger, der sich ständig erneuert oder langfristig zur Verfügung steht (z. B. Sonne, Wind). [file:5]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann Beispiele für nicht regenerative und regenerative Energieträger nennen. [file:5]",
+                      "Ich kann einfache Vor- und Nachteile beider Gruppen erklären. [file:5]"
+                    ],
+                    "sample_questions": [
+                      "Nenne zwei nicht regenerative und zwei regenerative Energieträger.",
+                      "Warum will man den Anteil regenerativer Energien in der Stromerzeugung erhöhen?"
+                    ],
+                    "sample_answers": [
+                      "Nicht regenerativ: Kohle, Erdöl; regenerativ: Sonne, Wind.",
+                      "Weil sie das Klima weniger belasten und langfristig verfügbar sind, während fossile Energieträger begrenzt sind und mehr CO₂ freisetzen."
+                    ]
+                  }
+                },
+                {
+                  "id": "geo5_mod3_u4",
+                  "text": "Ich kann einfache Verkehrskonzepte (z. B. ÖPNV, Straßenverkehr) beschreiben und ihre Vor- und Nachteile für Umwelt und Alltag benennen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Verkehrsträger und Verkehrskonzepte",
+                        "text": "Es gibt verschiedene Verkehrsträger wie Auto, Bus, Bahn, Fahrrad oder Flugzeug, die im Personen- und Güterverkehr eingesetzt werden.[file:5] Verkehrskonzepte versuchen, diese Verkehrsmittel so zu planen, dass sie den Alltag erleichtern und die Umwelt möglichst wenig belasten.[file:5]"
+                      },
+                      {
+                        "title": "Öffentlicher Personennahverkehr (ÖPNV)",
+                        "text": "Der ÖPNV umfasst z. B. Busse, Straßenbahnen oder Regionalzüge.[file:5] Er kann viele Menschen gleichzeitig transportieren und so den Autoverkehr und die Umweltbelastung verringern, wenn er gut ausgebaut und attraktiv ist.[file:5]"
+                      },
+                      {
+                        "title": "Verkehrsknoten und Transitverkehr",
+                        "text": "Verkehrsknoten sind Orte, an denen sich wichtige Verkehrswege kreuzen, z. B. Bahnhöfe oder Autobahnkreuze.[file:5] Transitverkehr ist Durchgangsverkehr, der eine Region nur durchquert, um von einem Ort zum anderen zu kommen.[file:5]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "ÖPNV",
+                        "definition": "Öffentlicher Personennahverkehr, z. B. Busse, Straßenbahnen, Regionalzüge.[file:5]"
+                      },
+                      {
+                        "term": "Verkehrsträger",
+                        "definition": "Art des Verkehrsmittels, z. B. Straße, Schiene, Luft, Wasser.[file:5]"
+                      },
+                      {
+                        "term": "Verkehrsknoten",
+                        "definition": "Ort, an dem sich mehrere Verkehrswege treffen oder kreuzen.[file:5]"
+                      },
+                      {
+                        "term": "Transitverkehr",
+                        "definition": "Durchgangsverkehr, der eine Region ohne Ziel dort durchquert.[file:5]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann erklären, was ÖPNV ist und welche Vorteile er haben kann. [file:5]",
+                      "Ich kann Vor- und Nachteile des Autoverkehrs in der Stadt nennen. [file:5]"
+                    ],
+                    "sample_questions": [
+                      "Warum ist ein gut ausgebauter ÖPNV wichtig für Städte?",
+                      "Nenne einen Vorteil und einen Nachteil des Autoverkehrs im Stadtzentrum."
+                    ],
+                    "sample_answers": [
+                      "Weil er viele Menschen ohne eigenes Auto mobil macht, Staus und Abgase verringern kann und weniger Platz pro Person braucht.",
+                      "Vorteil: Man ist flexibel und kommt direkt ans Ziel; Nachteil: Es entstehen Staus, Lärm und Luftverschmutzung, und es wird viel Platz für Straßen und Parkplätze benötigt."
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

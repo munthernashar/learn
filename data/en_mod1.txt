@@ -1,0 +1,400 @@
+{
+  "school_id": "de_thueringen",
+  "grades": [
+    {
+      "grade_id": "klasse5",
+      "grade_label": "Klasse 5",
+      "subjects": [
+        {
+          "subject_id": "eng1",
+          "subject_title": "Englisch (1. Fremdsprache)",
+          "modules": [
+            {
+              "module_id": "eng5_mod1",
+              "module_name": "Listening – Texte hören und verstehen",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Hören in Alltagssituationen",
+                    "text": "In diesem Modul lernst du, einfache Hör- und Hör-Sehtexte zu vertrauten Themen zu verstehen, wenn langsam, deutlich und in einfacher Standardsprache gesprochen wird.[file:4] Dazu gehören z. B. Klassensituationen, kleine Dialoge, Lieder, kurze Geschichten oder Durchsagen."
+                  },
+                  {
+                    "title": "Strategien beim Hörverstehen",
+                    "text": "Du nutzt Bilder, bekannte Wörter, Geräusche, Mimik und Gestik sowie dein Weltwissen, um den Inhalt zu erschließen.[file:4] Du lernst, auf Schlüsselwörter zu achten, Wichtiges von Unwichtigem zu unterscheiden und dir mit Stichwörtern oder kleinen Skizzen Notizen zu machen."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "eng5_mod1_u1",
+                  "text": "Ich kann einfachen Hörtexten zu vertrauten Themen folgen und wichtige Informationen entnehmen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Bekannte Themen hören",
+                        "text": "Die Hörtexte handeln von Dingen aus deinem Alltag: Schule, Familie, Freunde, Hobbys, Wetter oder Tiere.[file:4] Die Sprecher benutzen überwiegend bekannten Wortschatz und einfache Strukturen, manchmal kommen wenige unbekannte Wörter vor, die du aus dem Zusammenhang erschließt.[file:4]"
+                      },
+                      {
+                        "title": "Global, selektiv und detailliert hören",
+                        "text": "Du lernst, je nach Aufgabe unterschiedlich zu hören: mal nur den groben Inhalt (global), mal nur bestimmte Infos (selektiv), mal möglichst viele Details (detailliert).[file:4] Dazu hilft dir, die Aufgabe vorher genau zu lesen und dir klarzumachen, worauf du achten musst."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Hörverstehen",
+                        "definition": "Fähigkeit, gesprochene Texte inhaltlich zu erfassen und wichtige Informationen zu entnehmen.[file:4]"
+                      },
+                      {
+                        "term": "Schlüsselwort",
+                        "definition": "Wichtiges Wort im Text, das dir hilft, den Sinn zu verstehen.[file:4]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann bei einem einfachen Hörtext sagen, worum es insgesamt geht (Thema). [file:4]",
+                      "Ich kann einzelne konkrete Informationen heraushören (z. B. Namen, Zahlen, Orte). [file:4]",
+                      "Ich kann auch weiterzuhören, wenn ich nicht jedes Wort verstehe. [file:4]"
+                    ],
+                    "sample_questions": [
+                      "Worum geht es in dem Gespräch – Schule, Familie oder Hobbys?",
+                      "Welche zwei Hobbys nennt der Junge im Text?",
+                      "Wie alt ist das Mädchen im Hörtext?"
+                    ],
+                    "sample_answers": [
+                      "Das Gespräch geht um Hobbys in der Freizeit.",
+                      "Er sagt, dass er Fußball spielt und gern Computerspiele macht.",
+                      "Sie ist zehn Jahre alt."
+                    ]
+                  }
+                },
+                {
+                  "id": "eng5_mod1_u2",
+                  "text": "Ich kann visuelle Hilfen, Geräusche und meine Vorerfahrungen als Unterstützung beim Verstehen nutzen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Mit Bildern und Gestik arbeiten",
+                        "text": "Bilder, Mimik und Gestik geben dir zusätzliche Hinweise darauf, worum es im Text geht.[file:4] Du verbindest das Gehörte mit dem, was du siehst, und ergänzt fehlende Informationen im Kopf."
+                      },
+                      {
+                        "title": "Weltwissen einsetzen",
+                        "text": "Du nutzt dein Wissen über typische Situationen (z. B. im Klassenzimmer, auf dem Spielplatz oder beim Einkaufen), um Vermutungen zum Inhalt zu bilden.[file:4] So kannst du Verstehenslücken ausgleichen."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Hör-Sehverstehen",
+                        "definition": "Verstehen von Texten, bei denen du gleichzeitig hörst und Bilder oder Videos siehst.[file:4]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann aus Bildern schließen, um welches Thema es im Hörtext geht. [file:4]",
+                      "Ich kann Mimik und Gestik nutzen, um Gefühle oder Absichten zu erkennen. [file:4]"
+                    ],
+                    "sample_questions": [
+                      "Was lässt dich vermuten, dass die beiden im Video Freunde sind?",
+                      "Wie helfen dir Bilder auf dem AB beim Verstehen des Dialogs?"
+                    ],
+                    "sample_answers": [
+                      "Sie lachen zusammen, sprechen locker und stehen nah beieinander.",
+                      "Anhand der Bilder sehe ich schon vorher, welche Situationen vorkommen, z. B. Bus, Schule oder Sportplatz."
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "module_id": "eng5_mod2",
+              "module_name": "Speaking – Englisch sprechen im Alltag",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Einfache Gespräche führen",
+                    "text": "In diesem Modul lernst du, in einfachen Gesprächssituationen zu vertrauten Themen mit elementaren sprachlichen und nicht sprachlichen Mitteln zu interagieren.[file:4] Du übst typische Redemittel für Begrüßung, Verabschiedung, Fragen, Antworten und Höflichkeitsformen."
+                  },
+                  {
+                    "title": "Zusammenhängend sprechen",
+                    "text": "Du trainierst, kurze, einfache, zusammenhängende Aussagen über dich, deine Familie, Freunde, Schule, Freizeit und deinen Tagesablauf zu machen.[file:4] Dazu gehören kleine Präsentationen, kurze Berichte und das Erzählen von Erlebnissen."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "eng5_mod2_u1",
+                  "text": "Ich kann mich vorstellen und einfache Fragen zu meiner Person stellen und beantworten.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Über dich sprechen",
+                        "text": "Du sagst einfache Sätze zu Name, Alter, Wohnort, Herkunft, Familie, Haustieren und Lieblingsdingen.[file:4] Du verwendest feste Wendungen, z. B. „My name is…“, „I live in…“, „I am … years old.“"
+                      },
+                      {
+                        "title": "Fragen stellen",
+                        "text": "Du lernst einfache Frageformen, z. B. „What’s your name?“, „How old are you?“, „Where do you live?“ und reagierst passend darauf.[file:4]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "dialogisches Sprechen",
+                        "definition": "An einem Gespräch teilnehmen, auf andere reagieren und selbst Fragen stellen.[file:4]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann mich auf Englisch kurz vorstellen (Name, Alter, Wohnort). [file:4]",
+                      "Ich kann meinem Partner einfache Fragen stellen und auf seine Antworten reagieren. [file:4]"
+                    ],
+                    "sample_questions": [
+                      "Stelle dich einem neuen Mitschüler aus England vor.",
+                      "Welche drei Fragen kannst du ihm stellen, um ihn besser kennenzulernen?"
+                    ],
+                    "sample_answers": [
+                      "Hello, my name is Lina. I am ten years old. I live in Jena in Germany.",
+                      "What’s your name? – How old are you? – Where do you live?"
+                    ]
+                  }
+                },
+                {
+                  "id": "eng5_mod2_u2",
+                  "text": "Ich kann über meinen Alltag, meine Freizeit und meine Vorlieben in einfachen Sätzen sprechen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Tagesablauf und Schule",
+                        "text": "Du beschreibst einfache Routinen: Aufstehen, Schulweg, Fächer, Pausen, Hausaufgaben und Freizeitaktivitäten.[file:4] Du verwendest einfache Präsensformen und Zeitangaben wie „in the morning“, „after school“."
+                      },
+                      {
+                        "title": "Hobbys und Vorlieben",
+                        "text": "Du sprichst darüber, was du gern oder nicht gern machst, z. B. „I like playing football.“, „I don’t like homework.“[file:4] Du reagierst auf andere, indem du zustimmst oder ablehnst, z. B. „Me too.“, „I don’t.“"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "monologisches Sprechen",
+                        "definition": "Über ein Thema zusammenhängend sprechen, ohne dass jemand direkt antwortet.[file:4]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann meinen Tagesablauf in einfachen Sätzen beschreiben. [file:4]",
+                      "Ich kann sagen, was ich gern oder nicht gern mache. [file:4]"
+                    ],
+                    "sample_questions": [
+                      "Erzähle von einem typischen Schultag.",
+                      "Nenne drei Dinge, die du gern machst, und zwei, die du nicht magst."
+                    ],
+                    "sample_answers": [
+                      "I get up at seven o’clock. I go to school by bus. I have English, maths and PE. After school I do my homework and play outside.",
+                      "I like playing football, listening to music and reading comics. I don’t like doing homework and cleaning my room."
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "module_id": "eng5_mod3",
+              "module_name": "Reading – Texte lesen und verstehen",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Einfache Texte erschließen",
+                    "text": "In diesem Modul lernst du, den wesentlichen Inhalt und einfache Detailinformationen aus kurzen Texten zu vertrauten Themen zu entnehmen.[file:4] Die Texte enthalten überwiegend bekannten Wortschatz und einfache Strukturen und werden oft durch Bilder unterstützt."
+                  },
+                  {
+                    "title": "Lesestrategien nutzen",
+                    "text": "Du nutzt Überschriften, Bilder und Textaufbau, um Leseerwartungen zu bilden und unbekannte Wörter zu erschließen.[file:4] Du lernst Techniken wie Überfliegen (skimming) und Suchlesen (scanning)."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "eng5_mod3_u1",
+                  "text": "Ich kann kurze, einfache Texte zu vertrauten Themen lesen und den Inhalt in eigenen Worten wiedergeben.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Textsorten in Klasse 5/6",
+                        "text": "Du liest z. B. Postkarten, E-Mails, kurze Geschichten, Dialoge, kleine Informationstexte, Plakate oder einfache Arbeitsanweisungen.[file:4]"
+                      },
+                      {
+                        "title": "Wesentliches erfassen",
+                        "text": "Du konzentrierst dich auf die wichtigsten Aussagen und musst nicht jedes Wort verstehen.[file:4] Du nutzt bekannte Wörter, Namen und Zahlen, um den Sinn zu erfassen."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Leseverstehen",
+                        "definition": "Fähigkeit, geschriebene Texte inhaltlich zu erfassen und Informationen zu entnehmen.[file:4]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann nach dem Lesen kurz sagen, worum es in einem Text geht. [file:4]",
+                      "Ich kann aus einem Text einfache Detailinformationen entnehmen (wer, wo, wann). [file:4]"
+                    ],
+                    "sample_questions": [
+                      "Worum geht es in der E-Mail – Schule, Ferien oder Tiere?",
+                      "Wer schreibt den Brief und an wen?"
+                    ],
+                    "sample_answers": [
+                      "Die E-Mail handelt von den Ferien am Meer.",
+                      "Tom schreibt den Brief an seinen Freund Ben."
+                    ]
+                  }
+                },
+                {
+                  "id": "eng5_mod3_u2",
+                  "text": "Ich kann Bilder, Überschriften und bekannte Wörter nutzen, um unbekannte Wörter zu erschließen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Mit dem Kontext arbeiten",
+                        "text": "Du lernst, unbekannte Wörter nicht sofort nachzuschlagen, sondern zuerst aus dem Zusammenhang zu raten.[file:4] Du achtest auf bekannte Wortteile, ähnliche deutsche Wörter und den Satzinhalt."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Signalwort",
+                        "definition": "Wort, das dir Hinweise auf die Textart oder den Inhalt gibt (z. B. tomorrow, birthday, school). [file:4]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann aus Überschriften und Bildern vermuten, worum es im Text geht. [file:4]",
+                      "Ich kann einzelne unbekannte Wörter aus dem Zusammenhang erschließen. [file:4]"
+                    ],
+                    "sample_questions": [
+                      "Was vermutest du zum Inhalt, wenn die Überschrift „My school day“ lautet und ein Klassenraum zu sehen ist?",
+                      "Das Wort „canteen“ kennst du nicht. Was könnte es bedeuten, wenn im Text von lunch at school die Rede ist?"
+                    ],
+                    "sample_answers": [
+                      "Der Text wird von einem Schultag, Unterricht und Pausen handeln.",
+                      "Es könnte die Mensa oder das Schulrestaurant sein, weil man dort zu Mittag isst."
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "module_id": "eng5_mod4",
+              "module_name": "Writing & Mediation – Schreiben und einfach vermitteln",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Einfach schreiben",
+                    "text": "In diesem Modul lernst du, kurze, einfache Texte zu vertrauten Themen zu verfassen, z. B. Einladungen, Grußkarten, kleine Berichte oder Beschreibungen.[file:4] Du achtest auf eine lesbare Schrift, einfache Satzstrukturen und passende Wörter."
+                  },
+                  {
+                    "title": "Einfach vermitteln",
+                    "text": "Du übst, sehr einfache Informationen aus kurzen mündlichen oder schriftlichen Texten sinngemäß in die andere Sprache zu übertragen.[file:4] Typische Situationen sind z. B. einem Austauschschüler kurz zu erklären, worum es in einer deutschsprachigen Nachricht geht."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "eng5_mod4_u1",
+                  "text": "Ich kann kurze, einfache Texte (z. B. Grußkarte, Einladung, kleine Beschreibung) zu vertrauten Themen schreiben.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Textsorten im Schreiben",
+                        "text": "Du schreibst z. B. kurze E-Mails, Einladungen zu einer Party, Postkarten aus dem Urlaub oder kleine Steckbriefe über Personen und Tiere.[file:4]"
+                      },
+                      {
+                        "title": "Einfache Struktur",
+                        "text": "Du verwendest klare, kurze Sätze im Präsens und einfache Verknüpfungen wie „and“, „but“, „because“.[file:4] Du orientierst dich an Beispielen und Bausteinen aus dem Unterricht."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "adressatengerecht",
+                        "definition": "Zum Empfänger passende Formulierungen verwenden (z. B. „Dear …“ am Anfang eines Briefes). [file:4]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann eine einfache Einladung auf Englisch schreiben. [file:4]",
+                      "Ich kann eine Person oder ein Haustier mit einfachen Sätzen beschreiben. [file:4]"
+                    ],
+                    "sample_questions": [
+                      "Schreibe eine kurze Einladung zu deiner Geburtstagsparty.",
+                      "Beschreibe dein Haustier in drei bis fünf Sätzen."
+                    ],
+                    "sample_answers": [
+                      "Dear Max, please come to my birthday party on Saturday at three o’clock. We play games and eat cake. Love, Ben.",
+                      "My dog’s name is Lucky. He is brown and white. He is small and very funny. He likes playing in the garden."
+                    ]
+                  }
+                },
+                {
+                  "id": "eng5_mod4_u2",
+                  "text": "Ich kann sehr einfache Informationen aus kurzen Texten sinngemäß ins Deutsche oder Englische übertragen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Sprachmittlung in Alltagssituationen",
+                        "text": "Du übst, einer Person, die nur Deutsch kann, kurz zu sagen, worum es in einer einfachen englischen Nachricht geht – und umgekehrt.[file:4] Es geht nicht um Wort-für-Wort-Übersetzung, sondern darum, die wichtigsten Informationen weiterzugeben."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Sprachmittlung",
+                        "definition": "Inhalte aus einer Sprache in eigenen Worten in einer anderen Sprache wiedergeben.[file:4]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann meinem Mitschüler auf Deutsch erklären, worum es in einer kurzen englischen Nachricht geht. [file:4]",
+                      "Ich kann einer englischsprachigen Person auf Englisch kurz erklären, was in einem einfachen deutschen Hinweisschild steht. [file:4]"
+                    ],
+                    "sample_questions": [
+                      "Erkläre einem Austauschschüler auf Englisch, was „Kein Durchgang“ auf einem Schild bedeutet.",
+                      "Fasse einem Freund auf Deutsch kurz zusammen, was in einer kurzen englischen Klassenregel steht."
+                    ],
+                    "sample_answers": [
+                      "It means: you must not go through here.",
+                      "In der Klassenregel steht, dass man im Unterricht leise sein und anderen zuhören soll."
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

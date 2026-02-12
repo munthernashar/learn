@@ -1,0 +1,671 @@
+{
+  "school_id": "de_thueringen",
+  "grades": [
+    {
+      "grade_id": "klasse5",
+      "grade_label": "Klasse 5",
+      "subjects": [
+        {
+          "subject_id": "mnt",
+          "subject_title": "Mensch–Natur–Technik",
+          "modules": [
+            {
+              "module_id": "mnt5_mod3",
+              "module_name": "Vielfalt bei Wirbeltieren – gleicher Grundaufbau",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Überblick über das Modul Wirbeltiere",
+                    "text": "In diesem Modul lernst du die Gruppe der Wirbeltiere kennen. Dazu gehören alle Tiere, die ein inneres Skelett mit einer Wirbelsäule besitzen – vom Fisch im Teich bis zur Katze auf dem Sofa und zum Vogel am Himmel. Du wirst entdecken, wie ihr Körper aufgebaut ist, wie sie sich fortbewegen, wie sie sich ernähren, atmen und fortpflanzen. Außerdem lernst du, wie man Wirbeltiere in Gruppen einteilt und wie ihr Körperbau an ihren Lebensraum angepasst ist."
+                  },
+                  {
+                    "title": "Was sind Wirbeltiere?",
+                    "text": "Wirbeltiere sind Tiere mit einem inneren Skelett und einer Wirbelsäule. Die Wirbelsäule besteht aus vielen kleinen Wirbeln und stützt den Körper. An ihr sind Knochen von Armen, Beinen, Rippen und Schädel befestigt. Die Wirbelsäule schützt außerdem das Rückenmark, das wichtige Nerven enthält. Zu den Wirbeltieren gehören fünf Klassen: Fische, Lurche (Amphibien), Kriechtiere (Reptilien), Vögel und Säugetiere. Trotz ihrer großen Unterschiede haben alle Wirbeltiere einen ähnlichen Grundaufbau."
+                  },
+                  {
+                    "title": "Warum sind Wirbeltiere wichtig?",
+                    "text": "Wirbeltiere spielen eine wichtige Rolle in vielen Lebensräumen. Sie sind Teil von Nahrungsketten, bestäuben Pflanzen, verbreiten Samen, halten Insektenpopulationen in Grenzen und dienen dem Menschen als Nutztiere, Haustiere und Nahrungsquelle. Gleichzeitig sind sie auch schützenswerte Lebewesen, die Lebensräume und Nahrung brauchen. Wenn du Wirbeltiere gut kennst, kannst du ihre Lebensweise verstehen, sie beobachten, schützen und verantwortungsbewusst mit ihnen umgehen."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "mnt5_mod3_u1",
+                  "text": "Ich kann den Bau verschiedener Wirbeltiere (Körpergliederung, Skelett) beschreiben, vergleichen und den Begriff Wirbeltier definieren.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Gemeinsame Merkmale der Wirbeltiere",
+                        "text": "Alle Wirbeltiere haben bestimmte gemeinsame Merkmale: Sie besitzen ein inneres Skelett (Endoskelett) mit einer Wirbelsäule, einem Schädel und Knochen für Gliedmaßen. Ihr Körper ist in Kopf, Rumpf und (meist) Gliedmaßen gegliedert. Im Schädel liegt das Gehirn, geschützt von Knochen. An der Wirbelsäule sitzen Rippen, die den Brustraum schützen, in dem Herz und Lunge liegen. Trotz dieser gemeinsamen Grundstruktur sehen Wirbeltiere sehr unterschiedlich aus – ein Fisch sieht ganz anders aus als ein Vogel oder eine Maus. Das nennt man Vielfalt bei gleichem Grundaufbau."
+                      },
+                      {
+                        "title": "Körpergliederung bei Wirbeltieren",
+                        "text": "Die Körpergliederung der Wirbeltiere kann man in drei große Bereiche einteilen: Kopf, Rumpf und Gliedmaßen. Am Kopf befinden sich Augen, Nase oder Schnauze, Ohren (oder Hörorgane), Mund und oft besondere Anhänge wie Schnabel oder Fühler bei manchen Arten. Der Rumpf enthält wichtige Organe wie Herz, Lunge, Magen und Darm. Die Gliedmaßen dienen der Fortbewegung: Bei Fischen sind es Flossen, bei Lurchen und Kriechtieren meist vier Beine, bei Vögeln zwei Beine und zwei Flügel, bei Säugetieren meistens vier Beine oder auch Flossen (z.B. Delfin) oder Flügel (Fledermaus)."
+                      },
+                      {
+                        "title": "Das Skelett und die Wirbelsäule",
+                        "text": "Das Skelett eines Wirbeltieres besteht aus vielen Knochen. Die wichtigsten Teile sind: der Schädel, die Wirbelsäule, die Rippen und die Knochen der Gliedmaßen. Die Wirbelsäule besteht aus vielen Wirbeln, die beweglich miteinander verbunden sind. Sie stützt den Körper und ermöglicht Bewegungen wie Biegen und Drehen. Die Rippen bilden zusammen mit der Wirbelsäule den Brustkorb. Er schützt Herz und Lunge. Die Knochen der Arme, Beine oder Flossen sind an der Wirbelsäule befestigt und wirken mit Muskeln zusammen, damit sich das Tier bewegen kann."
+                      },
+                      {
+                        "title": "Unterschiede im Körperbau – angepasst an den Lebensraum",
+                        "text": "Obwohl alle Wirbeltiere einen ähnlichen Grundaufbau haben, ist ihr Körperbau an den jeweiligen Lebensraum angepasst. Fische haben stromlinienförmige Körper und Flossen, um gut im Wasser schwimmen zu können. Vögel haben leichte Knochen, Flügel und Federn für den Flug. Säugetiere an Land haben kräftige Beine, um zu laufen, springen oder klettern zu können. Meeressäuger wie Delfine haben Flossen und einen glatten Körper zum schnellen Schwimmen. Diese Anpassungen zeigen, wie eng Bau und Lebensweise zusammenhängen."
+                      },
+                      {
+                        "title": "Begriff Wirbeltier und Wirbeltierklassen",
+                        "text": "Wirbeltiere sind also Tiere mit Wirbelsäule und innerem Skelett. Man teilt sie in fünf Wirbeltierklassen ein: Fische, Lurche (Amphibien), Kriechtiere (Reptilien), Vögel und Säugetiere. Jede Klasse hat typische Merkmale, zum Beispiel Art der Hautbedeckung, Atmung, Fortpflanzung und Körpertemperatur. Diese Unterschiede lernst du in späteren Unterthemen genauer kennen."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Wirbeltier",
+                        "definition": "Tier mit innerem Skelett und Wirbelsäule. Wirbeltiere werden in die Klassen Fische, Lurche, Kriechtiere, Vögel und Säugetiere eingeteilt."
+                      },
+                      {
+                        "term": "Skelett",
+                        "definition": "Gesamtheit der Knochen im Körper eines Wirbeltieres. Es stützt den Körper, schützt Organe und ermöglicht zusammen mit Muskeln die Bewegung."
+                      },
+                      {
+                        "term": "Wirbelsäule",
+                        "definition": "Reihe aus vielen Wirbeln im Inneren des Körpers. Sie stützt den Körper, schützt das Rückenmark und verbindet den Schädel mit dem Rumpf."
+                      },
+                      {
+                        "term": "Körpergliederung",
+                        "definition": "Einteilung des Körpers in Kopf, Rumpf und Gliedmaßen."
+                      },
+                      {
+                        "term": "Anpassung",
+                        "definition": "Merkmale eines Lebewesens, die es besser an seinen Lebensraum und seine Lebensweise anpassen, z.B. Flossen beim Fisch oder Flügel beim Vogel."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann den Begriff Wirbeltier sicher definieren.",
+                      "Ich kann Kopf, Rumpf und Gliedmaßen bei verschiedenen Wirbeltieren benennen.",
+                      "Ich kann erklären, was die Wirbelsäule ist und welche Aufgaben sie hat.",
+                      "Ich kann den Bau eines Wirbeltier-Skeletts grob beschreiben.",
+                      "Ich kann mindestens drei Wirbeltierklassen nennen und je ein Beispiel zuordnen.",
+                      "Ich kann erklären, wie der Körperbau eines Wirbeltieres an seinen Lebensraum angepasst ist (z.B. Fisch vs. Vogel)."
+                    ],
+                    "sample_questions": [
+                      "Definiere den Begriff Wirbeltier.",
+                      "Beschreibe die Körpergliederung eines typischen Wirbeltieres.",
+                      "Welche Aufgaben hat die Wirbelsäule?",
+                      "Vergleiche den Körperbau eines Fisches und eines Vogels.",
+                      "Warum kann man trotzdem sagen, dass Fisch und Vogel den gleichen Grundaufbau haben?"
+                    ],
+                    "sample_answers": [
+                      "Ein Wirbeltier ist ein Tier, das ein inneres Skelett mit einer Wirbelsäule besitzt. Die Wirbelsäule besteht aus vielen Wirbeln und stützt den Körper. Zu den Wirbeltieren gehören Fische, Lurche, Kriechtiere, Vögel und Säugetiere.",
+                      "Der Körper eines Wirbeltieres lässt sich grob in drei Teile einteilen: Kopf, Rumpf und Gliedmaßen. Am Kopf befinden sich Sinnesorgane wie Augen und Ohren sowie der Mund. Im Rumpf liegen wichtige Organe wie Herz, Lunge, Magen und Darm. Die Gliedmaßen dienen der Fortbewegung, z.B. Beine, Flügel oder Flossen.",
+                      "Die Wirbelsäule stützt den Körper und hält ihn in Form. Sie schützt das Rückenmark, das wichtige Nerven enthält. Außerdem ermöglicht sie Bewegungen, weil die einzelnen Wirbel gegeneinander beweglich sind. Dadurch kann sich das Tier beugen, drehen und strecken.",
+                      "Der Fisch hat einen stromlinienförmigen Körper, Flossen und meist keine Gliedmaßen mit Fingern oder Zehen. Sein Körper ist perfekt ans Schwimmen im Wasser angepasst. Der Vogel hat leichte Knochen, zwei Flügel und zwei Beine. Sein Körper ist an den Flug in der Luft und das Laufen oder Sitzen an Land angepasst.",
+                      "Sowohl Fisch als auch Vogel haben ein inneres Skelett mit Wirbelsäule, Kopf, Rumpf und Gliedmaßen. Beim Fisch sind die Gliedmaßen zu Flossen geworden, beim Vogel zu Flügeln und Beinen. Der Grundaufbau (Wirbelsäule, Schädel, Rippen, Gliedmaßenknochen) ist aber bei beiden ähnlich. Die Unterschiede sind Anpassungen an verschiedene Lebensräume."
+                    ]
+                  }
+                },
+                {
+                  "id": "mnt5_mod3_u2",
+                  "text": "Ich kann die Bedeutung der Ernährung bei Wirbeltieren erläutern und den Weg der Nahrung im Körper sowie die Rolle des Blutes beschreiben.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Warum brauchen Wirbeltiere Nahrung?",
+                        "text": "Wie alle Lebewesen brauchen Wirbeltiere Nahrung, um zu leben. Nahrung liefert Energie, damit Muskeln arbeiten können, das Herz schlägt und der Körper warm gehalten wird. Außerdem liefert sie Baustoffe, um Körperzellen zu erneuern und zu wachsen. Ohne regelmäßige Nahrung würden Wirbeltiere schwach werden und schließlich sterben. Die Art der Nahrung hängt von der Tierart ab: Manche fressen Pflanzen, andere Fleisch, viele beides."
+                      },
+                      {
+                        "title": "Der Weg der Nahrung im Körper",
+                        "text": "Die Nahrung wird mit dem Mund aufgenommen und dort zerkleinert, z.B. durch Zähne oder Schnabel. Über die Speiseröhre gelangt sie in den Magen. Im Magen wird die Nahrung mit Magensaft vermischt und weiter zerkleinert. Danach gelangt sie in den Dünndarm. Dort wird sie mit Hilfe von Verdauungssäften in ihre kleinsten Bausteine zerlegt, z.B. werden Stärkekörner in Traubenzucker zerlegt, Eiweiße in Aminosäuren und Fette in Fettsäuren und Glycerin. Diese kleinen Bausteine können durch die Darmwand ins Blut aufgenommen werden."
+                      },
+                      {
+                        "title": "Aufbau von körpereigenen Stoffen",
+                        "text": "Die Bausteine aus der Nahrung gelangen mit dem Blut zu allen Zellen des Körpers. Dort werden sie wieder zu körpereigenen Stoffen zusammengesetzt. Aus Zucker, Fetten und Eiweißen baut der Körper z.B. Muskeln, Knochen, Organe und andere Gewebe auf. Man kann sagen: Die Nahrung wird im Körper zerlegt und dann wieder neu aufgebaut – aber jetzt passend zum Körper des Tieres. So entsteht aus pflanzlicher oder tierischer Nahrung z.B. das Fleisch eines Hundes oder die Federn eines Vogels."
+                      },
+                      {
+                        "title": "Die Rolle des Blutes",
+                        "text": "Das Blut ist wie ein Transportsystem im Körper. Es transportiert die Nährstoffe aus dem Darm zu den Zellen. Es bringt Sauerstoff von der Lunge zu den Zellen und nimmt dort Kohlenstoffdioxid wieder auf. Es transportiert auch Abfallstoffe zu den Ausscheidungsorganen. Das Herz pumpt das Blut durch Adern (Blutgefäße) in alle Körperteile. Ohne Blut könnten die Zellen nicht mit Nährstoffen und Sauerstoff versorgt werden und der Körper würde nicht funktionieren."
+                      },
+                      {
+                        "title": "Nachweis von Nährstoffen",
+                        "text": "Mit einfachen Experimenten kann man in Nahrungsmitteln bestimmte Nährstoffe nachweisen. Stärke kann man z.B. mit Jodlösung nachweisen: Gibt man Jodlösung auf ein stärkehaltiges Lebensmittel (z.B. Brot, Kartoffel), färbt es sich blau-schwarz. Fett kann man mit Hilfe von Löschpapier nachweisen: Wenn man ein Stück Lebensmittel darauf drückt und später ein durchscheinender Fleck bleibt, ist Fett enthalten. Solche Versuche helfen zu verstehen, welche Nährstoffe in verschiedenen Nahrungsmitteln stecken."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Ernährung (bei Wirbeltieren)",
+                        "definition": "Aufnahme und Verarbeitung von Nahrung, um Energie und Baustoffe für den Körper zu gewinnen."
+                      },
+                      {
+                        "term": "Verdauung",
+                        "definition": "Zerlegung der aufgenommenen Nahrung in kleine Bausteine, die vom Körper aufgenommen werden können."
+                      },
+                      {
+                        "term": "Nährstoffe",
+                        "definition": "Bestandteile der Nahrung wie Kohlenhydrate (z.B. Stärke, Zucker), Fette und Eiweiße. Sie liefern Energie und Baustoffe."
+                      },
+                      {
+                        "term": "Blut",
+                        "definition": "Flüssigkeit im Körper, die Nährstoffe, Sauerstoff, Kohlenstoffdioxid und andere Stoffe transportiert."
+                      },
+                      {
+                        "term": "Verdauungssäfte",
+                        "definition": "Flüssigkeiten im Verdauungssystem, die Nährstoffe chemisch zerlegen, z.B. Magensaft, Darmsaft."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann erklären, warum Wirbeltiere Nahrung brauchen.",
+                      "Ich kann den Weg der Nahrung vom Mund bis in den Darm beschreiben.",
+                      "Ich kann erklären, was bei der Verdauung mit der Nahrung passiert.",
+                      "Ich kann die Rolle des Blutes beim Transport von Nährstoffen erklären.",
+                      "Ich kann Beispiele für Nachweise von Stärke und Fett in Nahrungsmitteln nennen."
+                    ],
+                    "sample_questions": [
+                      "Warum ist Ernährung für Wirbeltiere wichtig?",
+                      "Beschreibe den Weg der Nahrung im Körper eines Wirbeltieres.",
+                      "Was passiert mit der Nahrung im Dünndarm?",
+                      "Welche Aufgaben hat das Blut im Körper eines Wirbeltieres?",
+                      "Wie kann man Stärke und Fett in Nahrungsmitteln nachweisen?"
+                    ],
+                    "sample_answers": [
+                      "Wirbeltiere brauchen Nahrung, weil sie daraus Energie für Bewegung, Wärme und alle Lebensvorgänge gewinnen. Außerdem liefert die Nahrung Baustoffe, um den Körper aufzubauen und zu erneuern. Ohne Nahrung würden die Tiere bald keine Energie mehr haben und könnten nicht überleben.",
+                      "Die Nahrung wird mit dem Mund aufgenommen und dort zerkleinert. Dann gelangt sie durch die Speiseröhre in den Magen. Im Magen wird sie mit Magensaft vermischt und weiter zerkleinert. Danach geht sie in den Dünndarm, wo sie mit Verdauungssäften in ihre Bausteine zerlegt wird. Diese Bausteine werden durch die Darmwand ins Blut aufgenommen.",
+                      "Im Dünndarm wird die Nahrung in sehr kleine Bausteine zerlegt. Stärke wird in Traubenzucker zerlegt, Eiweiße in Aminosäuren, Fette in Fettsäuren und Glycerin. Diese Bausteine können durch die Darmwand in das Blut übergehen und werden so zu den Körperzellen transportiert.",
+                      "Das Blut transportiert Nährstoffe aus dem Darm zu allen Zellen des Körpers. Es bringt außerdem Sauerstoff von der Lunge zu den Zellen und nimmt dort Kohlenstoffdioxid auf. Zudem transportiert es Abfallstoffe zu den Organen, die sie ausscheiden. Das Herz sorgt als Pumpe dafür, dass das Blut ständig im Körper kreist.",
+                      "Stärke kann man mit Jodlösung nachweisen. Gibt man Jodlösung auf ein stärkehaltiges Lebensmittel wie Brot oder Kartoffeln, färbt es sich blau-schwarz. Fett kann man mit Löschpapier nachweisen: Drückt man ein Stück Käse oder Wurst auf Löschpapier und es bleibt ein durchscheinender Fettfleck zurück, ist Fett enthalten."
+                    ]
+                  }
+                },
+                {
+                  "id": "mnt5_mod3_u3",
+                  "text": "Ich kann die Atmungsorgane ausgewählter Wirbeltiere (Kiemen, Haut, Lunge) mit ihrem Lebensraum in Beziehung setzen und den Gasaustausch erklären.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Warum brauchen Wirbeltiere Sauerstoff?",
+                        "text": "Wirbeltiere brauchen Sauerstoff, damit ihre Zellen Energie aus Nährstoffen gewinnen können. In den Zellen findet eine Art Verbrennung statt: Nährstoffe wie Zucker reagieren mit Sauerstoff. Dabei wird Energie frei, die der Körper für Bewegung, Wärme und alle Lebensvorgänge nutzt. Als Abfallstoff entsteht Kohlenstoffdioxid, das wieder abgegeben werden muss. Diesen Austausch von Sauerstoff und Kohlenstoffdioxid nennt man Gasaustausch."
+                      },
+                      {
+                        "title": "Atmung im Wasser: Kiemen bei Fischen",
+                        "text": "Fische leben im Wasser und atmen mit Kiemen. Kiemen sind feine, stark gefächerte Organe mit einer sehr großen Oberfläche. Wenn Wasser über die Kiemen streicht, diffundiert der im Wasser gelöste Sauerstoff durch die dünnen Kiemenwände in das Blut. Gleichzeitig diffundiert Kohlenstoffdioxid aus dem Blut in das Wasser. Durch die große Oberfläche der Kiemen kann der Fisch genug Sauerstoff aufnehmen, obwohl im Wasser viel weniger Sauerstoff vorhanden ist als in der Luft."
+                      },
+                      {
+                        "title": "Atmung über die Haut: Lurche",
+                        "text": "Lurche wie Frösche haben eine feuchte, dünne Haut, über die sie Gase austauschen können. Sauerstoff aus der Umgebung diffundiert durch die Haut in das Blut, Kohlenstoffdioxid diffundiert umgekehrt aus dem Blut nach außen. Viele Lurche atmen zusätzlich mit Lungen, aber die Hautatmung ist besonders wichtig, wenn sie im Wasser oder in feuchter Umgebung leben. Die Haut muss dafür stets feucht bleiben, sonst funktioniert der Gasaustausch nicht."
+                      },
+                      {
+                        "title": "Atmung an Land: Lunge bei Reptilien, Vögeln und Säugetieren",
+                        "text": "Kriechtiere, Vögel und Säugetiere atmen hauptsächlich mit Lungen. Die Lunge liegt im Brustraum und ist mit vielen feinen Verästelungen durchzogen. Am Ende dieser Verästelungen sitzen bei Säugetieren winzige Lungenbläschen mit sehr großer Oberfläche. Hier findet der Gasaustausch statt: Sauerstoff aus der Luft geht ins Blut über, Kohlenstoffdioxid wird aus dem Blut an die Luft abgegeben. Vögel haben ein besonders leistungsfähiges Atmungssystem mit Luftsäcken, das für den anstrengenden Flug wichtig ist."
+                      },
+                      {
+                        "title": "Anpassung der Atmungsorgane an den Lebensraum",
+                        "text": "Man erkennt, dass die Atmungsorgane genau an den Lebensraum angepasst sind: Fische haben Kiemen für das Wasser, Landtiere Lungen für die Luft, Lurche können über Haut und Lunge atmen. Taucht ein Säugetier ins Wasser, kann es dort nicht atmen, sondern muss die Luft anhalten und wieder zum Atmen an die Oberfläche kommen (z.B. Delfine). Der Bau der Atmungsorgane hängt also eng mit der Lebensweise zusammen – ein gutes Beispiel für Struktur-Funktions-Beziehungen."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Atmungsorgane",
+                        "definition": "Organe, mit denen Lebewesen Sauerstoff aufnehmen und Kohlenstoffdioxid abgeben, z.B. Kiemen, Lunge, Haut."
+                      },
+                      {
+                        "term": "Kiemen",
+                        "definition": "Atmungsorgane von Wasserlebewesen wie Fischen, mit großer Oberfläche zum Gasaustausch im Wasser."
+                      },
+                      {
+                        "term": "Lunge",
+                        "definition": "Atmungsorgan von Landwirbeltieren, in dem Gasaustausch mit der Luft stattfindet."
+                      },
+                      {
+                        "term": "Gasaustausch",
+                        "definition": "Vorgang, bei dem Sauerstoff in den Körper aufgenommen und Kohlenstoffdioxid abgegeben wird."
+                      },
+                      {
+                        "term": "Diffusion",
+                        "definition": "Ausgleich von Konzentrationsunterschieden. Gase bewegen sich von einem Ort hoher Konzentration zu einem Ort niedriger Konzentration, z.B. Sauerstoff von der Luft ins Blut."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann erklären, warum Wirbeltiere Sauerstoff brauchen.",
+                      "Ich kann beschreiben, wie Fische mit Kiemen atmen.",
+                      "Ich kann erklären, wie Lurche über Haut und Lunge atmen.",
+                      "Ich kann die Lungenatmung von Reptilien, Vögeln und Säugetieren beschreiben.",
+                      "Ich kann Atmungsorgane mit dem jeweiligen Lebensraum in Beziehung setzen.",
+                      "Ich kann den Begriff Gasaustausch erklären."
+                    ],
+                    "sample_questions": [
+                      "Warum ist Sauerstoff für Wirbeltiere lebenswichtig?",
+                      "Beschreibe die Atmung eines Fisches.",
+                      "Wie atmen Lurche wie der Frosch?",
+                      "Wie funktioniert die Atmung bei Säugetieren an Land?",
+                      "Erkläre den Zusammenhang zwischen Atmungsorgan und Lebensraum bei Wirbeltieren."
+                    ],
+                    "sample_answers": [
+                      "Sauerstoff wird in den Körperzellen gebraucht, damit Nährstoffe wie Zucker 'verbrannt' werden können. Dabei wird Energie frei, die Tiere für Bewegung, Wärme und andere Lebensvorgänge brauchen. Ohne Sauerstoff könnten die Zellen keine Energie gewinnen und das Tier würde sterben.",
+                      "Ein Fisch atmet mit Kiemen. Beim Schwimmen strömt Wasser durch das Maul über die Kiemen. Die Kiemen haben eine sehr große Oberfläche und sind dünn. Sauerstoff, der im Wasser gelöst ist, diffundiert durch die Kiemenwände in das Blut. Gleichzeitig diffundiert Kohlenstoffdioxid aus dem Blut in das Wasser und wird abgegeben.",
+                      "Lurche wie Frösche können über ihre feuchte Haut atmen. Sauerstoff diffundiert durch die dünne Haut in die Blutgefäße darunter, Kohlenstoffdioxid diffundiert heraus. Zusätzlich besitzen viele Lurche einfache Lungen, mit denen sie Luft atmen können, wenn sie an Land sind. Beide Atmungsarten ergänzen sich.",
+                      "Säugetiere atmen Luft ein, die durch Mund oder Nase in die Luftröhre und dann in die Lunge gelangt. In der Lunge verzweigen sich die Atemwege in immer kleinere Röhren, an deren Enden Lungenbläschen sitzen. In diesen Bläschen findet der Gasaustausch statt: Sauerstoff geht ins Blut über und Kohlenstoffdioxid aus dem Blut in die Luft. Beim Ausatmen wird das Kohlenstoffdioxid wieder abgegeben.",
+                      "Atmungsorgane sind an den Lebensraum angepasst: Fische leben im Wasser und atmen mit Kiemen, die Sauerstoff aus dem Wasser aufnehmen. Landwirbeltiere wie Reptilien, Vögel und Säugetiere atmen mit Lungen, die Sauerstoff aus der Luft aufnehmen. Lurche leben teils im Wasser, teils an Land und können daher sowohl über die Haut als auch über die Lunge atmen."
+                    ]
+                  }
+                },
+                {
+                  "id": "mnt5_mod3_u4",
+                  "text": "Ich kann Verbrennungen als Stoffumwandlung mit Beteiligung von Sauerstoff beschreiben und erklären, dass dabei Energie frei wird.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Verbrennung als Stoffumwandlung",
+                        "text": "Eine Verbrennung ist eine chemische Reaktion, bei der ein Stoff mit Sauerstoff reagiert. Dabei entstehen neue Stoffe, und es wird Energie frei. Das ist mehr als nur ein Temperaturwechsel oder ein Aggregatzustandswechsel. Die Eigenschaften der Stoffe ändern sich. Beispiel: Wenn Holz im Kamin brennt, entsteht Asche, Kohlenstoffdioxid und Wasserdampf – ganz andere Stoffe als das ursprüngliche Holz."
+                      },
+                      {
+                        "title": "Beispiel: Verbrennung von Eisenwolle",
+                        "text": "Erhitzt man Eisenwolle stark, beginnt sie zu glühen und zu brennen. Das Eisen reagiert mit Sauerstoff aus der Luft. Dabei entsteht Eisenoxid (Rost). Das neue Produkt ist schwarz und brüchig und hat andere Eigenschaften als das silbrige, biegsame Eisen. Es ist eine Stoffumwandlung, bei der neue Stoffe entstehen. Gleichzeitig wird Licht und Wärme abgegeben – ein Zeichen dafür, dass Energie frei wird."
+                      },
+                      {
+                        "title": "Energie bei der Verbrennung",
+                        "text": "Viele Verbrennungen liefern Energie in Form von Wärme und Licht. Brennstoffe wie Holz, Kohle, Gas, Öl oder Kerzenwachs enthalten chemische Energie. Wenn sie mit Sauerstoff reagieren, wird diese Energie freigesetzt. Wir nutzen Verbrennungen zum Heizen, Kochen oder zum Antreiben von Motoren. Auch im Körper findet eine Art Verbrennung statt: Nährstoffe werden mit Sauerstoff 'verbrannt', es entsteht Energie für Bewegung und Wärme."
+                      },
+                      {
+                        "title": "Bezug zur Atmung",
+                        "text": "Die Atmung in den Zellen von Wirbeltieren ähnelt einer langsamen Verbrennung. Zucker reagiert mit Sauerstoff, es entstehen Kohlenstoffdioxid und Wasser, und es wird Energie frei. Der Unterschied zu einer offenen Flamme ist, dass die Reaktion im Körper langsam und kontrolliert abläuft. Trotzdem ist es chemisch gesehen auch eine Stoffumwandlung mit Energieabgabe."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Verbrennung",
+                        "definition": "Chemische Reaktion eines Stoffes mit Sauerstoff, bei der neue Stoffe entstehen und Energie in Form von Wärme und oft Licht frei wird."
+                      },
+                      {
+                        "term": "Stoffumwandlung",
+                        "definition": "Vorgang, bei dem aus Ausgangsstoffen neue Stoffe mit anderen Eigenschaften entstehen."
+                      },
+                      {
+                        "term": "Energieabgabe",
+                        "definition": "Freisetzung von Energie, z.B. in Form von Wärme oder Licht, bei einer chemischen Reaktion."
+                      },
+                      {
+                        "term": "Energieträger",
+                        "definition": "Stoff, der chemische Energie gespeichert hat, z.B. Holz, Kohle, Wachs, Nährstoffe im Körper."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann erklären, warum eine Verbrennung eine Stoffumwandlung ist.",
+                      "Ich kann beschreiben, welche Rolle Sauerstoff bei der Verbrennung spielt.",
+                      "Ich kann erklären, dass bei Verbrennungen Energie frei wird.",
+                      "Ich kann ein Beispiel für eine Verbrennung im Alltag nennen und beschreiben.",
+                      "Ich kann den Zusammenhang zwischen Verbrennung und Atmung herstellen."
+                    ],
+                    "sample_questions": [
+                      "Warum ist die Verbrennung von Holz eine Stoffumwandlung?",
+                      "Welche Rolle spielt Sauerstoff bei der Verbrennung?",
+                      "Welche Energieformen treten bei einer Verbrennung auf?",
+                      "Inwiefern ähnelt die Atmung in unseren Zellen einer Verbrennung?",
+                      "Nenne ein Beispiel für eine Verbrennung im Alltag und beschreibe, was passiert."
+                    ],
+                    "sample_answers": [
+                      "Bei der Verbrennung von Holz entstehen neue Stoffe wie Asche, Kohlenstoffdioxid und Wasserdampf. Diese Stoffe haben andere Eigenschaften als Holz. Das Holz ist danach verschwunden. Weil neue Stoffe entstanden sind, ist es eine Stoffumwandlung.",
+                      "Sauerstoff ist ein notwendiger Reaktionspartner bei vielen Verbrennungen. Der brennende Stoff reagiert mit Sauerstoff. Ohne Sauerstoff würde die Flamme erlöschen, weil die Reaktion nicht mehr ablaufen kann.",
+                      "Bei Verbrennungen wird chemische Energie in Wärme und Licht umgewandelt. Ein Kaminfeuer gibt Wärme ab und leuchtet. Eine Kerze spendet Licht und Wärme. Diese Energie stammt aus den chemischen Bindungen im Brennstoff.",
+                      "In unseren Zellen werden Nährstoffe wie Zucker mit Sauerstoff 'verbrannt'. Dabei entstehen Kohlenstoffdioxid und Wasser, und es wird Energie frei. Diese Energie nutzt der Körper für Bewegung, Wachstum und Wärme. Chemisch gesehen ähnelt das einer langsamen, kontrollierten Verbrennung.",
+                      "Ein Beispiel ist die Verbrennung von Gas in einem Herd. Gas (z.B. Methan) reagiert mit Sauerstoff aus der Luft. Es entstehen Kohlenstoffdioxid und Wasser, und es wird viel Wärme freigesetzt, mit der man Essen kochen kann. Die Flamme leuchtet, also wird auch Lichtenergie frei."
+                    ]
+                  }
+                },
+                {
+                  "id": "mnt5_mod3_u5",
+                  "text": "Ich kann Beziehungen zwischen Körperbau, Fortbewegung und Lebensraum bei ausgewählten Wirbeltieren ableiten und den Begriff Bewegung sowie Geschwindigkeit qualitativ erklären.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Fortbewegung und Lebensraum",
+                        "text": "Wirbeltiere bewegen sich sehr unterschiedlich fort – je nachdem, in welchem Lebensraum sie leben. Fische schwimmen im Wasser, Vögel fliegen in der Luft, viele Säugetiere laufen an Land oder klettern in Bäumen, manche tauchen und schwimmen. Lurche und Kriechtiere können sowohl an Land als auch im Wasser leben. Der Körperbau ist dabei immer an die jeweilige Art der Fortbewegung angepasst."
+                      },
+                      {
+                        "title": "Beispiele für angepassten Körperbau",
+                        "text": "Ein Fisch hat einen stromlinienförmigen Körper und Flossen, um den Wasserwiderstand gering zu halten und schnell schwimmen zu können. Ein Vogel hat leichte Knochen, kräftige Flugmuskeln und Flügel mit Federn, um in der Luft Auftrieb zu erzeugen. Ein Hase hat lange Hinterbeine für schnelle Sprünge, ein Maulwurf breite Vorderpfoten zum Graben. Diese Beispiele zeigen: Bau und Funktion hängen eng zusammen – man nennt das Struktur-Funktions-Beziehung."
+                      },
+                      {
+                        "title": "Bewegung und Geschwindigkeit",
+                        "text": "Bewegung bedeutet, dass sich ein Körper im Laufe der Zeit gegenüber einem Bezugspunkt verändert. Wenn ein Hund von dir wegläuft, ändert er seine Position – er bewegt sich. Die Geschwindigkeit beschreibt, wie schnell eine Bewegung abläuft. Mathematisch ist sie der Weg, den ein Körper in einer bestimmten Zeit zurücklegt. In der 5. Klasse genügt es, zu wissen: Je größer der Weg in gleicher Zeit, desto höher die Geschwindigkeit. Je kleiner der Weg in gleicher Zeit, desto geringer die Geschwindigkeit."
+                      },
+                      {
+                        "title": "Vergleich von Geschwindigkeiten",
+                        "text": "Man kann Geschwindigkeiten vergleichen, ohne genau zu rechnen. Ein Gepard kann in kurzer Zeit eine große Strecke zurücklegen – er ist sehr schnell. Ein Mensch zu Fuß legt in der gleichen Zeit einen viel kürzeren Weg zurück – er ist langsamer. Ein Faultier bewegt sich nur langsam, es braucht lange für kurze Strecken. In Diagrammen oder Tabellen kann man solche Vergleiche übersichtlich darstellen."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Fortbewegung",
+                        "definition": "Aktive Bewegung eines Lebewesens von einem Ort zum anderen, z.B. Laufen, Schwimmen, Fliegen."
+                      },
+                      {
+                        "term": "Struktur-Funktion",
+                        "definition": "Zusammenhang zwischen dem Bau eines Organs oder Körpers und seiner Aufgabe. Der Bau ist an die Funktion angepasst."
+                      },
+                      {
+                        "term": "Bewegung",
+                        "definition": "Änderung des Ortes eines Körpers im Laufe der Zeit im Vergleich zu einem Bezugspunkt."
+                      },
+                      {
+                        "term": "Geschwindigkeit",
+                        "definition": "Gibt an, wie schnell sich etwas bewegt. Sie beschreibt, wie viel Weg in einer bestimmten Zeit zurückgelegt wird."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann an Beispielen erklären, wie der Körperbau eines Wirbeltieres an seine Fortbewegung angepasst ist.",
+                      "Ich kann erklären, warum ein Fisch anders gebaut ist als ein Vogel.",
+                      "Ich kann den Begriff Bewegung mit eigenen Worten erklären.",
+                      "Ich kann qualitativ beschreiben, was eine hohe und was eine niedrige Geschwindigkeit bedeutet.",
+                      "Ich kann Geschwindigkeiten verschiedener Tiere vergleichen (schneller/langsamer)."
+                    ],
+                    "sample_questions": [
+                      "Erläutere an einem Beispiel die Beziehung zwischen Körperbau, Fortbewegung und Lebensraum.",
+                      "Warum ist der Körper eines Fisches stromlinienförmig?",
+                      "Was versteht man unter Bewegung?",
+                      "Was bedeutet es, wenn ein Tier eine hohe Geschwindigkeit hat?",
+                      "Vergleiche die Fortbewegung eines Hasen und eines Maulwurfs."
+                    ],
+                    "sample_answers": [
+                      "Der Pinguin lebt im Wasser und an Land. Sein Körper ist stromlinienförmig und mit einer dicken Fettschicht gegen Kälte geschützt. Er hat Flossen statt Flügel, mit denen er hervorragend schwimmen kann. An Land wirkt er unbeholfen. Man sieht, dass sein Körper vor allem an die Fortbewegung im Wasser angepasst ist.",
+                      "Der Körper eines Fisches ist stromlinienförmig, das heißt, er läuft vorne spitz zu und ist nach hinten schmaler. Diese Form verringert den Wasserwiderstand, wenn der Fisch schwimmt. Dadurch kann er mit weniger Kraft schneller schwimmen und leichter durchs Wasser gleiten.",
+                      "Bewegung bedeutet, dass sich ein Körper im Laufe der Zeit an einem Ort verändert. Wenn sich seine Position gegenüber einem festen Punkt ändert, sagen wir, er bewegt sich. Zum Beispiel bewegt sich ein Fahrrad, wenn es von A nach B fährt.",
+                      "Wenn ein Tier eine hohe Geschwindigkeit hat, bedeutet das, dass es in kurzer Zeit eine große Strecke zurücklegen kann. Ein Gepard kann zum Beispiel in wenigen Sekunden viele Meter rennen und ist damit schneller als ein Mensch, der in derselben Zeit weniger weit kommt.",
+                      "Der Hase hat lange Hinterbeine und einen leichten Körper. Er kann schnell laufen und große Sprünge machen, um vor Feinden zu fliehen. Der Maulwurf hat kurze, kräftige Vorderpfoten mit großen Krallen, die wie Schaufeln wirken. Er ist an das Graben im Boden angepasst und bewegt sich dort gut vorwärts. Man sieht: Hase und Maulwurf bewegen sich sehr unterschiedlich, weil sie in verschiedenen Lebensräumen leben."
+                    ]
+                  }
+                },
+                {
+                  "id": "mnt5_mod3_u6",
+                  "text": "Ich kann den Begriff Kraft als Wechselwirkungsgröße erklären, Wirkungen von Kräften beschreiben und Beispiele für Auftriebskräfte und Strömungsverläufe nennen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Was ist eine Kraft?",
+                        "text": "Eine Kraft ist eine Wirkung, die ein Körper auf einen anderen ausübt. Man kann sich Kraft als eine Wechselwirkung vorstellen: Immer wenn zwei Körper aufeinander einwirken, wirken Kräfte. Eine Kraft kann einen Körper beschleunigen, abbremsen, seine Bewegungsrichtung ändern oder ihn verformen. Beispiele: Wenn du einen Ball wirfst, übst du eine Kraft aus. Wenn du eine Feder zusammendrückst, verformst du sie durch eine Kraft."
+                      },
+                      {
+                        "title": "Wirkungen von Kräften",
+                        "text": "Kräfte können verschiedene Wirkungen haben: Sie können einen Körper in Bewegung versetzen (z.B. ein Auto anstoßen), ihn abbremsen (z.B. Bremsen beim Fahrrad), seine Bewegungsrichtung ändern (z.B. beim Abprallen eines Balls an der Wand) oder ihn verformen (z.B. Knetmasse drücken). Oft wirken mehrere Kräfte gleichzeitig, z.B. Gewichtskraft und Auftriebskraft."
+                      },
+                      {
+                        "title": "Auftriebskraft im Wasser",
+                        "text": "Wenn ein Körper im Wasser liegt, wirkt eine Auftriebskraft nach oben. Sie entsteht, weil das Wasser den Körper von unten stärker drückt als von oben. Ist die Auftriebskraft größer als die Gewichtskraft des Körpers, schwimmt er oben (z.B. ein Holzstück). Ist sie kleiner, geht der Körper unter (z.B. ein Stein). Viele Wirbeltiere nutzen Auftrieb: Fische haben eine Schwimmblase, mit der sie ihren Auftrieb verändern können. So können sie im Wasser schweben, ohne dauernd schwimmen zu müssen."
+                      },
+                      {
+                        "title": "Strömungen und Stromlinienkörper",
+                        "text": "Bewegt sich ein Körper durch ein strömendes Medium (z.B. Wasser oder Luft), spricht man von Strömung. Körper, die besonders gut durch eine Strömung gleiten, nennt man stromlinienförmig. Ihr Körper lässt die Flüssigkeit oder Luft glatt vorbeiströmen und erzeugt wenig Widerstand. Beispiele sind der Körper von Fischen, Delfinen oder schnellen Vögeln wie dem Schwalben. Auch Autos, Flugzeuge und Züge werden oft stromlinienförmig gebaut, damit sie weniger Luftwiderstand haben."
+                      },
+                      {
+                        "title": "Verwirbelungen",
+                        "text": "Wenn ein Körper nicht stromlinienförmig ist, kommt es hinter ihm zu Wirbeln in der Luft oder im Wasser. Diese Verwirbelungen kosten Energie und bremsen den Körper. Deshalb haben schnelle Flugzeuge glatte, spitze Formen und keine unnötigen Kanten. Auch Fische und Delfine haben glatte Körper, um Verwirbelungen zu verringern. Die Natur dient hier wieder als Vorbild für die Technik."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Kraft",
+                        "definition": "Wechselwirkung zwischen Körpern, die Bewegungen ändern oder Körper verformen kann."
+                      },
+                      {
+                        "term": "Auftrieb",
+                        "definition": "Kraft, die einen Körper in einer Flüssigkeit oder in einem Gas nach oben drückt."
+                      },
+                      {
+                        "term": "Gewichtskraft",
+                        "definition": "Kraft, mit der ein Körper von der Erde angezogen wird. Sie wirkt nach unten."
+                      },
+                      {
+                        "term": "Strömung",
+                        "definition": "Bewegung einer Flüssigkeit oder eines Gases in eine bestimmte Richtung, z.B. Wasser im Fluss oder Luft um ein Auto."
+                      },
+                      {
+                        "term": "Stromlinienkörper",
+                        "definition": "Körper mit einer Form, die den Widerstand in einer Strömung gering hält, z.B. Fischkörper oder moderne Autos."
+                      },
+                      {
+                        "term": "Verwirbelung",
+                        "definition": "Unruhige Strömung hinter einem Körper, bei der sich Wirbel bilden und zusätzlicher Widerstand entsteht."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann erklären, was eine Kraft ist und welche Wirkungen sie haben kann.",
+                      "Ich kann die Auftriebskraft im Wasser beschreiben und Beispiele nennen.",
+                      "Ich kann erklären, warum manche Körper schwimmen und andere untergehen.",
+                      "Ich kann den Begriff Strömung und Stromlinienkörper erläutern.",
+                      "Ich kann erklären, warum stromlinienförmige Körper weniger Widerstand haben.",
+                      "Ich kann Beispiele für Auftrieb und Strömung aus Natur und Technik nennen."
+                    ],
+                    "sample_questions": [
+                      "Was ist eine Kraft? Nenne zwei Wirkungen von Kräften.",
+                      "Erkläre, warum ein Stück Holz im Wasser schwimmt, ein Stein aber untergeht.",
+                      "Was ist ein Stromlinienkörper? Nenne ein Beispiel aus der Natur und eines aus der Technik.",
+                      "Warum haben schnelle Fische einen stromlinienförmigen Körper?",
+                      "Was versteht man unter Verwirbelungen und warum sind sie ungünstig?"
+                    ],
+                    "sample_answers": [
+                      "Eine Kraft ist eine Wechselwirkung zwischen Körpern. Sie kann dazu führen, dass sich ein Körper in Bewegung setzt, schneller oder langsamer wird, seine Richtung ändert oder verformt wird. Beispiele: Wenn ich einen Ball werfe, versetze ich ihn in Bewegung. Wenn ich einen Radiergummi zusammendrücke, verforme ich ihn durch eine Kraft.",
+                      "Ein Stück Holz hat eine geringere Dichte als Wasser. Die Auftriebskraft, die das Wasser auf das Holz ausübt, ist größer als seine Gewichtskraft – deshalb schwimmt es. Ein Stein hat eine höhere Dichte als Wasser. Seine Gewichtskraft ist größer als die Auftriebskraft – er sinkt.",
+                      "Ein Stromlinienkörper hat eine Form, bei der Luft oder Wasser leicht und ohne große Wirbel darüber hinwegströmen kann. Ein Beispiel aus der Natur ist der Körper eines Delfins: Er ist glatt und spindelförmig. Ein Beispiel aus der Technik ist ein modernes Auto, das nach hinten schmaler wird und abgerundete Kanten hat.",
+                      "Schnelle Fische wie der Thunfisch haben einen stromlinienförmigen Körper, damit sie beim Schwimmen wenig Wasserwiderstand haben. Die glatte, langgestreckte Form sorgt dafür, dass das Wasser leicht an ihnen vorbeiströmt. So müssen sie weniger Kraft aufwenden, um schnell zu schwimmen.",
+                      "Verwirbelungen sind unruhige Strömungen hinter einem Körper, bei denen das Wasser oder die Luft in Wirbeln kreist. Sie erhöhen den Widerstand und kosten Energie, weil der Körper gegen diese zusätzlichen Kräfte ankämpfen muss. Deshalb versucht man in der Technik, Verwirbelungen zu vermeiden, z.B. durch glatte, stromlinienförmige Formen bei Fahrzeugen."
+                    ]
+                  }
+                },
+                {
+                  "id": "mnt5_mod3_u7",
+                  "text": "Ich kann die Bedeutung der Fortpflanzung bei Wirbeltieren erklären, geschlechtliche Fortpflanzung sowie innere und äußere Befruchtung unterscheiden und mit Beispielen belegen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Fortpflanzung sichert das Überleben der Art",
+                        "text": "Fortpflanzung bedeutet, dass neue Nachkommen entstehen. Ohne Fortpflanzung würde eine Tierart aussterben, wenn die erwachsenen Tiere sterben. Durch Fortpflanzung wird die Art erhalten. Bei Wirbeltieren entstehen meist einzelne Jungtiere oder wenige Junge, die von den Eltern mehr oder weniger betreut werden. Manche Wirbeltiere legen viele Eier (z.B. Fische), andere bekommen wenige, gut versorgte Junge (z.B. Säugetiere)."
+                      },
+                      {
+                        "title": "Geschlechtliche Fortpflanzung bei Wirbeltieren",
+                        "text": "Wirbeltiere pflanzen sich in der Regel geschlechtlich fort. Das heißt, es gibt männliche und weibliche Tiere mit unterschiedlichen Geschlechtsorganen. Bei der geschlechtlichen Fortpflanzung verschmilzt eine männliche Keimzelle (Spermium) mit einer weiblichen Keimzelle (Eizelle). Diese Verschmelzung nennt man Befruchtung. Aus der befruchteten Eizelle entwickelt sich ein Embryo, aus dem ein Jungtier entsteht."
+                      },
+                      {
+                        "title": "Innere und äußere Befruchtung",
+                        "text": "Bei der äußeren Befruchtung findet die Verschmelzung von Eizelle und Spermium außerhalb des Körpers der Elterntiere statt, meist im Wasser. Beispiel: Viele Fische und Lurche. Das Weibchen legt Eier ins Wasser, das Männchen gibt Spermien darüber ab. Im Wasser findet die Befruchtung statt. Bei der inneren Befruchtung gelangen die Spermien im Körper des Weibchens zur Eizelle. Die Befruchtung findet im Körper des Weibchens statt. Beispiele: Kriechtiere, Vögel, Säugetiere."
+                      },
+                      {
+                        "title": "Eier und Entwicklung",
+                        "text": "Bei äußerer Befruchtung werden oft sehr viele Eier ins Wasser abgelegt, weil viele davon gefressen werden oder nicht überleben. Die Jungtiere müssen sich meist sofort selbst versorgen. Beispiel: Froschlaich im Teich. Bei innerer Befruchtung sind die Eier oft besser geschützt. Reptilien und Vögel legen Eier mit harter oder lederartiger Schale, die an Land vor dem Austrocknen schützen. Säugetiere entwickeln ihre Jungen meist im Körper des Weibchens und bringen sie lebend zur Welt. Die Jungen werden dann mit Milch ernährt."
+                      },
+                      {
+                        "title": "Vergleich der Fortpflanzungsstrategien",
+                        "text": "Äußere Befruchtung: Viele Eier, wenig Schutz, wenig Brutpflege, hohe Verluste, aber große Nachkommenzahl. Innere Befruchtung: Weniger Eier oder Junge, aber besser geschützt und oft mit Brutpflege. Die Überlebenschancen einzelner Jungtiere sind höher. Beide Strategien haben Vor- und Nachteile und sind an den Lebensraum und die Lebensweise angepasst."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Fortpflanzung",
+                        "definition": "Erzeugung von Nachkommen. Sie sichert den Erhalt einer Art."
+                      },
+                      {
+                        "term": "Geschlechtliche Fortpflanzung",
+                        "definition": "Fortpflanzung, bei der eine männliche und eine weibliche Keimzelle verschmelzen."
+                      },
+                      {
+                        "term": "Befruchtung",
+                        "definition": "Verschmelzung von Spermium und Eizelle zu einer befruchteten Eizelle."
+                      },
+                      {
+                        "term": "Innere Befruchtung",
+                        "definition": "Befruchtung, bei der die Verschmelzung von Eizelle und Spermium im Körper des Weibchens stattfindet."
+                      },
+                      {
+                        "term": "Äußere Befruchtung",
+                        "definition": "Befruchtung, bei der Eizellen und Spermien im Wasser außerhalb des Körpers zusammenkommen."
+                      },
+                      {
+                        "term": "Ei",
+                        "definition": "Behälter mit Nährstoffen, in dem sich ein Embryo entwickeln kann. Bei vielen Wirbeltieren ist es von einer Schale umgeben."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann erklären, warum Fortpflanzung für Wirbeltiere wichtig ist.",
+                      "Ich kann geschlechtliche Fortpflanzung beschreiben.",
+                      "Ich kann innere und äußere Befruchtung unterscheiden und je ein Beispiel nennen.",
+                      "Ich kann beschreiben, wie sich Eier und Jungtiere bei Fischen, Lurchen, Reptilien, Vögeln und Säugetieren unterscheiden.",
+                      "Ich kann Vor- und Nachteile der äußeren und inneren Befruchtung nennen."
+                    ],
+                    "sample_questions": [
+                      "Warum ist Fortpflanzung für das Überleben einer Wirbeltierart wichtig?",
+                      "Beschreibe den Ablauf der geschlechtlichen Fortpflanzung bei Wirbeltieren allgemein.",
+                      "Erkläre den Unterschied zwischen innerer und äußerer Befruchtung und nenne je ein Beispiel.",
+                      "Wie unterscheiden sich die Eier von Fischen, Vögeln und Säugetieren?",
+                      "Welche Vorteile hat die innere Befruchtung gegenüber der äußeren?"
+                    ],
+                    "sample_answers": [
+                      "Fortpflanzung sorgt dafür, dass neue Jungtiere entstehen. Ohne Fortpflanzung würde eine Art aussterben, wenn die erwachsenen Tiere sterben. Durch Fortpflanzung bleibt die Art erhalten und kann sich weiter verbreiten.",
+                      "Bei der geschlechtlichen Fortpflanzung gibt es männliche und weibliche Tiere. Die männlichen Tiere bilden Spermien, die weiblichen Eizellen. Bei der Befruchtung verschmilzt ein Spermium mit einer Eizelle. Aus der befruchteten Eizelle entwickelt sich ein Embryo und daraus ein Jungtier.",
+                      "Bei der äußeren Befruchtung findet die Befruchtung außerhalb des Körpers statt, meist im Wasser. Beispiel: Fische – das Weibchen legt Eier im Wasser ab, das Männchen gibt Spermien dazu. Bei der inneren Befruchtung findet die Befruchtung im Körper des Weibchens statt. Beispiel: Säugetiere – die Spermien gelangen im Körper zur Eizelle, und das Jungtier entwickelt sich im Mutterleib.",
+                      "Fische legen meist viele kleine, weiche Eier ins Wasser, die nicht vor Austrocknung geschützt sind. Vögel legen Eier mit harter Kalkschale, die an Land vor Austrocknung und mechanischen Einwirkungen schützen. Säugetiere legen keine Eier mit Schale, sondern die Jungen entwickeln sich im Körper des Weibchens und werden lebend geboren.",
+                      "Die innere Befruchtung schützt die Keimzellen besser vor äußeren Einflüssen. Es gehen weniger Eizellen und Spermien verloren, und die Embryonen sind besser geschützt. Dadurch können Tiere weniger, aber besser geschützte Junge bekommen. Die Überlebenschance jedes einzelnen Jungtiers ist höher als bei äußerer Befruchtung mit vielen Eiern im Wasser."
+                    ]
+                  }
+                },
+                {
+                  "id": "mnt5_mod3_u8",
+                  "text": "Ich kann Wirbeltiere nach verschiedenen Kriterien ordnen (Wirbeltierklassen, Nutzung, Ernährung) und die wichtigsten Merkmale der Wirbeltierklassen nennen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Ordnung nach Wirbeltierklassen",
+                        "text": "Wirbeltiere werden in fünf Klassen eingeteilt: Fische, Lurche (Amphibien), Kriechtiere (Reptilien), Vögel und Säugetiere. Die Einteilung erfolgt nach Merkmalen wie Hautbedeckung, Fortpflanzung, Atmung und Körpertemperatur. Diese Ordnung hilft, die große Vielfalt zu strukturieren und Verwandtschaften zu erkennen."
+                      },
+                      {
+                        "title": "Merkmale der Fische",
+                        "text": "Fische leben überwiegend im Wasser. Sie atmen mit Kiemen, haben eine schleimige, schuppenbedeckte Haut und Flossen zur Fortbewegung. Sie legen meist viele Eier ins Wasser (Laich), die äußerlich befruchtet werden. Fische sind wechselwarm, das heißt, ihre Körpertemperatur hängt von der Umgebung ab. Beispiele: Karpfen, Forelle, Hai."
+                      },
+                      {
+                        "title": "Merkmale der Lurche (Amphibien)",
+                        "text": "Lurche leben sowohl im Wasser als auch an Land (Amphibien = 'Doppelleben'). Ihre Haut ist glatt, feucht und meist ohne Schuppen. Sie atmen als Larven mit Kiemen, später mit Lunge und Haut. Sie legen Eier ins Wasser, aus denen Larven (Kaulquappen) schlüpfen, die sich zu erwachsenen Tieren umwandeln (Metamorphose). Lurche sind wechselwarm. Beispiele: Frosch, Kröte, Salamander."
+                      },
+                      {
+                        "title": "Merkmale der Kriechtiere (Reptilien)",
+                        "text": "Kriechtiere haben eine trockene Haut mit Hornschuppen oder Hornplatten. Sie atmen mit Lungen und legen Eier an Land, die oft eine lederartige Schale haben. Sie sind wechselwarm. Viele bewegen sich kriechend oder krabbelnd fort. Beispiele: Eidechse, Schlange, Schildkröte, Krokodil."
+                      },
+                      {
+                        "title": "Merkmale der Vögel",
+                        "text": "Vögel haben einen Körper, der mit Federn bedeckt ist. Sie haben Flügel, mit denen die meisten Arten fliegen können. Sie atmen mit Lungen und zusätzlichen Luftsäcken. Vögel legen Eier mit harter Kalkschale an Land. Sie sind gleichwarm, das heißt, ihre Körpertemperatur bleibt unabhängig von der Umgebung relativ konstant. Beispiele: Spatz, Amsel, Adler, Pinguin."
+                      },
+                      {
+                        "title": "Merkmale der Säugetiere",
+                        "text": "Säugetiere haben eine Haut mit Haaren oder Fell (manche haben nur wenige Haare). Sie atmen mit Lungen und bringen ihre Jungen lebend zur Welt. Die Jungen werden mit Milch aus den Milchdrüsen der Mutter ernährt. Säugetiere sind gleichwarm. Es gibt an Land lebende Säugetiere, Meeressäuger und fliegende Säugetiere (Fledermäuse). Beispiele: Mensch, Hund, Kuh, Delphin, Fledermaus."
+                      },
+                      {
+                        "title": "Ordnung nach Nutzung: Heim-, Nutz- und Wildtiere",
+                        "text": "Wirbeltiere kann man auch danach ordnen, wie der Mensch sie nutzt oder mit ihnen zusammenlebt. Heimtiere leben mit Menschen im Haushalt und werden aus Freude oder Gesellschaft gehalten (z.B. Hund, Katze, Wellensittich). Nutztiere werden wegen bestimmter Produkte oder Leistungen gehalten, z.B. Kuh (Milch, Fleisch), Huhn (Eier, Fleisch), Pferd (Arbeit, Sport). Wildtiere leben in der Natur ohne direkte menschliche Haltung, z.B. Fuchs, Reh, Wildschwein."
+                      },
+                      {
+                        "title": "Ordnung nach Ernährung: Fleisch-, Pflanzen- und Allesfresser",
+                        "text": "Man kann Wirbeltiere auch nach ihrer Nahrung einteilen. Fleischfresser (Karnivoren) fressen überwiegend andere Tiere, z.B. Löwe, Wolf, Hai. Pflanzenfresser (Herbivoren) fressen hauptsächlich Pflanzen, z.B. Kuh, Pferd, Kaninchen. Allesfresser (Omnivoren) fressen sowohl pflanzliche als auch tierische Nahrung, z.B. Mensch, Schwein, Ratte. Der Gebissbau ist an die jeweilige Ernährungsweise angepasst."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Wirbeltierklassen",
+                        "definition": "Große Gruppen von Wirbeltieren: Fische, Lurche, Kriechtiere, Vögel, Säugetiere."
+                      },
+                      {
+                        "term": "Wechselwarm",
+                        "definition": "Körpertemperatur passt sich der Umgebung an (z.B. Fische, Lurche, Kriechtiere)."
+                      },
+                      {
+                        "term": "Gleichwarm",
+                        "definition": "Körpertemperatur bleibt weitgehend konstant, unabhängig von der Umgebung (z.B. Vögel, Säugetiere)."
+                      },
+                      {
+                        "term": "Heimtier",
+                        "definition": "Tier, das mit dem Menschen im Haushalt lebt und meist nicht zur Nahrungsgewinnung gehalten wird."
+                      },
+                      {
+                        "term": "Nutztier",
+                        "definition": "Tier, das vom Menschen wegen bestimmter Produkte oder Leistungen gehalten wird, z.B. Milch, Fleisch, Eier, Arbeit."
+                      },
+                      {
+                        "term": "Wildtier",
+                        "definition": "Tier, das in der Natur ohne direkte Haltung durch den Menschen lebt."
+                      },
+                      {
+                        "term": "Fleischfresser",
+                        "definition": "Tier, das überwiegend andere Tiere frisst."
+                      },
+                      {
+                        "term": "Pflanzenfresser",
+                        "definition": "Tier, das überwiegend Pflanzen frisst."
+                      },
+                      {
+                        "term": "Allesfresser",
+                        "definition": "Tier, das sowohl pflanzliche als auch tierische Nahrung frisst."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann die fünf Wirbeltierklassen nennen.",
+                      "Ich kann die wichtigsten Merkmale jeder Wirbeltierklasse beschreiben.",
+                      "Ich kann Beispiele für jede Wirbeltierklasse nennen.",
+                      "Ich kann Wirbeltiere nach Nutzung in Heim-, Nutz- und Wildtiere einteilen.",
+                      "Ich kann Wirbeltiere nach ihrer Ernährung in Fleisch-, Pflanzen- und Allesfresser einteilen.",
+                      "Ich kann erklären, was wechselwarm und gleichwarm bedeutet."
+                    ],
+                    "sample_questions": [
+                      "Nenne die fünf Wirbeltierklassen und gib zu jeder ein Beispiel.",
+                      "Beschreibe typische Merkmale der Lurche.",
+                      "Wodurch unterscheiden sich Vögel und Säugetiere von Fischen in Bezug auf Fortpflanzung und Körpertemperatur?",
+                      "Erkläre die Begriffe Heimtier, Nutztier und Wildtier und nenne je zwei Beispiele.",
+                      "Was sind Fleischfresser, Pflanzenfresser und Allesfresser? Nenne je zwei Beispiele."
+                    ],
+                    "sample_answers": [
+                      "Die fünf Wirbeltierklassen sind: Fische (z.B. Karpfen), Lurche (z.B. Frosch), Kriechtiere (z.B. Eidechse), Vögel (z.B. Spatz) und Säugetiere (z.B. Hund).",
+                      "Lurche haben eine glatte, feuchte Haut ohne Schuppen. Sie leben teilweise im Wasser, teilweise an Land. Sie atmen als Larven mit Kiemen, später mit Lunge und Haut. Sie legen Eier ins Wasser, aus denen Larven schlüpfen, die eine Metamorphose durchmachen. Lurche sind wechselwarm.",
+                      "Fische legen ihre Eier meist ins Wasser und haben eine äußere Befruchtung. Sie sind wechselwarm und atmen mit Kiemen. Vögel und Säugetiere haben innere Befruchtung. Vögel legen Eier mit harter Schale an Land, Säugetiere bringen lebende Junge zur Welt und säugen sie mit Milch. Beide sind gleichwarm und halten ihre Körpertemperatur konstant.",
+                      "Heimtiere leben mit Menschen im Haushalt und werden meist aus Freude gehalten, z.B. Hund und Katze. Nutztiere werden wegen bestimmter Produkte oder Leistungen gehalten, z.B. Kuh (Milch, Fleisch) und Huhn (Eier, Fleisch). Wildtiere leben in der Natur, z.B. Reh und Fuchs.",
+                      "Fleischfresser fressen vor allem andere Tiere, z.B. Löwe und Wolf. Pflanzenfresser fressen hauptsächlich Pflanzen, z.B. Kuh und Pferd. Allesfresser fressen sowohl Pflanzen als auch Tiere, z.B. Mensch und Schwein."
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

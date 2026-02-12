@@ -1,0 +1,288 @@
+{
+  "school_id": "de_thueringen",
+  "grades": [
+    {
+      "grade_id": "klasse5",
+      "grade_label": "Klasse 5",
+      "subjects": [
+        {
+          "subject_id": "deu",
+          "subject_title": "Deutsch",
+          "modules": [
+            {
+              "module_id": "deu5_mod1",
+              "module_name": "Texte rezipieren – lesen, hören, sehen",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Warum Lesen, Hören und Sehen im Deutschunterricht wichtig sind",
+                    "text": "Im Deutschunterricht begegnest du vielen verschiedenen Texten: Geschichten, Gedichten, Comics, Sachtexten, Hörspielen, Filmausschnitten oder Internetseiten. Wenn du solche Texte gut verstehst, kannst du Informationen gewinnen, Neues lernen und dich in fremde Welten hineinversetzen. Lesen, Hören und Sehen sind deshalb die Grundlage für fast alles, was du in der Schule lernst – nicht nur im Fach Deutsch."
+                  },
+                  {
+                    "title": "Texte verstehen – mit Kopf und Gefühl",
+                    "text": "Texte zu rezipieren bedeutet, dass du sie mit allen Sinnen aufnimmst und verstehst. Beim Lesen und Hören arbeitest du nicht nur mit den Augen oder Ohren, sondern auch mit deinem Kopf und deinen Gefühlen: Du stellst dir Bilder vor, ordnest Informationen, vergleichst mit eigenen Erfahrungen und bildest dir eine Meinung. So erkennst du, worum es in einem Text geht, welche Absicht jemand mit einem Text verfolgt und wie der Text auf dich wirkt."
+                  },
+                  {
+                    "title": "Lesestrategien und Hörstrategien nutzen",
+                    "text": "Gute Leserinnen und Leser haben Tricks, wie sie Texte besser verstehen: Sie überlegen vorher, worum es gehen könnte, überfliegen einen Text, markieren Wichtiges oder stellen sich Fragen zum Inhalt. Auch beim Hören ist es hilfreich, sich zu konzentrieren, auf Schlüsselwörter zu achten und sich Notizen zu machen. In diesem Modul lernst du solche Strategien kennen und übst sie an verschiedenen Textsorten, damit du Texte immer sicherer verstehen kannst."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "deu5_mod1_u1",
+                  "text": "Ich kann einfache literarische Texte (Erzählungen, Gedichte, Szenen) sinnerfassend lesen und grundlegende Merkmale benennen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Literarische Texte – Geschichten, Gedichte, Szenen",
+                        "text": "Literarische Texte sind erfundene Texte. Dazu gehören Geschichten (Erzählungen), Gedichte und kleine Theaterszenen. In ihnen geht es um Figuren, Erlebnisse, Gedanken und Gefühle. Oft erzählen sie von Problemen oder Wünschen, die du aus deinem eigenen Leben kennst. Literarische Texte wollen dich nachdenken lassen, unterhalten oder berühren – nicht nur informieren."
+                      },
+                      {
+                        "title": "Eine Geschichte verstehen",
+                        "text": "Wenn du eine Geschichte liest, achtest du auf die wichtigsten Bausteine: Wer sind die Hauptfiguren? Wo und wann spielt die Geschichte? Welches Problem oder welcher Konflikt taucht auf? Wie entwickelt sich die Handlung und wie endet sie? Du lernst, zwischen wichtigen und unwichtigen Details zu unterscheiden und den roten Faden einer Erzählung zu erkennen."
+                      },
+                      {
+                        "title": "Ein Gedicht entdecken",
+                        "text": "Gedichte sind oft kürzer als Geschichten, aber sehr dicht: In wenigen Zeilen stecken viele Bilder, Gefühle und Gedanken. Du achtest auf Reime, Strophen, Rhythmus und besondere Wörter oder Bilder (z. B. Vergleiche). Wichtig ist vor allem, dass du sagst, was das Gedicht bei dir auslöst: Welche Stimmung spürst du? Woran musst du denken?"
+                      },
+                      {
+                        "title": "Szenen und Spiele",
+                        "text": "Kleine Theaterszenen bestehen aus Figuren, die miteinander sprechen und handeln. Statt eines Erzählers siehst du direkt, was auf der Bühne passiert. Du lernst, Regieanweisungen zu erkennen (z. B. ‚laut‘, ‚leise‘, ‚geht nach links‘) und zu verstehen, wie Figuren durch ihre Sprache und ihr Verhalten dargestellt werden."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "literarischer Text",
+                        "definition": "Erfundener Text wie z. B. Geschichte, Gedicht oder Theaterszene, in dem Erlebnisse, Gedanken und Gefühle gestaltet werden."
+                      },
+                      {
+                        "term": "Erzählung",
+                        "definition": "Geschriebene Geschichte mit Figuren, Ort, Zeit, Handlung und einem Anfang, einer Mitte und einem Ende."
+                      },
+                      {
+                        "term": "Gedicht",
+                        "definition": "Literarischer Text in Versen und Strophen, oft mit Reimen und besonderem Rhythmus."
+                      },
+                      {
+                        "term": "Figur",
+                        "definition": "Person oder Wesen, das in einem literarischen Text vorkommt."
+                      },
+                      {
+                        "term": "Handlung",
+                        "definition": "Das, was in einer Geschichte passiert – die Abfolge der Ereignisse."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann erklären, was literarische Texte sind.",
+                      "Ich kann aus einer Erzählung die wichtigsten Figuren und das Thema nennen.",
+                      "Ich kann grob nacherzählen, worum es in einer gelesenen Geschichte geht.",
+                      "Ich kann in einem einfachen Gedicht Reime und Strophen erkennen.",
+                      "Ich kann sagen, welche Stimmung eine Geschichte oder ein Gedicht bei mir auslöst."
+                    ],
+                    "sample_questions": [
+                      "Was ist der Unterschied zwischen einer Sachinformation und einer erfundenen Geschichte?",
+                      "Nenne die wichtigsten Figuren und das Thema einer Geschichte, die ihr im Unterricht gelesen habt.",
+                      "Wie ist ein einfaches Gedicht aufgebaut?",
+                      "Wie fühlst du dich beim Lesen einer bestimmten Geschichte oder eines Gedichts und warum?"
+                    ],
+                    "sample_answers": [
+                      "Eine Sachinformation will vor allem informieren und Wirkliches beschreiben, eine erfundene Geschichte erzählt von ausgedachten Figuren und Erlebnissen und will mich oft auch unterhalten oder nachdenken lassen.",
+                      "In der Geschichte ‚…‘ sind die Hauptfiguren … und …. Das Thema der Geschichte ist zum Beispiel Freundschaft bzw. Streit und Versöhnung.",
+                      "Ein einfaches Gedicht besteht oft aus mehreren Strophen. Jede Strophe hat eine bestimmte Anzahl von Versen. Es gibt häufig Reime am Versende und einen spürbaren Rhythmus.",
+                      "Beim Lesen der Geschichte ‚…‘ fühle ich mich traurig bzw. fröhlich, weil der Hauptfigur etwas passiert, das ich gut nachempfinden kann, zum Beispiel weil sie ausgegrenzt wird oder weil sie ein Problem löst."
+                    ]
+                  }
+                },
+                {
+                  "id": "deu5_mod1_u2",
+                  "text": "Ich kann Sach- und Gebrauchstexte lesen, Informationen entnehmen und deren Zweck erkennen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Sachtexte und Gebrauchstexte im Alltag",
+                        "text": "Sachtexte und Gebrauchstexte begegnen dir jeden Tag: Arbeitsanweisungen im Heft, Infotexte in Büchern, Zeitungsartikel für Kinder, Spielanleitungen, Fahrpläne, Internetseiten, Plakate oder Schilder. Sie wollen dich informieren, etwas erklären, dich zu etwas auffordern oder dir Regeln mitteilen."
+                      },
+                      {
+                        "title": "Informationen gezielt finden",
+                        "text": "Beim Lesen eines Sachtextes musst du nicht alles gleich wichtig finden. Oft suchst du gezielt bestimmte Informationen. Du lernst, Überschriften, Zwischenüberschriften, Bilder, Tabellen und Hervorhebungen zu nutzen, um dich im Text zu orientieren. Du kannst Fragen an den Text stellen wie: Wer? Was? Wann? Wo? Warum? und suchst dann passende Textstellen dazu."
+                      },
+                      {
+                        "title": "Zweck eines Textes erkennen",
+                        "text": "Jeder Text hat einen bestimmten Zweck: Ein Bericht informiert über ein Ereignis, eine Spielanleitung erklärt Schritt für Schritt, was zu tun ist, ein Plakat will dich auf etwas aufmerksam machen oder dich zu etwas bewegen. Du lernst, an Sprache und Aufbau zu erkennen, ob ein Text eher informieren, erklären, warnen oder werben will."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Sachtext",
+                        "definition": "Text, der über wirkliche Dinge, Personen oder Vorgänge informiert oder etwas erklärt."
+                      },
+                      {
+                        "term": "Gebrauchstext",
+                        "definition": "Kurztext mit praktischem Nutzen im Alltag, z. B. Spielanleitung, Aushang, Plakat oder Fahrplan."
+                      },
+                      {
+                        "term": "Information",
+                        "definition": "gezielte Auskunft über eine Sache, z. B. eine Zahl, ein Fakt oder eine Erklärung."
+                      },
+                      {
+                        "term": "Überschrift",
+                        "definition": "Titel eines Textes, der knapp sagt, worum es im Text geht."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann Sachtexte und Gebrauchstexte von Geschichten unterscheiden.",
+                      "Ich kann aus einem Sachtext gezielt bestimmte Informationen entnehmen.",
+                      "Ich kann den Zweck eines einfachen Textes nennen (z. B. informieren, erklären, warnen, werben).",
+                      "Ich kann wichtige Informationen aus einem Text in Stichpunkten festhalten."
+                    ],
+                    "sample_questions": [
+                      "Woran erkennst du, dass ein Text ein Sachtext und keine Geschichte ist?",
+                      "Welche Informationen kannst du aus einer Spielanleitung entnehmen?",
+                      "Welchen Zweck hat ein Plakat oder Flyer, den ihr im Unterricht betrachtet habt?",
+                      "Fasse die wichtigsten Informationen eines kurzen Sachtextes in 3 Stichpunkten zusammen."
+                    ],
+                    "sample_answers": [
+                      "Ein Sachtext berichtet über wirkliche Dinge, benutzt oft Fachwörter und ist meist sachlich geschrieben. Es gibt keine ausgedachten Figuren oder erfundene Handlung wie in einer Geschichte.",
+                      "Aus einer Spielanleitung erfahre ich zum Beispiel, wie viele Spieler mitmachen, welches Material ich brauche und wie die einzelnen Spielschritte ablaufen.",
+                      "Ein Plakat für eine Schulveranstaltung soll mich informieren, wann und wo etwas stattfindet, und mich dazu einladen, daran teilzunehmen.",
+                      "Die wichtigsten Informationen sind zum Beispiel: 1. Worum es geht, 2. die wichtigsten Fakten dazu, 3. eine wichtige Erklärung oder Folge."
+                    ]
+                  }
+                },
+                {
+                  "id": "deu5_mod1_u3",
+                  "text": "Ich kann Lesestrategien anwenden, um Texte besser zu verstehen, und meine Leseergebnisse geordnet festhalten.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Vor dem Lesen – sich vorbereiten",
+                        "text": "Bevor du einen Text genau liest, kannst du dir einen Überblick verschaffen: Du schaust dir Überschrift, Bilder, fett gedruckte Wörter und eventuell Zwischenüberschriften an. Du überlegst, was du schon über das Thema weißt und stellst dir Fragen: Worum könnte es gehen? Was möchte ich herausfinden? So bereitest du dein Denken auf den Text vor."
+                      },
+                      {
+                        "title": "Beim Lesen – Wichtiges erkennen",
+                        "text": "Während du liest, achtest du auf Schlüsselwörter und Sätze, in denen viel Wichtiges steht. Du kannst sie unterstreichen, markieren oder Randnotizen machen. Unbekannte Wörter versuchst du aus dem Zusammenhang zu erschließen oder schlägst sie nach. Du liest nicht zu schnell, sondern so, dass du den Inhalt wirklich verstehst."
+                      },
+                      {
+                        "title": "Nach dem Lesen – Zusammenfassen und sichern",
+                        "text": "Nach dem Lesen überlegst du: Was war die Hauptaussage? Welche wichtigen Informationen habe ich gefunden? Du kannst deine Ergebnisse in Stichpunkten notieren, eine kurze Inhaltsangabe schreiben oder eine kleine Mindmap zum Textthema anlegen. So vergisst du das Gelesene nicht so schnell und kannst es später leichter wiederholen."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Lesestrategie",
+                        "definition": "bewusste Vorgehensweise, die dir hilft, einen Text besser zu verstehen (z. B. Fragen stellen, Markieren, Zusammenfassen)."
+                      },
+                      {
+                        "term": "Schlüsselwort",
+                        "definition": "wichtiges Wort in einem Text, das für das Thema oder den Inhalt besonders bedeutend ist."
+                      },
+                      {
+                        "term": "Inhaltsangabe",
+                        "definition": "kurze, sachliche Zusammenfassung der wichtigsten Inhalte eines Textes in eigenen Worten."
+                      },
+                      {
+                        "term": "Mindmap",
+                        "definition": "Skizze, in der ein Thema in der Mitte steht und wichtige Unterpunkte strahlenförmig angeordnet sind."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann vor dem Lesen Vermutungen zum Inhalt eines Textes anstellen.",
+                      "Ich kann beim Lesen wichtige Stellen markieren oder mit Stichworten am Rand versehen.",
+                      "Ich kann einen kurzen Text mit wenigen Sätzen oder Stichpunkten zusammenfassen.",
+                      "Ich kann sagen, welche Lesestrategien mir persönlich helfen."
+                    ],
+                    "sample_questions": [
+                      "Was kannst du tun, bevor du einen Text liest, um dich vorzubereiten?",
+                      "Wie erkennst du beim Lesen, welche Textstellen besonders wichtig sind?",
+                      "Wie kannst du nach dem Lesen eines Textes dein Verständnis überprüfen?",
+                      "Welche Lesestrategie hat dir bei einem bestimmten Text besonders geholfen und warum?"
+                    ],
+                    "sample_answers": [
+                      "Ich schaue mir Überschrift und Bilder an und überlege, worum es gehen könnte. Außerdem denke ich darüber nach, was ich zum Thema schon weiß.",
+                      "Wichtige Textstellen erkenne ich daran, dass sie zentrale Fragen beantworten oder viele wichtige Informationen enthalten. Oft sind sie durch Signalwörter oder Beispiele gekennzeichnet.",
+                      "Ich kann versuchen, den Text in eigenen Worten nachzuerzählen oder eine kurze Inhaltsangabe schreiben. Wenn ich das schaffe, habe ich den Text verstanden.",
+                      "Mir hilft es besonders, wichtige Wörter zu unterstreichen und am Rand Stichworte zu notieren, weil ich so beim Wiederholen schnell die wichtigsten Inhalte wiederfinde."
+                    ]
+                  }
+                },
+                {
+                  "id": "deu5_mod1_u4",
+                  "text": "Ich kann einfache Hör- und Hörsehtexte (z. B. Hörspiele, Videos, Vorlesesituationen) verstehen und wichtige Informationen entnehmen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Hören und Sehen – mehr als nur nebenbei",
+                        "text": "Im Deutschunterricht hörst du zum Beispiel Geschichten, Hörspiele, Gespräche oder schaust kurze Videos und Filmszenen. Um sie gut zu verstehen, musst du dich konzentrieren: Du hörst aufmerksam zu, achtest auf Stimmen, Geräusche, Musik, aber auch auf Bilder, Gestik und Mimik der Personen. So erkennst du nicht nur, was gesagt wird, sondern auch, wie es gemeint ist."
+                      },
+                      {
+                        "title": "Wichtige Informationen aus Hörtexten holen",
+                        "text": "Wie beim Lesen kannst du auch beim Hören bestimmte Fragen im Kopf haben: Wer? Was? Wann? Wo? Warum? Du kannst beim Zuhören Stichworte notieren, um dir wichtige Dinge zu merken. Manche Texte hörst du in Etappen oder auch mehrmals, um alle Informationen zu erfassen. Du lernst, Hauptaussagen von Nebensachen zu unterscheiden."
+                      },
+                      {
+                        "title": "Stimmung und Absicht erkennen",
+                        "text": "An der Stimme, der Musik, der Lautstärke und dem Sprechtempo erkennst du oft, welche Stimmung ein Text hat und welche Absicht jemand verfolgt. Spricht eine Person ruhig und sachlich, will sie meist informieren. Spricht jemand laut und schnell, kann das auf Aufregung oder Spannung hinweisen. Du übst, solche Wirkungen zu beschreiben."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Hörtext",
+                        "definition": "Text, den du nicht liest, sondern hörst, z. B. Geschichte, Hörspiel, Radiobeitrag."
+                      },
+                      {
+                        "term": "Hörsehtext",
+                        "definition": "Text, den du gleichzeitig hörst und siehst, z. B. Film, Video, Theateraufführung."
+                      },
+                      {
+                        "term": "Hauptaussage",
+                        "definition": "wichtigste Aussage eines Textes – das, worum es im Kern geht."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann beim Hören konzentriert bleiben und Störungen möglichst ausblenden.",
+                      "Ich kann aus einem gehörten Text wichtige Informationen herausschreiben.",
+                      "Ich kann in eigenen Worten wiedergeben, worum es in einem Hörtext ging.",
+                      "Ich kann einfache Wirkungen von Stimme, Musik und Geräuschen beschreiben."
+                    ],
+                    "sample_questions": [
+                      "Wie bereitest du dich auf das Hören eines Hörtextes vor?",
+                      "Welche Informationen hast du aus einem gehörten Hörspiel oder Vortrag entnommen?",
+                      "Wie würdest du kurz erzählen, worum es in einem Hörtext ging?",
+                      "Was verraten dir Stimme und Musik über die Stimmung eines Hörtextes?"
+                    ],
+                    "sample_answers": [
+                      "Ich setze mich so hin, dass ich gut hören kann, lege Stifte bereit und überlege, worauf ich besonders achten möchte. Manchmal schaue ich mir vorher auch eine Überschrift oder ein Bild an, wenn es das gibt.",
+                      "Aus dem Hörspiel habe ich erfahren, wer die Hauptfiguren sind, wo die Geschichte spielt und welches Problem sie haben.",
+                      "In dem Hörtext ging es darum, dass … (Hauptaussage in 2–3 Sätzen wiedergeben).",
+                      "Eine ruhige, langsame Stimme mit leiser Musik wirkt eher nachdenklich oder traurig, eine laute Stimme mit schneller Musik kann aufregend oder fröhlich wirken."
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

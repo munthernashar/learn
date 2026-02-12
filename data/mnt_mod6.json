@@ -1,0 +1,298 @@
+{
+  "school_id": "de_thueringen",
+  "grades": [
+    {
+      "grade_id": "klasse5",
+      "grade_label": "Klasse 5",
+      "subjects": [
+        {
+          "subject_id": "mnt",
+          "subject_title": "Mensch–Natur–Technik",
+          "modules": [
+            {
+              "module_id": "mnt5_mod6",
+              "module_name": "Bionik – Lösungen aus der Natur für die Technik",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Überblick über das Modul Bionik",
+                    "text": "In diesem Modul lernst du, wie der Mensch von der Natur lernt. Viele Probleme in der Technik wurden gelöst, indem man Naturvorbilder genau beobachtet und ihre Prinzipien nachahmt. Diesen Bereich nennt man Bionik. Du untersuchst, wie Pflanzen und Tiere gebaut sind, wie sie funktionieren und wie daraus Ideen für technische Erfindungen entstehen – zum Beispiel für stabile Brücken, warme Kleidung oder schmutzabweisende Oberflächen."
+                  },
+                  {
+                    "title": "Natur als Vorbild für Technik",
+                    "text": "Die Natur hatte Millionen von Jahren Zeit, um durch Evolution sehr gute Lösungen für viele Probleme zu entwickeln. Pflanzen und Tiere müssen stabil sein, wenig Material verbrauchen, sich schützen, Wärme speichern oder Wasser abweisen. Ingenieure und Wissenschaftler schauen sich diese Lösungen ab und übertragen sie auf technische Produkte. Du lernst, an Beispielen zu erkennen, welches Naturvorbild hinter einer technischen Lösung steckt und welches Prinzip die Natur nutzt."
+                  },
+                  {
+                    "title": "Vorgehensweise in der Bionik",
+                    "text": "In der Bionik geht man systematisch vor: Zuerst wird eine technische Aufgabe festgelegt, die gelöst werden soll. Dann sucht man in der Natur nach Vorbildern, die eine ähnliche Aufgabe schon gut gelöst haben. Anschließend untersucht man diese Naturvorbilder genau, erkennt das dahinterstehende Prinzip und entwickelt einfache Modelle. Zum Schluss überträgt man das Prinzip auf eine technische Lösung und verbessert diese weiter. Du übst diese Vorgehensweise in einem kleinen Projekt selbst."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "mnt5_mod6_u1",
+                  "text": "Ich kann erklären, was Bionik ist, und an Beispielen die Bedeutung von Naturvorbildern für technische Problemlösungen erläutern.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Begriff Bionik",
+                        "text": "Das Wort Bionik setzt sich aus 'Biologie' und 'Technik' (englisch: 'technik' oder 'electronics') zusammen. In der Bionik versucht der Mensch, Ideen aus der belebten Natur auf die Technik zu übertragen. Man beobachtet zum Beispiel Pflanzen, Tiere oder ganze Lebensgemeinschaften und fragt: Wie lösen sie bestimmte Aufgaben? Welche Formen, Strukturen und Bewegungen nutzen sie? Diese naturwissenschaftlichen Erkenntnisse werden genutzt, um technische Produkte stabiler, leichter, energiesparender oder praktischer zu machen."
+                      },
+                      {
+                        "title": "Warum von der Natur lernen?",
+                        "text": "Die Natur hat in Millionen von Jahren viele Lösungen 'entwickelt', die sehr gut funktionieren. Ein Vogel fliegt stabil und energiearm, ein Baum ist mit wenig Material sehr stabil, die Haut eines Eisbären isoliert hervorragend gegen Kälte. Statt alles neu zu erfinden, lohnt es sich für Ingenieure, solche Lösungen zu untersuchen und nachzuahmen. Das spart oft Material und Energie und führt zu Erfindungen, die besser funktionieren und umweltfreundlicher sind."
+                      },
+                      {
+                        "title": "Einfaches Beispiel: Klettverschluss",
+                        "text": "Der Klettverschluss wurde nach dem Vorbild der Früchte der Großen Klette entwickelt. Die Früchte bleiben mit ihren Häkchen im Fell von Tieren oder an der Kleidung hängen und werden so verbreitet. Ein Ingenieur beobachtete dies unter dem Mikroskop: Er sah viele kleine Häkchen, die sich in die Fasern einhaken. Das gleiche Prinzip wird im Klettverschluss verwendet: Eine Seite hat Häkchen, die andere Schlaufen. Drückt man beide Seiten zusammen, haken sich die Häkchen in die Schlaufen, und der Verschluss hält."
+                      },
+                      {
+                        "title": "Einfaches Beispiel: Lotus-Effekt",
+                        "text": "Die Blätter der Lotuspflanze bleiben auch im schlammigen Wasser erstaunlich sauber. Wassertropfen perlen ab und nehmen Schmutzteilchen mit. Unter dem Mikroskop erkennt man eine besondere Oberflächenstruktur: Die Oberfläche ist nicht glatt, sondern besteht aus vielen winzigen Erhebungen. Dadurch können Wasser und Schmutz schlecht haften. Dieses Prinzip, Wasser und Schmutz abperlen zu lassen, wurde auf selbstreinigende Oberflächen übertragen, zum Beispiel auf Fassadenfarben oder Glas."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Bionik",
+                        "definition": "Wissenschaft, die Lösungen aus der Natur auf technische Probleme überträgt."
+                      },
+                      {
+                        "term": "Naturvorbild",
+                        "definition": "Struktur, Form oder Funktionsweise aus der Natur, die als Vorlage für eine technische Lösung dient."
+                      },
+                      {
+                        "term": "Prinzip",
+                        "definition": "Grundidee oder Grundregel, nach der etwas funktioniert (z. B. Häkchenprinzip beim Klettverschluss)."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann den Begriff Bionik in eigenen Worten erklären.",
+                      "Ich kann mindestens zwei Beispiele nennen, bei denen die Natur als Vorbild für die Technik diente.",
+                      "Ich kann zu einem Beispiel das Naturvorbild und das technische Produkt zuordnen.",
+                      "Ich kann erklären, warum es sinnvoll ist, von der Natur zu lernen."
+                    ],
+                    "sample_questions": [
+                      "Erkläre den Begriff Bionik.",
+                      "Beschreibe an einem Beispiel, wie ein Naturvorbild zu einer technischen Erfindung geführt hat.",
+                      "Warum ist die Natur eine gute 'Erfinderin' für technische Lösungen?",
+                      "Was ist bei Bionik wichtiger: das genaue Aussehen oder das dahinterstehende Prinzip? Begründe deine Antwort."
+                    ],
+                    "sample_answers": [
+                      "Bionik ist die Wissenschaft, bei der der Mensch Lösungen aus der Natur auf die Technik überträgt. Man beobachtet Pflanzen und Tiere, erkennt Funktionsprinzipien und nutzt diese Ideen für technische Produkte.",
+                      "Beim Klettverschluss hat man sich die Früchte der Großen Klette zum Vorbild genommen. Ihre Häkchen bleiben im Fell von Tieren hängen. Im Klettverschluss gibt es eine Seite mit Häkchen und eine mit Schlaufen. Drückt man sie zusammen, haken sich die Häkchen in die Schlaufen ein und der Verschluss hält – genau wie die Klette im Fell.",
+                      "Die Natur ist eine gute 'Erfinderin', weil sie über sehr lange Zeit durch Evolution viele Lösungen entwickelt hat, die gut funktionieren, energiesparend sind und mit wenig Material auskommen. Wenn wir diese Lösungen nachahmen, können wir oft bessere und umweltfreundlichere Technik entwickeln.",
+                      "Wichtiger ist das dahinterstehende Prinzip. Das technische Produkt muss nicht genauso aussehen wie das Naturvorbild. Entscheidend ist, dass es nach dem gleichen Funktionsprinzip arbeitet, zum Beispiel Haken und Schlaufen beim Klettverschluss oder eine besondere Oberflächenstruktur beim Lotus-Effekt."
+                    ]
+                  }
+                },
+                {
+                  "id": "mnt5_mod6_u2",
+                  "text": "Ich kann die Vorgehensweise der Bionik beschreiben (Funktion festlegen, Naturvorbilder suchen, Prinzip erkennen, Funktionsmodell entwickeln, auf Technik übertragen).",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Schritt 1: Funktion festlegen",
+                        "text": "Am Anfang eines bionischen Projektes steht eine technische Aufgabe. Man überlegt: Welche Funktion soll das technische Produkt erfüllen? Beispiele: Ein Turm soll sehr stabil sein, aber wenig Material verbrauchen. Eine Jacke soll sehr gut wärmen und trotzdem leicht sein. Eine Oberfläche soll Wasser und Schmutz abweisen. Die gesuchte Funktion wird so genau wie möglich beschrieben."
+                      },
+                      {
+                        "title": "Schritt 2: Naturvorbilder suchen",
+                        "text": "Als nächstes sucht man in der Natur nach Lebewesen oder Strukturen, die eine ähnliche Funktion bereits gut erfüllen. Für Stabilität bei wenig Material kann man sich Grashalme, Hohlschäfte bei Vögeln oder Bienenwaben anschauen. Für Wärmedämmung eignen sich Eisbärenfell oder Federn von Vögeln. Für wasserabweisende Oberflächen sind Lotusblätter oder Kresse geeignet. Wichtig ist, genau zu beobachten und auch kleinste Details zu beachten."
+                      },
+                      {
+                        "title": "Schritt 3: Prinzip erkennen",
+                        "text": "Die Naturvorbilder werden mit naturwissenschaftlichen Methoden untersucht: beobachten, beschreiben, untersuchen, vergleichen. Man untersucht Bau und Struktur, zum Beispiel Querschnitte von Halmen oder Knochen, Oberflächen unter der Lupe oder im Mikroskop. Ziel ist es, das allgemeine Prinzip hinter der Lösung zu erkennen, zum Beispiel: Hohlräume für Stabilität bei wenig Gewicht, Luftpolster zur Wärmedämmung, Mikrostrukturen für Schmutzabweisung."
+                      },
+                      {
+                        "title": "Schritt 4: Funktionsmodell entwickeln",
+                        "text": "Hat man das Prinzip erkannt, baut man einfache Modelle, die das Prinzip nachahmen. Das können Papiermodelle, Pappkonstruktionen, kleine Versuchsaufbauten oder digitale Modelle sein. An diesen Modellen kann man testen, ob die Idee funktioniert und wie man sie verbessern kann. Wichtig ist, dass das Modell das Prinzip gut zeigt, auch wenn es noch nicht wie ein fertiges Produkt aussieht."
+                      },
+                      {
+                        "title": "Schritt 5: Übertragung auf technische Objekte",
+                        "text": "Im letzten Schritt wird das Prinzip auf ein technisches Produkt übertragen. Dabei müssen Materialien, Herstellung, Kosten und Sicherheit beachtet werden. Aus der Idee wird ein Produkt, zum Beispiel ein Turm mit Sandwichstruktur, eine Jacke mit besonderem Futter oder eine selbstreinigende Farbe. Oft wird das Produkt in mehreren Runden verbessert, bis es gut funktioniert."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Funktion",
+                        "definition": "Aufgabe, die ein technisches Objekt erfüllen soll, z. B. stabil sein, wärmen, Wasser abweisen."
+                      },
+                      {
+                        "term": "Funktionsmodell",
+                        "definition": "Vereinfachtes Modell, das ein Funktionsprinzip anschaulich zeigt und getestet werden kann."
+                      },
+                      {
+                        "term": "Übertragung",
+                        "definition": "Anwendung eines in der Natur gefundenen Prinzips auf ein technisches Produkt."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann die fünf Schritte der bionischen Vorgehensweise in der richtigen Reihenfolge nennen.",
+                      "Ich kann zu jedem Schritt kurz erklären, was dort gemacht wird.",
+                      "Ich kann zu einer einfachen Aufgabe ein mögliches Naturvorbild nennen.",
+                      "Ich kann erklären, warum Funktionsmodelle wichtig sind."
+                    ],
+                    "sample_questions": [
+                      "Beschreibe die Schritte der bionischen Vorgehensweise in eigenen Worten.",
+                      "Welche Aufgabe steht am Anfang eines bionischen Projekts?",
+                      "Warum ist es wichtig, das Prinzip eines Naturvorbildes zu erkennen und nicht nur die Form zu kopieren?",
+                      "Welche Rolle spielen Funktionsmodelle in der Bionik?"
+                    ],
+                    "sample_answers": [
+                      "In der Bionik geht man so vor: Zuerst legt man die Funktion fest, die man technisch erreichen will. Dann sucht man Naturvorbilder, die eine ähnliche Funktion erfüllen. Diese Vorbilder untersucht man genau und erkennt das dahinterstehende Prinzip. Danach baut man Funktionsmodelle, die dieses Prinzip nachahmen. Zum Schluss überträgt man das Prinzip auf ein technisches Produkt und verbessert es weiter.",
+                      "Am Anfang steht immer die Frage: Welche Aufgabe soll unser Produkt erfüllen? Zum Beispiel: 'Es soll eine Brücke gebaut werden, die bei wenig Material sehr stabil ist' oder 'Es soll eine Oberfläche geben, die sich selbst reinigt'.",
+                      "Wenn man nur die Form kopiert, funktioniert das Produkt vielleicht nicht richtig. Wichtig ist das Funktionsprinzip, das hinter der Form steckt. Viele Formen lassen sich verändern, solange das Prinzip erhalten bleibt, z. B. Hohlräume oder bestimmte Oberflächenstrukturen.",
+                      "Funktionsmodelle sind wichtig, weil man an ihnen testen kann, ob die Idee aus der Natur in der Technik funktioniert. Sie sind oft einfach aufgebaut, zeigen aber das Prinzip deutlich. Mit Modellen kann man Verbesserungen ausprobieren, bevor man ein aufwendiges Endprodukt herstellt."
+                    ]
+                  }
+                },
+                {
+                  "id": "mnt5_mod6_u3",
+                  "text": "Ich kann an Beispielen (Stabilität, Wärmedämmung, Oberflächen) erklären, wie bionische Lösungen aus der Natur in die Technik übertragen wurden.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Stabilität mit wenig Material – Gräser, Halme, Vogelknochen, Bienenwaben",
+                        "text": "Viele Pflanzen und Tiere sind sehr stabil, obwohl sie wenig Material verwenden. Grashalme und Stängel vieler Pflanzen haben einen Hohlraum in der Mitte. Dadurch sind sie leicht, aber trotzdem standfest – ähnlich wie ein Rohr gegenüber einem Vollstab. Vogelknochen haben oft eine sogenannte Sandwichstruktur: Sie bestehen aus einer festen Außenwand und einer inneren, leichten, aber stabilen Struktur. Bienenwaben bestehen aus vielen sechseckigen Zellen, die sehr stabil sind und wenig Wachs verbrauchen. In der Technik nutzt man diese Prinzipien beim Turm- und Brückenbau oder bei leichten, stabilen Bauteilen (z. B. im Flugzeugbau)."
+                      },
+                      {
+                        "title": "Beispiel aus der Technik: Sandwichstrukturen",
+                        "text": "Sandwichstrukturen bestehen aus zwei festen Deckschichten und einem leichten Kern dazwischen. Das Prinzip stammt aus der Natur, zum Beispiel aus dem Vogelknochen oder Bienenwaben. In der Technik werden solche Strukturen bei Brücken, Flugzeugflügeln oder leichten Platten verwendet. Sie sind sehr stabil, können viel Last tragen, sind aber gleichzeitig leicht. So spart man Material und Energie beim Transport."
+                      },
+                      {
+                        "title": "Wärmedämmung – Eisbärenfell und technische Kleidung",
+                        "text": "Ein Eisbär lebt in sehr kalten Gebieten und muss trotzdem warm bleiben. Sein Fell besteht aus vielen hohlen Haaren, die Luft einschließen. Unter dem Fell liegt eine dicke Fettschicht. Luft und Fett leiten Wärme schlecht und wirken wie eine Dämmung. In der Technik nutzt man dieses Prinzip für warme Kleidung und Dämmstoffe: Daunenjacken, mehrlagige Winterkleidung oder Dämmmaterialien in Häusern schließen Luft ein und verhindern, dass Wärme schnell entweicht."
+                      },
+                      {
+                        "title": "Schmutz- und wasserabweisende Oberflächen – Lotus-Effekt",
+                        "text": "Die Blätter der Lotuspflanze sind selbstreinigend. Wasser perlt in Tropfen ab und nimmt Schmutz mit. Unter der Lupe sieht man, dass die Blattoberfläche aus vielen winzigen Erhebungen besteht und zusätzlich von einer wasserabweisenden Schicht überzogen ist. In der Technik wurden nach diesem Vorbild Farben, Glas und Textilien entwickelt, auf denen Wasser abperlt und Schmutz kaum haften bleibt. Man spricht vom Lotus-Effekt."
+                      },
+                      {
+                        "title": "Haften und Lösen – Klette und Klettverschluss",
+                        "text": "Die Früchte der Großen Klette bleiben mit kleinen Häkchen an Fell oder Kleidung hängen und werden so verbreitet. Dieses Häkchenprinzip wurde im Klettverschluss nachgeahmt. Eine Seite hat viele kleine Häkchen, die andere Seite Schlaufen. Beim Zusammendrücken haken sich die Häkchen in die Schlaufen ein. Zieht man daran, lösen sie sich wieder. Der Klettverschluss ist ein praktischer technischer Verschluss, zum Beispiel bei Schuhen, Jacken oder Taschen."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Sandwichstruktur",
+                        "definition": "Bauweise mit zwei festen äußeren Schichten und einem leichten, stabilen Kern dazwischen – stabil bei geringem Gewicht."
+                      },
+                      {
+                        "term": "Wärmedämmung",
+                        "definition": "Schutz vor Wärmeverlust oder Wärmeeintritt, zum Beispiel durch Luftschichten oder spezielle Materialien."
+                      },
+                      {
+                        "term": "Lotus-Effekt",
+                        "definition": "Selbstreinigungseffekt durch besondere Mikrostruktur einer Oberfläche, bei der Wasser und Schmutz abperlen."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann an mindestens einem Beispiel erklären, wie mit wenig Material hohe Stabilität erreicht wird.",
+                      "Ich kann die Wärmedämmung bei Eisbärenfell beschreiben und auf Kleidung übertragen.",
+                      "Ich kann den Lotus-Effekt erklären und ein technisches Produkt dazu nennen.",
+                      "Ich kann das Häkchenprinzip der Klette und den Klettverschluss erklären."
+                    ],
+                    "sample_questions": [
+                      "Beschreibe, wie Gräser, Halme oder Vogelknochen Stabilität bei wenig Material erreichen.",
+                      "Wie ist Eisbärenfell aufgebaut und was lernen wir daraus für warme Kleidung?",
+                      "Erkläre den Lotus-Effekt und nenne ein technisches Produkt, das dieses Prinzip nutzt.",
+                      "Wie funktioniert der Klettverschluss nach dem Vorbild der Klette?"
+                    ],
+                    "sample_answers": [
+                      "Gräser und viele Stängel haben einen hohlen Innenraum. Dadurch sparen sie Material und sind trotzdem stabil – wie ein Rohr im Vergleich zu einem Vollstab. Vogelknochen haben feste Außenwände und eine leichte Innenstruktur (Sandwichstruktur). So sind sie stabil und gleichzeitig leicht, was für den Flug wichtig ist. In der Technik nutzt man ähnliche Strukturen im Turm- und Brückenbau oder im Flugzeugbau.",
+                      "Eisbärenfell besteht aus vielen hohlen Haaren, in denen Luft eingeschlossen ist. Unter dem Fell liegt eine dicke Fettschicht. Luft und Fett leiten Wärme schlecht, sie wirken wie eine Isolierschicht. In der Technik verwendet man ähnliche Prinzipien bei Winterjacken, Decken oder Hausdämmungen: Viele kleine Luftpolster in Daunen oder Dämmstoffen halten die Wärme im Inneren.",
+                      "Der Lotus-Effekt beruht auf einer speziellen Mikrostruktur der Blattoberfläche. Die Oberfläche ist nicht glatt, sondern hat viele kleine Erhebungen und ist zusätzlich wasserabweisend. Wassertropfen können sich nicht ausbreiten, sondern bleiben als Kugeln, rollen ab und nehmen Schmutzteilchen mit. In der Technik nutzt man dieses Prinzip in selbstreinigenden Fassadenfarben oder Glasbeschichtungen.",
+                      "Die Früchte der Klette haben viele kleine Häkchen, die sich im Fell von Tieren oder in Kleidungsfasern verfangen. Beim Klettverschluss wurde dieses Prinzip übernommen: Eine Seite hat Häkchen, die andere Seite Schlaufen. Drückt man beide Seiten zusammen, bleiben sie durch das Einhaken der Häkchen an den Schlaufen fest zusammen. Zieht man sie wieder auseinander, lösen sich die Häkchen, und der Verschluss öffnet sich."
+                    ]
+                  }
+                },
+                {
+                  "id": "mnt5_mod6_u4",
+                  "text": "Ich kann im Projekt 'Natur und Technik' in der Gruppe die Vorgehensweise der Bionik an einem Beispiel umsetzen, Modelle herstellen, mein Arbeits- und Sozialverhalten einschätzen und Ergebnisse präsentieren.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Projektarbeit in der Bionik",
+                        "text": "Im Projekt 'Natur und Technik' setzt du die bionische Vorgehensweise in einer Gruppe praktisch um. Ihr wählt gemeinsam eine technische Aufgabe und ein passendes Naturvorbild, untersucht es, entwickelt ein Funktionsmodell und präsentiert eure Ergebnisse. Dabei lernst du nicht nur naturwissenschaftliche Inhalte, sondern auch, wie man im Team arbeitet und gemeinsam Lösungen findet."
+                      },
+                      {
+                        "title": "Vorgehensweise im Projekt",
+                        "text": "Zuerst legt ihr in der Gruppe fest, welche Funktion euer technisches Produkt haben soll (z. B. stabiler Turm bei wenig Material, besonders warme Verpackung für eine Flasche). Dann sucht ihr ein Naturvorbild und sammelt Informationen dazu. Anschließend plant ihr, wie euer Funktionsmodell aussehen soll, welche Materialien ihr nutzt und wer welche Aufgabe übernimmt. Danach baut ihr das Modell und testet es. Zum Schluss wertet ihr eure Ergebnisse aus und überlegt, was gut und was verbesserungsbedürftig war."
+                      },
+                      {
+                        "title": "Arbeit im Team organisieren",
+                        "text": "In der Gruppe ist es wichtig, Aufgaben sinnvoll zu verteilen: Wer recherchiert, wer zeichnet den Plan, wer baut, wer dokumentiert? Alle sollen sich einbringen können. Ihr trefft Absprachen, hört einander zu und löst Konflikte fair. So lernt ihr, euch selbst und andere zu organisieren und gemeinsam zu arbeiten."
+                      },
+                      {
+                        "title": "Arbeits- und Sozialverhalten einschätzen",
+                        "text": "Nach dem Projekt denkst du darüber nach, wie du gearbeitet hast: Warst du zuverlässig? Hast du dich an Absprachen gehalten? Hast du anderen zugehört und sie unterstützt? Du schätzt dein eigenes Verhalten und das der Gruppe ein und überlegst, was ihr beim nächsten Mal besser machen könnt. Diese Reflexion ist ein wichtiger Teil des Lernens."
+                      },
+                      {
+                        "title": "Ergebnisse präsentieren",
+                        "text": "Zum Abschluss präsentiert ihr euer Projekt der Klasse. Ihr stellt eure Aufgabe, das Naturvorbild, das gefundene Prinzip und euer Funktionsmodell vor. Ihr erklärt, wie ihr gearbeitet habt und was euer Modell zeigt. Die Präsentation kann mit Plakaten, Modellen, Bildern oder kurzen Vorführungen unterstützt werden. Wichtig ist, verständlich zu sprechen und die wichtigsten Punkte klar zu machen."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Projektarbeit",
+                        "definition": "Längere, gemeinsame Arbeit an einer Aufgabe mit Planung, Durchführung, Auswertung und Präsentation."
+                      },
+                      {
+                        "term": "Teamarbeit",
+                        "definition": "Zusammenarbeit mehrerer Personen mit Aufgabenteilung und Absprachen."
+                      },
+                      {
+                        "term": "Reflexion",
+                        "definition": "Nachdenken über das eigene Lernen und Verhalten, um daraus zu lernen."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann die Schritte unseres Bionik-Projekts benennen (von der Aufgabenstellung bis zur Präsentation).",
+                      "Ich kann meine eigene Aufgabe im Projekt beschreiben.",
+                      "Ich kann erklären, welches Naturvorbild wir gewählt haben und welches Prinzip wir genutzt haben.",
+                      "Ich kann sagen, was im Team gut geklappt hat und was wir verbessern könnten.",
+                      "Ich kann die wichtigsten Ergebnisse unseres Projekts verständlich vorstellen."
+                    ],
+                    "sample_questions": [
+                      "Beschreibe kurz, wie ihr im Projekt 'Natur und Technik' vorgegangen seid.",
+                      "Welches Naturvorbild habt ihr gewählt und warum?",
+                      "Welche Aufgabe hast du im Team übernommen?",
+                      "Was hat in eurer Gruppe gut funktioniert und was könnte beim nächsten Mal besser laufen?",
+                      "Wie habt ihr eure Ergebnisse der Klasse präsentiert?"
+                    ],
+                    "sample_answers": [
+                      "Wir haben zuerst überlegt, welche technische Aufgabe wir lösen wollen. Dann haben wir ein Naturvorbild gesucht, Informationen gesammelt und das Prinzip erkannt. Danach haben wir ein Funktionsmodell geplant und gebaut. Zum Schluss haben wir unsere Ergebnisse ausgewertet und präsentiert.",
+                      "Wir haben die Bienenwabe als Naturvorbild gewählt, weil sie sehr stabil ist und wenig Material verbraucht. Das wollten wir für ein leichtes, stabiles Bauteil nutzen.",
+                      "Ich habe Informationen zum Naturvorbild recherchiert und Skizzen für unser Modell gezeichnet. Beim Bauen habe ich mitgeholfen und später Teile der Präsentation übernommen.",
+                      "Gut funktioniert hat, dass wir Aufgaben verteilt und uns an Absprachen gehalten haben. Beim nächsten Mal könnten wir die Zeit besser einteilen, damit wir am Ende mehr Zeit für die Probe der Präsentation haben.",
+                      "Wir haben ein Plakat mit Bildern unseres Naturvorbilds und unseres Modells gestaltet und unser Modell der Klasse gezeigt. Zwei aus der Gruppe haben erklärt, welches Prinzip wir genutzt haben, und wir haben Fragen der Mitschüler beantwortet."
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

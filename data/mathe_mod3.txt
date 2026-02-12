@@ -1,0 +1,264 @@
+{
+  "school_id": "de_thueringen",
+  "grades": [
+    {
+      "grade_id": "klasse5",
+      "grade_label": "Klasse 5",
+      "subjects": [
+        {
+          "subject_id": "mat",
+          "subject_title": "Mathematik",
+          "modules": [
+            {
+              "module_id": "mat5_mod3",
+              "module_name": "Größen – messen, vergleichen und umrechnen",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Überblick über das Modul Größen",
+                    "text": "In diesem Modul beschäftigst du dich mit Größen aus deinem Alltag: Länge, Zeit, Masse (Gewicht), Geld, Fläche und Volumen. Du lernst, diese Größen zu schätzen, zu messen, in passenden Einheiten anzugeben und zwischen Einheiten umzurechnen. Außerdem übst du, mit Größen in Sachaufgaben zu rechnen und Ergebnisse auf ihre Plausibilität zu prüfen."
+                  },
+                  {
+                    "title": "Messen mit passenden Einheiten",
+                    "text": "Zu jeder Größe gehören geeignete Einheiten: Längen misst du zum Beispiel in Millimeter, Zentimeter, Meter oder Kilometer; Massen in Gramm oder Kilogramm; Zeiten in Sekunden, Minuten oder Stunden; Geld in Euro und Cent. Du lernst, geeignete Messgeräte zu benutzen, Messwerte richtig abzulesen und mit Einheit zu notieren."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "mat5_mod3_u1",
+                  "text": "Ich kann Längen, Zeiten, Massen, Geldbeträge und einfache Volumina schätzen und messen und passende Einheiten verwenden.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Mit Größen im Alltag umgehen",
+                        "text": "Größen begegnen dir ständig: Wie groß ist dein Zimmer? Wie schwer ist dein Schulranzen? Wie lange dauert der Schulweg? Wie viel kostet ein Heft? Wie viel Wasser passt in eine Flasche? Du lernst, solche Fragen mit Hilfe von Messungen und geeigneten Einheiten zu beantworten."
+                      },
+                      {
+                        "title": "Längen messen",
+                        "text": "Längen misst du mit Lineal, Maßband oder Zollstock. Wichtige Einheiten sind Millimeter (mm), Zentimeter (cm), Meter (m) und Kilometer (km). Kurze Strecken misst du in cm oder m, große Entfernungen eher in km. Du legst das Messgerät richtig an (Nullpunkt an den Anfang) und liest den Wert genau ab."
+                      },
+                      {
+                        "title": "Massen messen",
+                        "text": "Massen misst du mit einer Waage. Wichtige Einheiten sind Gramm (g) und Kilogramm (kg). Kleine Massen, zum Beispiel eines Radiergummis, gibst du in g an, größere wie dein Körpergewicht in kg. Du achtest darauf, dass die Waage vor dem Messen auf Null steht."
+                      },
+                      {
+                        "title": "Zeit messen",
+                        "text": "Zeiten misst du mit einer Uhr oder Stoppuhr. Die wichtigsten Einheiten sind Sekunde (s), Minute (min) und Stunde (h). Du kannst angeben, wie lange etwas dauert (z. B. 15 min Pause) oder wann etwas stattfindet (z. B. 7:45 Uhr)."
+                      },
+                      {
+                        "title": "Geld und Volumen",
+                        "text": "Geldbeträge gibst du in Euro (€) und Cent (ct) an. 100 Cent sind 1 Euro. Volumen (Rauminhalt) misst du zum Beispiel in Milliliter (ml) oder Liter (l), etwa bei Getränken. Du liest Messbecher richtig ab und achtest auf die Skala."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Größe",
+                        "definition": "Etwas Messbares wie Länge, Zeit, Masse, Fläche, Volumen oder Geldbetrag."
+                      },
+                      {
+                        "term": "Einheit",
+                        "definition": "festgelegtes Maß, mit dem eine Größe angegeben wird (z. B. Meter, Kilogramm, Minute)."
+                      },
+                      {
+                        "term": "Messgerät",
+                        "definition": "Gerät, mit dem man eine Größe misst (z. B. Lineal, Waage, Uhr, Messbecher)."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann für eine Alltagssituation passende Größen und Einheiten nennen.",
+                      "Ich kann Längen, Zeiten, Massen und einfache Volumina mit geeigneten Messgeräten messen.",
+                      "Ich kann Messwerte mit Einheit notieren (z. B. 1,25 m; 450 g; 20 min; 2,50 €).",
+                      "Ich kann einfache Schätzungen mit Messungen vergleichen und bewerten."
+                    ],
+                    "sample_questions": [
+                      "Mit welchen Einheiten misst du die Länge deines Tisches, die Dauer eines Films und dein Körpergewicht?",
+                      "Warum ist es wichtig, beim Messen den Nullpunkt richtig anzulegen?",
+                      "Wie viele Cent sind 3,40 €?",
+                      "Wie kannst du abschätzen, ob 5 Liter Wasser für eine Gießkanne viel oder wenig sind?"
+                    ],
+                    "sample_answers": [
+                      "Die Tischlänge messe ich in Zentimeter oder Meter, die Filmdauer in Minuten, mein Körpergewicht in Kilogramm.",
+                      "Wenn der Nullpunkt nicht am Anfang des Gegenstandes liegt, ist der Messwert zu groß oder zu klein und damit falsch.",
+                      "3,40 € sind 340 Cent, weil 1 € = 100 Cent ist.",
+                      "Ich vergleiche mit etwas Bekanntem, z. B. mit einer 1,5-l-Flasche. Drei bis vier Flaschen sind etwa 5 Liter – das ist für eine Gießkanne eher viel."
+                    ]
+                  }
+                },
+                {
+                  "id": "mat5_mod3_u2",
+                  "text": "Ich kann Einheiten von Längen, Massen, Zeiten, Geld und Volumina umrechnen und in Sachaufgaben richtig verwenden.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Längeneinheiten umrechnen",
+                        "text": "Für Längen gilt: 10 mm = 1 cm, 100 cm = 1 m, 1 000 m = 1 km. Du übst, zwischen diesen Einheiten zu wechseln, zum Beispiel 3,5 m = 350 cm oder 2 km = 2 000 m. Eine Stellenwerttafel für Längen kann dir helfen, die Umrechnungen zu verstehen."
+                      },
+                      {
+                        "title": "Massen- und Volumeneinheiten umrechnen",
+                        "text": "Für Massen gilt: 1 000 g = 1 kg, 1 000 kg = 1 t (Tonne). Für Volumen: 1 000 ml = 1 l. Du lernst, typische Alltagsmengen einzuordnen, zum Beispiel wie schwer 1 kg ist oder wie viel 500 ml sind, und rechnest zwischen g und kg sowie ml und l um."
+                      },
+                      {
+                        "title": "Zeiteinheiten umrechnen",
+                        "text": "Für Zeiten ist wichtig: 60 s = 1 min, 60 min = 1 h. Außerdem kennst du: 24 h = 1 Tag, etwa 30 Tage = 1 Monat (je nach Monat) und 12 Monate = 1 Jahr. Du rechnest zum Beispiel 90 min = 1 h 30 min oder 2,5 h = 2 h 30 min um."
+                      },
+                      {
+                        "title": "Geldbeträge umrechnen",
+                        "text": "Geldrechnen basiert auf 100 ct = 1 €. Du kannst Beträge wie 3,75 € in 375 ct umrechnen und umgekehrt. In Sachaufgaben achtest du darauf, Geldbeträge mit zwei Nachkommastellen anzugeben und richtig zu addieren oder subtrahieren."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Umrechnen",
+                        "definition": "Größenangabe von einer Einheit in eine andere passende Einheit derselben Größe übertragen."
+                      },
+                      {
+                        "term": "Tonne (t)",
+                        "definition": "Große Masseneinheit; 1 t = 1 000 kg."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann zwischen mm, cm, m und km umrechnen.",
+                      "Ich kann zwischen g, kg (und ggf. t) umrechnen.",
+                      "Ich kann zwischen ml und l umrechnen.",
+                      "Ich kann zwischen s, min und h umrechnen.",
+                      "Ich kann zwischen € und ct umrechnen."
+                    ],
+                    "sample_questions": [
+                      "Wie viele Zentimeter sind 2,3 m?",
+                      "Wandle 1 500 g in kg um.",
+                      "Wie viele Minuten sind 2,25 h?",
+                      "Wandle 560 ct in Euro um."
+                    ],
+                    "sample_answers": [
+                      "2,3 m = 230 cm, weil 1 m = 100 cm ist.",
+                      "1 500 g = 1,5 kg, weil 1 000 g = 1 kg.",
+                      "2,25 h = 2 h + 0,25 h; 0,25 h sind 15 min, also 2 h 15 min.",
+                      "560 ct = 5,60 €, weil 100 ct = 1 €."
+                    ]
+                  }
+                },
+                {
+                  "id": "mat5_mod3_u3",
+                  "text": "Ich kann mit Größen in einfachen Sachaufgaben rechnen und Ergebnisse auf Plausibilität prüfen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Größen in Sachaufgaben",
+                        "text": "In vielen Textaufgaben kommen Größen vor, zum Beispiel beim Einkaufen, beim Planen einer Fahrt oder beim Kochen. Du lernst, wichtige Informationen aus dem Text zu entnehmen, Einheiten bei Bedarf umzurechnen und passende Rechenoperationen zu wählen (plus, minus, mal, geteilt)."
+                      },
+                      {
+                        "title": "Einheiten mitrechnen und aufschreiben",
+                        "text": "Beim Rechnen mit Größen schreibst du Einheiten mit auf, zum Beispiel 3 m + 2 m = 5 m oder 4 · 250 ml = 1 000 ml = 1 l. Du achtest darauf, nur Größen mit gleichen Einheiten direkt zu addieren oder zu subtrahieren und rechnest vorher um, wenn nötig."
+                      },
+                      {
+                        "title": "Ergebnisse prüfen",
+                        "text": "Nach einer Rechnung überlegst du, ob dein Ergebnis zum Sachverhalt passt. Dabei helfen dir Überschläge, Vergleich mit Alltagswissen (z. B. Tankvolumen, Körpergewicht) und die Kontrolle der Einheiten. Wenn zum Beispiel der Preis für ein Brötchen höher ist als für eine ganze Torte, stimmt etwas nicht."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Sachaufgabe",
+                        "definition": "Textaufgabe aus einer Alltagssituation, in der gerechnet werden muss."
+                      },
+                      {
+                        "term": "Plausibilität",
+                        "definition": "Glaubwürdigkeit bzw. Sinnhaftigkeit eines Ergebnisses im Zusammenhang der Aufgabe."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann aus einer Sachaufgabe die wichtigen Größen und Einheiten herausfiltern.",
+                      "Ich kann Einheiten bei Bedarf vor dem Rechnen umrechnen.",
+                      "Ich kann passende Rechenoperationen für eine Größenaufgabe auswählen.",
+                      "Ich kann prüfen, ob mein Ergebnis von der Größenordnung sinnvoll ist."
+                    ],
+                    "sample_questions": [
+                      "Ein Radweg ist 12 km lang. Lisa fährt jeden Tag 3 km davon. Wie viele Tage braucht sie, um ihn einmal ganz abzufahren?",
+                      "Du kaufst 3 Hefte für je 1,49 €. Wie viel zahlst du insgesamt?",
+                      "Eine Flasche fasst 1,5 l Saft. Wie viele Milliliter sind das?",
+                      "Woran merkst du, dass ein Ergebnis wie 3 000 kg für das Gewicht einer Tafel Schokolade nicht plausibel ist?"
+                    ],
+                    "sample_answers": [
+                      "Sie braucht 12 km : 3 km/Tag = 4 Tage.",
+                      "3 · 1,49 € = 4,47 €.",
+                      "1,5 l = 1 500 ml, weil 1 l = 1 000 ml.",
+                      "3 000 kg wären so schwer wie ein Auto oder mehr – das passt nicht zu einer Tafel Schokolade, die in der Regel unter 1 kg wiegt. Das Ergebnis ist also unplausibel."
+                    ]
+                  }
+                },
+                {
+                  "id": "mat5_mod3_u4",
+                  "text": "Ich kann einfache Maßstäbe und Karten nutzen, um reale Längen zu bestimmen oder Zeichnungen anzufertigen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Was ist ein Maßstab?",
+                        "text": "Ein Maßstab zeigt, wie stark eine Zeichnung oder Karte verkleinert oder vergrößert wurde. Zum Beispiel bedeutet der Maßstab 1 : 100, dass 1 cm auf der Zeichnung 100 cm (also 1 m) in Wirklichkeit entspricht. Du lernst, solche Angaben zu lesen und in Rechnungen umzusetzen."
+                      },
+                      {
+                        "title": "Längen auf Karten und Plänen",
+                        "text": "Auf Stadtplänen oder Landkarten kannst du mit einem Lineal Entfernungen messen und mit Hilfe des Maßstabs in echte Entfernungen umrechnen. Ebenso kannst du aus bekannten realen Längen passende Zeichnungslängen berechnen, um maßstäbliche Skizzen zu erstellen."
+                      },
+                      {
+                        "title": "Maßstab in einfachen Aufgaben anwenden",
+                        "text": "Du bearbeitest Aufgaben wie: „Auf einem Plan im Maßstab 1 : 50 ist ein Tisch 4 cm lang eingezeichnet. Wie lang ist er in Wirklichkeit?“ oder „Die echte Strecke ist 500 m, wie lang ist sie auf der Karte im Maßstab 1 : 1 000?“ So verbindest du Größenvorstellungen mit Rechnen und Zeichnen."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Maßstab",
+                        "definition": "Verhältnis zwischen einer Länge in einer Zeichnung und der entsprechenden wirklichen Länge."
+                      },
+                      {
+                        "term": "maßstäblich",
+                        "definition": "Zeichnung oder Modell, das die Größenverhältnisse der Wirklichkeit korrekt verkleinert oder vergrößert wiedergibt."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann einfache Maßstabsangaben wie 1 : 10, 1 : 100 verstehen.",
+                      "Ich kann aus einer Zeichnung im Maßstab die wirkliche Länge berechnen.",
+                      "Ich kann aus einer wirklichen Länge die Zeichnungslänge bestimmen.",
+                      "Ich kann Entfernungen auf einfachen Karten mit Maßstab abschätzen."
+                    ],
+                    "sample_questions": [
+                      "Ein Zimmer ist im Maßstab 1 : 50 gezeichnet. Die Wand ist 6 cm lang. Wie lang ist sie in Wirklichkeit?",
+                      "Eine Straße ist 2 km lang. Wie lang ist sie auf einer Karte im Maßstab 1 : 10 000?",
+                      "Was bedeutet der Maßstab 1 : 1?",
+                      "Warum benutzt man bei Karten verkleinernde Maßstäbe?"
+                    ],
+                    "sample_answers": [
+                      "6 cm · 50 = 300 cm = 3 m. Die Wand ist in Wirklichkeit 3 m lang.",
+                      "2 km = 2 000 m = 200 000 cm. Im Maßstab 1 : 10 000 ist die Zeichnungslänge 200 000 cm : 10 000 = 20 cm.",
+                      "1 : 1 bedeutet, dass Zeichnung und Wirklichkeit gleich groß sind – es handelt sich also nicht um eine Verkleinerung.",
+                      "Weil die wirklichen Entfernungen sehr groß sind und sonst nicht auf ein Blatt Papier passen würden. Durch den Maßstab kann man trotzdem mit den Längen arbeiten."
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

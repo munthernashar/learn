@@ -1,0 +1,218 @@
+{
+  "school_id": "de_thueringen",
+  "grades": [
+    {
+      "grade_id": "klasse5",
+      "grade_label": "Klasse 5",
+      "subjects": [
+        {
+          "subject_id": "mat",
+          "subject_title": "Mathematik",
+          "modules": [
+            {
+              "module_id": "mat5_mod7",
+              "module_name": "Statistische Kenngrößen und Zufall – Daten auswerten und mit Zufall experimentieren",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Daten besser verstehen",
+                    "text": "In diesem Modul lernst du, Datensammlungen nicht nur darzustellen, sondern auch zusammenzufassen und zu beschreiben.[file:3] Dabei helfen dir statistische Kenngrößen wie Minimum, Maximum, Spannweite, Median, Modalwert und Durchschnitt (arithmetisches Mittel).[file:3]"
+                  },
+                  {
+                    "title": "Zufallsexperimente untersuchen",
+                    "text": "Du führst einfache Zufallsexperimente wie Würfeln oder Münzwurf durch und wertest die Ergebnisse aus.[file:3] So entwickelst du Vorstellungen von möglichen und wahrscheinlichen Ereignissen, ohne mit Wahrscheinlichkeitszahlen rechnen zu müssen.[file:3]"
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "mat5_mod7_u1",
+                  "text": "Ich kann aus Datensammlungen einfache statistische Kenngrößen bestimmen (Minimum, Maximum, Spannweite, Modalwert, Median, Durchschnitt).",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Minimum, Maximum und Spannweite",
+                        "text": "Das Minimum ist der kleinste Wert in einer Datensammlung, das Maximum der größte.[file:3] Die Spannweite ist die Differenz zwischen Maximum und Minimum und zeigt, wie weit die Werte auseinander liegen.[file:3]"
+                      },
+                      {
+                        "title": "Modalwert (Modus)",
+                        "text": "Der Modalwert ist der Wert, der am häufigsten vorkommt.[file:3] Es kann auch mehrere Modalwerte geben, wenn mehrere Werte gleich oft auftreten.[file:3]"
+                      },
+                      {
+                        "title": "Median und Durchschnitt",
+                        "text": "Der Median ist der „mittlere“ Wert einer geordneten Datenliste: die Hälfte der Werte liegt darunter, die andere Hälfte darüber.[file:3] Der Durchschnitt (arithmetisches Mittel) wird gebildet, indem du alle Werte addierst und durch die Anzahl der Werte teilst.[file:3]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Minimum",
+                        "definition": "Kleinster Wert in einer Datensammlung.[file:3]"
+                      },
+                      {
+                        "term": "Maximum",
+                        "definition": "Größter Wert in einer Datensammlung.[file:3]"
+                      },
+                      {
+                        "term": "Spannweite",
+                        "definition": "Differenz zwischen Maximum und Minimum.[file:3]"
+                      },
+                      {
+                        "term": "Modalwert (Modus)",
+                        "definition": "Wert, der am häufigsten vorkommt.[file:3]"
+                      },
+                      {
+                        "term": "Median",
+                        "definition": "Mittlerer Wert einer geordneten Datenreihe.[file:3]"
+                      },
+                      {
+                        "term": "arithmetisches Mittel",
+                        "definition": "Durchschnittswert; Summe aller Werte geteilt durch ihre Anzahl.[file:3]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann aus einer kleinen Datentabelle Minimum, Maximum und Spannweite ablesen.[file:3]",
+                      "Ich kann den Modalwert bestimmen.[file:3]",
+                      "Ich kann eine gegebene kleine Datenreihe ordnen und den Median finden.[file:3]",
+                      "Ich kann den Durchschnitt aus wenigen Zahlen berechnen.[file:3]"
+                    ],
+                    "sample_questions": [
+                      "Die Werte 3, 7, 4, 7, 2, 9 liegen vor. Bestimme Minimum, Maximum und Spannweite.[file:3]",
+                      "Was ist der Modalwert in der Reihe 2, 5, 5, 3, 2, 5?[file:3]",
+                      "Bestimme den Median der geordneten Werte 1, 3, 4, 7, 9.[file:3]",
+                      "Berechne den Durchschnitt der Zahlen 4, 6, 10.[file:3]"
+                    ],
+                    "sample_answers": [
+                      "Minimum = 2, Maximum = 9, Spannweite = 9 − 2 = 7.[file:3]",
+                      "Modalwert ist 5, weil 5 am häufigsten vorkommt.[file:3]",
+                      "Median ist 4, weil er in der Mitte steht.[file:3]",
+                      "Durchschnitt: (4 + 6 + 10) : 3 = 20 : 3 ≈ 6,67.[file:3]"
+                    ]
+                  }
+                },
+                {
+                  "id": "mat5_mod7_u2",
+                  "text": "Ich kann Daten mit Hilfe von Kenngrößen beschreiben, vergleichen und in einfachen Diagrammen zusammenfassen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Daten mit Kenngrößen charakterisieren",
+                        "text": "Mit Minimum, Maximum, Spannweite, Modalwert, Median und Durchschnitt kannst du eine Datensammlung kurz beschreiben.[file:3] Du erkennst zum Beispiel, ob Werte eng beieinander liegen oder stark streuen.[file:3]"
+                      },
+                      {
+                        "title": "Datensätze vergleichen",
+                        "text": "Du vergleichst zwei Datensätze, indem du ihre Kenngrößen gegenüberstellst.[file:3] So kannst du Aussagen treffen wie „Gruppe A hat im Durchschnitt bessere Ergebnisse, aber in Gruppe B sind die Ergebnisse gleichmäßiger verteilt“.[file:3]"
+                      }
+                    ],
+                    "key_terms": [],
+                    "note1_checklist": [
+                      "Ich kann zu einem Datensatz passende Kenngrößen berechnen und in Worten deuten.[file:3]",
+                      "Ich kann zwei einfache Datensätze mit Hilfe von Durchschnitt und Spannweite vergleichen.[file:3]"
+                    ],
+                    "sample_questions": [
+                      "Zwei Klassen schreiben einen Test. In Klasse A liegen die Werte eng beieinander, in Klasse B sehr weit auseinander. Welche Kenngröße zeigt dir das an?[file:3]"
+                    ],
+                    "sample_answers": [
+                      "Die Spannweite zeigt, wie weit die Werte auseinander liegen.[file:3]"
+                    ]
+                  }
+                },
+                {
+                  "id": "mat5_mod7_u3",
+                  "text": "Ich kann einfache Zufallsexperimente planen, durchführen und die Ergebnisse in Tabellen und Diagrammen darstellen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Zufallsexperimente",
+                        "text": "Typische Zufallsexperimente sind Würfeln, Münzwurf oder das Ziehen von farbigen Kugeln aus einem Beutel.[file:3] Du planst, wie oft du ein Experiment durchführen möchtest, notierst die Ergebnisse und wertest sie aus.[file:3]"
+                      },
+                      {
+                        "title": "Absolute und relative Häufigkeit",
+                        "text": "Die absolute Häufigkeit ist die Anzahl, wie oft ein Ergebnis vorkommt.[file:3] Die relative Häufigkeit ist der Anteil an allen Versuchen (z. B. „bei 20 Würfen kam 8-mal eine 6, das sind 8/20 = 0,4“).[file:3]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Zufallsexperiment",
+                        "definition": "Versuch, dessen Ergebnis nicht sicher vorhergesagt werden kann.[file:3]"
+                      },
+                      {
+                        "term": "Ereignis",
+                        "definition": "Menge von möglichen Ergebnissen, z. B. „gerade Zahl beim Würfeln“.[file:3]"
+                      },
+                      {
+                        "term": "absolute Häufigkeit",
+                        "definition": "Anzahl, wie oft ein Ergebnis beobachtet wurde.[file:3]"
+                      },
+                      {
+                        "term": "relative Häufigkeit",
+                        "definition": "Anteil eines Ergebnisses an der Gesamtzahl der Versuche.[file:3]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann ein einfaches Zufallsexperiment planen (z. B. 30-mal würfeln). [file:3]",
+                      "Ich kann Ergebnisse in einer Strichliste und Tabelle erfassen.[file:3]",
+                      "Ich kann aus meinen Daten absolute und einfache relative Häufigkeiten bestimmen.[file:3]"
+                    ],
+                    "sample_questions": [
+                      "Du würfelst 20-mal. 5-mal kommt eine 6. Wie groß sind absolute und relative Häufigkeit der 6?[file:3]"
+                    ],
+                    "sample_answers": [
+                      "Absolute Häufigkeit: 5; relative Häufigkeit: 5/20 = 0,25 = 25 %.[file:3]"
+                    ]
+                  }
+                },
+                {
+                  "id": "mat5_mod7_u4",
+                  "text": "Ich kann Ereignisse mit „sicher“, „unmöglich“, „möglich“ und „wahrscheinlich“ beschreiben und begründen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Sprachliche Beschreibung von Wahrscheinlichkeit",
+                        "text": "Du beschreibst Ereignisse mit Begriffen wie „sicher“, „unmöglich“ oder „wahrscheinlich“.[file:3] Ein sicheres Ereignis tritt immer ein, ein unmögliches niemals; viele Ereignisse sind möglich, aber nicht sicher.[file:3]"
+                      },
+                      {
+                        "title": "Beispiele aus Zufallsexperimenten",
+                        "text": "Beim Würfeln ist „eine Zahl von 1 bis 6“ sicher, „eine 7 würfeln“ unmöglich.[file:3] „Eine 6 würfeln“ ist möglich und bei einem fairen Würfel ebenso wahrscheinlich wie jede andere Zahl.[file:3]"
+                      }
+                    ],
+                    "key_terms": [],
+                    "note1_checklist": [
+                      "Ich kann Ereignisse sprachlich sinnvoll als sicher, unmöglich, möglich oder wahrscheinlich einordnen.[file:3]",
+                      "Ich kann meine Einordnung mit Beispielen aus Experimenten begründen.[file:3]"
+                    ],
+                    "sample_questions": [
+                      "Ist es sicher, unmöglich oder möglich, beim Würfeln eine Zahl größer als 6 zu bekommen? Begründe.[file:3]"
+                    ],
+                    "sample_answers": [
+                      "Es ist unmöglich, weil der Würfel nur die Zahlen 1 bis 6 zeigt.[file:3]"
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

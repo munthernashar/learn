@@ -1,0 +1,370 @@
+{
+  "school_id": "de_thueringen",
+  "grades": [
+    {
+      "grade_id": "klasse5",
+      "grade_label": "Klasse 5",
+      "subjects": [
+        {
+          "subject_id": "mnt",
+          "subject_title": "Mensch–Natur–Technik",
+          "modules": [
+            {
+              "module_id": "mnt5_mod1",
+              "module_name": "Mensch – Natur – Technik",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Überblick über das Fach MNT",
+                    "text": "Im Fach Mensch–Natur–Technik (MNT) lernst du, deine Umwelt mit neuen Augen zu sehen. Du beschäftigst dich mit Phänomenen aus deinem Alltag und stellst Fragen wie: Warum regnet es? Wie funktioniert ein Fahrrad? Warum ist gesunde Ernährung wichtig? Du lernst, Dinge aus den Bereichen Mensch, Natur und Technik zu erkennen, zu unterscheiden und miteinander in Beziehung zu setzen. Dabei sammelst du nicht nur Wissen, sondern übst vor allem naturwissenschaftliches Arbeiten: beobachten, Fragen stellen, Vermutungen (Hypothesen) aufstellen, Experimente planen und durchführen sowie Ergebnisse auswerten."
+                  },
+                  {
+                    "title": "Die Bereiche Mensch, Natur und Technik",
+                    "text": "Im Bereich Mensch geht es um deinen eigenen Körper, deine Gesundheit, dein Verhalten und das Zusammenleben mit anderen. Im Bereich Natur beschäftigst du dich mit Tieren, Pflanzen, Lebensräumen und natürlichen Phänomenen wie Wetter oder Jahreszeiten. Im Bereich Technik untersuchst du Geräte, Maschinen und technische Erfindungen, die dir im Alltag begegnen – zum Beispiel Fahrräder, Werkzeuge oder einfache elektrische Geräte. Viele Themen liegen an den Grenzen dieser Bereiche, zum Beispiel gesunde Ernährung (Mensch und Natur) oder Umweltschutz (Mensch, Natur und Technik)."
+                  },
+                  {
+                    "title": "Naturwissenschaftliches Arbeiten – wie Forscherinnen und Forscher",
+                    "text": "Im MNT-Unterricht ist nicht nur wichtig, was du lernst, sondern auch wie du lernst. Du arbeitest wie eine kleine Forscherin oder ein kleiner Forscher: Du beobachtest genau, stellst Fragen, überlegst mögliche Erklärungen, planst einfache Experimente, führst sie durch und wertest die Ergebnisse aus. Du lernst, Hilfsmittel wie Lupe, Fernglas, Bandmaß, Thermometer oder Waage sachgerecht zu benutzen und Messwerte sorgfältig zu notieren. So lernst du, deine Umwelt nicht nur zu staunen, sondern sie zu verstehen und begründet beurteilen zu können."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "mnt5_mod1_u1",
+                  "text": "Ich kann Sachverhalte und Ereignisse aus meinem Alltag den Bereichen Mensch, Natur und Technik zuordnen und Beispiele nennen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Was gehört zum Bereich Mensch?",
+                        "text": "Zum Bereich Mensch gehören alles, was mit dem menschlichen Körper, der Gesundheit, dem Verhalten und dem Zusammenleben zu tun hat. Beispiele sind: Atmung, Herzschlag, Verdauung, gesunde Ernährung, Sport, Gefühle, Konflikte und wie Menschen zusammenarbeiten. Auch Themen wie Pubertät, Stress oder Erholung gehören dazu. Immer wenn du dich fragst, wie der Körper funktioniert oder wie Menschen sich verhalten sollten, bist du im Bereich Mensch."
+                      },
+                      {
+                        "title": "Was gehört zur Natur?",
+                        "text": "Zur Natur gehören alle Lebewesen und ihre Lebensräume sowie unbelebte Naturerscheinungen. Dazu zählen Tiere, Pflanzen, Pilze, Mikroorganismen, Seen, Flüsse, Meere, Luft, Gesteine, Boden, Wetter, Wind, Wolken und Jahreszeiten. Wenn du beobachtest, wie ein Regenwurm im Boden lebt oder wie sich ein Baum im Jahreslauf verändert, beschäftigst du dich mit Natur. Auch Naturkatastrophen wie Stürme oder Überschwemmungen gehören dazu."
+                      },
+                      {
+                        "title": "Was gehört zur Technik?",
+                        "text": "Technik sind alle vom Menschen hergestellten Gegenstände und Verfahren, mit denen wir Probleme lösen oder uns das Leben erleichtern. Das können einfache Werkzeuge sein wie Hammer, Schere und Schraubenzieher, aber auch Maschinen, Fahrzeuge, Haushaltsgeräte, Computer oder Smartphones. Auch Verkehrsampeln, Heizungen oder Wasserleitungen sind technische Einrichtungen. Immer wenn du dich fragst, wie etwas gebaut ist oder wie es funktioniert, bist du im Bereich Technik."
+                      },
+                      {
+                        "title": "Gemischte Beispiele – wenn Bereiche sich überlappen",
+                        "text": "Viele Dinge in deinem Alltag betreffen mehrere Bereiche gleichzeitig. Ein Fahrrad ist ein technisches Gerät, mit dem ein Mensch sich bewegt – hier treffen Mensch und Technik zusammen. Beim Thema gesunde Ernährung geht es um Nahrungsmittel aus der Natur und um deine Gesundheit – also Natur und Mensch. Eine Solaranlage verbindet Natur (Sonnenlicht) und Technik (Solarzellen) und hat Auswirkungen auf den Menschen (Energieversorgung). Du lernst, solche Verknüpfungen zu erkennen."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Mensch (Bereich)",
+                        "definition": "Themen, die den menschlichen Körper, Gesundheit, Gefühle und das Zusammenleben betreffen."
+                      },
+                      {
+                        "term": "Natur (Bereich)",
+                        "definition": "Alle Lebewesen und unbelebten Naturerscheinungen wie Wasser, Luft, Boden, Wetter, Gesteine."
+                      },
+                      {
+                        "term": "Technik (Bereich)",
+                        "definition": "Vom Menschen hergestellte Geräte, Maschinen, Werkzeuge und Verfahren zur Lösung von Problemen."
+                      },
+                      {
+                        "term": "Zuordnen",
+                        "definition": "Einen Sachverhalt einem passenden Bereich (Mensch, Natur oder Technik) zuweisen."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann erklären, was mit den Bereichen Mensch, Natur und Technik gemeint ist.",
+                      "Ich kann zu jedem Bereich mindestens fünf Beispiele aus meinem Alltag nennen.",
+                      "Ich kann gemischte Beispiele benennen, bei denen mehrere Bereiche zusammenhängen.",
+                      "Ich kann einen vorgegebenen Sachverhalt begründet einem Bereich oder mehreren Bereichen zuordnen."
+                    ],
+                    "sample_questions": [
+                      "Ordne folgende Sachverhalte den Bereichen Mensch, Natur und Technik zu: Zahnarztbesuch, Regenbogen, Smartphone, Fahrrad, Waldspaziergang.",
+                      "Erkläre, warum gesunde Ernährung zu den Bereichen Mensch und Natur gehört.",
+                      "Nenne je drei Beispiele aus deinem Alltag für die Bereiche Mensch, Natur und Technik.",
+                      "Warum ist es sinnvoll, den MNT-Unterricht in diese drei Bereiche zu gliedern?"
+                    ],
+                    "sample_answers": [
+                      "Zahnarztbesuch: Bereich Mensch (Gesundheit); Regenbogen: Bereich Natur (Wetter, Licht); Smartphone: Bereich Technik (Gerät, Kommunikation); Fahrrad: Bereich Technik (Fahrzeug), auch Bereich Mensch (Bewegung); Waldspaziergang: Bereich Natur (Wald, Tiere, Pflanzen) und Mensch (Erholung, Gesundheit).",
+                      "Bei gesunder Ernährung geht es um Nahrungsmittel, die oft aus der Natur stammen (Obst, Gemüse, Getreide) – das ist der Bereich Natur. Gleichzeitig geht es darum, wie diese Nahrung auf deinen Körper wirkt und wie du gesund bleibst – das ist der Bereich Mensch.",
+                      "Mensch: Zahnarztbesuch, Sportstunde, Schlaf, Gefühle, Freundschaften. Natur: Baum, Regen, Vogel, Fluss, Berg. Technik: Auto, Computer, Heizung, Brücke, Waschmaschine.",
+                      "Die Gliederung hilft, Themen besser zu ordnen und Zusammenhänge zu erkennen. Du kannst überlegen, ob du gerade etwas über den Menschen, die Natur oder technische Geräte lernst – oder darüber, wie alles zusammenhängt. So wird klarer, welche Aspekte du betrachten musst."
+                    ]
+                  }
+                },
+                {
+                  "id": "mnt5_mod1_u2",
+                  "text": "Ich kann die Bedeutung naturwissenschaftlicher Erkenntnisse für Alltag, Gesellschaft und Umwelt an Beispielen erläutern und die Vernetzung zwischen Mensch, Natur und Technik beschreiben.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Was sind naturwissenschaftliche Erkenntnisse?",
+                        "text": "Naturwissenschaftliche Erkenntnisse sind gesicherte Aussagen über Natur und Technik, die durch Beobachtungen, Experimente und Auswertungen entstanden sind. Beispiele: Wasser siedet bei etwa 100 °C (bei Normaldruck), Pflanzen brauchen Licht für Fotosynthese, Bakterien können Krankheiten verursachen, elektrische Stromkreise benötigen einen geschlossenen Weg. Solche Erkenntnisse helfen uns, die Welt zu verstehen und Vorhersagen zu treffen."
+                      },
+                      {
+                        "title": "Bedeutung im Alltag",
+                        "text": "Im Alltag triffst du ständig auf Ergebnisse naturwissenschaftlicher Forschung: Medikamente helfen gegen Krankheiten, Impfungen schützen vor Infektionen, technische Geräte wie Kühlschrank, Heizung oder Smartphone funktionieren nach physikalischen und chemischen Prinzipien. Verkehrsmittel, Brücken und Gebäude werden so gebaut, dass sie sicher sind. Ohne naturwissenschaftliche Erkenntnisse wären viele dieser Dinge nicht möglich oder gefährlich."
+                      },
+                      {
+                        "title": "Vernetzung von Mensch, Natur und Technik",
+                        "text": "Mensch, Natur und Technik sind eng miteinander verbunden. Beispiel: Ein Wasserkraftwerk nutzt die Strömung eines Flusses (Natur), um mit Hilfe von Technik (Turbinen und Generatoren) elektrischen Strom zu erzeugen, der von Menschen genutzt wird (Haushalte, Schulen). Oder: Landwirtschaft nutzt Pflanzen (Natur) und Maschinen (Technik), um Nahrungsmittel für den Menschen zu erzeugen. Naturwissenschaftliche Erkenntnisse helfen, diese Vernetzungen zu verstehen und verantwortungsbewusste Entscheidungen zu treffen."
+                      },
+                      {
+                        "title": "Entscheidungen begründet treffen",
+                        "text": "Wenn du naturwissenschaftliche Zusammenhänge kennst, kannst du dein Verhalten besser begründen: Du weißt, warum du beim Fahrradfahren einen Helm tragen solltest, warum du im Sommer Sonnencreme brauchst oder warum Energiesparen wichtig ist. Auf gesellschaftlicher Ebene helfen naturwissenschaftliche Erkenntnisse, über Themen wie Klimawandel, Umweltschutz oder Energieversorgung zu diskutieren und Entscheidungen zu treffen."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Naturwissenschaftliche Erkenntnisse",
+                        "definition": "Gesicherte Aussagen über Natur und Technik, die durch Beobachtung, Experimente und Auswertung gewonnen wurden."
+                      },
+                      {
+                        "term": "Vernetzung",
+                        "definition": "Wechselseitige Verknüpfung von Bereichen, hier zwischen Mensch, Natur und Technik."
+                      },
+                      {
+                        "term": "Bewerten",
+                        "definition": "Sachverhalte anhand von Kriterien untersuchen und eine begründete Meinung oder Entscheidung formulieren."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann erklären, was mit naturwissenschaftlichen Erkenntnissen gemeint ist.",
+                      "Ich kann mindestens drei Beispiele nennen, wie naturwissenschaftliche Erkenntnisse meinen Alltag beeinflussen.",
+                      "Ich kann an einem Beispiel die Vernetzung zwischen Mensch, Natur und Technik erläutern.",
+                      "Ich kann erklären, warum naturwissenschaftliches Wissen für Entscheidungen über Umwelt und Gesundheit wichtig ist."
+                    ],
+                    "sample_questions": [
+                      "Erkläre an zwei Beispielen, wie naturwissenschaftliche Erkenntnisse unseren Alltag beeinflussen.",
+                      "Beschreibe ein Beispiel, bei dem Mensch, Natur und Technik miteinander vernetzt sind.",
+                      "Warum sind naturwissenschaftliche Erkenntnisse wichtig für den Umweltschutz?",
+                      "Wie helfen dir naturwissenschaftliche Kenntnisse, dein eigenes Verhalten zu planen (z. B. beim Sport, bei der Ernährung)?"
+                    ],
+                    "sample_answers": [
+                      "Ein Beispiel ist die Entwicklung von Medikamenten. Durch naturwissenschaftliche Forschung kennt man Krankheitserreger und kann wirksame Wirkstoffe herstellen. Ein anderes Beispiel ist die Heizung: Man weiß, wie sich Wärme ausbreitet und wie man Häuser dämmt, damit sie warm bleiben und Energie sparen.",
+                      "Beim Auto sind Mensch, Natur und Technik vernetzt: Der Mensch nutzt ein technisches Gerät (Auto), das Treibstoff verbrennt. Dabei entstehen Abgase, die in die Luft (Natur) gelangen und die Umwelt belasten. Entscheidungen über Verkehr und Abgasgrenzen betreffen also alle drei Bereiche.",
+                      "Naturwissenschaftliche Erkenntnisse zeigen z. B., wie Treibhausgase das Klima erwärmen oder wie Schadstoffe Gewässer verschmutzen. Nur wenn wir diese Zusammenhänge verstehen, können wir sinnvolle Maßnahmen zum Umweltschutz planen, zum Beispiel Energie sparen, erneuerbare Energien nutzen oder Naturschutzgebiete einrichten.",
+                      "Wenn ich weiß, wie der Körper Energie verbraucht und welche Nährstoffe nötig sind, kann ich meine Ernährung gesund gestalten. Wenn ich weiß, wie Stöße bei einem Unfall wirken, verstehe ich, warum ein Fahrradhelm meinen Kopf schützt. So kann ich mein Verhalten begründet planen."
+                    ]
+                  }
+                },
+                {
+                  "id": "mnt5_mod1_u3",
+                  "text": "Ich kann den Weg naturwissenschaftlichen Arbeitens an Beispielen beschreiben (Fragen stellen, Vermutungen aufstellen, planen, beobachten/experimentieren, auswerten, Grenzen erkennen).",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Schritt 1: Fragen stellen",
+                        "text": "Am Anfang naturwissenschaftlichen Arbeitens steht immer eine Frage. Du beobachtest etwas und fragst dich zum Beispiel: Warum schwimmt ein Holzstück im Wasser, ein Stein aber nicht? Warum beschlagen Brillengläser, wenn man aus der Kälte in einen warmen Raum kommt? Solche Fragen entstehen oft aus deinem Alltag und machen neugierig."
+                      },
+                      {
+                        "title": "Schritt 2: Vermutungen (Hypothesen) aufstellen",
+                        "text": "Nach der Frage überlegst du dir mögliche Erklärungen. Das nennt man Vermutung oder Hypothese. Beispiel: 'Ich vermute, dass leichtere Stoffe schwimmen und schwerere untergehen.' oder 'Ich vermute, dass warme Luft mehr Wasser enthält als kalte.' Vermutungen müssen so formuliert sein, dass man sie prüfen kann."
+                      },
+                      {
+                        "title": "Schritt 3: Planung von Beobachtungen und Experimenten",
+                        "text": "Nun planst du, wie du deine Vermutung überprüfen kannst. Du überlegst: Welche Materialien brauche ich? Welche Größen möchte ich messen? Wie verhindere ich, dass andere Einflüsse das Ergebnis stören? Du legst eine klare Reihenfolge der Arbeitsschritte fest. Bei einfachen Versuchen kann das z. B. eine Tabelle sein, in der du festhältst, welche Stoffe du im Wasser prüfst."
+                      },
+                      {
+                        "title": "Schritt 4: Durchführen von Beobachtungen und Experimenten",
+                        "text": "Jetzt führst du die Beobachtungen und Experimente durch. Du gehst Schritt für Schritt nach deinem Plan vor, arbeitest sorgfältig und sicher und notierst deine Beobachtungen genau. Du misst mit geeigneten Geräten (z. B. Thermometer, Waage, Uhr) und notierst Messwerte in Tabellen. Du wiederholst Versuche, wenn etwas unklar ist."
+                      },
+                      {
+                        "title": "Schritt 5: Auswerten und Schlussfolgern",
+                        "text": "Nach dem Experiment wertest du deine Ergebnisse aus. Du schaust, ob sie zu deiner Vermutung passen. Wenn ja, wird deine Vermutung gestützt – sie ist aber nie endgültig 'bewiesen', nur gut begründet. Wenn die Ergebnisse nicht zur Vermutung passen, musst du deine Vermutung ändern oder eine neue Frage stellen. Du formulierst eine Schlussfolgerung in eigenen Worten."
+                      },
+                      {
+                        "title": "Schritt 6: Grenzen erkennen",
+                        "text": "Wichtig ist auch, die Grenzen deiner Versuche zu erkennen. Vielleicht war die Messgenauigkeit begrenzt oder du konntest nur wenige Stoffe untersuchen. Manchmal gibt es Störfaktoren, die du nicht ganz ausschalten kannst. Naturwissenschaftliches Arbeiten bedeutet deshalb auch, ehrlich zu sagen, wie sicher deine Ergebnisse sind und was du noch nicht weißt."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Frage",
+                        "definition": "Ausgangspunkt naturwissenschaftlichen Arbeitens; beschreibt, was man herausfinden möchte."
+                      },
+                      {
+                        "term": "Vermutung (Hypothese)",
+                        "definition": "Eine begründete Annahme, wie etwas funktioniert, die durch Beobachtungen oder Experimente überprüft werden kann."
+                      },
+                      {
+                        "term": "Experiment",
+                        "definition": "Geplanter Versuch, bei dem Bedingungen gezielt verändert werden, um eine Frage zu beantworten."
+                      },
+                      {
+                        "term": "Auswertung",
+                        "definition": "Ordnen, Vergleichen und Deuten von Beobachtungen und Messwerten, um eine Schlussfolgerung zu ziehen."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann die Schritte naturwissenschaftlichen Arbeitens in der richtigen Reihenfolge nennen.",
+                      "Ich kann zu jedem Schritt in eigenen Worten erklären, was dort passiert.",
+                      "Ich kann an einem einfachen Beispiel (z. B. Schwimmen/Sinken) zeigen, wie man eine Frage untersucht.",
+                      "Ich kann erklären, warum es wichtig ist, Vermutungen zu überprüfen und Grenzen zu erkennen."
+                    ],
+                    "sample_questions": [
+                      "Nenne die Schritte naturwissenschaftlichen Arbeitens in der richtigen Reihenfolge.",
+                      "Erkläre an einem Beispiel, wie du von einer Frage über eine Vermutung zu einem Experiment kommst.",
+                      "Warum ist es wichtig, Ergebnisse auszuwerten, bevor man eine Schlussfolgerung zieht?",
+                      "Weshalb spricht man bei Experimenten oft von 'Grenzen' der Ergebnisse?"
+                    ],
+                    "sample_answers": [
+                      "Die Schritte sind: 1. Fragen stellen, 2. Vermutungen (Hypothesen) aufstellen, 3. Beobachtungen und Experimente planen, 4. Beobachten/Experimentieren, 5. Auswerten und Schlussfolgern, 6. Grenzen erkennen.",
+                      "Beispiel Schwimmen/Sinken: Frage: Warum schwimmt ein Holzstück im Wasser, ein Stein aber nicht? Vermutung: Vielleicht schwimmen Stoffe mit kleiner Dichte und sinken Stoffe mit größerer Dichte. Experiment: Ich lege verschiedene Stoffe (Holz, Plastik, Stein, Metall) ins Wasser und beobachte, was passiert. Ich notiere meine Ergebnisse in einer Tabelle und vergleiche sie mit meiner Vermutung.",
+                      "Erst durch die Auswertung erkenne ich, ob meine Vermutung zu den Beobachtungen passt oder nicht. Ohne Auswertung könnte ich falsche Schlüsse ziehen oder wichtige Muster übersehen.",
+                      "Kein Experiment ist perfekt. Messgeräte haben eine begrenzte Genauigkeit, manche Einflussfaktoren kann ich nicht ganz ausschalten. Deshalb muss ich mir klar machen, wie sicher meine Ergebnisse sind und ob ich wirklich allgemeine Aussagen machen kann, oder nur für meine Versuchsbedingungen."
+                    ]
+                  }
+                },
+                {
+                  "id": "mnt5_mod1_u4",
+                  "text": "Ich kann meine Sinne gezielt zum Beobachten einsetzen, Unterschiede zwischen Alltagsbeobachtung und naturwissenschaftlicher Beobachtung erklären und einfache Beobachtungen protokollieren.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Unsere Sinne als Werkzeuge",
+                        "text": "Unsere fünf Sinne – Sehen, Hören, Riechen, Schmecken und Tasten – sind die wichtigsten 'Messgeräte' des Menschen. Mit ihren Hilfen nimmst du deine Umwelt wahr. Im naturwissenschaftlichen Arbeiten setzt du deine Sinne bewusst ein: Du beobachtest genau, achtest auf Details und versuchst, nichts Wichtiges zu übersehen. Manchmal nutzt du Hilfsmittel wie Lupe oder Fernglas, um deine Sinne zu unterstützen."
+                      },
+                      {
+                        "title": "Alltagsbeobachtung und naturwissenschaftliche Beobachtung",
+                        "text": "Im Alltag beobachtest du oft nebenbei, ohne dir viele Gedanken zu machen. Du sagst zum Beispiel: 'Heute ist es kalt.' oder 'Die Pflanze sieht nicht gut aus.' Naturwissenschaftliche Beobachtung ist genauer und geplanter. Du überlegst vorher, was du beobachten willst, beschreibst möglichst genau (z. B. in Zahlen oder mit genauen Wörtern) und vermeidest Bewertungen wie 'schön' oder 'hässlich'. Du trennst Beobachtung (Was sehe ich?) und Deutung (Was bedeutet das?)."
+                      },
+                      {
+                        "title": "Beobachtungen festhalten",
+                        "text": "Damit du deine Beobachtungen später auswerten kannst, musst du sie festhalten. Das kannst du in Form von Stichworten, ganzen Sätzen, Skizzen oder Tabellen tun. Wichtig ist, dass du Datum, Zeit, Ort und Bedingungen (z. B. Wetter, Licht) notierst, damit andere deine Beobachtungen nachvollziehen können. Gute Beobachtungsprotokolle sind verständlich und vollständig genug, damit jemand anders sich ein Bild machen kann."
+                      },
+                      {
+                        "title": "Grenzen der Sinne",
+                        "text": "Unsere Sinne sind nicht unendlich genau. Manches ist zu klein, zu schnell oder zu weit entfernt, um es ohne Hilfsmittel zu sehen oder zu hören. Deshalb nutzen Naturwissenschaftler Hilfsgeräte: Lupe, Mikroskop, Fernglas, Messgeräte. Auch sind Sinne manchmal leicht zu täuschen (z. B. optische Täuschungen). Darum ist es wichtig, Beobachtungen möglichst mit Messungen zu verbinden und kritisch zu prüfen."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Beobachtung",
+                        "definition": "Gezieltes Wahrnehmen mit den Sinnen oder mit Messgeräten, um Informationen zu gewinnen."
+                      },
+                      {
+                        "term": "Protokoll",
+                        "definition": "Schriftliche oder zeichnerische Aufzeichnung von Beobachtungen oder Versuchsverläufen."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann meine fünf Sinne aufzählen und benennen, wie sie mir beim Beobachten helfen.",
+                      "Ich kann den Unterschied zwischen Alltagsbeobachtung und naturwissenschaftlicher Beobachtung erklären.",
+                      "Ich kann eine einfache Beobachtung (z. B. Wetter, Pflanzenwachstum) in einem Protokoll festhalten.",
+                      "Ich kann erklären, warum Hilfsmittel wie Lupe oder Fernglas nützlich sind."
+                    ],
+                    "sample_questions": [
+                      "Worin unterscheidet sich eine naturwissenschaftliche Beobachtung von einer beiläufigen Alltagsbeobachtung?",
+                      "Wie kannst du deine Beobachtung des Wetters an einem Tag naturwissenschaftlich festhalten?",
+                      "Warum sind unsere Sinne allein manchmal nicht ausreichend, um naturwissenschaftlich zu arbeiten?",
+                      "Nenne zwei Hilfsmittel, die deine Sinne beim Beobachten unterstützen."
+                    ],
+                    "sample_answers": [
+                      "Eine naturwissenschaftliche Beobachtung ist geplant und genau. Ich überlege vorher, was ich beobachten will, beschreibe das Gesehene möglichst genau und schreibe es auf. Bei einer Alltagsbeobachtung schaue ich eher nebenbei hin und beschreibe oft nur grob oder wertend ('schön', 'schlecht').",
+                      "Ich könnte Datum und Uhrzeit notieren, die Temperatur mit einem Thermometer messen, die Wolkenart beschreiben, Windstärke ungefähr einschätzen und aufschreiben, ob es regnet, schneit oder trocken ist. Diese Angaben notiere ich in einer kleinen Tabelle.",
+                      "Unsere Sinne haben Grenzen: Sehr kleine Dinge können wir nicht erkennen, sehr schnelle Bewegungen entgehen uns, und wir können Entfernungen nur grob schätzen. Darum braucht man Hilfsmittel wie Lupe, Mikroskop oder Messgeräte, um genauer zu sehen und zu messen.",
+                      "Eine Lupe vergrößert kleine Dinge, damit ich mehr Details erkennen kann. Ein Fernglas hilft mir, weit entfernte Objekte näher heranzuholen, zum Beispiel Vögel auf Bäumen."
+                    ]
+                  }
+                },
+                {
+                  "id": "mnt5_mod1_u5",
+                  "text": "Ich kann einfache Messgeräte (Bandmaß, Uhr, Thermometer, Waage, Lupe, Fernglas) sachgerecht benutzen und Messwerte geordnet notieren.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Messen – genauer als 'ungefähr'",
+                        "text": "Messen bedeutet, eine Größe mit einer festgelegten Einheit zu vergleichen. Statt zu sagen 'Das ist ungefähr lang', benutzt du ein Bandmaß und sagst: 'Das Lineal ist 30 Zentimeter lang.' Messen macht Beobachtungen genauer und vergleichbar. Wichtig ist, dass du das passende Messgerät und die richtige Einheit wählst."
+                      },
+                      {
+                        "title": "Länge messen mit Bandmaß oder Lineal",
+                        "text": "Mit einem Lineal oder Bandmaß misst du Längen. Du legst die Nullmarke genau an den Anfang des Gegenstandes und liest an der anderen Seite die Länge ab. Die Einheit ist meist Zentimeter (cm) oder Meter (m). Du achtest darauf, senkrecht auf die Skala zu schauen, damit du keinen Ablesefehler machst."
+                      },
+                      {
+                        "title": "Zeit messen mit der Uhr",
+                        "text": "Mit einer Uhr misst du Zeit. Du kannst Dauer von Versuchen messen (z. B. 'Wie lange braucht Wasser zum Kochen?') oder Beobachtungszeiten eintragen (z. B. 'Beobachtung von Vögeln von 10:00 bis 10:15 Uhr'). Die Einheit ist meist Sekunden, Minuten oder Stunden. Du notierst Start- und Endzeit oder die verstrichene Zeit."
+                      },
+                      {
+                        "title": "Temperatur messen mit dem Thermometer",
+                        "text": "Mit einem Thermometer misst du, wie warm oder kalt es ist. Die Einheit ist Grad Celsius. Du achtest darauf, das Thermometer im Schatten aufzuhängen (bei Lufttemperatur) oder tief genug ins Wasser zu halten (bei Wassertemperatur), ohne es am Gefäßboden anzulegen. Die Zahl an der Skala liest du auf Augenhöhe ab."
+                      },
+                      {
+                        "title": "Masse messen mit der Waage",
+                        "text": "Mit einer Waage misst du, wie schwer ein Gegenstand ist (besser: seine Masse). Einheiten sind Gramm (g) oder Kilogramm (kg). Vor der Messung musst du sicherstellen, dass die Waage auf Null steht. Dann legst du den Gegenstand vorsichtig darauf und wartest, bis sich die Anzeige nicht mehr verändert. Den Wert notierst du mit Einheit."
+                      },
+                      {
+                        "title": "Beobachten mit Lupe und Fernglas",
+                        "text": "Lupe und Fernglas sind keine Messgeräte im engeren Sinn, unterstützen aber deine Beobachtungen. Mit der Lupe vergrößerst du kleine Objekte in der Nähe, mit dem Fernglas holst du entfernte Objekte näher heran. Du hältst beide Geräte ruhig und stellst sie so ein, dass das Bild scharf ist. Dann beschreibst oder zeichnest du, was du siehst."
+                      },
+                      {
+                        "title": "Messwerte notieren und ordnen",
+                        "text": "Alle Messwerte notierst du mit Einheit in einer übersichtlichen Form, zum Beispiel in Tabellen. Jede Tabelle braucht eine Überschrift und Spalten mit klaren Bezeichnungen, zum Beispiel 'Datum', 'Uhrzeit', 'Temperatur in °C'. So kannst du später deine Daten leicht auswerten oder in Diagramme übertragen."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Messen",
+                        "definition": "Vergleichen einer Größe mit einer festgelegten Einheit, z. B. Länge in Zentimetern."
+                      },
+                      {
+                        "term": "Einheit",
+                        "definition": "Festgelegter Messwert für eine Größe, z. B. Meter (m), Sekunde (s), Grad Celsius (°C)."
+                      },
+                      {
+                        "term": "Messgerät",
+                        "definition": "Gerät, mit dem eine Größe gemessen wird, z. B. Thermometer, Waage, Bandmaß."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann Längen mit Lineal oder Bandmaß korrekt messen und mit Einheit notieren.",
+                      "Ich kann Zeitspannen mit einer Uhr messen und notieren.",
+                      "Ich kann Temperaturen mit einem Thermometer richtig ablesen.",
+                      "Ich kann Massen mit einer Waage messen und notieren.",
+                      "Ich kann einfache Messreihen in einer Tabelle ordnen.",
+                      "Ich kann Lupe und Fernglas sachgerecht benutzen und Beobachtungen beschreiben."
+                    ],
+                    "sample_questions": [
+                      "Wie misst du die Länge eines Heftes korrekt und wie notierst du das Ergebnis?",
+                      "Wie gehst du vor, wenn du die Temperatur der Luft im Schulgarten messen willst?",
+                      "Warum ist es wichtig, beim Messen von Masse darauf zu achten, dass die Waage auf Null steht?",
+                      "Wie kannst du eine Messreihe von Lufttemperaturen einer Woche übersichtlich darstellen?"
+                    ],
+                    "sample_answers": [
+                      "Ich lege das Heft an ein Lineal oder Bandmaß, sodass die Kante des Heftes bei der Nullmarke liegt. Dann lese ich am anderen Ende des Heftes den Wert in Zentimetern ab, z. B. 29 cm. Ich notiere: 'Länge des Heftes: 29 cm'.",
+                      "Ich hänge das Thermometer im Schatten auf, warte einen Moment, bis es sich an die Umgebung angepasst hat, und lese dann die Temperatur an der Skala in Grad Celsius ab. Den Wert schreibe ich zusammen mit Datum und Uhrzeit in meine Tabelle.",
+                      "Wenn die Waage nicht auf Null steht, bevor ich den Gegenstand auflege, ist der Messwert zu hoch oder zu niedrig. Ich würde dann eine falsche Masse ablesen. Deshalb stelle ich die Waage zuerst auf Null (tarieren) und lege dann den Gegenstand auf.",
+                      "Ich messe jeden Tag zu einer ähnlichen Uhrzeit die Lufttemperatur und trage die Werte in eine Tabelle mit den Spalten 'Tag' und 'Temperatur in °C' ein. Aus der Tabelle kann ich später ein Liniendiagramm zeichnen, um die Temperaturentwicklung der Woche zu sehen."
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

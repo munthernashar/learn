@@ -1,0 +1,202 @@
+{
+  "school_id": "de_thueringen",
+  "grades": [
+    {
+      "grade_id": "klasse5",
+      "grade_label": "Klasse 5",
+      "subjects": [
+        {
+          "subject_id": "ges",
+          "subject_title": "Geschichte",
+          "modules": [
+            {
+              "module_id": "hist5_mod3",
+              "module_name": "Ägypten – Beispiel einer frühen Hochkultur",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Leben am Nil",
+                    "text": "In diesem Modul lernst du Ägypten als Beispiel einer frühen Hochkultur kennen und untersuchst, warum sich dort eine mächtige Gesellschaft mit besonderen Leistungen entwickelt hat.[file:6] Du erfährst, welche Rolle der Nil für Landwirtschaft, Verkehr, Religion und das alltägliche Leben spielte.[file:6]"
+                  },
+                  {
+                    "title": "Ordnung und Religion",
+                    "text": "Du setzt dich mit der hierarchischen Ordnung der ägyptischen Gesellschaft auseinander und lernst zentrale religiöse Vorstellungen kennen, z. B. Götterwelt, Jenseitsglauben und die Rolle des Pharaos.[file:6] Du erkennst, wie Religion und Herrschaft zusammenwirkten.[file:6]"
+                  },
+                  {
+                    "title": "Schrift, Baukunst und Technik",
+                    "text": "Du lernst wichtige kulturelle Leistungen der Ägypter kennen, etwa die Hieroglyphenschrift, den Pyramidenbau und Techniken der Mumifizierung, und beurteilst ihre Bedeutung.[file:6]"
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "hist5_mod3_u1",
+                  "text": "Ich kann mit Hilfe einer Karte erklären, warum der Nil für die Entwicklung der ägyptischen Gesellschaft und Kultur so wichtig war.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Der Nil als Lebensader",
+                        "text": "Der Nil brachte jedes Jahr Überschwemmungen, die fruchtbaren Schlamm auf die Felder legten und so reiche Ernten ermöglichten.[file:6] In einer sonst wüstenhaften Umgebung wurde das Niltal dadurch zu einem landwirtschaftlichen Gunstraum, in dem viele Menschen leben konnten."
+                      },
+                      {
+                        "title": "Verkehrs- und Handelsweg",
+                        "text": "Der Nil diente als wichtiger Verkehrsweg: Boote transportierten Menschen, Waren und Baumaterial.[file:6] So konnten Städte verbunden, Handel betrieben und das große Reich besser zusammengehalten werden."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Hochkultur",
+                        "definition": "Frühe entwickelte Gesellschaft mit Schrift, Arbeitsteilung, Herrschaftsorganisation, Religion und städtischen Zentren.[file:6]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann auf einer Karte das Niltal zeigen und erklären, wo Landwirtschaft möglich war. [file:6]",
+                      "Ich kann mindestens zwei Gründe nennen, warum der Nil für die Ägypter lebenswichtig war. [file:6]"
+                    ],
+                    "sample_questions": [
+                      "Warum spricht man beim Nil von einer „Lebensader“ Ägyptens?",
+                      "Welche Vorteile brachte der Nil für Landwirtschaft und Verkehr?"
+                    ],
+                    "sample_answers": [
+                      "Ohne den Nil wäre das Umland eine Wüste, durch seine Überschwemmungen wurden die Felder fruchtbar und boten Nahrung.",
+                      "Er sorgte für fruchtbare Böden und diente als Wasser-, Verkehrs- und Handelsweg."
+                    ]
+                  }
+                },
+                {
+                  "id": "hist5_mod3_u2",
+                  "text": "Ich kann anhand von Schemata die hierarchische Ordnung der ägyptischen Gesellschaft beschreiben und einfach bewerten.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Stände und Hierarchie",
+                        "text": "An der Spitze der ägyptischen Gesellschaft stand der Pharao, darunter hohe Beamte, Priester, Schreiber, Handwerker und Bauern; Sklaven standen ganz unten.[file:6] Diese Ordnung wird oft als Pyramide dargestellt, weil wenige oben und viele unten leben."
+                      },
+                      {
+                        "title": "Aufgaben und Lebensbedingungen",
+                        "text": "Der Pharao galt als göttlicher Herrscher und sollte für Ordnung und Gerechtigkeit sorgen.[file:6] Bauern hatten harte Arbeit, trugen die Hauptlast der Versorgung und mussten Abgaben leisten; Schreiber und Beamte hatten eine besondere Stellung, weil sie lesen, schreiben und verwalten konnten."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Hierarchie",
+                        "definition": "Rangordnung in einer Gesellschaft, in der Menschen unterschiedliche Rechte, Pflichten und Macht haben.[file:6]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann die Gesellschaftspyramide Ägyptens beschreiben (wer steht oben, wer unten?). [file:6]",
+                      "Ich kann aus meiner Sicht sagen, was ich an dieser Ordnung gerecht oder ungerecht finde. [file:6]"
+                    ],
+                    "sample_questions": [
+                      "Wer stand in der ägyptischen Gesellschaft ganz oben und wer ganz unten?",
+                      "Warum hatten Schreiber im Alten Ägypten eine besondere Stellung?",
+                      "Was findest du an der Gesellschaftsordnung aus heutiger Sicht problematisch?"
+                    ],
+                    "sample_answers": [
+                      "Ganz oben stand der Pharao, ganz unten standen Sklaven und rechtlose Menschen.",
+                      "Weil sie als wenige schreiben und lesen konnten und wichtige Verwaltungsaufgaben hatten.",
+                      "Dass Menschen je nach Geburt sehr unterschiedliche Rechte hatten und manche fast keine Mitsprache oder Freiheit hatten."
+                    ]
+                  }
+                },
+                {
+                  "id": "hist5_mod3_u3",
+                  "text": "Ich kann zentrale Leistungen und religiöse Vorstellungen der Ägypter (Schrift, Pyramidenbau, Mumifizierung, Götterglaube) beschreiben und beurteilen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Hieroglyphen und Schrift",
+                        "text": "Die Ägypter entwickelten eine Bilderschrift (Hieroglyphen), mit der sie wichtige Dinge festhielten, z. B. Gesetze, Opferlisten, Geschichten und religiöse Texte.[file:6] Schrift war wichtig für Verwaltung, Religion und Kultur und nur ein kleiner Teil der Menschen konnte sie lesen und schreiben."
+                      },
+                      {
+                        "title": "Pyramidenbau",
+                        "text": "Pyramiden waren monumentale Grabstätten für Pharaonen und Ausdruck ihrer Macht und ihres Glaubens an ein Weiterleben nach dem Tod.[file:6] Ihr Bau erforderte viel Planung, Organisation, Wissen über Mathematik und Technik sowie den Einsatz vieler Arbeitskräfte."
+                      },
+                      {
+                        "title": "Mumifizierung und Jenseitsglaube",
+                        "text": "Die Ägypter glaubten an ein Leben nach dem Tod und wollten den Körper für das Jenseits erhalten, darum mumifizierten sie die Toten und statteten ihre Gräber mit Beigaben aus.[file:6]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Hieroglyphen",
+                        "definition": "Alte ägyptische Bilderschrift.[file:6]"
+                      },
+                      {
+                        "term": "Mumifizierung",
+                        "definition": "Besondere Behandlung von Leichen, um den Körper für lange Zeit zu erhalten.[file:6]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann erklären, wozu die Ägypter Schrift nutzten. [file:6]",
+                      "Ich kann sagen, warum Pyramiden und Mumifizierung für den ägyptischen Glauben wichtig waren. [file:6]"
+                    ],
+                    "sample_questions": [
+                      "Warum war die Erfindung der Schrift ein wichtiger Fortschritt für die ägyptische Hochkultur?",
+                      "Welche Vorstellungen vom Leben nach dem Tod hatten die Ägypter?",
+                      "Was beeindruckt dich am Pyramidenbau besonders?"
+                    ],
+                    "sample_answers": [
+                      "Weil sie wichtige Informationen festhalten konnten und so Verwaltung, Religion und Erinnern an Herrscher und Taten möglich wurden.",
+                      "Sie glaubten, dass die Seele im Jenseits weiterlebt und den Körper braucht, darum wollten sie ihn erhalten und mit Beigaben ausstatten.",
+                      "Dass ohne moderne Maschinen riesige Steinblöcke bewegt und präzise Bauwerke errichtet wurden."
+                    ]
+                  }
+                },
+                {
+                  "id": "hist5_mod3_u4",
+                  "text": "Ich kann zentrale Merkmale Ägyptens als früher Hochkultur benennen und in einfachen Vergleichen einordnen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Merkmale einer frühen Hochkultur",
+                        "text": "Typische Merkmale sind u. a. eine starke zentrale Herrschaft, eine klar gegliederte Gesellschaft, Städte, organisierte Landwirtschaft, Schrift und besondere kulturelle Leistungen.[file:6]"
+                      },
+                      {
+                        "title": "Ägypten als Vorbild und Vergleich",
+                        "text": "Du lernst, dass Ägypten eines von mehreren Beispielen für frühe Hochkulturen ist (neben Mesopotamien, Indus-Tal usw.), und ordnest Ägypten als wichtige Grundlage europäischer Kulturentwicklung ein.[file:6]"
+                      }
+                    ],
+                    "key_terms": [],
+                    "note1_checklist": [
+                      "Ich kann mindestens drei Merkmale nennen, die Ägypten zu einer Hochkultur machen. [file:6]",
+                      "Ich kann in einfachen Worten beschreiben, warum Ägypten in der Geschichte wichtig ist. [file:6]"
+                    ],
+                    "sample_questions": [
+                      "Nenne drei Gründe, warum Ägypten als frühe Hochkultur gilt.",
+                      "Wie wirkt die Kultur des Alten Ägypten bis heute nach (z. B. in Sprache, Architektur, Symbolen)?"
+                    ],
+                    "sample_answers": [
+                      "Eine starke Herrschaft (Pharao), Schrift (Hieroglyphen), große Bauwerke (Pyramiden), organisierte Landwirtschaft am Nil.",
+                      "Wir kennen Pyramiden als berühmte Bauwerke, verwenden noch ägyptische Symbole (z. B. Ankh) und beschäftigen uns bis heute in Museen und Filmen mit dieser Kultur."
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

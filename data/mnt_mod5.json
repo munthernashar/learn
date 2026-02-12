@@ -1,0 +1,683 @@
+{
+  "school_id": "de_thueringen",
+  "grades": [
+    {
+      "grade_id": "klasse5",
+      "grade_label": "Klasse 5",
+      "subjects": [
+        {
+          "subject_id": "mnt",
+          "subject_title": "Mensch–Natur–Technik",
+          "modules": [
+            {
+              "module_id": "mnt5_mod5",
+              "module_name": "Das Leben in einem Lebensraum",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Überblick über das Modul Lebensraum",
+                    "text": "In diesem Modul lernst du einen Lebensraum genauer kennen. Ein Lebensraum ist ein Gebiet, in dem viele verschiedene Lebewesen zusammen leben – zum Beispiel ein Teich, eine Wiese, ein Wald oder ein Bach. Du beobachtest Tiere und Pflanzen, beschreibst ihren Lebensraum und erkennst Zusammenhänge zwischen Bau, Lebensweise und Umgebung. Du lernst, wie alles miteinander verbunden ist und was passiert, wenn sich der Lebensraum verändert."
+                  },
+                  {
+                    "title": "Lebensgemeinschaft und Nahrungsketten",
+                    "text": "Alle Lebewesen in einem Lebensraum bilden zusammen eine Lebensgemeinschaft. Sie sind durch Nahrungsbeziehungen und andere Wechselwirkungen miteinander verknüpft. In Nahrungsketten siehst du, welche Lebewesen als Nahrung für andere dienen. So erkennst du, wie Energie in einem Lebensraum weitergegeben wird und wie empfindlich das Gleichgewicht der Lebensgemeinschaft ist."
+                  },
+                  {
+                    "title": "Beobachten, Messen, Bestimmen",
+                    "text": "Du lernst, mit Lupe und Mikroskop zu arbeiten, einfache Präparate anzufertigen und Beobachtungen genau zu beschreiben. Außerdem übst du, Messdaten (zum Beispiel Temperatur und Niederschlag) zu erfassen und in Diagrammen darzustellen. Mit Bestimmungsschlüsseln kannst du Pflanzen und Tiere sicher bestimmen. So arbeitest du wie kleine Forscherin oder kleiner Forscher."
+                  },
+                  {
+                    "title": "Rolle des Menschen in Natur und Technik",
+                    "text": "Der Mensch nutzt Pflanzen und Tiere als Nahrungsmittel, Rohstoffe oder Haustiere und greift damit in Lebensräume ein. Du lernst, diese Eingriffe zu bewerten und zu überlegen, wie man Natur schützen kann. Gleichzeitig untersuchst du Wege vom Rohstoff zum Endprodukt (zum Beispiel vom Korn zum Brot) und lernst einfache technische Regelkreise kennen, etwa bei der Temperaturregelung in einem Aquarium oder Gewächshaus."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "mnt5_mod5_u1",
+                  "text": "Ich kann ausgewählte Lebewesen eines Lebensraums nennen, den Lebensraum anhand eigener Beobachtungen beschreiben und Zusammenhänge zwischen Bau, Lebensweise und Lebensraum (Struktur-Funktion) erklären.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Was ist ein Lebensraum?",
+                        "text": "Ein Lebensraum ist ein bestimmter Ort, an dem Pflanzen und Tiere leben. Er bietet Nahrung, Wasser, Versteckmöglichkeiten und passende Bedingungen wie Temperatur und Licht. Beispiele für Lebensräume sind Wiese, Wald, Teich, Bach, Hecke oder Stadtpark. Jeder Lebensraum hat typische Merkmale – zum Beispiel Bodenart, Feuchtigkeit, Lichtmenge – und typische Lebewesen, die dort vorkommen."
+                      },
+                      {
+                        "title": "Lebensgemeinschaft im Lebensraum",
+                        "text": "Alle Lebewesen, die in einem Lebensraum zusammen vorkommen, bilden eine Lebensgemeinschaft. Dazu gehören Pflanzen, Tiere, Pilze und Mikroorganismen. Sie stehen in Beziehungen zueinander: Sie fressen sich gegenseitig, nutzen dieselbe Nahrung oder denselben Unterschlupf, schützen sich oder konkurrieren. Wenn du einen Lebensraum untersuchst, solltest du möglichst viele dieser Lebewesen entdecken und notieren."
+                      },
+                      {
+                        "title": "Bau und Lebensweise – das Prinzip Struktur-Funktion",
+                        "text": "Der Bau eines Lebewesens ist immer an seine Lebensweise und seinen Lebensraum angepasst. Auf einer Wiese haben viele Pflanzen zähe, niedrige Stängel, damit sie nicht so leicht abgerissen werden. Viele Tiere dort haben eine Körperfarbe, die sie im Gras gut tarnt. Im Teich haben Fische stromlinienförmige Körper und Flossen, um gut schwimmen zu können. Wasserpflanzen besitzen lange, flexible Stängel, die sich mit der Strömung bewegen. Man nennt diesen Zusammenhang von Bau und Aufgabe das Prinzip Struktur-Funktion."
+                      },
+                      {
+                        "title": "Eigene Beobachtungen nutzen",
+                        "text": "Um einen Lebensraum gut zu beschreiben, beobachtest du ihn genau: Welche Pflanzen wachsen dort? Welche Tiere kannst du sehen oder hören? Wie sieht der Boden aus (trocken, feucht, nass)? Wie viel Licht kommt an den Boden? Gibt es Spuren von Tieren (Fußspuren, Fraßspuren, Kot)? Du kannst deine Beobachtungen zeichnen, in Tabellen eintragen oder in kurzen Texten festhalten. So entsteht ein genaues Bild des Lebensraums."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Lebensraum",
+                        "definition": "Ort, an dem Lebewesen leben und passende Bedingungen für Nahrung, Wasser, Schutz und Fortpflanzung finden."
+                      },
+                      {
+                        "term": "Lebensgemeinschaft",
+                        "definition": "Alle Lebewesen, die in einem bestimmten Lebensraum zusammen vorkommen und miteinander in Beziehung stehen."
+                      },
+                      {
+                        "term": "Struktur-Funktion",
+                        "definition": "Zusammenhang zwischen dem Bau (Struktur) eines Lebewesens und seiner Aufgabe (Funktion) in einem Lebensraum."
+                      },
+                      {
+                        "term": "Anpassung",
+                        "definition": "Merkmal eines Lebewesens, das ihm hilft, in seinem Lebensraum gut zu überleben."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann mindestens fünf typische Lebewesen eines untersuchten Lebensraums aufzählen.",
+                      "Ich kann den Lebensraum mit eigenen Beobachtungen (Boden, Wasser, Licht, Pflanzen, Tiere) beschreiben.",
+                      "Ich kann an Beispielen erklären, wie der Bau eines Lebewesens zu seiner Lebensweise passt.",
+                      "Ich kann das Prinzip Struktur-Funktion in eigenen Worten wiedergeben."
+                    ],
+                    "sample_questions": [
+                      "Beschreibe einen Lebensraum (z. B. Wiese oder Teich), den du untersucht hast.",
+                      "Nenne fünf Lebewesen, die in diesem Lebensraum vorkommen.",
+                      "Erkläre am Beispiel eines Tieres oder einer Pflanze, wie sein/ihre Merkmale an den Lebensraum angepasst sind.",
+                      "Was versteht man unter einer Lebensgemeinschaft?"
+                    ],
+                    "sample_answers": [
+                      "Ich habe eine Wiese untersucht. Der Boden war eher trocken, es wuchsen viele Gräser und Kräuter. Es gab sonnige Stellen, aber auch Bereiche mit etwas Schatten durch Büsche. Ich habe Insekten wie Käfer und Bienen, Spinnen, Vögel und Regenwürmer im Boden beobachtet.",
+                      "Auf der Wiese habe ich gesehen: Löwenzahn, Gänseblümchen, verschiedene Gräser, Ameisen, Regenwürmer, Marienkäfer, Bienen und Spatzen.",
+                      "Ein Fisch im Teich hat einen stromlinienförmigen Körper und Flossen. Damit kann er schnell durch das Wasser schwimmen und hat wenig Wasserwiderstand. Seine Kiemen ermöglichen ihm das Atmen unter Wasser. Das zeigt, wie sein Bau an den Lebensraum Wasser angepasst ist.",
+                      "Eine Lebensgemeinschaft ist die Gesamtheit aller Lebewesen in einem Lebensraum. Sie gehören zusammen, weil sie sich gegenseitig beeinflussen, zum Beispiel als Feinde, Beute, Konkurrenten oder Partner."
+                    ]
+                  }
+                },
+                {
+                  "id": "mnt5_mod5_u2",
+                  "text": "Ich kann Nahrungsketten in einem Lebensraum beschreiben und die Bedeutung des Lebensraums für die Lebensgemeinschaft sowie die Auswirkungen von Veränderungen erklären.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Nahrungsketten – wer frisst wen?",
+                        "text": "In einer Nahrungskette ordnet man Lebewesen der Reihe nach so an, wie sie sich fressen. Am Anfang einer Nahrungskette stehen immer grüne Pflanzen (Produzenten). Sie können mit Hilfe von Sonnenlicht ihre eigene Nahrung herstellen. Danach folgen Pflanzenfresser (Konsumenten 1. Ordnung), dann Fleischfresser (Konsumenten 2. oder 3. Ordnung). Beispiel Wiese: Gras → Heuschrecke → Frosch → Storch."
+                      },
+                      {
+                        "title": "Bedeutung von Nahrungsketten",
+                        "text": "Nahrungsketten zeigen, wie Energie im Lebensraum weitergegeben wird: von der Sonne zu den Pflanzen und von dort zu den Tieren. Sie machen deutlich, dass alle Lebewesen voneinander abhängig sind. Wenn ein Glied der Nahrungskette fehlt oder stark abnimmt, wirkt sich das auf die anderen aus. Darum ist es wichtig, Nahrungsketten und ganze Nahrungsnetze (viele miteinander verbundene Nahrungsketten) zu verstehen."
+                      },
+                      {
+                        "title": "Bedeutung des Lebensraums",
+                        "text": "Der Lebensraum bietet allen Lebewesen der Lebensgemeinschaft Nahrung, Wasser, Verstecke und geeignete Plätze für Fortpflanzung. Wenn der Lebensraum zerstört oder stark verändert wird, verlieren viele Arten ihre Lebensgrundlage. Beispiele: Wird eine Wiese in einen Parkplatz umgewandelt, verschwinden viele Pflanzen und damit auch Insekten und Vögel, die darauf angewiesen sind."
+                      },
+                      {
+                        "title": "Veränderungen im Lebensraum und ihre Folgen",
+                        "text": "Veränderungen können durch Naturereignisse (Sturm, Überschwemmung) oder durch den Menschen (Abholzung, Verschmutzung, Bebauung) entstehen. Sie haben oft Folgen für die Lebensgemeinschaft: Manche Arten verschwinden, andere breiten sich stark aus, das Gleichgewicht wird gestört. Du lernst, einfache Beispiele zu beschreiben und zu überlegen, wie man Lebensräume schützen kann."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Nahrungskette",
+                        "definition": "Reihe von Lebewesen, die zeigt, wer wen frisst und wie Energie weitergegeben wird."
+                      },
+                      {
+                        "term": "Produzenten",
+                        "definition": "Grüne Pflanzen, die mit Hilfe von Sonnenlicht ihre eigene Nahrung herstellen."
+                      },
+                      {
+                        "term": "Konsumenten",
+                        "definition": "Lebewesen, die andere Lebewesen oder Pflanzen als Nahrung aufnehmen (Pflanzen- und Fleischfresser)."
+                      },
+                      {
+                        "term": "Lebensraumveränderung",
+                        "definition": "Änderung von Bedingungen in einem Lebensraum, z. B. durch Bebauung, Verschmutzung oder Klimaeinflüsse."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann mindestens zwei Nahrungsketten aus einem untersuchten Lebensraum aufschreiben.",
+                      "Ich kann erklären, warum Pflanzen immer am Anfang der Nahrungskette stehen.",
+                      "Ich kann beschreiben, warum ein Lebensraum wichtig für eine Lebensgemeinschaft ist.",
+                      "Ich kann einfache Folgen einer Veränderung des Lebensraums für einige Lebewesen erklären."
+                    ],
+                    "sample_questions": [
+                      "Erstelle eine Nahrungskette für eine Wiese oder einen Teich.",
+                      "Warum stehen Pflanzen immer am Anfang der Nahrungskette?",
+                      "Was könnte in einer Wiese passieren, wenn plötzlich alle Pflanzenfresser verschwinden?",
+                      "Erkläre, warum die Zerstörung eines Lebensraums die Lebensgemeinschaft gefährdet."
+                    ],
+                    "sample_answers": [
+                      "Beispiel Wiese: Gras → Heuschrecke → Frosch → Storch. Beispiel Teich: Algen → Wasserfloh → Fisch → Reiher.",
+                      "Pflanzen stehen immer am Anfang, weil sie mit Hilfe der Fotosynthese ihre eigene Nahrung herstellen können. Alle anderen Lebewesen sind darauf angewiesen, direkt oder indirekt Pflanzen zu fressen.",
+                      "Wenn alle Pflanzenfresser verschwinden, würden sich die Pflanzen zunächst stark vermehren. Fleischfresser, die Pflanzenfresser als Beute brauchen, hätten keine Nahrung mehr und könnten verhungern. Das Gleichgewicht wäre gestört.",
+                      "Wenn ein Lebensraum zerstört wird, verlieren die Lebewesen dort Nahrung, Schutz und Brutplätze. Viele Arten können dort nicht mehr leben und müssen abwandern oder sterben. Dadurch brechen Nahrungsketten zusammen und die Lebensgemeinschaft wird zerstört."
+                    ]
+                  }
+                },
+                {
+                  "id": "mnt5_mod5_u3",
+                  "text": "Ich kann Lupe und Mikroskop sachgerecht handhaben, einfache Präparate anfertigen und mikroskopische Bilder beschreiben.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Arbeiten mit der Lupe",
+                        "text": "Eine Lupe ist ein einfaches Vergrößerungsgerät. Du hältst sie zwischen Auge und Objekt, bis das Bild scharf erscheint. Mit der Lupe kannst du kleine Strukturen genauer erkennen, zum Beispiel Blattränder, Insektenbeine oder die Oberfläche eines Steins. Wichtig ist, dass du die Lupe ruhig hältst und genügend Licht hast."
+                      },
+                      {
+                        "title": "Arbeiten mit dem Mikroskop",
+                        "text": "Mit dem Mikroskop kannst du sehr kleine Dinge sehen, die mit dem bloßen Auge oder der Lupe nicht mehr erkennbar sind – zum Beispiel Einzeller im Wassertropfen, Pflanzenteile (Pollen, Blattzellen) oder Haare. Du lernst die wichtigsten Teile des Mikroskops kennen (Objektivrevolver, Okular, Objekttisch, Grob- und Feintrieb, Lichtquelle) und wie du die Vergrößerung einstellst, ohne das Präparat zu beschädigen."
+                      },
+                      {
+                        "title": "Einfache Trocken- und Frischpräparate",
+                        "text": "Ein Trockenpräparat enthält trockenes Material, zum Beispiel ein Haar oder eine Daunenfeder, das auf einen Objektträger gelegt und mit einem Deckglas abgedeckt wird. Ein Frischpräparat besteht aus Material in einem Tropfen Wasser, zum Beispiel einem Wassertropfen aus dem Teich mit kleinen Einzellern oder Algen. Du lernst, wie man vorsichtig ein Deckglas aufsetzt, ohne Luftblasen zu erzeugen oder das Präparat zu zerdrücken."
+                      },
+                      {
+                        "title": "Mikroskopische Bilder beschreiben",
+                        "text": "Wenn du durch das Mikroskop schaust, siehst du oft Muster, Strukturen oder kleine Lebewesen. Du beschreibst, was du siehst: Form, Farbe, Anordnung, Größe im Vergleich zum Gesichtsfeld. Du kannst einfache Skizzen anfertigen und wichtige Merkmale markieren. So dokumentierst du deine Beobachtungen wie ein richtiger Naturwissenschaftler."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Lupe",
+                        "definition": "Vergrößerungsglas, mit dem man kleine Objekte größer sehen kann."
+                      },
+                      {
+                        "term": "Mikroskop",
+                        "definition": "Gerät, mit dem man sehr kleine Objekte stark vergrößern und sichtbar machen kann."
+                      },
+                      {
+                        "term": "Präparat",
+                        "definition": "Vorbereitetes Objekt (z. B. Pflanzenteil, Haar), das auf einem Objektträger unter dem Mikroskop untersucht wird."
+                      },
+                      {
+                        "term": "Objektträger",
+                        "definition": "Dünnes Glasplättchen, auf das das Untersuchungsobjekt gelegt wird."
+                      },
+                      {
+                        "term": "Deckglas",
+                        "definition": "Dünnes Glasplättchen, das das Präparat abdeckt."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann eine Lupe richtig benutzen, um kleine Details zu erkennen.",
+                      "Ich kann die wichtigsten Teile des Mikroskops benennen.",
+                      "Ich kann ein einfaches Trockenpräparat und ein Frischpräparat anfertigen.",
+                      "Ich kann ein mikroskopisches Bild in einfachen Worten beschreiben und skizzieren.",
+                      "Ich kann erklären, warum vorsichtiges Arbeiten am Mikroskop wichtig ist."
+                    ],
+                    "sample_questions": [
+                      "Wie benutzt du eine Lupe richtig?",
+                      "Nenne drei wichtige Teile des Mikroskops und ihre Aufgaben.",
+                      "Beschreibe, wie man ein Frischpräparat eines Wassertropfens anfertigt.",
+                      "Was ist beim Aufsetzen des Deckglases zu beachten?",
+                      "Wie kannst du ein mikroskopisches Bild sinnvoll dokumentieren?"
+                    ],
+                    "sample_answers": [
+                      "Ich halte die Lupe zwischen Auge und Objekt und bewege sie vor und zurück, bis das Bild scharf ist. Ich sorge für genug Licht und halte die Lupe möglichst ruhig.",
+                      "Wichtige Teile sind das Okular (dort schaue ich hinein), das Objektiv (vergrößert das Bild), der Objekttisch (trägt den Objektträger) und der Grob- und Feintrieb (damit stelle ich scharf).",
+                      "Ich gebe einen kleinen Tropfen Wasser auf den Objektträger, zum Beispiel Teichwasser. Dann lege ich vorsichtig ein Deckglas schräg an eine Seite des Tropfens und lasse es langsam herunter, damit keine Luftblasen eingeschlossen werden. Danach kann ich das Präparat unter dem Mikroskop betrachten.",
+                      "Ich setze das Deckglas schräg an und lasse es langsam auf den Tropfen sinken, damit die Luft entweichen kann. So vermeide ich Luftblasen und verhindere, dass das Präparat zerdrückt wird.",
+                      "Ich beschreibe in ganzen Sätzen, was ich sehe, und fertige eine einfache, beschriftete Zeichnung an. Dabei achte ich auf Formen, Anordnung und auffällige Strukturen."
+                    ]
+                  }
+                },
+                {
+                  "id": "mnt5_mod5_u4",
+                  "text": "Ich kann Temperatur und Niederschlag messen, Daten erfassen, grafisch darstellen und einfache Temperatur- und Niederschlagsdiagramme auswerten.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Temperatur messen",
+                        "text": "Mit einem Thermometer kannst du die Temperatur messen. Die Skala zeigt an, wie warm oder kalt es ist, meist in Grad Celsius. Du kannst die Lufttemperatur im Schatten messen oder die Wassertemperatur in einem Bach oder Teich. Wichtig ist, dass du die Messzahl genau abliest und mit Datum und Uhrzeit notierst."
+                      },
+                      {
+                        "title": "Niederschlag messen",
+                        "text": "Niederschlag ist Wasser, das aus der Atmosphäre auf die Erde fällt – als Regen, Schnee oder Hagel. Mit einem einfachen Regenmesser kannst du die Regenmenge in Millimetern messen. Dafür stellst du ein Gefäß mit Skala an einem offenen Ort auf und liest nach einem bestimmten Zeitraum den Füllstand ab."
+                      },
+                      {
+                        "title": "Daten erfassen und in Tabellen eintragen",
+                        "text": "Wenn du über mehrere Tage oder Wochen Temperaturen und Niederschlag misst, trägst du die Messwerte in eine Tabelle ein. In der Tabelle stehen zum Beispiel das Datum, die Uhrzeit, die Temperatur und die Niederschlagsmenge. So behältst du den Überblick und kannst die Daten später weiterverarbeiten."
+                      },
+                      {
+                        "title": "Daten grafisch darstellen",
+                        "text": "Messdaten kannst du in Diagrammen darstellen. Häufig benutzt man Liniendiagramme oder Säulendiagramme. Auf der waagerechten Achse (x-Achse) steht meist die Zeit (Tage, Monate), auf der senkrechten Achse (y-Achse) steht die Temperatur oder die Niederschlagsmenge. So kannst du auf einen Blick sehen, wie sich die Werte im Laufe der Zeit ändern."
+                      },
+                      {
+                        "title": "Diagramme auswerten",
+                        "text": "Beim Auswerten eines Diagramms beschreibst du, wie sich Temperatur oder Niederschlag verändert haben: Wann waren die höchsten und die niedrigsten Werte? Gibt es auffällige Schwankungen? War eine Zeit besonders trocken oder niederschlagsreich? So lernst du, aus Daten Informationen zu gewinnen und sie zu deuten."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Temperatur",
+                        "definition": "Maß dafür, wie warm oder kalt es ist, angegeben in Grad Celsius."
+                      },
+                      {
+                        "term": "Niederschlag",
+                        "definition": "Aus der Atmosphäre auf die Erde fallendes Wasser, z. B. Regen, Schnee oder Hagel."
+                      },
+                      {
+                        "term": "Tabelle",
+                        "definition": "Übersichtliche Anordnung von Daten in Zeilen und Spalten."
+                      },
+                      {
+                        "term": "Diagramm",
+                        "definition": "Grafische Darstellung von Daten, z. B. als Linie oder Säulen, damit Veränderungen leichter erkennbar sind."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann mit einem Thermometer die Temperatur ablesen.",
+                      "Ich kann die Regenmenge mit einem einfachen Regenmesser bestimmen.",
+                      "Ich kann Messwerte in einer Tabelle übersichtlich eintragen.",
+                      "Ich kann aus einer Tabelle ein einfaches Diagramm erstellen.",
+                      "Ich kann aus einem Temperatur- oder Niederschlagsdiagramm einfache Informationen herauslesen und beschreiben."
+                    ],
+                    "sample_questions": [
+                      "Wie misst du die Lufttemperatur richtig?",
+                      "Wie kann man die Niederschlagsmenge messen?",
+                      "Warum ist es sinnvoll, Messwerte in Tabellen einzutragen?",
+                      "Was steht in einem Temperaturdiagramm auf der x- und was auf der y-Achse?",
+                      "Wie kannst du aus einem Temperaturdiagramm die wärmsten und kältesten Tage ablesen?"
+                    ],
+                    "sample_answers": [
+                      "Ich hänge das Thermometer im Schatten auf, warte einen Moment, bis es sich angepasst hat, und lese dann die Zahl an der Skala ab. Dabei achte ich darauf, die Augen in Höhe der Skala zu haben.",
+                      "Ich stelle einen Regenmesser an einem offenen Platz auf. Nach einem bestimmten Zeitraum, zum Beispiel 24 Stunden, lese ich an der Skala des Gefäßes ab, wie viele Millimeter Niederschlag gefallen sind.",
+                      "Tabellen helfen, viele Messwerte übersichtlich zu ordnen. In ihnen kann ich schnell sehen, welche Temperatur an welchem Tag gemessen wurde. Außerdem lassen sich aus Tabellen leicht Diagramme erstellen.",
+                      "Auf der x-Achse trage ich die Zeit (z. B. Tage oder Monate) ein, auf der y-Achse die Temperatur in Grad Celsius. Jeder Messwert wird als Punkt oder Teil einer Linie eingetragen.",
+                      "Ich schaue mir die höchste und die niedrigste Stelle der Kurve im Diagramm an. Der höchste Punkt zeigt den wärmsten Tag, der niedrigste Punkt den kältesten Tag im betrachteten Zeitraum."
+                    ]
+                  }
+                },
+                {
+                  "id": "mnt5_mod5_u5",
+                  "text": "Ich kann mit einfachen Bestimmungsschlüsseln ausgewählte Pflanzen und Tiere eines Lebensraums bestimmen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Was ist ein Bestimmungsschlüssel?",
+                        "text": "Ein Bestimmungsschlüssel ist ein Hilfsmittel, mit dem du Pflanzen oder Tiere Schritt für Schritt bestimmen kannst. Er besteht aus Fragen oder Entscheidungswegen, bei denen du jeweils zwischen zwei oder mehreren Möglichkeiten wählst. Am Ende kommst du zu einem Namen oder einer Gruppe von Lebewesen. Bestimmungsschlüssel helfen dir, auch unbekannte Arten sicher zu erkennen."
+                      },
+                      {
+                        "title": "Arbeiten mit Bestimmungsschlüsseln",
+                        "text": "Bei einem einfachen dichotomen Schlüssel triffst du an jeder Stelle eine Entscheidung zwischen zwei Aussagen, z. B. 'Blätter gegenständig' oder 'Blätter wechselständig'. Du beobachtest dein Lebewesen genau und wählst die Aussage, die passt. Dann folgst du dem angegebenen Weg weiter, bis du bei einem Namen oder Bild ankommst, das zu deinem Fund passt."
+                      },
+                      {
+                        "title": "Wichtige Merkmale beachten",
+                        "text": "Beim Bestimmen achtest du auf gut erkennbare Merkmale: Form, Farbe und Anordnung der Blätter, Blütenfarbe und -form, Körperform und Beine bei Insekten, Muster auf Flügeln oder Panzer, Körpergröße oder Lebensraum. Es ist wichtig, genau zu beobachten und nicht zu raten. Wenn du unsicher bist, kannst du noch einmal von vorn beginnen oder mit einer anderen Quelle vergleichen (z. B. Bestimmungsbuch)."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Bestimmungsschlüssel",
+                        "definition": "Hilfsmittel, mit dem man Lebewesen Schritt für Schritt anhand von Merkmalen bestimmen kann."
+                      },
+                      {
+                        "term": "Merkmal",
+                        "definition": "Eigenschaft eines Lebewesens, z. B. Farbe, Form, Größe, Anordnung von Blättern."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann erklären, was ein Bestimmungsschlüssel ist.",
+                      "Ich kann an einem Beispiel zeigen, wie ich mit einem Bestimmungsschlüssel arbeite.",
+                      "Ich kann beim Bestimmen wichtige Merkmale eines Lebewesens genau beschreiben.",
+                      "Ich kann mindestens drei Pflanzen oder Tiere mit Hilfe eines Schlüssels sicher bestimmen."
+                    ],
+                    "sample_questions": [
+                      "Was ist der Zweck eines Bestimmungsschlüssels?",
+                      "Wie gehst du vor, wenn du eine unbekannte Pflanze mit einem Bestimmungsschlüssel bestimmen willst?",
+                      "Welche Merkmale können dir beim Bestimmen von Pflanzen helfen?",
+                      "Warum ist genaues Beobachten beim Bestimmen so wichtig?"
+                    ],
+                    "sample_answers": [
+                      "Ein Bestimmungsschlüssel hilft mir, unbekannte Pflanzen oder Tiere zu erkennen. Er führt mich Schritt für Schritt von allgemeinen zu genaueren Merkmalen, bis ich den richtigen Namen gefunden habe.",
+                      "Ich schaue mir die Pflanze genau an und lese die erste Frage im Schlüssel. Ich wähle die Aussage, die passt (z. B. 'Blätter gegenständig') und folge dem Pfeil oder der Anweisung zur nächsten Frage. So gehe ich weiter, bis ich bei einem Pflanzennamen oder Bild ankomme, das zu meiner Pflanze passt.",
+                      "Wichtige Merkmale bei Pflanzen sind z. B. Blattform, Blattrand (glatt, gezähnt), Anordnung der Blätter am Stängel, Blütenfarbe, Blütenform, Anzahl der Blütenblätter, Fruchtform und Wuchshöhe.",
+                      "Wenn ich nicht genau beobachte, wähle ich vielleicht eine falsche Antwort im Schlüssel und komme zum falschen Ergebnis. Nur wenn ich Merkmale genau beschreibe, kann der Schlüssel richtig funktionieren."
+                    ]
+                  }
+                },
+                {
+                  "id": "mnt5_mod5_u6",
+                  "text": "Ich kann die Nutzung von Pflanzen und Tieren durch den Menschen begründen und Maßnahmen artgerechter Haltung und Pflege ableiten, begründen und bewerten.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Nutzung von Pflanzen und Tieren",
+                        "text": "Der Mensch nutzt Pflanzen und Tiere auf vielfältige Weise: als Nahrungsmittel (Getreide, Obst, Gemüse, Fleisch, Milch, Eier), als Rohstoffe (Holz für Möbel und Papier, Baumwolle für Kleidung, Wolle), als Arbeitstiere (früher Pferde, heute z. T. Hunde) und als Heimtiere (Hund, Katze, Kaninchen). Du überlegst, warum bestimmte Arten genutzt werden und welche Vorteile das bringt."
+                      },
+                      {
+                        "title": "Artgerechte Haltung von Tieren",
+                        "text": "Artgerechte Haltung bedeutet, dass ein Tier so gehalten wird, dass es seine natürlichen Bedürfnisse ausleben kann. Dazu gehören ausreichend Platz, Bewegung, geeignetes Futter, Kontakt zu Artgenossen (je nach Tierart), ein ruhiger Rückzugsort und Beschäftigung. Hühner brauchen z. B. Platz zum Scharren und Picken, Kaninchen brauchen genug Raum zum Laufen und Hoppeln, Fische brauchen ein genügend großes Becken mit passender Wasserqualität."
+                      },
+                      {
+                        "title": "Pflege von Pflanzen und Tieren",
+                        "text": "Zur Pflege gehört bei Pflanzen z. B. regelmäßiges Gießen, richtige Bodenwahl, genügend Licht und Schutz vor Schädlingen. Bei Tieren umfasst Pflege z. B. tägliche Fütterung mit geeignetem Futter, sauberes Wasser, Reinigung von Käfigen oder Ställen, regelmäßige Kontrolle der Gesundheit und bei Bedarf ein Besuch beim Tierarzt. Wer Tiere hält, übernimmt Verantwortung für ihr Wohlergehen."
+                      },
+                      {
+                        "title": "Bewertung der Tierhaltung",
+                        "text": "Du lernst, verschiedene Haltungsformen zu bewerten. Zum Beispiel: Ist eine enge Käfighaltung für Hühner artgerecht? Haben Kühe auf der Weide oder im Stall bessere Bedingungen? Du nutzt Kriterien wie Platzangebot, Bewegungsmöglichkeiten, Futterqualität, Beschäftigung und Gesundheit der Tiere. Ziel ist es, verantwortungsbewusste Entscheidungen zu treffen und überlegt Stellung zu nehmen."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Nutzung",
+                        "definition": "Verwendung von Pflanzen oder Tieren durch den Menschen, z. B. als Nahrungsmittel, Rohstoff oder Heimtier."
+                      },
+                      {
+                        "term": "Artgerechte Haltung",
+                        "definition": "Haltungsform, die den natürlichen Bedürfnissen eines Tieres möglichst gut entspricht."
+                      },
+                      {
+                        "term": "Pflege",
+                        "definition": "Versorgung von Pflanzen oder Tieren, damit sie gesund bleiben."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann Beispiele nennen, wie der Mensch Pflanzen und Tiere nutzt.",
+                      "Ich kann erklären, was artgerechte Haltung bedeutet.",
+                      "Ich kann mindestens drei Kriterien für artgerechte Tierhaltung aufzählen.",
+                      "Ich kann einfache Haltungsformen (z. B. Hühnerhaltung) mithilfe dieser Kriterien bewerten.",
+                      "Ich kann Maßnahmen zur guten Pflege von Heimtieren und Nutzpflanzen nennen."
+                    ],
+                    "sample_questions": [
+                      "Nenne drei Beispiele, wie der Mensch Pflanzen und Tiere nutzt.",
+                      "Was bedeutet artgerechte Haltung? Erkläre den Begriff mit eigenen Worten.",
+                      "Welche Kriterien sind dir wichtig, um zu beurteilen, ob ein Tier artgerecht gehalten wird?",
+                      "Bewerte die Haltung von Hühnern in engen Käfigen im Vergleich zur Freilandhaltung.",
+                      "Welche Pflegemaßnahmen sind bei einem Heimtier wie einem Kaninchen wichtig?"
+                    ],
+                    "sample_answers": [
+                      "Der Mensch nutzt Pflanzen als Nahrungsmittel (z. B. Brot aus Getreide), als Rohstoff (Holz für Möbel, Baumwolle für Kleidung) und als Zierpflanzen im Garten. Tiere nutzt er als Nahrungsmittel (Fleisch, Milch, Eier), als Heimtiere (Hund, Katze) und früher auch als Arbeitstiere (Pferd, Ochse).",
+                      "Artgerechte Haltung bedeutet, dass ein Tier so gehalten wird, dass es seine natürlichen Verhaltensweisen ausleben kann. Es hat genug Platz, passendes Futter, Bewegung und – je nach Art – Kontakt zu anderen Tieren.",
+                      "Wichtige Kriterien sind z. B.: Hat das Tier genug Platz und Bewegung? Bekommt es artgerechtes Futter und frisches Wasser? Hat es Kontakt zu Artgenossen, wenn es ein Gruppentier ist? Ist die Umgebung sauber und sicher? Bekommt es Pflege und bei Krankheit Hilfe?",
+                      "In engen Käfigen haben Hühner oft kaum Platz, können nicht scharren oder im Sand baden und ihre Flügel kaum ausbreiten. Das ist nicht artgerecht. In Freilandhaltung haben sie mehr Platz, können scharren und picken und sich bewegen. Das ist deutlich näher an ihrer natürlichen Lebensweise und daher artgerechter.",
+                      "Ein Kaninchen braucht täglich frisches Wasser und geeignetes Futter (Heu, Gemüse, etwas Trockenfutter), einen ausreichend großen Käfig oder Freilauf, saubere Einstreu und Möglichkeiten zum Nagen. Es braucht außerdem Kontakt zu Artgenossen, da Kaninchen Gruppentiere sind, und regelmäßige Kontrolle beim Tierarzt."
+                    ]
+                  }
+                },
+                {
+                  "id": "mnt5_mod5_u7",
+                  "text": "Ich kann am Beispiel einen Weg vom Rohstoff zum Endprodukt beschreiben und dabei naturwissenschaftliche, wirtschaftliche und technische Aspekte nennen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Vom Rohstoff zum Endprodukt",
+                        "text": "Viele Dinge, die du täglich benutzt oder isst, entstehen aus natürlichen Rohstoffen. Rohstoffe sind Materialien, die aus der Natur stammen – zum Beispiel Getreide, Holz, Milch oder Erdöl. Aus diesen Rohstoffen werden in mehreren Schritten Endprodukte hergestellt, die du kennst, zum Beispiel Brot, Papier oder Kleidung."
+                      },
+                      {
+                        "title": "Beispiel: Vom Korn zum Brot",
+                        "text": "Der Weg vom Korn zum Brot beginnt auf dem Feld. Bauern bauen Getreide an und ernten die Körner. In der Mühle werden die Körner gereinigt und zu Mehl gemahlen. Beim Bäcker wird aus Mehl, Wasser, Hefe und Salz ein Teig hergestellt. Der Teig wird geformt und im Ofen gebacken. Am Ende kannst du das fertige Brot im Laden kaufen. Hier spielen Pflanzenanbau (Biologie), das Mahlen und Backen (Chemie, Physik) und wirtschaftliche Entscheidungen (Preis, Verkauf) eine Rolle."
+                      },
+                      {
+                        "title": "Beispiel: Vom Baum zum Papier",
+                        "text": "Bäume werden im Wald geschlagen und zu einer Papierfabrik transportiert. Dort wird das Holz zu Holzbrei zerkleinert, gereinigt und zu dünnen Bahnen gepresst und getrocknet. So entsteht Papier. Dabei werden Wasser, Energie und Maschinen eingesetzt. Wichtig ist auch die Frage, wie nachhaltig der Wald bewirtschaftet wird und wie man Papier recyceln kann, um Rohstoffe zu sparen."
+                      },
+                      {
+                        "title": "Naturwissenschaftliche, wirtschaftliche und technische Aspekte",
+                        "text": "Naturwissenschaftliche Aspekte betreffen die Eigenschaften der Rohstoffe und die Vorgänge bei der Verarbeitung (z. B. wie Teig aufgeht, wie Papier trocknet). Wirtschaftliche Aspekte betreffen Kosten, Preise, Löhne und den Handel. Technische Aspekte betreffen Maschinen und Verfahren, die die Verarbeitung ermöglichen (Mühlen, Öfen, Maschinen in der Fabrik). Du lernst, diese Aspekte an einem Beispiel zu erkennen und zu benennen."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Rohstoff",
+                        "definition": "Stoff aus der Natur, der als Ausgangsmaterial für die Herstellung von Produkten dient."
+                      },
+                      {
+                        "term": "Endprodukt",
+                        "definition": "Fertiges Produkt, das verkauft und benutzt oder gegessen wird."
+                      },
+                      {
+                        "term": "Verarbeitung",
+                        "definition": "Umwandlung eines Rohstoffs durch verschiedene Arbeitsschritte und Maschinen in ein Produkt."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann ein Beispiel für einen Weg vom Rohstoff zum Endprodukt nennen (z. B. Korn → Brot, Baum → Papier, Kartoffel → Kloß).",
+                      "Ich kann die wichtigsten Schritte auf diesem Weg beschreiben.",
+                      "Ich kann naturwissenschaftliche Vorgänge in mindestens einem Schritt erklären (z. B. Backen, Trocknen).",
+                      "Ich kann wirtschaftliche und technische Aspekte kurz benennen (z. B. Maschinen, Verkauf, Transport)."
+                    ],
+                    "sample_questions": [
+                      "Beschreibe den Weg vom Korn zum Brot.",
+                      "Nenne naturwissenschaftliche Vorgänge, die beim Backen von Brot eine Rolle spielen.",
+                      "Erkläre den Weg vom Baum zum Papier in einfachen Schritten.",
+                      "Welche wirtschaftlichen und technischen Aspekte spielen beim Weg vom Korn zum Brot eine Rolle?"
+                    ],
+                    "sample_answers": [
+                      "Der Weg vom Korn zum Brot: Zuerst wird Getreide auf dem Feld angebaut und geerntet. Dann werden die Körner in einer Mühle zu Mehl gemahlen. Beim Bäcker wird aus Mehl, Wasser, Hefe und Salz ein Teig geknetet. Der Teig geht, weil die Hefe Gase bildet. Danach wird der Teig im Ofen gebacken. Das fertige Brot wird in den Laden gebracht und verkauft.",
+                      "Beim Backen von Brot findet eine chemische Reaktion statt: Die Hefe vergärt Zucker im Teig, es entsteht Kohlenstoffdioxid, das den Teig aufgehen lässt. Im Ofen werden Wasser verdampft und Eiweiße sowie Stärke verändert. Dadurch wird der Teig fest und bekommt eine Kruste.",
+                      "Vom Baum zum Papier: Bäume werden gefällt und zu einer Papierfabrik transportiert. Dort wird das Holz zerkleinert und zu einem Brei verarbeitet. Der Holzbrei wird gereinigt und auf einem Sieb zu dünnen Bahnen verteilt. Diese werden gepresst und getrocknet, bis fertige Papierbahnen entstehen, die aufgerollt und zu Papierprodukten zugeschnitten werden.",
+                      "Wirtschaftliche Aspekte sind z. B.: Bauern und Bäcker müssen für ihre Arbeit bezahlt werden, das Brot muss zu einem Preis verkauft werden, der Kosten und Gewinn deckt. Technische Aspekte sind die Maschinen, die beim Mahlen, Kneten und Backen eingesetzt werden, sowie die Fahrzeuge, die Korn und Brot transportieren."
+                    ]
+                  }
+                },
+                {
+                  "id": "mnt5_mod5_u8",
+                  "text": "Ich kann an einfachen Beispielen die Funktionsweise technischer Regelkreise (z. B. Temperaturregelung in Aquarium, Stall oder Gewächshaus) erklären.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Was ist ein Regelkreis?",
+                        "text": "Ein Regelkreis ist ein System, das eine Größe (z. B. Temperatur) automatisch auf einem bestimmten Wert hält oder anpasst. Es besteht meist aus einem Messfühler (Sensor), einer Vergleichsstelle, einem Stellglied (z. B. Heizung) und der Umgebung, in der geregelt wird. Ein Regelkreis misst ständig den Ist-Wert, vergleicht ihn mit einem Soll-Wert und verändert etwas, wenn die Werte nicht übereinstimmen."
+                      },
+                      {
+                        "title": "Beispiel: Temperaturregelung im Aquarium",
+                        "text": "In einem Aquarium soll die Wassertemperatur für die Fische möglichst gleich bleiben. Dazu gibt es einen Heizer mit Thermostat. Ein Temperaturfühler misst ständig die Wassertemperatur. Wenn das Wasser zu kalt ist, schaltet der Heizer ein und erwärmt das Wasser. Wenn die Soll-Temperatur erreicht ist, schaltet der Heizer wieder ab. So wird die Temperatur automatisch geregelt."
+                      },
+                      {
+                        "title": "Beispiel: Gewächshaus",
+                        "text": "In einem Gewächshaus soll es für Pflanzen warm genug sein. Thermometer und Schalter können mit Heizung und Öffnungen verbunden sein. Wenn die Temperatur zu niedrig ist, schaltet die Heizung ein. Wenn es zu warm wird, öffnen sich Fenster oder Lüfter werden eingeschaltet, um kühle Luft hereinzulassen. Auch hier wird der Ist-Wert mit dem Soll-Wert verglichen und entsprechend geregelt."
+                      },
+                      {
+                        "title": "Regelkreise im Alltag",
+                        "text": "Regelkreise findest du in vielen Geräten: Beim Kühlschrank misst ein Thermostat die Temperatur im Inneren und schaltet den Kühlkompressor ein oder aus. In Heizungen werden Raumtemperaturen geregelt. Auch dein Körper enthält Regelkreise, zum Beispiel bei der Regelung der Körpertemperatur: Wenn dir zu warm ist, schwitzt du, wenn dir kalt ist, zitterst du und die Blutgefäße verengen sich."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Regelkreis",
+                        "definition": "System, das eine Größe automatisch misst, mit einem Soll-Wert vergleicht und anpasst, z. B. Temperatur."
+                      },
+                      {
+                        "term": "Soll-Wert",
+                        "definition": "Gewünschter Wert, z. B. eine bestimmte Temperatur, die gehalten werden soll."
+                      },
+                      {
+                        "term": "Ist-Wert",
+                        "definition": "Tatsächlich gemessener Wert in einem Regelkreis."
+                      },
+                      {
+                        "term": "Thermostat",
+                        "definition": "Gerät, das Temperatur misst und eine Heizung oder Kühlung ein- oder ausschaltet."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann erklären, was ein Regelkreis ist.",
+                      "Ich kann den Aufbau eines einfachen Temperaturregelkreises beschreiben.",
+                      "Ich kann ein Beispiel für einen technischen Regelkreis (Aquarium, Gewächshaus, Kühlschrank) erklären.",
+                      "Ich kann einen Regelkreis in meinem eigenen Körper (Körpertemperatur) erkennen."
+                    ],
+                    "sample_questions": [
+                      "Erkläre in eigenen Worten, was ein Regelkreis ist.",
+                      "Beschreibe den Regelkreis zur Temperaturregelung in einem Aquarium.",
+                      "Wie funktioniert ein Regelkreis in einem Kühlschrank?",
+                      "Welche Regelkreise kennst du aus deinem eigenen Körper?"
+                    ],
+                    "sample_answers": [
+                      "Ein Regelkreis ist ein System, das eine Größe wie Temperatur automatisch überwacht und anpasst. Es misst den aktuellen Wert (Ist-Wert), vergleicht ihn mit einem gewünschten Wert (Soll-Wert) und schaltet z. B. eine Heizung oder Kühlung ein oder aus, um den Soll-Wert zu erreichen.",
+                      "Im Aquarium misst ein Temperaturfühler die Wassertemperatur. Ist das Wasser kälter als der eingestellte Soll-Wert, schaltet der Heizer ein und erwärmt das Wasser. Erreicht das Wasser den Soll-Wert, schaltet der Heizer wieder ab. So bleibt die Temperatur im Aquarium weitgehend konstant.",
+                      "Im Kühlschrank misst ein Thermostat die Temperatur im Inneren. Wenn es zu warm wird, schaltet der Kühlschrank-Kompressor ein und kühlt den Innenraum. Wird die Soll-Temperatur erreicht, schaltet sich der Kompressor ab. So wird der Inhalt des Kühlschranks kühl gehalten, ohne zu frieren.",
+                      "Ein Beispiel ist die Regelung der Körpertemperatur. Wenn dir zu warm ist, beginnt dein Körper zu schwitzen. Die Verdunstung kühlt die Haut. Wenn dir kalt ist, zitterst du, dadurch entsteht Wärme in den Muskeln. Dein Körper versucht so, die Temperatur etwa bei 37 °C zu halten."
+                    ]
+                  }
+                },
+                {
+                  "id": "mnt5_mod5_u9",
+                  "text": "Ich kann Eingriffe des Menschen in die Natur und ihre Auswirkungen auf einzelne Lebewesen und Lebensräume bewerten und Gründe für Umweltschutz nennen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Eingriffe des Menschen in die Natur",
+                        "text": "Menschen verändern Natur, indem sie Wälder roden, Felder anlegen, Straßen und Häuser bauen, Flüsse begradigen oder Stauseen anlegen. Auch das Einbringen von Abfällen und Schadstoffen in Boden, Wasser und Luft sind Eingriffe. Manche Eingriffe sind notwendig, damit Menschen leben und arbeiten können, aber sie haben oft Folgen für Tiere, Pflanzen und ganze Lebensräume."
+                      },
+                      {
+                        "title": "Auswirkungen auf Lebewesen und Lebensräume",
+                        "text": "Wenn ein Wald gerodet wird, verlieren viele Tiere und Pflanzen ihren Lebensraum. Beim Bau einer Straße können Lebensräume zerschnitten werden, sodass Tiere ihre Nahrungsgebiete oder Partner nicht mehr erreichen. Verschmutzte Gewässer schaden Fischen, Pflanzen und anderen Wasserlebewesen. Du lernst, einfache Beispiele zu beschreiben und zu überlegen, welche Folgen sie für bestimmte Arten haben."
+                      },
+                      {
+                        "title": "Gründe für Umweltschutz",
+                        "text": "Umweltschutz bedeutet, die Natur so zu nutzen, dass Tiere, Pflanzen und Menschen auch in Zukunft gut leben können. Wichtige Gründe sind: Erhaltung der Lebensgrundlagen (sauberes Wasser, saubere Luft, gesunde Böden), Schutz der Artenvielfalt (Artensterben verhindern), Schutz von schönen Landschaften und Erholungsräumen für Menschen. Umweltschutz ist auch wichtig für zukünftige Generationen."
+                      },
+                      {
+                        "title": "Beispiele für Umweltschutzmaßnahmen",
+                        "text": "Beispiele sind: Schutzgebiete einrichten, Müll vermeiden und richtig trennen, Energie sparen, um weniger Rohstoffe zu verbrauchen, öffentliche Verkehrsmittel nutzen oder zu Fuß gehen, statt immer Auto zu fahren, heimische Pflanzen im Garten pflanzen, um Insekten Lebensraum zu bieten. Du lernst, solche Maßnahmen zu benennen und zu begründen."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Eingriff in die Natur",
+                        "definition": "Veränderung von Natur durch den Menschen, z. B. Rodung, Bebauung, Verschmutzung."
+                      },
+                      {
+                        "term": "Umweltschutz",
+                        "definition": "Maßnahmen, die Natur und Umwelt erhalten und Schäden verhindern sollen."
+                      },
+                      {
+                        "term": "Artenvielfalt",
+                        "definition": "Vielfalt der verschiedenen Tier- und Pflanzenarten in einem Gebiet oder auf der Erde."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann Beispiele für Eingriffe des Menschen in die Natur nennen.",
+                      "Ich kann einfache Folgen dieser Eingriffe für bestimmte Lebewesen oder Lebensräume beschreiben.",
+                      "Ich kann begründen, warum Umweltschutz wichtig ist.",
+                      "Ich kann mindestens drei konkrete Umweltschutzmaßnahmen nennen."
+                    ],
+                    "sample_questions": [
+                      "Nenne zwei Beispiele, wie der Mensch in einen Lebensraum eingreift.",
+                      "Welche Folgen kann die Rodung eines Waldes für Tiere und Pflanzen haben?",
+                      "Warum ist Umweltschutz wichtig – auch für Menschen?",
+                      "Nenne drei Maßnahmen, mit denen du selbst zum Umweltschutz beitragen kannst."
+                    ],
+                    "sample_answers": [
+                      "Beispiele sind: Bau einer Straße durch einen Wald, Trockenlegen eines Feuchtgebiets, Einleitung von Abwasser in einen Fluss oder das Wegwerfen von Müll in die Natur.",
+                      "Wenn ein Wald gerodet wird, verlieren viele Tiere wie Vögel, Rehe und Insekten ihre Nahrung und Verstecke. Pflanzen, die an den Wald gebunden sind, verschwinden. Der Boden ist ungeschützt und kann leichter erodieren. Insgesamt wird die Artenvielfalt kleiner.",
+                      "Umweltschutz ist wichtig, weil wir sauberes Wasser, saubere Luft und gesunde Böden brauchen, um leben zu können. Außerdem haben auch Tiere und Pflanzen ein Recht zu existieren. Wenn wir die Umwelt zerstören, gefährden wir auch unser eigenes Leben und das Leben zukünftiger Generationen.",
+                      "Ich kann Müll vermeiden und richtig trennen, Energie sparen (Licht aus, wenn ich den Raum verlasse), öfter mit dem Fahrrad fahren oder zu Fuß gehen, statt kurze Strecken mit dem Auto zu fahren, und beim Einkaufen darauf achten, weniger Verpackungen zu kaufen."
+                    ]
+                  }
+                },
+                {
+                  "id": "mnt5_mod5_u10",
+                  "text": "Ich kann Informationen aus verschiedenen Medien (z. B. Sachbücher, Internet, Filme) zum Thema Lebensraum erschließen, kritisch betrachten, dokumentieren und für Aufgaben nutzen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Medien als Informationsquelle",
+                        "text": "Über Lebensräume kannst du viele Informationen in unterschiedlichen Medien finden: in Sachbüchern, Zeitschriften, Filmen, Internetseiten, Apps oder Infotafeln in Museen. Diese Medien liefern dir Texte, Bilder, Karten, Diagramme oder Videos, die dir helfen, einen Lebensraum besser zu verstehen."
+                      },
+                      {
+                        "title": "Informationen erschließen und auswählen",
+                        "text": "Beim Erschließen von Informationen suchst du gezielt nach Antworten auf eine Frage. Du liest Überschriften, Bilder und Texte aufmerksam, notierst wichtige Stichworte oder markierst wichtige Stellen. Du wählst die Informationen aus, die für deine Aufgabe wichtig sind, und lässt Unwichtiges weg."
+                      },
+                      {
+                        "title": "Kritisch mit Medien umgehen",
+                        "text": "Nicht jede Information in einem Medium ist richtig oder vollständig. Besonders im Internet können Inhalte veraltet, einseitig oder falsch sein. Du solltest prüfen, von wem die Information stammt (z. B. Schule, Behörde, Naturschutzorganisation) und ob mehrere Quellen ähnliches sagen. So lernst du, Informationen kritisch zu hinterfragen."
+                      },
+                      {
+                        "title": "Informationen dokumentieren und präsentieren",
+                        "text": "Du kannst Informationen in Stichwortlisten, Mindmaps, Tabellen oder kurzen Texten festhalten. Für eine Präsentation kannst du Plakate gestalten, kleine Referate halten oder digitale Präsentationen erstellen. Wichtig ist, dass du die Informationen verständlich zusammenfasst und mit eigenen Worten wiedergibst."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Medium (Mehrzahl: Medien)",
+                        "definition": "Träger von Informationen, z. B. Buch, Zeitung, Internetseite, Film."
+                      },
+                      {
+                        "term": "Information erschließen",
+                        "definition": "Wichtige Inhalte aus einem Text, Bild oder anderen Darstellungen herausfinden und verstehen."
+                      },
+                      {
+                        "term": "Dokumentation",
+                        "definition": "Festhalten von Informationen, z. B. in Notizen, Tabellen, Zeichnungen oder Texten."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann geeignete Medien zum Thema Lebensraum auswählen.",
+                      "Ich kann wesentliche Informationen aus einem Sachtext oder Film entnehmen.",
+                      "Ich kann Informationen in eigenen Worten zusammenfassen.",
+                      "Ich kann erklären, warum man Informationen aus dem Internet kritisch prüfen sollte.",
+                      "Ich kann meine Ergebnisse in geeigneter Form (z. B. Plakat, kurzer Vortrag) präsentieren."
+                    ],
+                    "sample_questions": [
+                      "Welche Medien könntest du nutzen, um dich über einen Lebensraum (z. B. Regenwald) zu informieren?",
+                      "Wie gehst du vor, wenn du wichtige Informationen aus einem Sachtext herausfiltern willst?",
+                      "Warum ist es wichtig, Informationen aus dem Internet kritisch zu überprüfen?",
+                      "Wie kannst du deine Ergebnisse zu einem Lebensraum für die Klasse verständlich präsentieren?"
+                    ],
+                    "sample_answers": [
+                      "Ich kann Sachbücher aus der Schul- oder Stadtbibliothek, Internetseiten von Naturschutzorganisationen, Dokumentarfilme, kindgerechte Lexika oder Infotafeln in Museen benutzen.",
+                      "Ich lese zuerst die Überschrift und schaue mir Bilder und Zwischenüberschriften an. Beim Lesen markiere ich wichtige Stellen und schreibe mir Stichworte zu meinen Fragen auf. Unwichtige Details lasse ich weg.",
+                      "Im Internet kann jeder Texte veröffentlichen. Manche Seiten sind nicht fachlich überprüft oder verfolgen bestimmte Interessen. Deshalb sollte ich schauen, von wem die Seite ist, ob die Informationen aktuell sind und ob andere vertrauenswürdige Quellen das Gleiche sagen.",
+                      "Ich kann ein Plakat gestalten mit Überschriften, kurzen Texten, Bildern und vielleicht einem einfachen Diagramm. Dazu halte ich einen kurzen Vortrag, in dem ich die wichtigsten Punkte erkläre und Fragen beantworte."
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

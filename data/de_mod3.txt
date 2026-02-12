@@ -1,0 +1,345 @@
+{
+  "school_id": "de_thueringen",
+  "grades": [
+    {
+      "grade_id": "klasse5",
+      "grade_label": "Klasse 5",
+      "subjects": [
+        {
+          "subject_id": "deu",
+          "subject_title": "Deutsch",
+          "modules": [
+            {
+              "module_id": "deu5_mod3",
+              "module_name": "Über Sprache, Sprachverwendung und Sprachenlernen reflektieren",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Sprache bewusst wahrnehmen und nutzen",
+                    "text": "Im Deutschunterricht lernst du nicht nur, richtig zu lesen, zu sprechen und zu schreiben, sondern auch, über Sprache nachzudenken. Du untersuchst, wie Wörter und Sätze gebaut sind, wie Rechtschreibung funktioniert und warum Menschen in unterschiedlichen Situationen unterschiedlich sprechen. Wenn du Sprache besser verstehst, kannst du sie sicherer und bewusster einsetzen."
+                  },
+                  {
+                    "title": "Grammatik und Rechtschreibung als Werkzeuge",
+                    "text": "Grammatik und Rechtschreibung sind keine Selbstzwecke, sondern Werkzeuge: Sie helfen dir, verständlich und eindeutig zu formulieren. Du übst wichtige Regeln und Strategien – zum Beispiel zur Groß- und Kleinschreibung, zu Wortarten und zu Satzbauplänen – und lernst, wie du Fehler selbst findest und verbesserst."
+                  },
+                  {
+                    "title": "Über Sprachgebrauch und Sprachenlernen nachdenken",
+                    "text": "Sprache verändert sich, und Menschen sprechen nicht überall gleich. Du entdeckst Unterschiede zwischen gesprochener und geschriebener Sprache, zwischen Umgangssprache und Standardsprache und lernst, in welcher Situation welche Sprache passend ist. Außerdem überlegst du, wie du Sprachen am besten lernen kannst und wie dir dein Wissen aus Deutsch beim Lernen von Fremdsprachen hilft."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "deu5_mod3_u1",
+                  "text": "Ich kann grundlegende Rechtschreibregeln anwenden (Groß- und Kleinschreibung, Laut-Buchstaben-Zuordnung, Dehnung/Schärfung, s-Laute, Satzzeichen).",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Groß- und Kleinschreibung",
+                        "text": "In der deutschen Sprache werden Satzanfänge und Nomen (Namenwörter) großgeschrieben. Du lernst, Nomen zu erkennen (z. B. durch Artikel wie „der“, „die“, „das“) und konsequent großzuschreiben. Auch Überschriften und Eigennamen (Personen-, Orts- und Markennamen) werden großgeschrieben."
+                      },
+                      {
+                        "title": "Laut-Buchstaben-Zuordnung, Dehnung und Schärfung",
+                        "text": "Viele Wörter schreibt man so, wie man sie spricht, aber nicht alle. Du übst, wie Laute durch Buchstaben oder Buchstabengruppen wiedergegeben werden (z. B. „ch“, „sch“, „ie“). Bei Dehnung (langem Vokal) und Schärfung (kurzem Vokal) helfen dir Strategien: Wörter verlängern („Tag“ – „Tage“), verwandte Wörter suchen oder auf bekannte Muster achten („fahren“, „Rad“ – „Räder“)."
+                      },
+                      {
+                        "title": "Unterschiedliche s-Laute",
+                        "text": "Im Deutschen gibt es verschiedene Schreibweisen für den s-Laut: „s“, „ss“ und „ß“. Du lernst einfache Grundregeln, z. B.: Nach kurzem, betontem Vokal steht meist „ss“ (Masse), nach langem Vokal oder Diphthong steht oft „ß“ (Fuß, draußen). Am Wortanfang und vor Konsonanten steht meist „s“ (Sonne, Haus)."
+                      },
+                      {
+                        "title": "Satzzeichen am Satzende und bei der wörtlichen Rede",
+                        "text": "Jeder Satz endet mit einem Satzzeichen: Punkt, Fragezeichen oder Ausrufezeichen. Du wiederholst, wie man Aussagesatz, Fragesatz und Ausruf-/Aufforderungssatz erkennt und passend beendet. Bei der wörtlichen Rede setzt du Anführungszeichen und beachtest die Stellung von Komma und Punkt im Zusammenhang mit Redebegleitsätzen."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Nomen",
+                        "definition": "Namenwort; bezeichnet Menschen, Tiere, Dinge oder Begriffe und wird großgeschrieben."
+                      },
+                      {
+                        "term": "Dehnung",
+                        "definition": "Länger gesprochener Vokal, der oft durch bestimmte Buchstabenfolgen (z. B. „ie“) angezeigt wird."
+                      },
+                      {
+                        "term": "Schärfung",
+                        "definition": "kurzer, betonter Vokal, auf den häufig Doppelkonsonanten folgen (z. B. „Mitte“)."
+                      },
+                      {
+                        "term": "wörtliche Rede",
+                        "definition": "genaue Wiedergabe dessen, was jemand sagt, in Anführungszeichen."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann Nomen im Satz erkennen und großschreiben.",
+                      "Ich kann Satzanfänge und Eigennamen großschreiben.",
+                      "Ich kann bei vielen Wörtern mit kurzem/langem Vokal die richtige Schreibung (z. B. ss/ß, Doppelkonsonant) finden.",
+                      "Ich kann Aussagesätze, Fragesätze und Aufforderungssätze mit passenden Satzzeichen beenden.",
+                      "Ich kann einfache Sätze mit wörtlicher Rede korrekt mit Anführungszeichen und Satzzeichen schreiben."
+                    ],
+                    "sample_questions": [
+                      "Welche Wörter werden im Deutschen immer großgeschrieben?",
+                      "Erkläre mit einem Beispiel, wie du die Schreibung eines Wortes mit kurzem Vokal überprüfst.",
+                      "Wann steht am Satzende ein Fragezeichen?",
+                      "Setze in einem einfachen Beispielsatz die wörtliche Rede mit den richtigen Anführungszeichen und Satzzeichen."
+                    ],
+                    "sample_answers": [
+                      "Großgeschrieben werden Nomen (z. B. der Hund, die Schule), Satzanfänge und Eigennamen (z. B. Anna, Weimar).",
+                      "Ich kann das Wort verlängern. Bei „Tag“ spreche ich das g in „Tage“ deutlich mit – so sehe ich, dass am Ende ein „g“ geschrieben wird.",
+                      "Ein Fragezeichen steht am Satzende, wenn der Satz eine Frage ausdrückt, auf die ich eine Antwort erwarten kann, z. B. „Kommst du mit?“.",
+                      "Beispiel: Paul sagte: „Ich komme heute später nach Hause.“ – Die wörtliche Rede steht in Anführungszeichen, davor steht ein Doppelpunkt."
+                    ]
+                  }
+                },
+                {
+                  "id": "deu5_mod3_u2",
+                  "text": "Ich kann grundlegende Wortarten (Nomen, Verb, Adjektiv, Artikel, Pronomen) erkennen und gezielt verwenden.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Wortarten – Bausteine der Sätze",
+                        "text": "Wortarten helfen dir, Wörter nach ihrer Aufgabe im Satz zu ordnen. In Klasse 5 übst du vor allem Nomen, Verben, Adjektive, Artikel und einfache Pronomen. Wenn du weißt, zu welcher Wortart ein Wort gehört, kannst du Regeln der Grammatik und Rechtschreibung besser anwenden."
+                      },
+                      {
+                        "title": "Nomen, Verben, Adjektive",
+                        "text": "Nomen (Namenwörter) bezeichnen Dinge, Lebewesen oder Begriffe und werden großgeschrieben. Verben (Tunwörter) benennen Tätigkeiten, Vorgänge oder Zustände und lassen sich beugen (ich gehe, du gehst …). Adjektive (Wiewörter) beschreiben Eigenschaften („laut“, „schnell“) und werden klein geschrieben, außer wenn sie als Nomen verwendet werden."
+                      },
+                      {
+                        "title": "Artikel und Pronomen",
+                        "text": "Artikel (Begleiterwörter) stehen meist vor Nomen und zeigen Geschlecht und Anzahl an („der, die, das“, „ein, eine“). Pronomen (Fürwörter) können Nomen vertreten („ich, du, er, sie, es, wir, ihr, sie“) oder genauer bestimmen („dieser, jener, mein, dein“). In Klasse 5 lernst du vor allem Personalpronomen und einfache Besitzpronomen kennen."
+                      },
+                      {
+                        "title": "Wortarten im eigenen Schreiben nutzen",
+                        "text": "Beim Schreiben versuchst du, abwechslungsreiche Verben und Adjektive zu verwenden, damit deine Texte lebendig werden. Du achtest auf passende Artikel und Pronomen, damit klar ist, wer oder was gemeint ist. In Übungen ordnest du Wörter zu Wortarten und veränderst sie gezielt (z. B. aus Adjektiven Nomen machen: „der Große“)."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Verb",
+                        "definition": "Tunwort; bezeichnet eine Tätigkeit, einen Vorgang oder einen Zustand und lässt sich beugen."
+                      },
+                      {
+                        "term": "Adjektiv",
+                        "definition": "Eigenschaftswort; beschreibt, wie jemand oder etwas ist."
+                      },
+                      {
+                        "term": "Artikel",
+                        "definition": "Begleiter eines Nomens (z. B. der, die, das, ein, eine)."
+                      },
+                      {
+                        "term": "Pronomen",
+                        "definition": "Fürwort; vertritt oder begleitet ein Nomen (z. B. ich, du, mein, dieser)."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann in einfachen Sätzen Nomen, Verben und Adjektive finden und benennen.",
+                      "Ich kann passende Artikel zu Nomen setzen (z. B. der, die, das).",
+                      "Ich kann einfache Pronomen richtig verwenden (ich, du, er, sie, es, wir, ihr, sie; mein, dein).",
+                      "Ich kann beim Schreiben bewusst verschiedene Verben und Adjektive einsetzen."
+                    ],
+                    "sample_questions": [
+                      "Unterstreiche in einem Beispielsatz alle Nomen und markiere die Verben doppelt.",
+                      "Welche Wortart ist „schnell“ in dem Satz „Der Hund läuft schnell“ und warum?",
+                      "Ersetze in einem Satz ein Nomen durch ein passendes Pronomen.",
+                      "Warum ist es wichtig, verschiedene Verben und Adjektive zu benutzen?"
+                    ],
+                    "sample_answers": [
+                      "Beispiel: „Das Mädchen liest ein Buch.“ – Nomen: Mädchen, Buch; Verben: liest.",
+                      "„schnell“ ist ein Adjektiv, weil es beschreibt, wie der Hund läuft.",
+                      "Aus „Lisa geht nach Hause.“ kann ich „Sie geht nach Hause.“ machen – „sie“ ist ein Pronomen und vertritt „Lisa“. ",
+                      "Mit verschiedenen Verben und Adjektiven werden Texte genauer und spannender; die Leserinnen und Leser können sich alles besser vorstellen."
+                    ]
+                  }
+                },
+                {
+                  "id": "deu5_mod3_u3",
+                  "text": "Ich kann einfache Satzarten und Satzglieder erkennen und nutzen, um Sätze zu bauen und zu verbessern.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Satzarten – Aussage, Frage, Aufforderung",
+                        "text": "Sätze können verschiedene Aufgaben haben: Eine Aussage informiert über etwas, eine Frage möchte etwas wissen, eine Aufforderung fordert jemanden zu etwas auf. Du erkennst Satzarten an der Wortstellung und am Satzzeichen am Ende. Beim Schreiben achtest du darauf, die passende Form zu wählen."
+                      },
+                      {
+                        "title": "Subjekt und Prädikat – Grundgerüst des Satzes",
+                        "text": "Jeder vollständige Satz braucht mindestens ein Subjekt (Wer oder was?) und ein Prädikat (Was tut wer?). Das Subjekt ist meist ein Nomen oder Pronomen, das Prädikat ist das gebeugte Verb. Du lernst, diese beiden Satzglieder zu finden, z. B. mit der Wer-oder-was-Frage und der Was-tut-jemand-Frage."
+                      },
+                      {
+                        "title": "Weitere Satzglieder kennenlernen",
+                        "text": "Zu einem Satz können weitere Satzglieder gehören, zum Beispiel Objekte (Wen oder was? Wem? Wovon?) und Angaben zu Ort, Zeit oder Art und Weise. In Klasse 5 lernst du erste einfache Fälle kennen und übst, wie man Sätze durch zusätzliche Satzglieder genauer machen kann."
+                      },
+                      {
+                        "title": "Sätze verbessern",
+                        "text": "Mit dem Wissen über Satzarten und Satzglieder kannst du deine Sätze verbessern: Du vermeidest unvollständige Sätze, achtest auf eine sinnvolle Reihenfolge der Satzglieder und variierst den Satzanfang. So wirkt dein Text flüssiger und abwechslungsreicher."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Subjekt",
+                        "definition": "Satzglied, das angibt, wer oder was etwas tut; steht meist im Nominativ."
+                      },
+                      {
+                        "term": "Prädikat",
+                        "definition": "Satzglied, das aussagt, was geschieht oder was jemand tut; umfasst das gebeugte Verb."
+                      },
+                      {
+                        "term": "Satzart",
+                        "definition": "Art eines Satzes nach seiner Funktion: Aussage-, Frage- oder Aufforderungssatz."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann Aussage-, Frage- und Aufforderungssätze unterscheiden.",
+                      "Ich kann in einfachen Sätzen Subjekt und Prädikat finden.",
+                      "Ich kann durch zusätzliche Angaben Sätze genauer machen (z. B. wann, wo).",
+                      "Ich kann beim Schreiben unvollständige Sätze erkennen und verbessern."
+                    ],
+                    "sample_questions": [
+                      "Wie erkennst du einen Fragesatz?",
+                      "Bestimme in einem Beispielsatz Subjekt und Prädikat.",
+                      "Erweitere den Satz „Der Hund bellt.“ so, dass er genauer wird.",
+                      "Warum ist es wichtig, vollständige Sätze zu schreiben?"
+                    ],
+                    "sample_answers": [
+                      "Ein Fragesatz beginnt oft mit einem Fragewort oder dem Verb, endet mit einem Fragezeichen und drückt eine Frage aus.",
+                      "Beispiel: „Das Mädchen rennt.“ – Subjekt: „Das Mädchen“ (Wer rennt?), Prädikat: „rennt“ (Was tut das Mädchen?).",
+                      "Ich kann ergänzen: „Der Hund bellt laut im Garten, als es klingelt.“ – Jetzt weiß man, wie und wo der Hund bellt und wann.",
+                      "Vollständige Sätze sind leichter zu verstehen und zeigen klar, wer was tut. In Texten wirken sie ordentlicher und verständlicher."
+                    ]
+                  }
+                },
+                {
+                  "id": "deu5_mod3_u4",
+                  "text": "Ich kann Unterschiede zwischen gesprochener und geschriebener Sprache sowie zwischen Umgangssprache und Standardsprache erkennen und angemessen sprechen/schreiben.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Gesprochene und geschriebene Sprache",
+                        "text": "Wenn du sprichst, benutzt du oft andere Wörter und Satzformen als beim Schreiben. In der gesprochenen Sprache helfen dir Tonfall, Mimik und Gestik. Beim Schreiben müssen alle Informationen im Text stehen. Du übst, für schriftliche Texte vollständige Sätze und eine genauere Wortwahl zu benutzen als in der Alltagssprache."
+                      },
+                      {
+                        "title": "Umgangssprache und Standardsprache",
+                        "text": "Umgangssprache verwendest du meist mit Freunden und Familie. Sie kann Dialekt, Abkürzungen oder Jugendsprache enthalten. Standardsprache ist die „Hochsprache“, wie du sie in der Schule, in Nachrichten oder in offiziellen Texten brauchst. Du lernst, in welchen Situationen welche Sprache passend ist, und kannst umgangssprachliche Ausdrücke in Standardsprache umformulieren."
+                      },
+                      {
+                        "title": "Sprache bewusst wählen",
+                        "text": "Sprache kann höflich oder unhöflich, sachlich oder salopp wirken. Du überlegst, wie du zum Beispiel eine Bitte oder Kritik so formulierst, dass sie respektvoll ist. Dazu passt du Wortwahl, Satzbau und Ton an die Situation an, etwa im Brief an eine Lehrkraft anders als im Chat mit einer Freundin."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Umgangssprache",
+                        "definition": "lockere Alltagssprache, die man vor allem im Gespräch mit Freunden und Familie benutzt."
+                      },
+                      {
+                        "term": "Standardsprache",
+                        "definition": "allgemein anerkannte Hochsprache, die in Schule, Medien und offiziellen Texten verwendet wird."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann Beispiele für Umgangssprache und Standardsprache nennen.",
+                      "Ich kann einfache umgangssprachliche Sätze in Standardsprache umformulieren.",
+                      "Ich kann erklären, warum in bestimmten Situationen Standardsprache erwartet wird.",
+                      "Ich kann beim Schreiben und Sprechen bewusst eine passende Sprachebene wählen."
+                    ],
+                    "sample_questions": [
+                      "Nenne ein Beispiel für einen umgangssprachlichen Ausdruck und eine passende Form in Standardsprache.",
+                      "Warum solltest du in einer Klassenarbeit Standardsprache verwenden?",
+                      "Wie würdest du eine Bitte an eine Lehrkraft höflich formulieren?",
+                      "Woran merkst du, dass ein Text eher umgangssprachlich geschrieben ist?"
+                    ],
+                    "sample_answers": [
+                      "Umgangssprache: „Ey, was geht?“ – Standardsprache: „Hallo, wie geht es dir?“.",
+                      "In einer Klassenarbeit wird erwartet, dass du korrektes Deutsch verwendest. So können alle deinen Text gut verstehen und er wirkt sorgfältig und respektvoll.",
+                      "Zum Beispiel: „Sehr geehrte Frau …, könnten Sie mir bitte noch einmal erklären, wie … funktioniert?“ statt „Sie müssen mir das nochmal zeigen.“",
+                      "Man erkennt Umgangssprache oft an Abkürzungen, vielen Ausrufen, einfachen oder abgebrochenen Sätzen und Wörtern aus der Jugendsprache."
+                    ]
+                  }
+                },
+                {
+                  "id": "deu5_mod3_u5",
+                  "text": "Ich kann Strategien zum Lernen von Sprache und Rechtschreibung nutzen (z. B. Wörterbucharbeit, Regel- und Merkwörter, eigene Fehler verbessern).",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Mit Wörterbuch und Nachschlagewerken arbeiten",
+                        "text": "Ein Wörterbuch hilft dir, Schreibweisen, Wortbedeutungen und Worttrennungen zu klären. Du lernst, Wörter nach dem Alphabet zu suchen und Einträge richtig zu lesen. So kannst du selbstständig Unsicherheiten klären, statt zu raten."
+                      },
+                      {
+                        "title": "Regel- und Merkwörter",
+                        "text": "Viele Wörter folgen klaren Rechtschreibregeln. Andere muss man sich merken (Merkwörter). Du übst, Regeln anzuwenden, wo es geht, und legst dir für schwierige Wörter persönliche Merklisten an. Häufig geübte Wörter fallen dir später leichter."
+                      },
+                      {
+                        "title": "Eigene Fehler auswerten",
+                        "text": "Fehler gehören zum Lernen dazu. Wichtig ist, dass du sie nutzt, um besser zu werden. Du schaust dir an, welche Fehler du häufiger machst (z. B. Groß-/Kleinschreibung, Doppelkonsonanten) und überlegst Strategien, diese zu vermeiden, etwa durch langsames Mitsprechen oder gezieltes Üben dieser Fälle."
+                      },
+                      {
+                        "title": "Sprachenlernen bewusst gestalten",
+                        "text": "Was du im Deutschunterricht über Wörter, Sätze und Rechtschreibung lernst, hilft dir auch beim Lernen von Fremdsprachen. Du vergleichst manchmal deutsche Wörter mit Wörtern aus einer Fremdsprache oder deiner Herkunftssprache und entdeckst Gemeinsamkeiten und Unterschiede. So baust du ein Gefühl für Sprache insgesamt auf."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Wörterbuch",
+                        "definition": "Nachschlagewerk, in dem Wörter erklärt und ihre Schreibweise angegeben werden."
+                      },
+                      {
+                        "term": "Merkwort",
+                        "definition": "Wort, dessen Schreibweise man sich einprägen muss, weil es sich nicht einfach aus Regeln ableiten lässt."
+                      },
+                      {
+                        "term": "Strategie",
+                        "definition": "bewusste Vorgehensweise, um ein Ziel zu erreichen, z. B. bessere Rechtschreibung."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann ein Wörterbuch sicher benutzen, um die Schreibweise eines Wortes zu überprüfen.",
+                      "Ich kann wichtige Rechtschreibregeln anwenden und schwierige Merkwörter gezielt üben.",
+                      "Ich kann typische Fehler in meinen Texten erkennen und verbessern.",
+                      "Ich kann mindestens zwei persönliche Strategien nennen, wie ich meine Rechtschreibung und Sprachkenntnisse verbessere."
+                    ],
+                    "sample_questions": [
+                      "Wie findest du ein Wort schnell im Wörterbuch?",
+                      "Nenne ein Beispiel für ein Merkwort, das du dir besonders eingeprägt hast.",
+                      "Wie kannst du typische Rechtschreibfehler bei dir selbst erkennen?",
+                      "Welche Strategien helfen dir persönlich beim Lernen von Rechtschreibung oder Vokabeln?"
+                    ],
+                    "sample_answers": [
+                      "Ich gehe nach dem Alphabet vor, schaue zuerst den Anfangsbuchstaben, dann die nächsten Buchstaben und vergleiche Wörter, die ähnlich geschrieben sind.",
+                      "Zum Beispiel das Wort „Rhythmus“ – das habe ich mir mit einem Merksatz eingeprägt.",
+                      "Ich lasse meine Texte ein paar Minuten liegen und lese sie dann noch einmal langsam. Fehler, die ich öfter mache, markiere ich und schreibe die Wörter richtig in eine Liste.",
+                      "Mir helfen Karteikarten und das mehrmalige Schreiben schwieriger Wörter. Außerdem spreche ich schwierige Stellen im Wort beim Schreiben deutlich mit."
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

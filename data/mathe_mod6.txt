@@ -1,0 +1,256 @@
+{
+  "school_id": "de_thueringen",
+  "grades": [
+    {
+      "grade_id": "klasse5",
+      "grade_label": "Klasse 5",
+      "subjects": [
+        {
+          "subject_id": "mat",
+          "subject_title": "Mathematik",
+          "modules": [
+            {
+              "module_id": "mat5_mod6",
+              "module_name": "Dreiecke und Kreis – Winkel, Formen und Konstruktionen",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Dreiecke und Kreise in der Umwelt",
+                    "text": "In diesem Modul lernst du, Dreiecke und Kreise bewusst wahrzunehmen und mit Fachbegriffen zu beschreiben.[file:3] Viele Bauwerke, Verkehrszeichen und Alltagsgegenstände enthalten Dreiecke oder Kreise, zum Beispiel Brückenkonstruktionen, Dachformen oder Räder.[file:3]"
+                  },
+                  {
+                    "title": "Winkel messen und Dreiecke beschreiben",
+                    "text": "Du wiederholst den Umgang mit Winkeln und übst, sie mit dem Geodreieck zu schätzen, zu messen und zu zeichnen.[file:3] Dann unterscheidest du Dreiecke nach Seiten und Winkeln und beschreibst sie mit passenden Begriffen.[file:3]"
+                  },
+                  {
+                    "title": "Kreis, Radius und Durchmesser",
+                    "text": "Du lernst die Grundbegriffe zum Kreis kennen: Mittelpunkt, Radius und Durchmesser.[file:3] Mit dem Zirkel zeichnest du Kreise und erkennst Zusammenhänge zwischen Radius und Durchmesser.[file:3]"
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "mat5_mod6_u1",
+                  "text": "Ich kann Winkelarten erkennen, Winkel schätzen, messen und zeichnen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Winkelarten",
+                        "text": "Du unterscheidest spitze, rechte, stumpfe und gestreckte Winkel.[file:3] Ein rechter Winkel hat 90°, spitze Winkel sind kleiner als 90°, stumpfe größer als 90° und kleiner als 180°, ein gestreckter Winkel hat 180°.[file:3]"
+                      },
+                      {
+                        "title": "Winkel messen und zeichnen",
+                        "text": "Mit dem Geodreieck misst du Winkelgrößen und zeichnest Winkel mit vorgegebenem Maß.[file:3] Du lernst, den Nullpunkt korrekt anzulegen und den richtigen Zahlenrand zu verwenden.[file:3]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "spitzer Winkel",
+                        "definition": "Winkel kleiner als 90°.[file:3]"
+                      },
+                      {
+                        "term": "rechter Winkel",
+                        "definition": "Winkel mit 90°.[file:3]"
+                      },
+                      {
+                        "term": "stumpfer Winkel",
+                        "definition": "Winkel größer als 90° und kleiner als 180°.[file:3]"
+                      },
+                      {
+                        "term": "gestreckter Winkel",
+                        "definition": "Winkel mit 180°.[file:3]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann Winkelarten an Beispielen erkennen.[file:3]",
+                      "Ich kann Winkel mit dem Geodreieck messen.[file:3]",
+                      "Ich kann Winkel mit vorgegebener Größe zeichnen.[file:3]"
+                    ],
+                    "sample_questions": [
+                      "Ist ein Winkel von 45° spitz, recht oder stumpf?[file:3]",
+                      "Wie misst du einen gegebenen Winkel mit dem Geodreieck? Beschreibe die Schritte.[file:3]",
+                      "Zeichne einen Winkel von 120° und benenne seine Art.[file:3]"
+                    ],
+                    "sample_answers": [
+                      "45° ist ein spitzer Winkel.[file:3]",
+                      "Ich lege die Mittellinie des Geodreiecks auf den Scheitelpunkt und eine Schenkelseite auf die 0°-Markierung, dann lese ich an der anderen Schenkelseite den Winkel ab.[file:3]",
+                      "120° ist ein stumpfer Winkel.[file:3]"
+                    ]
+                  }
+                },
+                {
+                  "id": "mat5_mod6_u2",
+                  "text": "Ich kann Dreiecke nach Seiten- und Winkelgrößen einteilen und beschreiben.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Dreiecksarten nach Seiten",
+                        "text": "Du unterscheidest gleichseitige, gleichschenklige und ungleichseitige Dreiecke.[file:3] Ein gleichseitiges Dreieck hat drei gleich lange Seiten, ein gleichschenkliges zwei gleich lange Seiten, ein ungleichseitiges alle Seiten verschieden.[file:3]"
+                      },
+                      {
+                        "title": "Dreiecksarten nach Winkeln",
+                        "text": "Nach Winkeln unterscheidest du spitzwinklige, rechtwinklige und stumpfwinklige Dreiecke.[file:3] Ein rechtwinkliges Dreieck hat einen rechten Winkel, spitzwinklige nur spitze Winkel, stumpfwinklige einen stumpfen Winkel.[file:3]"
+                      },
+                      {
+                        "title": "Dreiecke skizzieren und zeichnen",
+                        "text": "Du skizzierst Dreiecke frei Hand und zeichnest einfache Dreiecke mit Lineal und Geodreieck.[file:3] Dabei achtest du auf ungefähr passende Seitenlängen und Winkelgrößen.[file:3]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "gleichseitiges Dreieck",
+                        "definition": "Dreieck mit drei gleich langen Seiten.[file:3]"
+                      },
+                      {
+                        "term": "gleichschenkliges Dreieck",
+                        "definition": "Dreieck mit zwei gleich langen Seiten.[file:3]"
+                      },
+                      {
+                        "term": "rechtwinkliges Dreieck",
+                        "definition": "Dreieck mit einem rechten Winkel.[file:3]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann Dreiecke nach Seiten- und Winkelgrößen einteilen.[file:3]",
+                      "Ich kann Dreiecke in Bildern erkennen und passend benennen.[file:3]",
+                      "Ich kann einfache Dreiecke skizzieren und zeichnen.[file:3]"
+                    ],
+                    "sample_questions": [
+                      "Beschreibe ein gleichseitiges Dreieck.[file:3]",
+                      "Woran erkennst du ein rechtwinkliges Dreieck?[file:3]",
+                      "Kann ein Dreieck gleichzeitig gleichschenklig und rechtwinklig sein? Begründe kurz.[file:3]"
+                    ],
+                    "sample_answers": [
+                      "Ein gleichseitiges Dreieck hat drei gleich lange Seiten und drei gleich große Winkel.[file:3]",
+                      "Ich suche nach einem rechten Winkel (90°) im Dreieck.[file:3]",
+                      "Ja, wenn zwei Seiten gleich lang sind und die eingeschlossene Ecke ein rechter Winkel ist.[file:3]"
+                    ]
+                  }
+                },
+                {
+                  "id": "mat5_mod6_u3",
+                  "text": "Ich kenne wichtige Sätze zu Dreiecken in Grundzügen (z. B. Summe der Innenwinkel) und kann sie anschaulich nutzen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Innenwinkelsumme im Dreieck",
+                        "text": "Die Summe der Innenwinkel in jedem Dreieck beträgt 180°.[file:3] Du entdeckst diesen Zusammenhang durch Zerlegen oder Umklappen und nutzt ihn in einfachen Aufgaben.[file:3]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Innenwinkelsumme",
+                        "definition": "Summe aller Innenwinkel eines Vielecks; im Dreieck 180°.[file:3]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich weiß, dass die Innenwinkelsumme im Dreieck 180° beträgt.[file:3]",
+                      "Ich kann fehlende Winkelgröße in einem Dreieck berechnen, wenn zwei Winkel bekannt sind.[file:3]"
+                    ],
+                    "sample_questions": [
+                      "Die Winkel eines Dreiecks sind 40° und 70°. Wie groß ist der dritte Winkel?[file:3]"
+                    ],
+                    "sample_answers": [
+                      "Die Summe ist 180°. 40° + 70° = 110°. Der dritte Winkel ist 180° − 110° = 70°.[file:3]"
+                    ]
+                  }
+                },
+                {
+                  "id": "mat5_mod6_u4",
+                  "text": "Ich kann Kreise mit dem Zirkel zeichnen und Radius, Durchmesser und Mittelpunkt sicher verwenden.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Grundbegriffe zum Kreis",
+                        "text": "Ein Kreis ist die Menge aller Punkte, die von einem festen Punkt (Mittelpunkt) denselben Abstand haben.[file:3] Der Abstand heißt Radius, der doppelte Radius ist der Durchmesser.[file:3]"
+                      },
+                      {
+                        "title": "Kreise konstruieren",
+                        "text": "Mit dem Zirkel stellst du den Radius ein und zeichnest Kreise um einen Mittelpunkt.[file:3] Du übst sauberes Arbeiten und das Markieren von Mittelpunkt, Radius und Durchmesser in Zeichnungen.[file:3]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Mittelpunkt",
+                        "definition": "Punkt im Inneren des Kreises mit gleichem Abstand zu allen Punkten der Kreislinie.[file:3]"
+                      },
+                      {
+                        "term": "Radius",
+                        "definition": "Abstand vom Mittelpunkt zur Kreislinie.[file:3]"
+                      },
+                      {
+                        "term": "Durchmesser",
+                        "definition": "Strecke durch den Mittelpunkt, die zwei Punkte des Kreises verbindet; doppelt so lang wie der Radius.[file:3]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann Kreise mit vorgegebenem Radius zeichnen.[file:3]",
+                      "Ich kann Mittelpunkt, Radius und Durchmesser in einer Kreiszeichnung eintragen.[file:3]",
+                      "Ich kenne den Zusammenhang Durchmesser = 2 · Radius.[file:3]"
+                    ],
+                    "sample_questions": [
+                      "Ein Kreis hat den Radius 3 cm. Wie lang ist der Durchmesser?[file:3]",
+                      "Wie zeichnest du einen Kreis mit Radius 4 cm mit dem Zirkel?[file:3]"
+                    ],
+                    "sample_answers": [
+                      "Der Durchmesser ist 6 cm, weil er doppelt so lang ist wie der Radius.[file:3]",
+                      "Ich stelle den Zirkel auf 4 cm ein, setze die Zirkelspitze auf den Mittelpunkt und ziehe eine ganze Umdrehung.[file:3]"
+                    ]
+                  }
+                },
+                {
+                  "id": "mat5_mod6_u5",
+                  "text": "Ich kann in einfachen Figuren Dreiecke und Kreise erkennen, skizzieren und für Sachaufgaben nutzen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Formen in Sachaufgaben nutzen",
+                        "text": "Viele Sachaufgaben enthalten Dreiecke und Kreise, zum Beispiel bei Wegen auf einem runden Platz oder bei Dachformen.[file:3] Du lernst, solche Formen in Skizzen zu erkennen und zur Lösung der Aufgaben zu verwenden.[file:3]"
+                      }
+                    ],
+                    "key_terms": [],
+                    "note1_checklist": [
+                      "Ich kann in Sachaufgaben passende Dreiecke oder Kreise in einer Skizze markieren.[file:3]",
+                      "Ich kann Eigenschaften von Dreiecken und Kreisen zur Bearbeitung einfacher Aufgaben nutzen.[file:3]"
+                    ],
+                    "sample_questions": [
+                      "Zeichne eine Skizze zu einer Aufgabe, in der ein Weg um einen runden Teich und ein gerader Weg quer darüber vorkommen.[file:3]"
+                    ],
+                    "sample_answers": [
+                      "Ich zeichne einen Kreis für den Teich, einen Bogen für den Weg am Rand und eine Strecke durch den Kreis für den geraden Weg.[file:3]"
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "school_id": "de_thueringen",
+  "grades": [
+    {
+      "grade_id": "klasse5",
+      "grade_label": "Klasse 5",
+      "subjects": [
+        {
+          "subject_id": "ges",
+          "subject_title": "Geschichte",
+          "modules": [
+            {
+              "module_id": "hist5_mod1",
+              "module_name": "Begegnung mit dem Unterrichtsfach Geschichte",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Was ist Geschichte?",
+                    "text": "In diesem Modul lernst du das neue Fach Geschichte kennen und erfährst, womit es sich beschäftigt.[file:6] Du unterscheidest zwischen der Vergangenheit (dem, was wirklich passiert ist) und Geschichte als der Art, wie Menschen diese Vergangenheit erzählen, deuten und aufschreiben.[file:6]"
+                  },
+                  {
+                    "title": "Mit Spuren der Vergangenheit arbeiten",
+                    "text": "Du begegnest ersten historischen Quellen wie alten Bildern, Gegenständen, Texten oder Gebäuden und lernst, dass wir daraus etwas über vergangenes Leben erfahren können.[file:6] Außerdem erkennst du, dass es Darstellungen gibt (z. B. Lehrbuchtexte, Filme), in denen andere schon eine Deutung der Vergangenheit vorgenommen haben.[file:6]"
+                  },
+                  {
+                    "title": "Orientierung in Zeit und Raum",
+                    "text": "Du übst, Ereignisse zeitlich grob einzuordnen und einfache Zeitleisten zu lesen und zu erstellen.[file:6] Du lernst, dass der Geschichtsunterricht dir hilft, dein eigenes Leben und deine Umwelt als Teil einer längeren Entwicklung zu verstehen.[file:6]"
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "hist5_mod1_u1",
+                  "text": "Ich kann erklären, was mit ‚Vergangenheit‘ und was mit ‚Geschichte‘ gemeint ist und warum Geschichte immer auch gedeutet wird.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Vergangenheit und Geschichte unterscheiden",
+                        "text": "Vergangenheit meint alles, was früher wirklich geschehen ist – auch das, woran sich niemand mehr erinnert.[file:6] Geschichte ist das, was Menschen später darüber erzählen, schreiben und darstellen; sie ist also immer eine Auswahl und Deutung dieser Vergangenheit.[file:6]"
+                      },
+                      {
+                        "title": "Geschichte als Konstruktion",
+                        "text": "Menschen stellen Fragen an die Vergangenheit und wählen aus, was sie wichtig finden.[file:6] Deshalb gibt es unterschiedliche Erzählungen über ein und dieselben Ereignisse, die du vergleichen und hinterfragen lernen sollst.[file:6]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Vergangenheit",
+                        "definition": "Alles, was in früheren Zeiten wirklich passiert ist.[file:6]"
+                      },
+                      {
+                        "term": "Geschichte",
+                        "definition": "Darstellungen und Deutungen der Vergangenheit, die Menschen erstellen.[file:6]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann in einem Satz sagen, was Vergangenheit ist.[file:6]",
+                      "Ich kann in einem Satz sagen, was Geschichte ist.[file:6]",
+                      "Ich kann erklären, warum es zu einem Ereignis verschiedene Geschichten geben kann.[file:6]"
+                    ],
+                    "sample_questions": [
+                      "Erkläre den Unterschied zwischen Vergangenheit und Geschichte in eigenen Worten.",
+                      "Warum erzählen Menschen manchmal unterschiedlich über dasselbe historische Ereignis?"
+                    ],
+                    "sample_answers": [
+                      "Vergangenheit ist das, was wirklich passiert ist. Geschichte ist das, wie wir später darüber erzählen und schreiben.",
+                      "Weil jeder andere Dinge wichtig findet, unterschiedliche Informationen hat oder eine eigene Meinung und Sicht auf das Ereignis besitzt."
+                    ]
+                  }
+                },
+                {
+                  "id": "hist5_mod1_u2",
+                  "text": "Ich kann einfache Arten von Quellen und Darstellungen erkennen und voneinander unterscheiden.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Was sind historische Quellen?",
+                        "text": "Quellen sind alle Überreste und Zeugnisse aus der Zeit, die du untersuchst, z. B. Urkunden, Briefe, Fotos, Werkzeuge, Gebäude oder Augenzeugenberichte.[file:6] Sie stammen direkt aus der Vergangenheit und helfen dir, Informationen zu sammeln.[file:6]"
+                      },
+                      {
+                        "title": "Was sind Darstellungen?",
+                        "text": "Darstellungen sind spätere Erzählungen über die Vergangenheit, z. B. Lehrbuchtexte, Filme, Ausstellungen oder Podcasts.[file:6] Andere haben hier Quellen ausgewertet und daraus eine zusammenhängende Geschichte gemacht.[file:6]"
+                      },
+                      {
+                        "title": "Quellen vs. Darstellungen",
+                        "text": "Im Unterricht lernst du, am Material zu erkennen, ob es eine Quelle oder eine Darstellung ist, und wie man beides nutzt, um mehr über die Vergangenheit zu erfahren.[file:6]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Quelle",
+                        "definition": "Zeugnis aus der untersuchten Zeit selbst (z. B. Brief, Münze, Foto). [file:6]"
+                      },
+                      {
+                        "term": "Darstellung",
+                        "definition": "Spätere Erzählung oder Zusammenfassung von Geschichte, die auf Quellen beruht.[file:6]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann an Beispielen erklären, was eine Quelle ist.[file:6]",
+                      "Ich kann an Beispielen erklären, was eine Darstellung ist.[file:6]",
+                      "Ich kann bei einfachen Materialien sagen, ob es sich eher um eine Quelle oder eine Darstellung handelt.[file:6]"
+                    ],
+                    "sample_questions": [
+                      "Ist ein mittelalterlicher Brief eine Quelle oder eine Darstellung? Begründe.",
+                      "Ist ein heutiger Film über das alte Rom eine Quelle oder eine Darstellung? Begründe.",
+                      "Nenne je zwei Beispiele für Quellen und Darstellungen."
+                    ],
+                    "sample_answers": [
+                      "Ein mittelalterlicher Brief ist eine Quelle, weil er direkt aus der damaligen Zeit stammt.",
+                      "Ein heutiger Film über das alte Rom ist eine Darstellung, weil er später erstellt wurde und die Vergangenheit nacherzählt.",
+                      "Quellen: alte Urkunde, Münze; Darstellungen: Geschichtsbuch, Museumstext."
+                    ]
+                  }
+                },
+                {
+                  "id": "hist5_mod1_u3",
+                  "text": "Ich kann einfache Fragen an die Vergangenheit stellen und erkennen, dass meine Fragen etwas mit meiner Gegenwart zu tun haben.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Fragen an Geschichte stellen",
+                        "text": "Geschichte beginnt mit Fragen, z. B. „Wie haben Kinder früher gelebt?“ oder „Warum gab es bestimmte Erfindungen?“[file:6] Du lernst, aus deiner eigenen Lebenswelt heraus solche Fragen zu formulieren.[file:6]"
+                      },
+                      {
+                        "title": "Gegenwartsbezug",
+                        "text": "Viele Fragen an die Vergangenheit entstehen, weil dich etwas in der Gegenwart interessiert oder verunsichert.[file:6] Du entdeckst, dass man aus der Geschichte etwas für das heutige Leben lernen kann, ohne dass die Situationen genau gleich sind.[file:6]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Historische Frage",
+                        "definition": "Frage, die auf ein Problem oder Interesse bezogen ist und sich auf etwas in der Vergangenheit richtet.[file:6]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann zu einem Bild oder Gegenstand aus der Vergangenheit mindestens zwei Fragen formulieren.[file:6]",
+                      "Ich kann erklären, warum mich eine dieser Fragen heute interessiert.[file:6]"
+                    ],
+                    "sample_questions": [
+                      "Formuliere drei Fragen, die du an das Leben von Kindern im Mittelalter hast.",
+                      "Warum möchtest du wissen, wie Schule früher war?"
+                    ],
+                    "sample_answers": [
+                      "Zum Beispiel: Mussten Kinder damals auch zur Schule gehen? Welche Kleidung trugen sie? Welche Arbeiten mussten sie erledigen?",
+                      "Weil ich dann vergleichen kann, was heute besser oder schlechter ist und warum Schule sich verändert hat."
+                    ]
+                  }
+                },
+                {
+                  "id": "hist5_mod1_u4",
+                  "text": "Ich kann historische Ereignisse und Entwicklungen grob zeitlich einordnen und einfache Zeitleisten lesen bzw. ergänzen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Zeit und Epochen grob überblicken",
+                        "text": "Du lernst erste Einteilungen der Geschichte kennen (z. B. Vor- und Frühgeschichte, Antike, Mittelalter, Neuzeit), ohne sie genau datieren zu müssen.[file:6] Wichtig ist, dass du verstehst, dass diese Einteilungen Menschen erfunden haben, um Geschichte besser zu ordnen.[file:6]"
+                      },
+                      {
+                        "title": "Arbeiten mit Zeitleisten",
+                        "text": "An einfachen Zeitleisten übst du, Ereignisse in die richtige Reihenfolge zu bringen, ungefähre Zeitabstände einzuschätzen und eigene Markierungen (z. B. dein Geburtsjahr) einzutragen.[file:6]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Zeitleiste",
+                        "definition": "Grafische Darstellung von Zeit, auf der Ereignisse in der richtigen Reihenfolge eingezeichnet werden.[file:6]"
+                      },
+                      {
+                        "term": "Epoche",
+                        "definition": "Größerer Abschnitt der Geschichte mit bestimmten typischen Merkmalen.[file:6]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann eine einfache Zeitleiste lesen und sagen, welches Ereignis früher oder später liegt.[file:6]",
+                      "Ich kann mein eigenes Leben grob zeitlich einordnen (z. B. Geburtsjahr im Verhältnis zu behandelten Epochen). [file:6]"
+                    ],
+                    "sample_questions": [
+                      "Ordne die Begriffe in eine sinnvolle zeitliche Reihenfolge: Mittelalter, Antike, Neuzeit.",
+                      "Trage auf einer Zeitleiste dein Geburtsjahr und zwei behandelte historische Ereignisse ein."
+                    ],
+                    "sample_answers": [
+                      "Antike – Mittelalter – Neuzeit.",
+                      "Die Antwort hängt von der konkreten Zeitleiste ab; wichtig ist, dass das Geburtsjahr deutlich nach den historischen Beispielen liegt."
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

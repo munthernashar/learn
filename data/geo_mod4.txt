@@ -1,0 +1,227 @@
+{
+  "school_id": "de_thueringen",
+  "grades": [
+    {
+      "grade_id": "klasse5",
+      "grade_label": "Klasse 5",
+      "subjects": [
+        {
+          "subject_id": "geo",
+          "subject_title": "Geografie",
+          "modules": [
+            {
+              "module_id": "geo5_mod4",
+              "module_name": "Leben in Städten und ländlichen Regionen",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Stadt und Land – unterschiedliche Lebensräume",
+                    "text": "In diesem Modul lernst du, wie Städte und ländliche Regionen aufgebaut sind und wie die Menschen dort leben und wirtschaften.[file:5] Du vergleichst typische Merkmale, Vorteile und Probleme beider Lebensräume und lernst einfache Stadt-Umland-Beziehungen kennen.[file:5]"
+                  },
+                  {
+                    "title": "Lebenswerte Räume gestalten",
+                    "text": "Du setzt dich damit auseinander, wie Orte so gestaltet werden können, dass Menschen dort gut leben können, z. B. durch Grünflächen, Spielplätze, Verkehrsplanung und gute Versorgung mit Dienstleistungen.[file:5] Dabei spielst du erste einfache Planungsszenarien durch und entwickelst eigene Ideen für dein Umfeld.[file:5]"
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "geo5_mod4_u1",
+                  "text": "Ich kann typische Merkmale von Städten und ländlichen Regionen beschreiben und vergleichen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Merkmale von Städten",
+                        "text": "Städte zeichnen sich durch eine höhere Bebauungsdichte, viele Arbeitsplätze im Dienstleistungs- und Industriebereich, ein ausgeprägtes Verkehrsnetz und ein vielfältiges Angebot an Schulen, Geschäften und Freizeitmöglichkeiten aus.[file:5]"
+                      },
+                      {
+                        "title": "Merkmale ländlicher Regionen",
+                        "text": "Ländliche Regionen sind dünner besiedelt, es gibt mehr land- und forstwirtschaftliche Flächen und oft weniger, aber dafür kleinere Zentren mit wichtigen Einrichtungen.[file:5] Wege zu weiterführenden Schulen, Ärzten oder größeren Einkaufsmöglichkeiten können länger sein.[file:5]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "städtische Lebensweise",
+                        "definition": "Leben in einer eher dicht bebauten Umgebung mit vielen Angeboten, Arbeitsplätzen und Verkehr.[file:5]"
+                      },
+                      {
+                        "term": "ländliche Lebensweise",
+                        "definition": "Leben in dünner besiedelten Gebieten mit mehr Naturflächen und oft engerer Nachbarschaft.[file:5]"
+                      },
+                      {
+                        "term": "Infrastruktur",
+                        "definition": "Ausstattung eines Raumes mit Verkehrswegen, Versorgungsleitungen, Schulen, Ärzten, Einkaufsmöglichkeiten usw.[file:5]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann je drei typische Merkmale einer Stadt und einer ländlichen Region nennen. [file:5]",
+                      "Ich kann einen Vorteil und einen Nachteil des Lebens in der Stadt und auf dem Land beschreiben. [file:5]"
+                    ],
+                    "sample_questions": [
+                      "Nenne drei Dinge, die für eine Stadt typisch sind.",
+                      "Welche Vorteile kann das Leben auf dem Land haben?",
+                      "Welches Problem kann in einer Großstadt häufiger auftreten als auf dem Land?"
+                    ],
+                    "sample_answers": [
+                      "Viele Menschen, dichter Verkehr, große Auswahl an Geschäften und Freizeitangeboten.",
+                      "Mehr Ruhe, viel Natur, oft enger Kontakt zu den Nachbarn.",
+                      "Staus und Luftverschmutzung durch dichten Verkehr."
+                    ]
+                  }
+                },
+                {
+                  "id": "geo5_mod4_u2",
+                  "text": "Ich kann die räumliche Organisation einer Stadt (Wohngebiete, Gewerbegebiete, Zentrum, Erholungsgebiete) in einfachen Beispielen beschreiben.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Aufbau einer Stadt",
+                        "text": "Eine Stadt besteht aus verschiedenen Bereichen (Funktionsräumen), z. B. Wohngebieten, Gewerbegebieten, Industrieflächen, Erholungsgebieten und einem Zentrum.[file:5] Im Zentrum befinden sich häufig wichtige Einrichtungen wie Rathaus, größere Geschäfte, kulturelle Angebote und Knotenpunkte des Verkehrs.[file:5]"
+                      },
+                      {
+                        "title": "Wohn- und Gewerbegebiete",
+                        "text": "Wohngebiete sind vor allem von Häusern und Wohnungen geprägt, oft mit Schulen, kleinen Läden und Spielplätzen in der Nähe.[file:5] Gewerbegebiete sind auf Handel, Dienstleistungen oder leichte Produktion ausgerichtet, Industriegebiete eher auf größere Fabriken.[file:5]"
+                      },
+                      {
+                        "title": "Erholungsgebiete und Grüngürtel",
+                        "text": "Erholungsgebiete wie Parks, Grünflächen oder stadtnahes Umland bieten Raum für Freizeit, Sport und Naturerleben und sind wichtig für die Lebensqualität in Städten.[file:5]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Wohngebiet",
+                        "definition": "Teil einer Stadt, in dem vor allem gewohnt wird, mit Häusern und Wohnungen.[file:5]"
+                      },
+                      {
+                        "term": "Gewerbegebiet",
+                        "definition": "Bereich mit Betrieben des Handels, Handwerks oder leichter Industrie.[file:5]"
+                      },
+                      {
+                        "term": "Erholungsgebiet",
+                        "definition": "Bereich, der vor allem für Freizeit und Erholung genutzt wird (z. B. Park, See). [file:5]"
+                      },
+                      {
+                        "term": "Zentrum",
+                        "definition": "Kernbereich der Stadt mit hoher Dichte an Geschäften, Dienstleistungen und Verkehr.[file:5]"
+                      },
+                      {
+                        "term": "Grüngürtel",
+                        "definition": "Zusammenhängende Grünzone um eine Stadt, die als Erholungsraum und zur Trennung von Stadt und Umland dient.[file:5]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann in einem Stadtplan Wohngebiete, Gewerbe-/Industriegebiete und das Zentrum erkennen. [file:5]",
+                      "Ich kann erklären, warum Erholungsgebiete für eine Stadt wichtig sind. [file:5]"
+                    ],
+                    "sample_questions": [
+                      "Welche Funktionen erfüllt das Stadtzentrum?",
+                      "Nenne zwei Beispiele für Erholungsgebiete in einer Stadt.",
+                      "Warum planen Städte Grüngürtel oder größere Parks?"
+                    ],
+                    "sample_answers": [
+                      "Im Zentrum gibt es viele Geschäfte, Dienstleistungen, wichtige Gebäude wie das Rathaus und gute Verkehrsanbindungen.",
+                      "Parks, Spielplätze, Uferbereiche an Flüssen oder Seen.",
+                      "Damit die Menschen einen Ort zum Ausruhen, Spielen und für Sport haben und die Luftqualität verbessert wird."
+                    ]
+                  }
+                },
+                {
+                  "id": "geo5_mod4_u3",
+                  "text": "Ich kann einfache Stadt-Umland-Beziehungen beschreiben (z. B. Pendeln, Versorgung, Freizeit).",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Verflechtungen zwischen Stadt und Umland",
+                        "text": "Stadt und Umland sind eng miteinander verbunden: Menschen aus dem Umland pendeln zum Arbeiten, Einkaufen oder zur Schule in die Stadt, während die Stadt vom Umland z. B. Lebensmittel oder Erholungsräume bezieht.[file:5]"
+                      },
+                      {
+                        "title": "Pendler und Versorgungsfunktionen",
+                        "text": "Pendler wohnen an einem Ort und arbeiten an einem anderen, meist in der Stadt.[file:5] Die Stadt bietet oft ein größeres Angebot an Arbeitsplätzen, Einkaufsmöglichkeiten und Dienstleistungen, die auch von Menschen aus umliegenden Dörfern genutzt werden.[file:5]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Stadt-Umland-Beziehung",
+                        "definition": "Wechselseitige Beziehungen zwischen einer Stadt und den umliegenden ländlichen Gemeinden (z. B. Pendeln, Versorgung, Erholung).[file:5]"
+                      },
+                      {
+                        "term": "Pendler",
+                        "definition": "Person, die regelmäßig zwischen Wohnort und Arbeits- oder Schulort hin- und herfährt.[file:5]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann Beispiele nennen, wie Menschen aus dem Umland eine Stadt nutzen. [file:5]",
+                      "Ich kann erklären, warum das Umland für die Stadt wichtig ist. [file:5]"
+                    ],
+                    "sample_questions": [
+                      "Inwiefern sind Dörfer im Umland auf die nahe Stadt angewiesen?",
+                      "Nenne zwei Beispiele dafür, wie die Stadt vom Umland profitiert."
+                    ],
+                    "sample_answers": [
+                      "Sie nutzen die Stadt für Arbeitsplätze, weiterführende Schulen, größere Krankenhäuser und Einkaufsmöglichkeiten.",
+                      "Die Stadt erhält aus dem Umland Lebensmittel und hat Erholungsräume wie Wälder und Seen in der Nähe."
+                    ]
+                  }
+                },
+                {
+                  "id": "geo5_mod4_u4",
+                  "text": "Ich kann Ideen für die Gestaltung lebenswerter Räume in meinem Umfeld entwickeln und begründen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Lebensqualität in Stadt und Land",
+                        "text": "Lebenswerte Räume zeichnen sich durch eine gute Erreichbarkeit wichtiger Einrichtungen, sichere Wege, Grünflächen, Spiel- und Sportmöglichkeiten sowie eine gute Umweltqualität aus.[file:5] Du überlegst, was in deinem Ort oder Stadtteil bereits vorhanden ist und was verbessert werden könnte.[file:5]"
+                      },
+                      {
+                        "title": "Einfache Planungsideen",
+                        "text": "Du lernst, einfache Skizzen oder Steckbriefe zu erstellen, in denen du deine Ideen darstellst (z. B. neuer Spielplatz, mehr Bänke, sichere Radwege, Bäume entlang der Straße).[file:5] Dabei begründest du, warum deine Vorschläge den Raum lebenswerter machen würden.[file:5]"
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "lebenswerter Raum",
+                        "definition": "Ort, an dem Menschen gerne wohnen, arbeiten und ihre Freizeit verbringen, weil wichtige Bedürfnisse gut erfüllt werden.[file:5]"
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann sagen, was mir an meinem Ort gefällt und was nicht. [file:5]",
+                      "Ich kann eine einfache Idee zur Verbesserung meines Umfelds entwickeln und begründen. [file:5]"
+                    ],
+                    "sample_questions": [
+                      "Nenne eine Stelle in deinem Ort, die du verbessern würdest, und erkläre wie.",
+                      "Welche drei Dinge sind dir für einen lebenswerten Wohnort besonders wichtig?"
+                    ],
+                    "sample_answers": [
+                      "Den Platz vor der Schule: Ich würde mehr Sitzgelegenheiten und Bäume anlegen, damit man in den Pausen draußen im Schatten sitzen kann.",
+                      "Wichtige Dinge sind für mich gute Busverbindungen, sichere Wege für Fußgänger und Radfahrer und Grünflächen zum Spielen und Erholen."
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

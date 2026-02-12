@@ -1,0 +1,531 @@
+{
+  "school_id": "de_thueringen",
+  "grades": [
+    {
+      "grade_id": "klasse5",
+      "grade_label": "Klasse 5",
+      "subjects": [
+        {
+          "subject_id": "mnt",
+          "subject_title": "Mensch–Natur–Technik",
+          "modules": [
+            {
+              "module_id": "mnt5_mod4",
+              "module_name": "Gesunderhaltung unseres Körpers",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Überblick über das Modul Gesunderhaltung",
+                    "text": "In diesem Modul beschäftigst du dich mit deinem eigenen Körper und deiner Gesundheit. Du lernst, wie du deinen Körper stark und gesund halten kannst und welche Rolle Bewegung, Ernährung, Körperpflege, Kleidung und der Verzicht auf schädliche Stoffe dabei spielen. Außerdem lernst du wichtige physikalische Grundlagen kennen – zum Beispiel, wie Hebel funktionieren und was Wärmeübertragung bedeutet. Ein weiterer wichtiger Bereich ist die Entwicklung in der Pubertät: Du erfährst, welche Veränderungen bei Mädchen und Jungen auftreten, wie die Geschlechtsorgane aufgebaut sind und wie die Fortpflanzung beim Menschen abläuft."
+                  },
+                  {
+                    "title": "Verantwortung für den eigenen Körper",
+                    "text": "Dein Körper begleitet dich dein ganzes Leben. Wie du heute mit ihm umgehst, wirkt sich auf deine spätere Gesundheit aus. Deshalb ist es wichtig zu wissen, was deinem Körper guttut und was ihm schadet. Du lernst, wie du selbstständig gute Entscheidungen treffen kannst – zum Beispiel beim Essen, bei der Körperpflege, bei der Freizeitgestaltung und im Umgang mit Suchtmitteln wie Zigaretten und Alkohol."
+                  },
+                  {
+                    "title": "Naturwissenschaftliche Grundlagen für Gesundheit",
+                    "text": "Um die Gesunderhaltung deines Körpers zu verstehen, brauchst du naturwissenschaftliches Wissen. Du nutzt biologische Inhalte aus dem Modul Wirbeltiere (z. B. Ernährung, Atmung, Blutkreislauf) und vertiefst sie am Beispiel des Menschen. Ergänzend lernst du physikalische Grundlagen kennen: das Hebelgesetz hilft dir zu verstehen, wie dein Bewegungsapparat arbeitet und wie Werkzeuge deinen Körper entlasten können. Die Kenntnisse über Wärme und Wärmedämmung helfen dir z. B. zu verstehen, warum passende Kleidung wichtig ist und wie Häuser warm gehalten werden."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "mnt5_mod4_u1",
+                  "text": "Ich kann Maßnahmen zur Gesunderhaltung meines Körpers nennen und begründen (Haltung, Ernährung, Hygiene, Kleidung, Verzicht auf Suchtmittel).",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Was bedeutet Gesunderhaltung?",
+                        "text": "Gesunderhaltung bedeutet, dass du etwas dafür tust, gesund zu bleiben. Dazu gehört nicht nur, Krankheiten zu vermeiden, sondern auch, dass du dich wohl fühlst, leistungsfähig bist und dich gut bewegen kannst. Gesundheit hängt von vielen Faktoren ab: von deiner Ernährung, deiner Bewegung, deiner Körperhaltung, deinem Schlaf, deiner Körperpflege, deiner Kleidung und davon, ob du schädliche Stoffe meidest. Viele dieser Dinge kannst du selbst beeinflussen."
+                      },
+                      {
+                        "title": "Gesunde Körperhaltung",
+                        "text": "Eine gute Körperhaltung schützt deine Knochen, Gelenke und Muskeln. Wenn du häufig krumm sitzt oder sehr schwere Schultaschen falsch trägst, kann das zu Haltungsschäden führen, z. B. Rückenschmerzen oder Verkrümmungen der Wirbelsäule. Achte beim Sitzen darauf, dass dein Rücken möglichst gerade ist, beide Füße auf dem Boden stehen und der Tisch zu deiner Größe passt. Beim Tragen einer Schultasche solltest du beide Trageriemen benutzen und die Tasche möglichst dicht am Rücken tragen."
+                      },
+                      {
+                        "title": "Gesundheitsfördernde Ernährung",
+                        "text": "Eine gesundheitsfördernde Ernährung versorgt deinen Körper mit allen wichtigen Nährstoffen: Kohlenhydrate liefern Energie, Eiweiße bauen Muskeln und andere Gewebe auf, Fette liefern Energie und sind Baustoffe, Vitamine und Mineralstoffe steuern viele Vorgänge im Körper. Viel frisches Obst und Gemüse, Vollkornprodukte, Milchprodukte und ausreichend Wasser sind wichtig. Süßigkeiten und stark zuckerhaltige Getränke solltest du nur in kleinen Mengen zu dir nehmen, weil sie zwar viel Energie, aber wenig wichtige Nährstoffe liefern."
+                      },
+                      {
+                        "title": "Körperhygiene",
+                        "text": "Körperhygiene hilft, Krankheiten zu vermeiden und dein Wohlbefinden zu steigern. Regelmäßiges Waschen und Duschen entfernt Schweiß, Schmutz und Bakterien von der Haut. Zahnpflege ist besonders wichtig: Du solltest mindestens zweimal täglich die Zähne putzen, damit Essensreste und Bakterien entfernt werden und kein Karies entsteht. Hände solltest du vor dem Essen und nach dem Toilettengang mit Seife waschen, damit keine Krankheitserreger in den Mund gelangen."
+                      },
+                      {
+                        "title": "Witterungsgerechte Kleidung",
+                        "text": "Witterungsgerechte Kleidung schützt deinen Körper vor Kälte, Hitze, Nässe und Sonne. Im Winter brauchst du warme Kleidung, die gut wärmedämmt (z. B. mehrere Kleidungsschichten, Mütze, Schal, Handschuhe), im Sommer leichte Kleidung und Sonnenschutz (z. B. Hut, Sonnencreme). Nasse Kleidung sollte möglichst schnell gewechselt werden, weil der Körper sonst auskühlt. Die richtige Kleidung verhindert, dass du frierst oder überhitzt, und schützt deine Haut."
+                      },
+                      {
+                        "title": "Verzicht auf Rauchen, Alkohol und Drogen",
+                        "text": "Rauchen, Alkohol und andere Drogen schaden dem Körper schon im Jugendalter. Sie können Organe wie Lunge, Leber und Gehirn dauerhaft schädigen und abhängig machen. Nikotin verengt Blutgefäße und schädigt die Lunge. Alkohol beeinträchtigt das Gehirn, die Leber und das Reaktionsvermögen. Illegale Drogen können sehr schwere körperliche und seelische Schäden verursachen. Deshalb ist es wichtig, früh 'Nein' sagen zu lernen und Gruppendruck zu widerstehen. Gesunderhaltung bedeutet auch, bewusst auf solche Stoffe zu verzichten."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Gesunderhaltung",
+                        "definition": "Alle Maßnahmen, die dazu beitragen, gesund zu bleiben und sich körperlich und seelisch wohlzufühlen."
+                      },
+                      {
+                        "term": "Haltungsschaden",
+                        "definition": "Dauerhafte Veränderung oder Verkrümmung der Wirbelsäule oder anderer Teile des Bewegungsapparates durch falsche Haltung oder Belastung."
+                      },
+                      {
+                        "term": "Hygiene",
+                        "definition": "Maßnahmen zur Sauberkeit von Körper und Umgebung, um Krankheiten vorzubeugen."
+                      },
+                      {
+                        "term": "Suchtmittel",
+                        "definition": "Stoffe wie Nikotin, Alkohol oder Drogen, die abhängig machen und dem Körper schaden."
+                      },
+                      {
+                        "term": "Witterungsgerechte Kleidung",
+                        "definition": "Kleidung, die an die aktuelle Wetterlage (Temperatur, Nässe, Sonne) angepasst ist und den Körper schützt."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann mehrere Maßnahmen zur Gesunderhaltung meines Körpers aufzählen.",
+                      "Ich kann erklären, warum eine gute Körperhaltung wichtig ist.",
+                      "Ich kann Beispiele für gute Körperhygiene nennen und begründen.",
+                      "Ich kann erläutern, warum witterungsgerechte Kleidung wichtig ist.",
+                      "Ich kann erklären, warum Rauchen, Alkohol und Drogen schädlich sind und warum ich sie ablehnen sollte."
+                    ],
+                    "sample_questions": [
+                      "Nenne drei Maßnahmen, mit denen du deinen Körper gesund halten kannst, und begründe sie.",
+                      "Warum ist eine falsche Körperhaltung auf Dauer schädlich?",
+                      "Welche Regeln für Körper- und Zahnhygiene sind wichtig und warum?",
+                      "Was versteht man unter witterungsgerechter Kleidung? Gib Beispiele.",
+                      "Warum gehören Rauchen, Alkohol und andere Drogen nicht zu einem gesunden Lebensstil?"
+                    ],
+                    "sample_answers": [
+                      "Ich kann meinen Körper gesund halten, indem ich mich ausreichend bewege, mich gesund ernähre und auf meine Körperhaltung achte. Bewegung stärkt Muskeln, Herz und Kreislauf. Gesunde Ernährung liefert wichtige Nährstoffe. Eine gute Körperhaltung schützt meine Wirbelsäule und beugt Rückenschmerzen vor.",
+                      "Wenn ich häufig krumm sitze oder schwere Taschen falsch trage, wird meine Wirbelsäule falsch belastet. Auf Dauer können sich Wirbel und Bandscheiben verändern, was zu Haltungsschäden und Schmerzen führt. Deshalb ist es wichtig, gerade zu sitzen und Lasten richtig zu tragen.",
+                      "Zur Körperhygiene gehören regelmäßiges Duschen oder Waschen und tägliches Zähneputzen. So werden Schmutz, Schweiß und Bakterien entfernt. Das schützt vor Hautkrankheiten und Karies. Händewaschen vor dem Essen und nach der Toilette verhindert, dass Krankheitserreger in den Mund gelangen.",
+                      "Witterungsgerechte Kleidung passt sich dem Wetter an. Im Winter brauche ich warme Kleidung, die die Wärme gut speichert, z. B. Mütze, Schal, Handschuhe und mehrere Kleidungsschichten. Im Sommer brauche ich leichte Kleidung und Sonnenschutz, damit ich nicht überhitze oder einen Sonnenbrand bekomme.",
+                      "Rauchen schädigt die Lunge und die Blutgefäße, Alkohol schädigt Leber und Gehirn. Beide Stoffe können abhängig machen. Wer früh damit anfängt, gefährdet seine Gesundheit ein Leben lang. Deshalb gehören Rauchen, Alkohol und andere Drogen nicht zu einem gesunden Lebensstil."
+                    ]
+                  }
+                },
+                {
+                  "id": "mnt5_mod4_u2",
+                  "text": "Ich kann Nahrungsmittel nach ihren Nährstoffen und ihrem Energiegehalt ordnen und eine gesundheitsfördernde Ernährung beschreiben.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Nährstoffe in unserer Nahrung",
+                        "text": "Nahrung besteht aus verschiedenen Nährstoffen, die unterschiedliche Aufgaben im Körper haben. Kohlenhydrate liefern vor allem Energie (z. B. Brot, Nudeln, Kartoffeln). Fette liefern ebenfalls viel Energie und dienen als Energiespeicher (z. B. Öl, Butter, Nüsse). Eiweiße (Proteine) sind wichtige Baustoffe für Muskeln, Organe und Enzyme (z. B. Fleisch, Fisch, Milchprodukte, Hülsenfrüchte). Vitamine und Mineralstoffe steuern viele Vorgänge im Körper und schützen vor Krankheiten (z. B. in Obst, Gemüse, Vollkornprodukten). Wasser ist lebenswichtig für alle Körperfunktionen."
+                      },
+                      {
+                        "title": "Energiegehalt von Nahrungsmitteln",
+                        "text": "Der Energiegehalt von Nahrungsmitteln wird oft in Kilojoule (kJ) oder Kilokalorien (kcal) angegeben. Er beschreibt, wie viel Energie der Körper aus dem Nahrungsmittel gewinnen kann. Fette haben einen besonders hohen Energiegehalt, Kohlenhydrate und Eiweiße etwas weniger. Dein Körper braucht Energie für alle Lebensvorgänge – atmen, bewegen, denken, wachsen. Wenn du mehr Energie aufnimmst, als du verbrauchst, kann der Körper überschüssige Energie als Fett speichern."
+                      },
+                      {
+                        "title": "Ausgewogene, gesundheitsfördernde Ernährung",
+                        "text": "Gesundheitsfördernde Ernährung ist ausgewogen. Das bedeutet: Du isst von allen Nährstoffen genug, aber nichts im Übermaß. Viel Obst und Gemüse liefern Vitamine und Mineralstoffe. Vollkornprodukte liefern Kohlenhydrate und Ballaststoffe. Milchprodukte liefern Eiweiß und Kalzium für die Knochen. Pflanzliche Öle und Nüsse liefern gesunde Fette. Süßigkeiten, Chips und Limonaden solltest du nur gelegentlich und in kleinen Mengen essen, weil sie viel Energie, aber wenig wichtige Nährstoffe liefern."
+                      },
+                      {
+                        "title": "Nahrungsmittel ordnen",
+                        "text": "Du kannst Nahrungsmittel nach dem vorherrschenden Nährstoff und nach ihrem Energiegehalt ordnen. Beispiele: Brot, Reis und Nudeln sind kohlenhydratreich. Käse, Fleisch und Hülsenfrüchte sind eiweißreich. Öl, Butter und Nüsse sind fettreich und besonders energiereich. Obst und Gemüse enthalten viele Vitamine und Mineralstoffe, aber meist wenig Energie. Anhand der Nährstoffe kannst du entscheiden, welche Nahrungsmittel du oft und welche du seltener essen solltest."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Kohlenhydrate",
+                        "definition": "Nährstoffe, die vor allem Energie liefern, z. B. Stärke und Zucker."
+                      },
+                      {
+                        "term": "Fette",
+                        "definition": "Energieträger mit hohem Energiegehalt, dienen auch als Baustoffe und Wärmeschutz."
+                      },
+                      {
+                        "term": "Eiweiße (Proteine)",
+                        "definition": "Nährstoffe, die vor allem als Baustoffe für Muskeln, Organe und Enzyme dienen."
+                      },
+                      {
+                        "term": "Vitamine",
+                        "definition": "Wirkstoffe, die viele Vorgänge im Körper steuern und vor Krankheiten schützen. Sie werden in kleinen Mengen benötigt."
+                      },
+                      {
+                        "term": "Mineralstoffe",
+                        "definition": "Anorganische Stoffe wie Kalzium, Eisen oder Natrium, die für Knochen, Blut und andere Körperfunktionen wichtig sind."
+                      },
+                      {
+                        "term": "Energiegehalt",
+                        "definition": "Menge an Energie, die ein Nahrungsmittel liefert, meist angegeben in Kilojoule (kJ) oder Kilokalorien (kcal)."
+                      },
+                      {
+                        "term": "Ausgewogene Ernährung",
+                        "definition": "Ernährungsweise, bei der der Körper alle wichtigen Nährstoffe in geeigneten Mengen erhält."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann Hauptnährstoffe (Kohlenhydrate, Fette, Eiweiße, Vitamine, Mineralstoffe) benennen.",
+                      "Ich kann ihre wichtigsten Aufgaben im Körper erklären.",
+                      "Ich kann Nahrungsmittel nach dominierenden Nährstoffen ordnen.",
+                      "Ich kann erklären, was man unter einer ausgewogenen, gesundheitsfördernden Ernährung versteht.",
+                      "Ich kann Beispiele für Nahrungsmittel nennen, die ich täglich essen sollte, und solche, die ich nur selten essen sollte."
+                    ],
+                    "sample_questions": [
+                      "Welche Hauptnährstoffe gibt es und welche Aufgaben haben sie im Körper?",
+                      "Warum ist eine ausgewogene Ernährung wichtig?",
+                      "Ordne die Nahrungsmittel Brot, Käse, Apfel, Öl und Linsen nach ihren wichtigsten Nährstoffen.",
+                      "Was ist mit Energiegehalt von Nahrungsmitteln gemeint?",
+                      "Nenne Beispiele für Lebensmittel, die du täglich, oft und nur selten essen solltest."
+                    ],
+                    "sample_answers": [
+                      "Es gibt Kohlenhydrate, Fette, Eiweiße, Vitamine und Mineralstoffe. Kohlenhydrate liefern vor allem Energie. Fette liefern sehr viel Energie und dienen als Energiespeicher und Baustoffe. Eiweiße sind wichtige Baustoffe für Muskeln und andere Gewebe. Vitamine und Mineralstoffe steuern viele Vorgänge im Körper und schützen vor Krankheiten.",
+                      "Eine ausgewogene Ernährung ist wichtig, weil der Körper alle Nährstoffe in der richtigen Menge braucht, um gut zu funktionieren. Bekommt er zu wenig oder zu viel von bestimmten Nährstoffen, kann er krank werden oder sich nicht richtig entwickeln.",
+                      "Brot enthält hauptsächlich Kohlenhydrate. Käse ist eiweiß- und fettreich. Ein Apfel enthält vor allem Vitamine, Mineralstoffe und etwas Zucker. Öl besteht fast nur aus Fett. Linsen sind besonders eiweißreich und enthalten außerdem Kohlenhydrate.",
+                      "Der Energiegehalt beschreibt, wie viel Energie ein Nahrungsmittel liefert. Lebensmittel mit hohem Energiegehalt, wie Fette oder Süßigkeiten, liefern viel Energie auf kleinem Raum. Lebensmittel mit geringem Energiegehalt, wie viele Obst- und Gemüsesorten, liefern weniger Energie, aber oft viele Vitamine und Mineralstoffe.",
+                      "Täglich sollte ich z. B. Obst, Gemüse, Vollkornprodukte und Wasser zu mir nehmen. Oft, also mehrmals in der Woche, kann ich Milchprodukte, Eier und Hülsenfrüchte essen. Nur selten sollte ich Süßigkeiten, Chips, Limonaden und stark fetthaltige Fast-Food-Produkte essen."
+                    ]
+                  }
+                },
+                {
+                  "id": "mnt5_mod4_u3",
+                  "text": "Ich kann das Hebelgesetz an einfachen Beispielen aus Alltag und Technik anwenden und die Begriffe Kraft, Hebelarm, Schwerpunkt und Gleichgewicht erklären.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Was ist ein Hebel?",
+                        "text": "Ein Hebel ist ein einfaches technisches Gerät, mit dem man Kräfte umwandeln und Arbeit erleichtern kann. Typische Hebel sind Wippe, Schere, Zange, Brecheisen oder ein Schraubenschlüssel. Ein Hebel besteht aus einem starren Stab, der sich um einen festen Punkt drehen kann. Dieser Punkt heißt Drehpunkt oder Auflagepunkt. An beiden Seiten des Drehpunktes können Kräfte wirken."
+                      },
+                      {
+                        "title": "Begriffe: Kraft, Hebelarm und Drehpunkt",
+                        "text": "Die Kraft ist das 'Drücken' oder 'Ziehen', das du auf den Hebel ausübst. Der Hebelarm ist der Abstand zwischen der Angriffsstelle der Kraft und dem Drehpunkt. Je länger der Hebelarm, desto weniger Kraft brauchst du für dieselbe Wirkung. Das kannst du z. B. bei einem langen Schraubenschlüssel oder einem langen Brecheisen beobachten: Mit einem langen Hebel kannst du schwere Gegenstände leichter anheben."
+                      },
+                      {
+                        "title": "Hebel im Gleichgewicht",
+                        "text": "Ein Hebel ist im Gleichgewicht, wenn sich die Drehwirkungen der Kräfte auf beiden Seiten des Drehpunktes ausgleichen. Die Drehwirkung nennt man auch Drehmoment. Vereinfacht kann man sagen: Kraft × Hebelarm links = Kraft × Hebelarm rechts. Wenn du auf einer Wippe mit einem schwereren Freund sitzen möchtest, muss der Schwerere näher am Drehpunkt sitzen, damit die Wippe im Gleichgewicht ist."
+                      },
+                      {
+                        "title": "Hebel im menschlichen Körper",
+                        "text": "Auch in deinem Körper gibt es Hebel. Deine Knochen bilden zusammen mit Muskeln und Gelenken Hebelsysteme. Zum Beispiel wirkt dein Bizepsmuskel am Unterarm wie ein Hebel: Der Muskel zieht an einem Knochen, der sich im Ellenbogengelenk dreht. So kannst du Gegenstände anheben. Der Körper nutzt Hebel, um Bewegungen zu ermöglichen und zu verstärken, muss dafür aber auch Kräfte aufbringen."
+                      },
+                      {
+                        "title": "Hebel in Alltag und Technik",
+                        "text": "Im Alltag und in der Technik nutzt man Hebel, um Kräfte zu sparen oder genau zu dosieren. Beispiele: Mit einer Schere kannst du Papier leichter schneiden, weil deine Handkraft über die langen Griffe verstärkt wird. Mit einer Zange kannst du kleine Gegenstände mit großer Kraft festhalten. Mit einem langen Hebelarm beim Wagenheber oder Brecheisen kannst du schwere Dinge anheben. Das Wissen über Hebel hilft dir, deinen Körper zu schonen und Werkzeuge sinnvoll einzusetzen."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Hebel",
+                        "definition": "Starrer Stab, der sich um einen Drehpunkt bewegen kann und mit dem man Kräfte umwandeln kann."
+                      },
+                      {
+                        "term": "Kraft",
+                        "definition": "Wirkung, die einen Körper in Bewegung setzen, abbremsen, seine Richtung ändern oder verformen kann."
+                      },
+                      {
+                        "term": "Hebelarm",
+                        "definition": "Abstand zwischen Drehpunkt und Angriffspunkt der Kraft."
+                      },
+                      {
+                        "term": "Drehpunkt",
+                        "definition": "Punkt, um den sich der Hebel dreht oder bewegen kann."
+                      },
+                      {
+                        "term": "Gleichgewicht (beim Hebel)",
+                        "definition": "Zustand, in dem sich die Drehwirkungen der Kräfte auf beiden Seiten des Hebels ausgleichen."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann erklären, was ein Hebel ist und Beispiele nennen.",
+                      "Ich kann die Begriffe Kraft, Hebelarm und Drehpunkt erklären.",
+                      "Ich kann an einer Wippe beschreiben, wann sie im Gleichgewicht ist.",
+                      "Ich kann erklären, warum man mit einem längeren Hebelarm weniger Kraft braucht.",
+                      "Ich kann Hebel im eigenen Körper und im Alltag erkennen und benennen."
+                    ],
+                    "sample_questions": [
+                      "Erkläre, was ein Hebel ist und nenne drei Beispiele aus dem Alltag.",
+                      "Was versteht man unter Hebelarm? Wie wirkt sich ein langer Hebelarm aus?",
+                      "Wann ist eine Wippe im Gleichgewicht?",
+                      "Nenne ein Beispiel für einen Hebel im menschlichen Körper.",
+                      "Warum wird ein Schraubenschlüssel oft mit einem langen Griff gebaut?"
+                    ],
+                    "sample_answers": [
+                      "Ein Hebel ist ein starrer Stab, der sich um einen Drehpunkt drehen kann. Mit ihm kann man Kräfte verstärken oder umlenken. Beispiele aus dem Alltag sind eine Wippe, eine Schere und eine Zange.",
+                      "Der Hebelarm ist der Abstand zwischen Drehpunkt und Angriffsstelle der Kraft. Je länger der Hebelarm ist, desto weniger Kraft muss man aufbringen, um die gleiche Wirkung zu erzielen. Mit einem langen Hebelarm kann man also schwere Gegenstände leichter bewegen.",
+                      "Eine Wippe ist im Gleichgewicht, wenn sich die Drehwirkungen der Kräfte auf beiden Seiten ausgleichen. Das bedeutet vereinfacht: Wenn ein schwererer Mensch näher am Drehpunkt sitzt und ein leichterer weiter weg, können beide trotzdem im Gleichgewicht sein.",
+                      "Ein Beispiel für einen Hebel im menschlichen Körper ist der Unterarm beim Beugen des Arms. Der Bizepsmuskel zieht am Unterarmknochen. Das Ellenbogengelenk ist der Drehpunkt, der Unterarmknochen bildet den Hebelarm.",
+                      "Ein Schraubenschlüssel hat oft einen langen Griff, damit der Hebelarm groß ist. Dadurch muss man weniger Kraft aufbringen, um eine Schraube zu lösen oder festzuziehen. Das Hebelgesetz wird genutzt, um Arbeit zu erleichtern."
+                    ]
+                  }
+                },
+                {
+                  "id": "mnt5_mod4_u4",
+                  "text": "Ich kann Wärme als Maß für zugeführte oder abgegebene Energie beschreiben, Arten der Wärmeübertragung erklären und die Bedeutung von Wärmedämmung erläutern.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Was ist Wärme?",
+                        "text": "Im Alltag sagt man oft: 'Es ist warm' oder 'Es ist kalt'. In der Physik meint Wärme die Energie, die zwischen Körpern mit unterschiedlicher Temperatur übertragen wird. Wenn ein warmer Körper einen kälteren Körper berührt oder sich warme Luft mit kalter Luft mischt, wird Wärmeenergie übertragen. Die Temperatur zeigt an, wie warm oder kalt ein Körper ist, aber Wärme beschreibt die Energie, die dabei übertragen wird."
+                      },
+                      {
+                        "title": "Wärme und Teilchenbewegung",
+                        "text": "In Stoffen bewegen sich die Teilchen ständig. Je schneller sie sich bewegen, desto höher ist die Temperatur. Wenn ein Körper Wärme aufnimmt, bewegen sich seine Teilchen schneller, der Körper wird wärmer. Gibt ein Körper Wärme ab, bewegen sich seine Teilchen langsamer, der Körper wird kälter. Wärme ist also eng mit der Bewegung der Teilchen verbunden."
+                      },
+                      {
+                        "title": "Wärmeleitung",
+                        "text": "Bei der Wärmeleitung wird Wärme durch direkten Kontakt von Teilchen übertragen. Beispiel: Wenn du einen Metalllöffel in heißen Tee stellst, wird der Griff nach einiger Zeit warm. Die Teilchen im heißen Teil des Löffels bewegen sich stark und stoßen ihre Nachbarn an. So 'wandert' die Wärme durch das Metall. Metalle leiten Wärme gut, Holz oder Kunststoff leiten Wärme schlecht."
+                      },
+                      {
+                        "title": "Wärmeströmung (Konvektion)",
+                        "text": "In Flüssigkeiten und Gasen kann Wärme durch Strömung übertragen werden. Warme Luft oder warmes Wasser dehnt sich aus, wird leichter und steigt nach oben. Kalte Luft oder kaltes Wasser sinkt nach unten. So entstehen Strömungen, die Wärme transportieren. Beispiele: Heizkörper erwärmen die Luft im Zimmer, die warme Luft steigt auf, kalte Luft strömt nach. Auch Meeresströmungen und Wind entstehen durch solche Temperaturunterschiede."
+                      },
+                      {
+                        "title": "Wärmestrahlung",
+                        "text": "Wärme kann auch durch Strahlung übertragen werden, ohne dass Stoffe direkt beteiligt sind. Die Sonne sendet Wärmestrahlung zur Erde, obwohl dazwischen fast nur leerer Raum ist. Auch ein Lagerfeuer oder ein Heizstrahler geben Wärmestrahlung ab. Du spürst die Wärme, auch wenn du nicht direkt in der Nähe bist. Wärmestrahlung ist eine Form elektromagnetischer Strahlung."
+                      },
+                      {
+                        "title": "Wärmedämmung",
+                        "text": "Wärmedämmung bedeutet, dass man verhindert, dass Wärme schnell entweicht oder eindringt. Gute Dämmstoffe leiten Wärme schlecht und enthalten oft viel Luft. Beispiele: Daunen in einer Winterjacke halten Luft fest und verhindern, dass Körperwärme schnell nach außen gelangt. Dämmmaterialien in Hauswänden halten die Wärme im Haus. Dadurch spart man Heizenergie und fühlt sich wohler. Auch Tierfelle oder Vogelfedern sind eine Art natürliche Wärmedämmung."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Wärme",
+                        "definition": "Energie, die zwischen Körpern mit unterschiedlicher Temperatur übertragen wird."
+                      },
+                      {
+                        "term": "Temperatur",
+                        "definition": "Maß dafür, wie warm oder kalt ein Körper ist. Sie hängt von der Bewegung der Teilchen ab."
+                      },
+                      {
+                        "term": "Wärmeleitung",
+                        "definition": "Übertragung von Wärme durch direkten Teilchenkontakt in festen Stoffen, z.B. in Metallen."
+                      },
+                      {
+                        "term": "Wärmeströmung (Konvektion)",
+                        "definition": "Übertragung von Wärme durch Strömungen in Flüssigkeiten oder Gasen."
+                      },
+                      {
+                        "term": "Wärmestrahlung",
+                        "definition": "Übertragung von Wärme durch Strahlung, ohne dass ein Stoff als Träger nötig ist."
+                      },
+                      {
+                        "term": "Wärmedämmung",
+                        "definition": "Maßnahmen, die verhindern, dass Wärme schnell entweicht oder eindringt."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann erklären, was Wärme in der Physik bedeutet.",
+                      "Ich kann den Zusammenhang zwischen Wärme und Teilchenbewegung beschreiben.",
+                      "Ich kann die drei Arten der Wärmeübertragung nennen und erklären.",
+                      "Ich kann Beispiele für Wärmeleitung, Wärmeströmung und Wärmestrahlung geben.",
+                      "Ich kann erklären, warum Wärmedämmung wichtig ist und Beispiele nennen."
+                    ],
+                    "sample_questions": [
+                      "Erkläre den Unterschied zwischen Temperatur und Wärme.",
+                      "Beschreibe, wie Wärmeleitung funktioniert und nenne ein Beispiel.",
+                      "Was ist Wärmeströmung (Konvektion)? Nenne ein Beispiel aus dem Alltag.",
+                      "Wie gelangt die Wärme der Sonne auf die Erde?",
+                      "Was versteht man unter Wärmedämmung und warum ist sie wichtig?"
+                    ],
+                    "sample_answers": [
+                      "Die Temperatur gibt an, wie warm oder kalt ein Körper ist. Wärme beschreibt die Energie, die zwischen Körpern mit unterschiedlicher Temperatur übertragen wird. Wenn ein warmer Körper einen kälteren berührt, fließt Wärme vom warmen zum kalten Körper, bis beide die gleiche Temperatur haben.",
+                      "Bei der Wärmeleitung geben schnelle, warme Teilchen in einem Stoff ihre Bewegung an benachbarte, langsamere Teilchen weiter. So breitet sich die Wärme im Stoff aus. Ein Beispiel ist ein Metalllöffel in heißem Tee: Die Hitze wandert vom unteren Teil des Löffels bis zum Griff.",
+                      "Wärmeströmung ist die Übertragung von Wärme durch die Bewegung von Flüssigkeiten oder Gasen. Warme Luft oder warmes Wasser steigt auf, kalte Luft oder kaltes Wasser sinkt ab. Dadurch entsteht eine Strömung, die Wärme transportiert. Ein Beispiel ist die Luftbewegung im Zimmer, wenn ein Heizkörper eingeschaltet ist.",
+                      "Die Wärme der Sonne gelangt durch Wärmestrahlung auf die Erde. Die Sonnenstrahlen durchqueren den Weltraum und treffen auf die Erde, wo sie Boden, Wasser und Luft erwärmen. Dafür ist kein Stoff als Träger nötig.",
+                      "Wärmedämmung bedeutet, dass man durch bestimmte Materialien verhindert, dass Wärme schnell entweicht oder eindringt. Sie ist wichtig, damit Häuser im Winter warm und im Sommer kühl bleiben und damit man Heizenergie spart. Beispiele sind gedämmte Hauswände, doppelte Fenster, eine dicke Winterjacke oder das Fell eines Tieres."
+                    ]
+                  }
+                },
+                {
+                  "id": "mnt5_mod4_u5",
+                  "text": "Ich kann körperliche und seelische Veränderungen in der Pubertät bei Mädchen und Jungen beschreiben und respektvoll mit dem Thema Sexualität umgehen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Was ist Pubertät?",
+                        "text": "Die Pubertät ist die Zeit, in der aus einem Kind langsam ein erwachsener Mensch wird. Sie beginnt bei jedem Menschen zu einem etwas anderen Zeitpunkt, meist zwischen 9 und 14 Jahren, und dauert mehrere Jahre. In dieser Zeit verändert sich der Körper stark: Geschlechtsorgane reifen, Körperform und Körpergröße ändern sich, und auch das Denken und Fühlen verändern sich. Diese Veränderungen sind ganz normal und gehören zum Erwachsenwerden."
+                      },
+                      {
+                        "title": "Körperliche Veränderungen bei Mädchen",
+                        "text": "Bei Mädchen wachsen in der Pubertät die Brüste, die Hüften werden breiter und es lagert sich mehr Fettgewebe an Po und Oberschenkeln an. Es wächst Schamhaar im Intimbereich und Achselhaare. Die Menstruation (Regelblutung) setzt ein. Damit ist der Körper fähig, später einmal ein Kind zu bekommen. Die Stimme kann sich leicht verändern, allerdings nicht so stark wie bei Jungen."
+                      },
+                      {
+                        "title": "Körperliche Veränderungen bei Jungen",
+                        "text": "Bei Jungen wächst der Penis und die Hoden vergrößern sich. Es wächst Schamhaar im Intimbereich, auch Achsel- und Bartwuchs beginnen. Die Muskulatur nimmt zu, die Schultern werden breiter und der Kehlkopf wächst. Dadurch wird die Stimme tiefer (Stimmbruch). Jungen können in der Pubertät Pollutionen bekommen – das sind unwillkürliche Samenergüsse, die meist nachts im Schlaf auftreten. Das ist ein normaler Teil der Entwicklung."
+                      },
+                      {
+                        "title": "Seelische Veränderungen",
+                        "text": "In der Pubertät verändern sich auch Gefühle und Gedanken. Viele Jugendliche werden selbstständiger und wollen mehr eigene Entscheidungen treffen. Die Meinung von Freundinnen und Freunden wird wichtiger. Es kann zu Stimmungsschwankungen kommen – man ist mal sehr fröhlich, mal schnell gereizt oder traurig. Auch Interesse an Liebe, Partnerschaft und Sexualität entwickelt sich. Es ist wichtig zu wissen, dass diese Gefühle normal sind und dass jeder Mensch sich in seinem eigenen Tempo entwickelt."
+                      },
+                      {
+                        "title": "Respekt und Umgang mit Sexualität",
+                        "text": "Beim Thema Sexualität ist Achtung und Respekt besonders wichtig. Jeder Mensch hat ein Recht auf seine Intimsphäre. Das bedeutet: Niemand darf ohne Zustimmung deine Kleidung öffnen, dich an intimen Stellen berühren oder Fotos von dir machen. Verschiedene Lebensweisen (z. B. unterschiedliche sexuelle Orientierungen) sollen akzeptiert werden. Wichtige Werte sind Achtung vor der Würde des Menschen, gegenseitiger Respekt und die Ablehnung von sexueller Gewalt und Missbrauch."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Pubertät",
+                        "definition": "Lebensabschnitt, in dem aus einem Kind ein erwachsener Mensch wird. Körper und Gefühle verändern sich stark."
+                      },
+                      {
+                        "term": "Menstruation",
+                        "definition": "Monatliche Blutung bei Mädchen und Frauen, bei der sich die Schleimhaut der Gebärmutter löst und ausgeschieden wird."
+                      },
+                      {
+                        "term": "Pollution",
+                        "definition": "Unwillkürlicher Samenerguss bei Jungen, meist nachts im Schlaf, auch 'feuchter Traum' genannt."
+                      },
+                      {
+                        "term": "Intimsphäre",
+                        "definition": "Persönlicher, privater Bereich eines Menschen, der respektiert werden muss (z. B. Körper, Gefühle, Sexualität)."
+                      },
+                      {
+                        "term": "Respekt",
+                        "definition": "Achtung vor anderen Menschen, ihren Gefühlen, ihrem Körper und ihrer Meinung."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann wichtige körperliche Veränderungen in der Pubertät bei Mädchen nennen.",
+                      "Ich kann wichtige körperliche Veränderungen in der Pubertät bei Jungen nennen.",
+                      "Ich kann seelische Veränderungen in der Pubertät beschreiben.",
+                      "Ich kann erklären, was Menstruation und Pollution sind.",
+                      "Ich kann erklären, was Intimsphäre bedeutet und warum sie geschützt werden muss.",
+                      "Ich kann beschreiben, warum Respekt und Achtung beim Thema Sexualität wichtig sind."
+                    ],
+                    "sample_questions": [
+                      "Was versteht man unter Pubertät?",
+                      "Nenne drei körperliche Veränderungen, die bei Mädchen in der Pubertät auftreten.",
+                      "Nenne drei körperliche Veränderungen, die bei Jungen in der Pubertät auftreten.",
+                      "Was sind Menstruation und Pollution?",
+                      "Was bedeutet Intimsphäre und wie sollte man damit umgehen?",
+                      "Warum ist Respekt beim Thema Sexualität besonders wichtig?"
+                    ],
+                    "sample_answers": [
+                      "Die Pubertät ist die Zeit, in der aus einem Kind ein erwachsener Mensch wird. In dieser Zeit verändern sich Körper, Gefühle und Denken. Sie beginnt bei jedem Menschen zu einem etwas anderen Zeitpunkt und dauert mehrere Jahre.",
+                      "Bei Mädchen wachsen in der Pubertät die Brüste, die Hüften werden breiter und es wächst Schamhaar. Außerdem setzt die Menstruation ein.",
+                      "Bei Jungen vergrößern sich Penis und Hoden, es wächst Schamhaar und später Bart. Die Muskulatur nimmt zu und die Stimme wird durch den Stimmbruch tiefer.",
+                      "Menstruation ist die monatliche Blutung bei Mädchen und Frauen, bei der sich die Schleimhaut der Gebärmutter löst. Pollution ist ein ungewollter Samenerguss bei Jungen, der meist im Schlaf passiert. Beides ist ein normaler Teil der Entwicklung in der Pubertät.",
+                      "Intimsphäre ist der persönliche, private Bereich eines Menschen, z. B. sein Körper, seine Gedanken und Gefühle zur Sexualität. Man sollte die Intimsphäre anderer respektieren, niemanden ohne Erlaubnis anfassen und keine peinlichen Fragen stellen oder Geheimnisse weitererzählen.",
+                      "Beim Thema Sexualität ist Respekt wichtig, weil es um sehr persönliche Bereiche geht. Jeder Mensch hat ein Recht darauf, selbst zu entscheiden, was er möchte und was nicht. Es darf keine sexuelle Gewalt oder Druck geben. Verschiedene Lebensweisen und Orientierungen sollten akzeptiert werden."
+                    ]
+                  }
+                },
+                {
+                  "id": "mnt5_mod4_u6",
+                  "text": "Ich kann den Bau der weiblichen und männlichen Geschlechtsorgane grob beschreiben, Fortpflanzung und Entwicklung des Menschen darstellen und die Hygiene der Geschlechtsorgane begründen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Weibliche Geschlechtsorgane (Überblick)",
+                        "text": "Zu den weiblichen Geschlechtsorganen gehören Eierstöcke, Eileiter, Gebärmutter, Scheide und äußere Schamlippen. In den Eierstöcken reifen die Eizellen heran. Über die Eileiter gelangen befruchtete Eizellen zur Gebärmutter. Die Gebärmutter ist ein muskulöses Organ, in dem sich ein Embryo entwickeln kann. Die Scheide ist ein dehnbarer Muskelschlauch, der die Gebärmutter mit dem Außenbereich verbindet. Die äußeren Schamlippen schützen den Eingang der Scheide."
+                      },
+                      {
+                        "title": "Männliche Geschlechtsorgane (Überblick)",
+                        "text": "Zu den männlichen Geschlechtsorganen gehören Hoden, Nebenhoden, Samenleiter, Prostata und Penis. In den Hoden werden Spermien gebildet. Sie gelangen über die Nebenhoden in die Samenleiter. In Drüsen wie der Prostata werden Flüssigkeiten gebildet, die zusammen mit den Spermien das Sperma bilden. Beim Samenerguss wird Sperma durch die Harnröhre nach außen abgegeben."
+                      },
+                      {
+                        "title": "Menstruation bei Mädchen",
+                        "text": "In der Gebärmutter bildet sich jeden Monat eine Schleimhaut auf, die gut durchblutet ist. Sie bereitet sich darauf vor, einen Embryo aufzunehmen. Wird keine Eizelle befruchtet, wird die Schleimhaut nicht gebraucht und wieder abgebaut. Die Schleimhaut und Blut gelangen durch die Scheide nach außen – das ist die Menstruation (Regelblutung). Sie dauert meist einige Tage und wiederholt sich ungefähr alle 4 Wochen."
+                      },
+                      {
+                        "title": "Fortpflanzung und Entwicklung des Menschen",
+                        "text": "Kommt es zur Befruchtung, verschmilzt eine Eizelle der Frau mit einem Spermium des Mannes. Dies geschieht meist im Eileiter. Aus der befruchteten Eizelle entwickelt sich ein Embryo, der sich in der Gebärmutter einnistet. Dort wächst er über viele Monate heran. Während der Schwangerschaft wird der Embryo bzw. Fötus über die Plazenta (Mutterkuchen) mit Nährstoffen und Sauerstoff versorgt. Nach etwa neun Monaten wird das Kind geboren. Nach der Geburt wird das Baby über die Muttermilch oder andere Nahrung versorgt und entwickelt sich zum Kleinkind weiter."
+                      },
+                      {
+                        "title": "Hygiene der Geschlechtsorgane",
+                        "text": "Die Geschlechtsorgane sind empfindliche und wichtige Körperbereiche. Sie müssen sorgfältig, aber schonend gepflegt werden. Dazu gehört tägliche Reinigung mit Wasser (und ggf. milden Produkten), saubere Unterwäsche und das Vermeiden von stark reizenden Stoffen. Bei Mädchen ist es wichtig, während der Menstruation regelmäßig Binden oder Tampons zu wechseln und die Hände zu waschen. Gute Hygiene hilft, Infektionen und unangenehme Gerüche zu vermeiden. Trotzdem sollte man es mit Seifen und Sprays nicht übertreiben, damit die natürliche Schutzfunktion der Haut erhalten bleibt."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Eierstöcke",
+                        "definition": "Weibliche Organe, in denen Eizellen reifen."
+                      },
+                      {
+                        "term": "Gebärmutter",
+                        "definition": "Weibliches Organ, in dem sich ein Embryo während der Schwangerschaft entwickelt."
+                      },
+                      {
+                        "term": "Scheide",
+                        "definition": "Muskelschlauch, der die Gebärmutter mit dem äußeren Körper verbindet."
+                      },
+                      {
+                        "term": "Hoden",
+                        "definition": "Männliche Organe, in denen Spermien gebildet werden."
+                      },
+                      {
+                        "term": "Spermium",
+                        "definition": "Männliche Keimzelle, die bei der Befruchtung mit der Eizelle verschmilzt."
+                      },
+                      {
+                        "term": "Eizelle",
+                        "definition": "Weibliche Keimzelle, die bei der Befruchtung mit einem Spermium verschmilzt."
+                      },
+                      {
+                        "term": "Befruchtung",
+                        "definition": "Verschmelzung von Eizelle und Spermium zu einer befruchteten Eizelle."
+                      },
+                      {
+                        "term": "Embryo",
+                        "definition": "Frühes Entwicklungsstadium eines ungeborenen Kindes in der Gebärmutter."
+                      },
+                      {
+                        "term": "Plazenta (Mutterkuchen)",
+                        "definition": "Organ, das den Embryo in der Gebärmutter mit Nährstoffen und Sauerstoff versorgt."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann die wichtigsten Teile der weiblichen Geschlechtsorgane aufzählen und ihre Grundfunktion nennen.",
+                      "Ich kann die wichtigsten Teile der männlichen Geschlechtsorgane aufzählen und ihre Grundfunktion nennen.",
+                      "Ich kann den Ablauf der Menstruation grob erklären.",
+                      "Ich kann die Entwicklung eines Kindes von der Befruchtung bis zur Geburt beschreiben.",
+                      "Ich kann erklären, warum Hygiene an den Geschlechtsorganen wichtig ist und was dabei zu beachten ist.",
+                      "Ich kann das Thema in einer respektvollen Sprache besprechen."
+                    ],
+                    "sample_questions": [
+                      "Nenne die wichtigsten weiblichen Geschlechtsorgane und beschreibe ihre Aufgabe in einem Satz.",
+                      "Nenne die wichtigsten männlichen Geschlechtsorgane und beschreibe ihre Aufgabe in einem Satz.",
+                      "Erkläre vereinfacht, was bei der Menstruation passiert.",
+                      "Beschreibe den Weg von der Befruchtung bis zur Geburt eines Kindes in einfachen Worten.",
+                      "Warum ist Hygiene im Intimbereich wichtig und worauf sollte man achten?"
+                    ],
+                    "sample_answers": [
+                      "Zu den wichtigsten weiblichen Geschlechtsorganen gehören Eierstöcke (bilden Eizellen), Eileiter (transportieren die Eizelle), Gebärmutter (hier kann sich ein Embryo entwickeln) und Scheide (Verbindung nach außen).",
+                      "Zu den wichtigsten männlichen Geschlechtsorganen gehören Hoden (bilden Spermien), Samenleiter (transportieren Spermien) und Penis (gibt Sperma nach außen ab).",
+                      "Bei der Menstruation wird die Schleimhaut in der Gebärmutter, die sich für eine mögliche Schwangerschaft aufgebaut hat, wieder abgebaut und zusammen mit etwas Blut über die Scheide ausgeschieden. Das wiederholt sich ungefähr monatlich.",
+                      "Bei der Befruchtung verschmilzt eine Eizelle der Frau mit einem Spermium des Mannes. Aus dieser befruchteten Eizelle entwickelt sich ein Embryo, der sich in der Gebärmutter einnistet und dort wächst. Über die Plazenta erhält er Nährstoffe und Sauerstoff. Nach etwa neun Monaten ist das Kind so weit entwickelt, dass es geboren wird.",
+                      "Hygiene im Intimbereich ist wichtig, damit sich keine schädlichen Bakterien vermehren und keine Infektionen entstehen. Man sollte die Geschlechtsorgane täglich mit Wasser waschen, saubere Unterwäsche tragen und bei der Menstruation regelmäßig Binden oder Tampons wechseln. Gleichzeitig sollte man keine stark reizenden Seifen oder Sprays benutzen, damit die natürliche Schutzfunktion der Haut erhalten bleibt."
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
