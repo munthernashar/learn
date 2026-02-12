@@ -1,6 +1,3 @@
-Perfekt! Ich habe nun alle Details zu Modul 2 aus dem Lehrplan. Jetzt erstelle ich den vollständigen JSON-Inhalt für **Modul 2: Samenpflanzen** mit allen Unterthemen gemäß dem Lehrplan.
-
-```json
 {
   "school_id": "de_thueringen",
   "grades": [
@@ -979,4 +976,3 @@ Perfekt! Ich habe nun alle Details zu Modul 2 aus dem Lehrplan. Jetzt erstelle i
     }
   ]
 }
-```
