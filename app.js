@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // Daten laden, dann UI starten
   loadAllData().then(() => {
-    buildSearchIndex();   // falls du die Suche eingebaut hast
+    // buildSearchIndex();   // falls du die Suche eingebaut hast
     renderGrades();
     registerServiceWorker();
   });
@@ -336,4 +336,5 @@ function registerServiceWorker() {
     navigator.serviceWorker.register("sw.js").catch(() => {});
   }
 }
+
 
