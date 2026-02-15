@@ -1,0 +1,151 @@
+{
+  "school_id": "de_thueringen",
+  "grades": [
+    {
+      "grade_id": "klasse7",
+      "grade_label": "Klasse 7",
+      "subjects": [
+        {
+          "subject_id": "mu",
+          "subject_title": "Musik",
+          "modules": [
+            {
+              "module_id": "mu7_medien_bewegung_zeichen",
+              "module_name": "Musik & Medien, Bewegung, Zeichen",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Musik sehen, sich dazu bewegen und Medien gestalten",
+                    "text": "In diesem Modul verbindest du Musik mit Bewegung, Bildern und digitalen Medien. Du setzt Musik in einfache Bewegungs- oder Theaterszenen um, gestaltest kleine Medienprodukte und nutzt grundlegende Notations- und Zeichensysteme, um Musik sichtbar zu machen."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "mu7_mbz_u1",
+                  "text": "Ich kann Musik in einfache Bewegungen und kleine Szenen umsetzen und meine Gestaltungsideen begründen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Musik in Bewegung und Szene",
+                        "text": "Du setzt musikalische Gestaltungsmittel wie Tempo, Dynamik und Rhythmus in passende Bewegungen um, z. B. durch Bodypercussion, freie Bewegungen oder einfache Tanz- und Spielszenen. Du entwickelst in der Gruppe kleine musikalische Szenen oder kurze Musiktheatermomente und achtest auf Absprachen, Raumaufteilung und Wirkung nach außen."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Bodypercussion",
+                        "definition": "Erzeugen von Rhythmen mit dem eigenen Körper, z. B. durch Klatschen, Stampfen, Schnipsen."
+                      },
+                      {
+                        "term": "Choreografie",
+                        "definition": "Geplante Abfolge von Bewegungen zu Musik."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann rhythmische Elemente einer Musik in Bewegungen oder Bodypercussion umsetzen.",
+                      "Ich kann in einer Gruppe eine kurze Bewegungs- oder Theaterszene zu Musik planen.",
+                      "Ich kann erklären, warum meine Bewegung zu einer bestimmten Musik passt."
+                    ],
+                    "sample_questions": [
+                      "Wie kannst du laute und leise Stellen eines Musikstücks mit Bewegungen sichtbar machen?",
+                      "Welche Absprachen sind wichtig, wenn ihr in der Gruppe eine kurze Szene zu Musik gestaltet?"
+                    ],
+                    "sample_answers": [
+                      "Laute Stellen können durch größere, kraftvolle Bewegungen, leise Stellen durch kleine, zurückhaltende Bewegungen gezeigt werden; Tempo und Richtung können sich passend ändern.",
+                      "Wir müssen uns über Beginn, Ende, Raumwege und Rollen einigen und aufeinander achten, damit Bewegungen und Musik zusammenpassen."
+                    ]
+                  }
+                },
+                {
+                  "id": "mu7_mbz_u2",
+                  "text": "Ich kann einfache Musik- und Medienprodukte planen und mit grundlegender Technik umsetzen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Musik mit Medien gestalten",
+                        "text": "Du nutzt einfache Medientechnik, z. B. Aufnahmegeräte, Computer oder Tablet, um kurze Tonaufnahmen, Klangcollagen oder Präsentationen zu erstellen. Du planst dabei einfache Schritte (Idee, Aufnahme, Auswahl, Präsentation), achtest auf sinnvolle Lautstärke und besprichst grundlegende Aspekte von Urheberrecht und Quellenangabe."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Klangcollage",
+                        "definition": "Zusammenstellung verschiedener Geräusche, Klänge und Musikfragmente zu einem neuen Ganzen."
+                      },
+                      {
+                        "term": "Urheberrecht",
+                        "definition": "Recht, das die Nutzung und Verbreitung von geistigen Werken wie Musik regelt."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann den Ablauf für eine einfache Tonaufnahme oder Klangcollage planen.",
+                      "Ich kann die grundlegenden Funktionen eines Aufnahmegeräts oder einer einfachen Musik-App nutzen.",
+                      "Ich kann erklären, warum ich nicht beliebige Musik aus dem Internet einfach weiterverwenden darf."
+                    ],
+                    "sample_questions": [
+                      "Welche Schritte sind notwendig, um mit deiner Klasse einen kurzen Podcast oder eine Klangcollage zu erstellen?",
+                      "Was musst du beim Umgang mit Musik aus dem Internet in Bezug auf Rechte beachten?"
+                    ],
+                    "sample_answers": [
+                      "Wir brauchen eine Idee, planen Inhalte, nehmen Ton auf, wählen geeignete Teile aus, ordnen sie und bereiten eine Präsentation vor.",
+                      "Viele Musikstücke sind urheberrechtlich geschützt; ich darf sie nicht ohne Erlaubnis kopieren oder veröffentlichen und muss Quellen korrekt angeben."
+                    ]
+                  }
+                },
+                {
+                  "id": "mu7_mbz_u3",
+                  "text": "Ich kann grundlegende Notations- und Zeichensysteme nutzen, um einfache musikalische Abläufe sichtbar zu machen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Musik mit Zeichen festhalten",
+                        "text": "Du wiederholst grundlegende Elemente der traditionellen Notenschrift und lernst, sie in einfachen Beispielen anzuwenden. Außerdem nutzt du alternative Zeichen und Grafiken, um Rhythmen, Melodien oder Bewegungsabläufe übersichtlich darzustellen und als Hilfe für das gemeinsame Musizieren oder Bewegen zu verwenden."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Notenschrift",
+                        "definition": "System von Zeichen, mit dem Tonhöhen, Dauern und andere musikalische Merkmale festgehalten werden."
+                      },
+                      {
+                        "term": "Grafische Notation",
+                        "definition": "Vereinfachte oder bildhafte Darstellung von Musik mit selbst erfundenen Zeichen und Symbolen."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann einfache Rhythmen in traditioneller Notenschrift oder grafisch darstellen.",
+                      "Ich kann eine kurze Klang- oder Bewegungsfolge mit eigenen Symbolen planen.",
+                      "Ich kann mich beim Musizieren an einer einfachen Notation orientieren."
+                    ],
+                    "sample_questions": [
+                      "Wie kannst du einen einfachen Rhythmus (z. B. klatschen–klatschen–pause–stampfen) als Notation festhalten?",
+                      "Welche Vorteile hat es, Musik oder Bewegungen mit Zeichen aufzuschreiben?"
+                    ],
+                    "sample_answers": [
+                      "Ich kann Notenwerte und Pausen nutzen oder eigene Symbole zeichnen, z. B. unterschiedliche Zeichen für Klatschen, Stampfen und Pause in einer Reihe anordnen.",
+                      "Eine Notation hilft, sich Absprachen zu merken, gemeinsam zu musizieren und Abläufe später wiederholen zu können."
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

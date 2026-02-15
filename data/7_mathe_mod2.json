@@ -1,0 +1,148 @@
+{
+  "school_id": "de_thueringen",
+  "grades": [
+    {
+      "grade_id": "klasse7",
+      "grade_label": "Klasse 7",
+      "subjects": [
+        {
+          "subject_id": "mat",
+          "subject_title": "Mathematik",
+          "modules": [
+            {
+              "module_id": "mat7_funktionen",
+              "module_name": "Funktionen – Proportionalität und Prozentrechnung",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Beziehungen zwischen Größen verstehen",
+                    "text": "In diesem Modul arbeitest du mit Zuordnungen zwischen Zahlen und Größen. Du erkennst proportionale Zusammenhänge, ordnest Prozentaufgaben der Proportionalität zu und lernst, einfache funktionale Zusammenhänge in Tabellen, Diagrammen und Gleichungen darzustellen."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "mat7_funk_u1",
+                  "text": "Ich kann proportionale Zuordnungen erkennen und in Wertetabellen, Diagrammen und einfachen Gleichungen darstellen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Proportionale Zuordnung – ‚je mehr, desto mehr‘",
+                        "text": "Du erkennst proportionale Zuordnungen daran, dass der Quotient y/x für alle Wertpaare gleich ist (quotientengleich). Du stellst sie in Tabellen dar, zeichnest den Graphen als Ursprungsgerade im Koordinatensystem und schreibst eine Gleichung der Form y = k·x, wobei k der Proportionalitätsfaktor ist."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "proportionale Zuordnung",
+                        "definition": "Zuordnung, bei der der Quotient y/x konstant ist; der Graph ist eine Gerade durch den Ursprung."
+                      },
+                      {
+                        "term": "Proportionalitätsfaktor",
+                        "definition": "Konstante Zahl k in der Gleichung y = k·x, die angibt, wie stark y zu x wächst."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann aus einer Wertetabelle erkennen, ob eine Zuordnung proportional ist.",
+                      "Ich kann aus einer proportionalen Zuordnung den Proportionalitätsfaktor k bestimmen und die Gleichung y = k·x angeben."
+                    ],
+                    "sample_questions": [
+                      "Woran erkennst du in einer Tabelle, dass eine Zuordnung proportional ist?",
+                      "Wie bestimmst du den Proportionalitätsfaktor k aus einer Tabelle?"
+                    ],
+                    "sample_answers": [
+                      "Wenn der Quotient y/x für alle Paare gleich bleibt.",
+                      "Ich berechne k = y : x für ein passendes Wertpaar (x ≠ 0)."
+                    ]
+                  }
+                },
+                {
+                  "id": "mat7_funk_u2",
+                  "text": "Ich kann Prozentaufgaben als proportionale Zuordnungen verstehen und mit Dreisatz oder Formeln lösen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Prozentrechnung als Funktion",
+                        "text": "Du ordnest Prozentrechnung als Spezialfall der Proportionalität ein: 100 % entsprechen dem Grundwert, ein bestimmter Prozentsatz einem Teil davon. Du verwendest Dreisatz oder Formeln für Grundwert, Prozentsatz und Prozentwert, um Rabatte, Steigerungen und Verminderungen zu berechnen und Ergebnisse im Kontext zu interpretieren."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Grundwert",
+                        "definition": "Gesamtwert, der 100 % entspricht."
+                      },
+                      {
+                        "term": "Prozentwert",
+                        "definition": "Teil des Grundwertes, der dem gegebenen Prozentsatz entspricht."
+                      },
+                      {
+                        "term": "Prozentsatz",
+                        "definition": "Anteil in Prozent, z. B. 15 %, der angibt, wie groß der Teil vom Grundwert ist."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann in einer Textaufgabe klar erkennen, was Grundwert, Prozentsatz und Prozentwert ist.",
+                      "Ich kann typische Prozentaufgaben (z. B. Rabatt, Preiserhöhung) mit Dreisatz oder Formel lösen."
+                    ],
+                    "sample_questions": [
+                      "Wie berechnest du 12 % von 80 €?",
+                      "Wie gehst du vor, wenn eine Größe um 8 % erhöht werden soll?"
+                    ],
+                    "sample_answers": [
+                      "Prozentwert = Grundwert · Prozentsatz/100 = 80 · 12/100 = 9,60 €.",
+                      "Ich berechne zuerst 8 % des Ausgangsbetrags und addiere diesen Anteil zum Grundwert."
+                    ]
+                  }
+                },
+                {
+                  "id": "mat7_funk_u3",
+                  "text": "Ich kann einfache funktionale Zusammenhänge in Alltagssituationen erkennen, in Tabellen und Diagrammen darstellen und Ergebnisse deuten.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Von der Situation zur Darstellung",
+                        "text": "Du beschreibst Beziehungen zwischen Größen (z. B. Fahrstrecke und Zeit bei konstanter Geschwindigkeit, Kosten und Menge beim Einkaufen) mit Tabellen und Diagrammen. Du erkennst, ob es sich um proportionale Zusammenhänge handelt und interpretierst Steigungen und Werte im Kontext."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Zuordnung",
+                        "definition": "Regel, die jedem Wert aus einer Menge (z. B. x) genau einen Wert aus einer anderen Menge (z. B. y) zuordnet."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann aus einer Alltagssituation eine Zuordnungstabelle erstellen.",
+                      "Ich kann aus einem Diagramm ablesen, wie sich eine Größe verändert und was das im Sachzusammenhang bedeutet."
+                    ],
+                    "sample_questions": [
+                      "Wie erkennst du im Diagramm, ob eine Zuordnung proportional ist?",
+                      "Wie kannst du eine Einkaufssituation (Preis pro kg) als Zuordnung darstellen?"
+                    ],
+                    "sample_answers": [
+                      "Wenn der Graph eine Gerade durch den Ursprung ist.",
+                      "Ich trage die gekaufte Menge auf der x‑Achse und den Gesamtpreis auf der y‑Achse ab; jeder Punkt zeigt, wie viel die entsprechende Menge kostet."
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

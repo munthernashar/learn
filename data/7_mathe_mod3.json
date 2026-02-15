@@ -1,0 +1,171 @@
+{
+  "school_id": "de_thueringen",
+  "grades": [
+    {
+      "grade_id": "klasse7",
+      "grade_label": "Klasse 7",
+      "subjects": [
+        {
+          "subject_id": "mat",
+          "subject_title": "Mathematik",
+          "modules": [
+            {
+              "module_id": "mat7_geo1",
+              "module_name": "Geometrie – Figuren, Winkel, Umfang und Fläche",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Ebene Figuren und Körper untersuchen",
+                    "text": "In diesem Modul wiederholst und vertiefst du grundlegende geometrische Begriffe, untersuchst Eigenschaften ebener Figuren, arbeitest mit Winkeln und berechnest Umfänge und Flächeninhalte. Du nutzt Zeichengeräte und Koordinatensysteme, um Figuren genau darzustellen."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "mat7_geo1_u1",
+                  "text": "Ich kann grundlegende geometrische Objekte und Figuren benennen, darstellen und ihre Eigenschaften beschreiben.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Geometrische Grundbegriffe",
+                        "text": "Du wiederholst Begriffe wie Punkt, Strecke, Gerade, Strahl, Abstand, Winkel und die Relationen parallel und senkrecht. Du identifizierst ebene Figuren (Dreieck, Quadrat, Rechteck, Parallelogramm, Raute, Trapez, Drachenviereck, Kreis), beschreibst sie durch charakteristische Eigenschaften und skizzierst/zeichnest sie mit Lineal, Geodreieck und Zirkel."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "rechtwinklig",
+                        "definition": "Bezeichnung für einen Winkel von 90° bzw. für Figuren mit rechten Winkeln."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann zu einer gegebenen Figur passende Fachbegriffe nennen und ihre Eigenschaften aufzählen.",
+                      "Ich kann einfache Figuren sauber und maßstäblich zeichnen."
+                    ],
+                    "sample_questions": [
+                      "Wodurch unterscheidet sich ein Quadrat von einem allgemeinen Rechteck?",
+                      "Welche Eigenschaften hat ein Parallelogramm?"
+                    ],
+                    "sample_answers": [
+                      "Beim Quadrat sind alle Seiten gleich lang und alle Winkel recht; beim Rechteck sind nur gegenüberliegende Seiten gleich lang, alle Winkel aber ebenfalls recht.",
+                      "Gegenüberliegende Seiten sind parallel und gleich lang, gegenüberliegende Winkel sind gleich groß."
+                    ]
+                  }
+                },
+                {
+                  "id": "mat7_geo1_u2",
+                  "text": "Ich kann Winkelarten unterscheiden, Winkel messen, zeichnen und einfache Winkelsätze anwenden.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Arbeiten mit Winkeln",
+                        "text": "Du unterscheidest spitze, rechte, stumpfe und gestreckte Winkel. Du misst Winkel mit dem Geodreieck und zeichnest vorgegebene Winkelgrößen. Du nutzt einfache Winkelsätze (z. B. Scheitel- und Nebenwinkelsatz, Innenwinkelsumme im Dreieck), um fehlende Winkelgrößen zu bestimmen und Ergebnisse zu begründen."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Scheitelwinkel",
+                        "definition": "Zwei Winkel mit gemeinsamem Scheitel und gegenüberliegenden Schenkeln; sie sind gleich groß."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann Winkelarten zuordnen und Winkelgrößen sinnvoll schätzen.",
+                      "Ich kann mit Hilfe der Innenwinkelsumme im Dreieck fehlende Winkel berechnen."
+                    ],
+                    "sample_questions": [
+                      "Wie groß ist die Summe der Innenwinkel in einem Dreieck und wie nutzt du diese Information?",
+                      "Was weißt du über die Größe von Scheitel- und Nebenwinkeln?"
+                    ],
+                    "sample_answers": [
+                      "Sie beträgt 180°; kenne ich zwei Winkel, kann ich den dritten berechnen.",
+                      "Scheitelwinkel sind gleich groß, Nebenwinkel ergänzen sich zu 180°."
+                    ]
+                  }
+                },
+                {
+                  "id": "mat7_geo1_u3",
+                  "text": "Ich kann Umfang und Flächeninhalt grundlegender Figuren berechnen und Ergebnisse im Sachzusammenhang deuten.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Messen und Berechnen von Umfang und Fläche",
+                        "text": "Du nutzt bekannte Formeln für Umfang und Flächeninhalt von Rechteck und Quadrat und erweiterst sie auf Dreiecke, Parallelogramme und Trapeze durch Zerlegen oder Ergänzen. Du wendest die Formeln in Sachaufgaben an, z. B. beim Berechnen von Grundstücksflächen, Einfassungen oder Materialbedarf."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Flächeninhalt",
+                        "definition": "Maß für die Größe einer Fläche, angegeben in Flächeneinheiten (z. B. cm², m²)."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kenne die Formeln für Umfang und Flächeninhalt von Quadrat und Rechteck auswendig.",
+                      "Ich kann eine zusammengesetzte Figur in bekannte Teilflächen zerlegen und den gesamten Flächeninhalt berechnen."
+                    ],
+                    "sample_questions": [
+                      "Wie berechnest du den Flächeninhalt eines Rechtecks mit 3 cm und 7 cm Seitenlänge?",
+                      "Wie gehst du vor, wenn du den Flächeninhalt einer L‑förmigen Figur bestimmen möchtest?"
+                    ],
+                    "sample_answers": [
+                      "A = a · b = 3 cm · 7 cm = 21 cm².",
+                      "Ich teile die Figur in zwei Rechtecke, berechne die Flächeninhalte getrennt und addiere sie."
+                    ]
+                  }
+                },
+                {
+                  "id": "mat7_geo1_u4",
+                  "text": "Ich kann einfache Körper (Würfel, Quader) anhand von Netzen und Schrägbildern darstellen und Volumen sowie Oberfläche berechnen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Vom Netz zum Körper und zurück",
+                        "text": "Du erkennst Netze von Würfeln und Quadern und ordnest sie passenden Körpern zu. Du skizzierst einfache Schrägbilder, bestimmst Kanten, Ecken und Flächen und nutzt bekannte Formeln, um Volumen und Oberfläche von Würfel und Quader zu berechnen und in Sachaufgaben anzuwenden."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Netz eines Körpers",
+                        "definition": "Ebene Darstellung aller Begrenzungsflächen eines Körpers, so dass sich der Körper daraus falten lässt."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann entscheiden, ob ein gezeichnetes Netz zu einem Würfel oder Quader gehört.",
+                      "Ich kann Volumen und Oberfläche eines Würfels oder Quaders berechnen."
+                    ],
+                    "sample_questions": [
+                      "Wie berechnest du das Volumen eines Quaders mit den Kantenlängen 2 cm, 3 cm und 5 cm?",
+                      "Woran erkennst du, ob eine gezeichnete Figur ein gültiges Würfelnetz ist?"
+                    ],
+                    "sample_answers": [
+                      "V = a · b · c = 2 cm · 3 cm · 5 cm = 30 cm³.",
+                      "Alle sechs Quadrate müssen so angeordnet sein, dass man sie zu einem Würfel falten kann, ohne Überlappungen oder Lücken."
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "school_id": "de_thueringen",
+  "grades": [
+    {
+      "grade_id": "klasse7",
+      "grade_label": "Klasse 7",
+      "subjects": [
+        {
+          "subject_id": "ku",
+          "subject_title": "Kunst",
+          "modules": [
+            {
+              "module_id": "ku7_medien_umwelt",
+              "module_name": "Visuelle Medien & gestaltete Umwelt – Schrift, Fotografie, Architektur im Alltag",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Bilder, Schrift und Räume im Alltag bewusst wahrnehmen",
+                    "text": "In diesem Modul setzt du dich mit Schrift, Fotos und gebauter Umwelt auseinander, wie sie dir im Alltag begegnen. Du lernst, Schrift als Gestaltungsmittel zu nutzen, einfache fotografische Entscheidungen zu treffen und Gebäude sowie Räume in ihrer Wirkung zu beschreiben."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "ku7_mu_u1",
+                  "text": "Ich kann Schrift als Gestaltungselement nutzen und die Wirkung verschiedener Schriftgestaltungen beschreiben.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Schrift als Bild und Zeichen",
+                        "text": "Du untersuchst Schrift in Plakaten, Logos, Graffiti oder Buchgestaltungen und erkennst, dass Buchstaben nicht nur Informationen tragen, sondern auch Stimmungen erzeugen. Du gestaltest eigene Schriftbilder oder kurze Wort-Bild-Kompositionen, indem du mit Größe, Form, Farbe, Abständen und Anordnung der Buchstaben experimentierst."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Schriftgestaltung",
+                        "definition": "Bewusste Formgebung von Buchstaben, Wörtern oder Texten, z. B. durch Größe, Form, Farbe und Anordnung."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann Beispiele nennen, wo mir gestaltete Schrift im Alltag begegnet (z. B. Plakat, Logo, Graffiti).",
+                      "Ich kann in einer eigenen Gestaltung erklären, warum ich bestimmte Schriftformen und Farben gewählt habe.",
+                      "Ich kann beschreiben, wie eine Schrift freundlich, laut, ernst oder verspielt wirken kann."
+                    ],
+                    "sample_questions": [
+                      "Wo begegnet dir im Alltag Schrift, die besonders gestaltet ist, und wie wirkt sie auf dich?",
+                      "Wie kannst du ein Wort nur durch Schriftgestaltung passend zu seiner Bedeutung gestalten (z. B. „laut“, „leise“)?"
+                    ],
+                    "sample_answers": [
+                      "Zum Beispiel in Werbeplakaten, auf Verpackungen oder als Graffiti; je nach Schriftart und Farbe wirkt sie modern, verspielt, aggressiv oder seriös.",
+                      "Das Wort „laut“ könnte ich mit großen, fetten, vielleicht zackigen Buchstaben und kräftigen Farben schreiben, „leise“ eher klein, dünn und in zarten Farbtönen."
+                    ]
+                  }
+                },
+                {
+                  "id": "ku7_mu_u2",
+                  "text": "Ich kann einfache fotografische Mittel wie Bildausschnitt und Blickwinkel nutzen und ihre Wirkung beschreiben.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Mit dem Fotoapparat sehen lernen",
+                        "text": "Du lernst, dass jede Fotografie nur einen Ausschnitt der Wirklichkeit zeigt und dass Bildausschnitt und Blickwinkel die Wirkung stark verändern. Du probierst aus, wie sich Motive aus der Froschperspektive, Vogelperspektive oder aus der Nähe beziehungsweise Ferne anders darstellen und wie Licht und Schatten Formen betonen können."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Bildausschnitt",
+                        "definition": "Der Bereich der Wirklichkeit, der im Foto gezeigt wird, während alles andere außerhalb des Bildes bleibt."
+                      },
+                      {
+                        "term": "Blickwinkel",
+                        "definition": "Richtung und Höhe, aus der ein Motiv fotografiert wird, z. B. von oben, von unten oder auf Augenhöhe."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann zu einem Motiv verschiedene Bildausschnitte fotografieren und ihre Wirkung vergleichen.",
+                      "Ich kann mindestens zwei Blickwinkel (z. B. von oben, von unten) unterscheiden und benennen.",
+                      "Ich kann beschreiben, wie Licht und Schatten in einem Foto Formen betonen."
+                    ],
+                    "sample_questions": [
+                      "Wie verändert sich die Wirkung eines einfachen Motivs (z. B. Stuhl, Person), wenn du es aus der Froschperspektive oder Vogelperspektive fotografierst?",
+                      "Warum ist es wichtig, den Bildausschnitt bewusst zu wählen?"
+                    ],
+                    "sample_answers": [
+                      "Aus der Froschperspektive kann ein Gegenstand größer und mächtiger wirken, aus der Vogelperspektive eher klein und überschaubar.",
+                      "Der Bildausschnitt entscheidet, was im Foto zu sehen ist und was nicht; dadurch lenkst du die Aufmerksamkeit der Betrachter und kannst z. B. Unordnung ausblenden oder bestimmte Details betonen."
+                    ]
+                  }
+                },
+                {
+                  "id": "ku7_mu_u3",
+                  "text": "Ich kann Gebäude und Räume in meiner Umgebung bewusst wahrnehmen und einfache Merkmale ihrer Gestaltung beschreiben.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Architektur im Alltag sehen",
+                        "text": "Du betrachtest Gebäude und Räume in deiner Umgebung, z. B. Schule, Wohnhäuser, Plätze, und achtest auf Form, Proportionen, Materialien, Farben und Licht. Du beschreibst, wie diese Merkmale die Wirkung eines Raumes beeinflussen, etwa ob er eng oder weit, hell oder dunkel, ruhig oder unruhig wirkt, und lernst, einfache Skizzen oder Fotos zur Dokumentation zu nutzen."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "gestaltete Umwelt",
+                        "definition": "Von Menschen geformte Umgebung, z. B. Gebäude, Plätze, Innenräume, die unseren Alltag prägen."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann an einem Beispiel beschreiben, wie ein Raum auf mich wirkt (z. B. eng, weit, hell, dunkel).",
+                      "Ich kann mindestens zwei Merkmale nennen, die die Wirkung eines Gebäudes oder Raumes beeinflussen (z. B. Material, Farbe, Fenstergröße).",
+                      "Ich kann mit einer einfachen Skizze oder einem Foto ausgewählte Merkmale eines Gebäudes oder Raumes festhalten."
+                    ],
+                    "sample_questions": [
+                      "Wie wirkt ein für dich typischer Klassenraum im Vergleich zu einem großen öffentlichen Gebäude (z. B. Bahnhofshalle, Kirche)?",
+                      "Welche Merkmale eines Gebäudes oder Raumes kannst du bewusst benennen und wie beeinflussen sie deine Wahrnehmung?"
+                    ],
+                    "sample_answers": [
+                      "Ein Klassenraum wirkt oft überschaubar und funktional, eine große Halle kann beeindruckend, weit oder sogar überwältigend wirken, weil sie höher, weiter und oft anders beleuchtet ist.",
+                      "Zum Beispiel beeinflussen Höhe und Breite des Raums, Fenstergröße, Licht, Farben der Wände und Materialien wie Glas, Beton oder Holz, ob ich einen Raum eher gemütlich, kühl oder spannend finde."
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

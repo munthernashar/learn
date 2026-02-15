@@ -1,0 +1,354 @@
+{
+  "school_id": "de_thueringen",
+  "grades": [
+    {
+      "grade_id": "klasse7",
+      "grade_label": "Klasse 7",
+      "subjects": [
+        {
+          "subject_id": "frz",
+          "subject_title": "Französisch",
+          "modules": [
+            {
+              "module_id": "frz7_hv",
+              "module_name": "Hörverstehen / audiovisuelles Verstehen",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Französisch hören und verstehen",
+                    "text": "In diesem Modul trainierst du dein Hörverstehen im Französischen. Du hörst kurze und längere Hörtexte, z. B. Dialoge, Durchsagen, kleine Geschichten oder Videos, und lernst, wichtige Informationen und Details zu erkennen. Du nutzt dein Weltwissen, Bilder und andere Hilfen, um auch bei unbekannten Wörtern den Sinn zu erschließen."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "frz7_hv_u1",
+                  "text": "Ich kann in einfachen Hörtexten zu vertrauten Themen wichtige Informationen entnehmen (z. B. zu Personen, Orten, Zeiten).",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Global verstehen",
+                        "text": "Du hörst einfache französische Hörtexte zu Themen wie Schule, Freizeit oder Familie und konzentrierst dich zuerst auf den Gesamtsinn. Du achtest auf bekannte Wörter, Namen, Zahlen und wiederkehrende Ausdrücke, um herauszufinden, worum es insgesamt geht."
+                      },
+                      {
+                        "title": "Wichtige Details herausfiltern",
+                        "text": "Danach hörst du den Text gezielt noch einmal, um bestimmte Informationen zu finden, z. B. wer, wo, wann, wie oft. Du nutzt Schlüsselwörter und deine Notizen, um Antworten auf konkrete Fragen zu finden."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Schlüsselwort",
+                        "definition": "Wichtiger Begriff im Text, der dir hilft zu verstehen, worum es geht (z. B. Namen, Zahlen, Orte, Signalwörter)."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann nach einmaligem Hören sagen, worum es in einem einfachen Hörtext grob geht.",
+                      "Ich kann nach mehrmaligem Hören gezielte Informationen (z. B. Uhrzeit, Ort, Preis) heraushören."
+                    ],
+                    "sample_questions": [
+                      "Woran erkennst du im Hörtext, worum es grob geht?",
+                      "Wie gehst du vor, wenn du eine bestimmte Information (z. B. Uhrzeit) heraushören möchtest?"
+                    ],
+                    "sample_answers": [
+                      "Ich achte auf bekannte Wörter, Namen und das Thema der Aufgabe und versuche zuerst nur den Gesamteindruck zu verstehen.",
+                      "Ich höre besonders auf Zahlen, Zeitangaben und typische Wendungen und mache mir kurze Notizen."
+                    ]
+                  }
+                },
+                {
+                  "id": "frz7_hv_u2",
+                  "text": "Ich kann beim Hören Strategien nutzen (z. B. Bilder, Überschriften, Mimik und Gestik), um auch bei unbekannten Wörtern den Sinn zu erschließen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Hilfen vor dem Hören nutzen",
+                        "text": "Bevor du zuhörst, schaust du dir Bilder, Überschriften oder Aufgaben genau an und bildest eine Erwartung, worum es gehen könnte. So bist du besser vorbereitet und kannst neue Wörter leichter einordnen."
+                      },
+                      {
+                        "title": "Nonverbale Signale beachten",
+                        "text": "Bei Videos und Dialogen helfen dir Mimik, Gestik und Hintergrundgeräusche. Du beobachtest die Situation genau und nutzt diese Hinweise, um Vermutungen über den Inhalt zu überprüfen."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Hörstrategie",
+                        "definition": "Bewusste Vorgehensweise, die dir hilft, einen Hörtext besser zu verstehen, z. B. Erwartungen bilden, Schlüsselwörter markieren, mehrmals hören."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich schaue vor dem Hören auf Bilder und Aufgaben und überlege, was vorkommen könnte.",
+                      "Ich nutze Mimik, Gestik und Geräusche als Hilfe beim Verstehen."
+                    ],
+                    "sample_questions": [
+                      "Wie hilft dir ein Bild vor dem Hörtext beim Verstehen?",
+                      "Welche nonverbalen Signale kannst du bei einem Video beobachten?"
+                    ],
+                    "sample_answers": [
+                      "Das Bild gibt mir Hinweise zum Thema und zu möglichen Personen, dadurch kann ich besser raten, was ich gleich hören werde.",
+                      "Ich achte auf Gesichtsausdrücke, Gesten und Geräusche im Hintergrund, um Stimmung und Situation zu erkennen."
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "module_id": "frz7_lv",
+              "module_name": "Leseverstehen",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Texte lesen und verstehen",
+                    "text": "In diesem Modul lernst du, französische Texte gezielt zu lesen. Du übst, Überschriften und Bilder zu nutzen, wichtige Informationen zu markieren und unbekannte Wörter mit Hilfe des Kontexts und deines Vorwissens zu erschließen."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "frz7_lv_u1",
+                  "text": "Ich kann in einfachen Texten zu vertrauten Themen den Hauptinhalt und wichtige Details verstehen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Globales und detailliertes Lesen",
+                        "text": "Du liest einfache Texte zu Themen wie Schule, Alltag oder Freizeit zuerst schnell, um den Hauptinhalt zu erfassen. Danach liest du gezielter und suchst nach bestimmten Informationen, z. B. Namen, Zahlen, Begründungen oder Beispielen."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "globales Lesen",
+                        "definition": "Schnelles Lesen eines Textes, um den Hauptinhalt zu verstehen, ohne jedes Wort zu kennen."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann nach dem Lesen in eigenen Worten sagen, worum es im Text geht.",
+                      "Ich kann gefragte Informationen im Text wiederfinden und markieren."
+                    ],
+                    "sample_questions": [
+                      "Wie unterscheidet sich globales Lesen von detailliertem Lesen?",
+                      "Welche Textstellen markierst du, wenn du nach einer bestimmten Information suchst?"
+                    ],
+                    "sample_answers": [
+                      "Beim globalen Lesen will ich nur den Gesamteindruck, beim detaillierten Lesen achte ich auf einzelne Infos und Details.",
+                      "Ich markiere die Stelle, an der das gesuchte Wort oder ein ähnlicher Ausdruck vorkommt, und prüfe den Satz genau."
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "module_id": "frz7_sp",
+              "module_name": "Sprechen",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Mündlich kommunizieren",
+                    "text": "In diesem Modul übst du, dich auf Französisch in Alltagssituationen zu verständigen. Du führst einfache Gespräche, stellst Fragen, antwortest, beschreibst Personen und Situationen und hältst kurze zusammenhängende Sprechbeiträge."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "frz7_sp_u1",
+                  "text": "Ich kann in einfachen Gesprächssituationen reagieren, Fragen stellen und beantworten (z. B. zu Alltag, Schule, Freizeit).",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Fragen und Antworten im Alltag",
+                        "text": "Du trainierst typische Redemittel, um nach Namen, Alter, Herkunft, Hobbys oder Tagesablauf zu fragen und zu antworten. Du achtest dabei auf höfliche Anrede, passende Fragewörter und einfache Satzstrukturen."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Redemittel",
+                        "definition": "Feste Wendungen, die dir helfen, typische Sprechsituationen zu bewältigen, z. B. jemanden begrüßen, nach der Uhrzeit fragen oder eine Meinung äußern."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann ein einfaches Gespräch beginnen, aufrechterhalten und beenden.",
+                      "Ich kann einfache Fragen zu vertrauten Themen stellen und beantworten."
+                    ],
+                    "sample_questions": [
+                      "Welche Redemittel nutzt du, um ein Gespräch zu beginnen?",
+                      "Wie kannst du höflich nach der Meinung deines Gesprächspartners fragen?"
+                    ],
+                    "sample_answers": [
+                      "Ich beginne mit einer Begrüßung und einer einfachen Frage, z. B. wie es der Person geht.",
+                      "Ich kann fragen: Et toi, qu’est-ce que tu en penses ? oder Tu es d’accord ?"
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "module_id": "frz7_sc",
+              "module_name": "Schreiben",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Texte schreiben",
+                    "text": "In diesem Modul übst du, einfache Texte auf Französisch zu verfassen. Du schreibst kurze Mitteilungen, persönliche Texte und kleine Beschreibungen und achtest dabei auf Aufbau, Wortschatz und grundlegende Grammatik."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "frz7_sc_u1",
+                  "text": "Ich kann kurze, strukturierte Texte zu vertrauten Themen verfassen (z. B. Steckbrief, kurze Nachricht, Beschreibung).",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Texte planen und schreiben",
+                        "text": "Du sammelst Stichwörter, ordnest sie und überlegst eine sinnvolle Reihenfolge für deinen Text. Dann formulierst du ganze Sätze und achtest auf verständlichen Aufbau, passende Verbformen und Satzzeichen."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Textaufbau",
+                        "definition": "Sinnvolle Reihenfolge von Einleitung, Hauptteil und Schluss sowie logische Verbindung der Sätze."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann vor dem Schreiben Stichwörter sammeln und ordnen.",
+                      "Ich kann meinen Text nach dem Schreiben noch einmal lesen und offensichtliche Fehler verbessern."
+                    ],
+                    "sample_questions": [
+                      "Warum hilft dir eine Stichwortsammlung beim Schreiben?",
+                      "Was überprüfst du beim Korrigieren deines Textes zuerst?"
+                    ],
+                    "sample_answers": [
+                      "Weil ich dann alle wichtigen Ideen vor mir habe und entscheiden kann, was in welcher Reihenfolge in den Text kommt.",
+                      "Ich schaue zuerst nach offensichtlichen Rechtschreib- und Verbfehlern und ob die Sätze logisch zusammenpassen."
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "module_id": "frz7_med",
+              "module_name": "Mediation / Sprachmittlung",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Zwischen Sprachen vermitteln",
+                    "text": "In diesem Modul lernst du, Informationen aus einfachen französischen Texten sinngemäß auf Deutsch wiederzugeben und umgekehrt. Du übst, nur das Wichtige auszuwählen und verständlich zu formulieren."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "frz7_med_u1",
+                  "text": "Ich kann wesentliche Informationen aus sehr einfachen französischen Texten in deutscher Sprache zusammenfassen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Wichtiges erkennen und wiedergeben",
+                        "text": "Du markierst in einfachen französischen Texten die wichtigsten Informationen und formulierst sie in eigenen deutschen Sätzen. Du lässt Nebensächlichkeiten weg und achtest darauf, dass deine Zusammenfassung zusammenhängend und verständlich ist."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Sprachmittlung",
+                        "definition": "Sinngemäße Übertragung von Inhalten aus einer Sprache in eine andere, ohne wörtlich zu übersetzen."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann wichtige Informationen markieren und in eigenen Worten auf Deutsch wiedergeben.",
+                      "Ich kann meine Zusammenfassung so formulieren, dass eine andere Person den Text versteht, ohne das Original zu kennen."
+                    ],
+                    "sample_questions": [
+                      "Woran erkennst du, welche Informationen in einem Text wichtig sind?",
+                      "Was ist der Unterschied zwischen wörtlichem Übersetzen und Sprachmittlung?"
+                    ],
+                    "sample_answers": [
+                      "Wichtig sind Informationen, die zum Hauptthema gehören, z. B. wer, was, wann, wo und warum.",
+                      "Beim Übersetzen übertrage ich Satz für Satz, bei der Sprachmittlung fasse ich das Wichtigste in eigenen Worten zusammen."
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "module_id": "frz7_sr",
+              "module_name": "Sprachreflexion",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Über Sprache nachdenken",
+                    "text": "In diesem Modul vergleichst du Französisch mit Deutsch und anderen Sprachen, entdeckst Gemeinsamkeiten und Unterschiede und lernst Strategien, um Wortschatz und Grammatik besser zu verstehen und zu lernen."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "frz7_sr_u1",
+                  "text": "Ich kann einfache Strukturen und Wörter im Französischen mit dem Deutschen vergleichen und Regeln ableiten.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Sprachen vergleichen",
+                        "text": "Du schaust dir Beispiele aus dem Französischen und Deutschen nebeneinander an und suchst nach Mustern, z. B. bei Artikeln, Verbformen oder Wortstellung. So erkennst du Regeln und kannst sie in neuen Situationen anwenden."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Sprachbewusstheit",
+                        "definition": "Fähigkeit, Sprache aufmerksam zu beobachten, zu vergleichen und bewusst zu nutzen."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann an Beispielen Gemeinsamkeiten und Unterschiede zwischen Französisch und Deutsch erklären.",
+                      "Ich kann aus Beispielen einfache Regeln ableiten und sie auf neue Sätze anwenden."
+                    ],
+                    "sample_questions": [
+                      "Wie hilft dir der Vergleich mit Deutsch beim Lernen von Französisch?",
+                      "Wie kannst du selbst eine Regel aus Beispielen herausfinden?"
+                    ],
+                    "sample_answers": [
+                      "Ich erkenne schneller, was ähnlich funktioniert und wo ich aufpassen muss, weil es anders ist.",
+                      "Ich schaue mir mehrere Beispielsätze an, markiere das, was sich verändert, und formuliere eine einfache Regel in eigenen Worten."
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

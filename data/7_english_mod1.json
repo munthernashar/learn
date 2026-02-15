@@ -1,0 +1,152 @@
+{
+  "school_id": "de_thueringen",
+  "grades": [
+    {
+      "grade_id": "klasse7",
+      "grade_label": "Klasse 7",
+      "subjects": [
+        {
+          "subject_id": "eng",
+          "subject_title": "Englisch",
+          "modules": [
+            {
+              "module_id": "eng7_rezeption",
+              "module_name": "Texte rezipieren – Hören und Lesen",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Englische Texte verstehen",
+                    "text": "In diesem Modul trainierst du dein Hör- und Leseverstehen in Englisch auf Niveau A2+/punktuell B1. Du arbeitest mit einfachen und teilweise schon etwas komplexeren Texten zu vertrauten Themen und lernst Strategien, um globale Aussagen und Details zu verstehen, auch wenn nicht jedes Wort bekannt ist."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "eng7_hv_u1",
+                  "text": "Ich kann in einfachen Hör- und Hör-Sehtexten zu vertrauten Themen den Inhalt global und wichtige Details verstehen (z. B. Gespräche, Durchsagen, kurze Berichte).",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Global verstehen beim Hören",
+                        "text": "Du hörst einfache englische Texte, z. B. Dialoge, kurze Ankündigungen, Videoclips oder Berichte zu Themen wie Schule, Freizeit oder Reisen. Zuerst konzentrierst du dich auf die Gesamtbotschaft: Wer spricht, worum geht es, was ist ungefähr die Situation?"
+                      },
+                      {
+                        "title": "Details gezielt herausfiltern",
+                        "text": "Bei einem zweiten Hören achtest du gezielt auf Details, z. B. Zahlen, Orte, Zeitangaben oder Gründe. Du nutzt Aufgabenstellung, Schlüsselwörter und Notizen, um Antworten auf konkrete Fragen zu finden, auch wenn du nicht alle Wörter kennst."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "global listening",
+                        "definition": "Hören mit dem Ziel, den Gesamtsinn eines Textes zu erfassen, ohne auf jedes Detail zu achten."
+                      },
+                      {
+                        "term": "key words",
+                        "definition": "Wichtige Wörter, die dir helfen, das Thema und zentrale Informationen des Textes zu erkennen."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann nach einmaligem Hören kurz sagen, worum es in einem einfachen Hörtext auf Englisch geht.",
+                      "Ich kann nach erneutem Hören gezielt Details (z. B. Zahlen, Orte, Zeiten) nennen, die in der Aufgabe gefragt sind."
+                    ],
+                    "sample_questions": [
+                      "Welche Informationen suchst du zuerst, wenn du einen Hörtext global verstehen willst?",
+                      "Wie gehst du vor, wenn du im Hörtext eine bestimmte Information (z. B. time or place) finden sollst?"
+                    ],
+                    "sample_answers": [
+                      "Ich achte auf die Situation, die sprechenden Personen und bekannte Wörter, um Thema und Stimmung zu erkennen.",
+                      "Ich lese die Aufgabe vorher, höre auf passende Schlüsselwörter und mache mir kurze Notizen, wenn ich die Information höre."
+                    ]
+                  }
+                },
+                {
+                  "id": "eng7_lv_u1",
+                  "text": "Ich kann einfache englische Lesetexte zu vertrauten Themen global, selektiv und teilweise detailliert verstehen (z. B. Stories, E-Mails, Blogs, Anzeigen).",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Lesestrategien nutzen",
+                        "text": "Du übst verschiedene Lesetechniken: Beim skimming liest du schnell, um das Thema und die Hauptaussagen zu erfassen. Beim scanning suchst du gezielt nach bestimmten Informationen, z. B. Namen, Daten, Preisen. Bei genauerem Lesen achtest du auf Zusammenhänge und Begründungen."
+                      },
+                      {
+                        "title": "Mit unbekannten Wörtern umgehen",
+                        "text": "Du erschließt unbekannte Wörter aus dem Kontext, aus Wortbildung (z. B. Vor- und Nachsilben) oder durch Vergleich mit Deutsch und anderen Sprachen. Nur wenn nötig, nutzt du ein Wörterbuch – du lernst, nicht jedes Wort nachzuschlagen."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "skimming",
+                        "definition": "Schnelles Lesen eines Textes, um Thema und Hauptaussagen zu erfassen."
+                      },
+                      {
+                        "term": "scanning",
+                        "definition": "Gezieltes Suchen nach bestimmten Informationen in einem Text."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann nach dem Lesen in 1–2 Sätzen sagen, worum es in einem Text geht.",
+                      "Ich kann gezielt Informationen im Text finden, die in einer Aufgabe gefragt sind (z. B. who, where, when, why)."
+                    ],
+                    "sample_questions": [
+                      "Wann benutzt du skimming, wann scanning?",
+                      "Wie kannst du versuchen, die Bedeutung eines unbekannten Wortes zu erraten, ohne das Wörterbuch zu benutzen?"
+                    ],
+                    "sample_answers": [
+                      "Skimming nutze ich, um schnell den Inhalt zu erfassen; scanning, wenn ich gezielt nach bestimmten Infos suche.",
+                      "Ich schaue mir den Satz und die Sätze davor/danach an, vergleiche mit ähnlichen Wörtern und überlege, was logisch passen könnte."
+                    ]
+                  }
+                },
+                {
+                  "id": "eng7_rez_u3",
+                  "text": "Ich kann Vorwissen, Bilder, Überschriften und Aufgaben nutzen, um Hör- und Lesetexte besser zu verstehen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Vor dem Hören/Lesen Erwartungen aufbauen",
+                        "text": "Bevor du einen Text hörst oder liest, schaust du auf Überschriften, Bilder, Aufgaben und bekannte Wörter. Du bildest Vermutungen, worum es gehen könnte. Das hilft dir, das Gehörte und Gelesene schneller einzuordnen und Unbekanntes besser zu verstehen."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "pre-listening / pre-reading",
+                        "definition": "Phase vor dem Hören oder Lesen, in der du Erwartungen aufbaust und Vorwissen aktivierst."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich schaue mir vor dem Hören/Lesen Überschrift, Bilder und Aufgaben genau an.",
+                      "Ich kann beschreiben, welche Vermutungen ich vor dem Hören/Lesen habe und wie sie mir beim Verstehen helfen."
+                    ],
+                    "sample_questions": [
+                      "Warum ist es hilfreich, vor dem Hören oder Lesen schon Vermutungen über den Text anzustellen?",
+                      "Welche Elemente eines Arbeitsblatts nutzt du, um dir ein Bild vom Text zu machen?"
+                    ],
+                    "sample_answers": [
+                      "Weil ich dann eine Vorstellung vom Thema habe und leichter erkenne, welche Informationen wichtig sind.",
+                      "Ich nutze Überschrift, Bilder, eventuell Vokabelboxen und die Fragen zur Aufgabe."
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

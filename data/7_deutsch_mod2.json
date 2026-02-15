@@ -1,0 +1,136 @@
+{
+  "school_id": "de_thueringen",
+  "grades": [
+    {
+      "grade_id": "klasse7",
+      "grade_label": "Klasse 7",
+      "subjects": [
+        {
+          "subject_id": "deu",
+          "subject_title": "Deutsch",
+          "modules": [
+            {
+              "module_id": "deu7_sprechen",
+              "module_name": "Sprechen – Gespräche führen und vortragen",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Mündlich sicher kommunizieren",
+                    "text": "In diesem Modul übst du, in unterschiedlichen Gesprächssituationen angemessen zu sprechen: im Alltagsgespräch, bei Diskussionen und in kurzen Vorträgen. Du achtest auf Inhalt, Sprache und Auftreten."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "deu7_sp_u1",
+                  "text": "Ich kann an Gesprächen teilnehmen, meine Meinung äußern und auf andere eingehen (z. B. in Partner- und Gruppengesprächen).",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Gesprächsregeln anwenden",
+                        "text": "Du wiederholst und nutzt grundlegende Gesprächsregeln: einander ausreden lassen, Blickkontakt halten, sich melden, anknüpfen, nachfragen, widersprechen und zustimmen. Du übst, eigene Beiträge verständlich zu formulieren und auf Beiträge anderer einzugehen."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Gesprächsregeln",
+                        "definition": "Vereinbarte Regeln, die ein faires und geordnetes Gespräch ermöglichen, z. B. ausreden lassen, zuhören, auf andere eingehen."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich halte grundlegende Gesprächsregeln ein.",
+                      "Ich kann eigene Beiträge sachlich formulieren und an das Gesagte anderer anschließen."
+                    ],
+                    "sample_questions": [
+                      "Welche Gesprächsregeln sind dir besonders wichtig – und warum?",
+                      "Woran erkennst du, dass du auf den Beitrag eines anderen wirklich eingegangen bist?"
+                    ],
+                    "sample_answers": [
+                      "Zum Beispiel ausreden lassen und zuhören, weil sonst niemand seine Gedanken vollständig darstellen kann.",
+                      "Wenn ich auf einen Punkt eingehe, nachfrage oder eine andere Sicht dazu formuliere, statt nur mein eigenes Thema zu bringen."
+                    ]
+                  }
+                },
+                {
+                  "id": "deu7_sp_u2",
+                  "text": "Ich kann kurze, vorbereitete Vorträge oder Präsentationen zu einem Thema halten und verständlich strukturieren.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Vorträge planen und halten",
+                        "text": "Du planst kurze Vorträge mit Einleitung, Hauptteil und Schluss. Du nutzt Stichwortzettel oder Folien statt den Text abzulesen und achtest auf eine klare Struktur, verständliche Sprache und passende Beispiele."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Gliederung",
+                        "definition": "Sinnvolle Einteilung eines Vortrags in Einleitung, Hauptteil und Schluss."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann meinen Vortrag logisch gliedern und mit einem passenden Einstieg beginnen.",
+                      "Ich spreche frei mit Stichworten und lese nicht nur ab."
+                    ],
+                    "sample_questions": [
+                      "Was macht einen Einstieg in einen Vortrag interessant?",
+                      "Warum ist es sinnvoll, mit Stichwortzetteln statt mit ausformulierten Sätzen zu sprechen?"
+                    ],
+                    "sample_answers": [
+                      "Zum Beispiel eine Frage, ein kurzer Bezug zum Alltag oder ein überraschender Fakt.",
+                      "Weil ich dann freier spreche, Blickkontakt halten kann und besser auf mein Publikum eingehe."
+                    ]
+                  }
+                },
+                {
+                  "id": "deu7_sp_u3",
+                  "text": "Ich kann meine Stimme und Körpersprache bewusst einsetzen (z. B. Lautstärke, Tempo, Blickkontakt, Gestik).",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Wirkungsvoll sprechen",
+                        "text": "Du achtest beim Sprechen auf passende Lautstärke, deutliches Artikulieren, angemessenes Sprechtempo und Betonung wichtiger Wörter. Du nutzt Blickkontakt, Mimik und Gestik, um deine Aussagen zu unterstützen, ohne übertrieben zu wirken."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Körpersprache",
+                        "definition": "Nichtsprachliche Signale wie Mimik, Gestik und Haltung, die die Wirkung von Gesprochenem beeinflussen."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich spreche so laut und deutlich, dass man mich im Raum gut verstehen kann.",
+                      "Ich halte beim Sprechen Blickkontakt und nutze Mimik und Gestik passend zur Situation."
+                    ],
+                    "sample_questions": [
+                      "Wie beeinflusst deine Körpersprache die Wirkung deines Vortrags?",
+                      "Was kannst du tun, wenn du beim Sprechen sehr nervös bist?"
+                    ],
+                    "sample_answers": [
+                      "Sichere Körpersprache lässt mich überzeugender wirken; unsichere Signale können vom Inhalt ablenken.",
+                      "Zum Beispiel vorher tief durchatmen, den Anfang gut einüben und sich bewusst hinstellen, bevor ich zu sprechen beginne."
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

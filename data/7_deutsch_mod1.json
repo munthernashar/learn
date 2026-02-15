@@ -1,0 +1,136 @@
+{
+  "school_id": "de_thueringen",
+  "grades": [
+    {
+      "grade_id": "klasse7",
+      "grade_label": "Klasse 7",
+      "subjects": [
+        {
+          "subject_id": "deu",
+          "subject_title": "Deutsch",
+          "modules": [
+            {
+              "module_id": "deu7_lesen",
+              "module_name": "Texte rezipieren – Lesen",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Texte verstehen und auswerten",
+                    "text": "In diesem Modul trainierst du dein Leseverstehen für unterschiedliche Textsorten. Du arbeitest mit erzählenden und Sachtexten, lernst Lesestrategien und übst, Inhalte zu erfassen, zu strukturieren und zu bewerten."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "deu7_lesen_u1",
+                  "text": "Ich kann den Inhalt erzählender Texte (z. B. Kurzgeschichte, Ausschnitt aus einem Jugendroman) wiedergeben und grundlegende Aussagen benennen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Handlung und Figuren erfassen",
+                        "text": "Du liest erzählende Texte und fasst die Handlung in eigenen Worten zusammen. Du erkennst die wichtigsten Figuren, ihre Beziehungen zueinander und zentrale Konflikte oder Entwicklungen im Text."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Inhaltsangabe",
+                        "definition": "Knapp zusammenfassende Wiedergabe der wichtigsten Inhalte eines Textes in eigenen Worten, ohne Wertung."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann in 5–8 Sätzen wiedergeben, was in einem erzählenden Text wichtig passiert.",
+                      "Ich kann zentrale Figuren und ihren Konflikt benennen."
+                    ],
+                    "sample_questions": [
+                      "Woran erkennst du, was in einer Geschichte wirklich wichtig ist?",
+                      "Was unterscheidet eine Inhaltsangabe von einer Nacherzählung?"
+                    ],
+                    "sample_answers": [
+                      "Wichtige Ereignisse verändern die Situation der Figuren oder treiben den Konflikt voran.",
+                      "Die Inhaltsangabe ist kurz, sachlich und ohne direkte Rede, die Nacherzählung erzählt ausführlicher und mit sprachlicher Ausgestaltung."
+                    ]
+                  }
+                },
+                {
+                  "id": "deu7_lesen_u2",
+                  "text": "Ich kann Sach- und Gebrauchstexte (z. B. einfache Zeitungsartikel, Infotexte, Diagramme) zielgerichtet lesen und wichtige Informationen entnehmen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Sachtexte lesend erschließen",
+                        "text": "Du nutzt Überschriften, Zwischenüberschriften, Grafiken und Absätze, um Aufbau und Thema eines Sachtextes zu erkennen. Du filterst wichtige Informationen heraus und ordnest sie der Fragestellung zu, z. B. durch Stichwortzettel oder Tabellen."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Sachtext",
+                        "definition": "Text, der über Sachverhalte informiert, erklärt oder argumentiert, z. B. Zeitungsartikel, Lexikonartikel, Kommentar."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann zu einer Leitfrage passende Informationen aus einem Sachtext herausschreiben.",
+                      "Ich kann in eigenen Worten erklären, worüber ein Sachtext informiert."
+                    ],
+                    "sample_questions": [
+                      "Welche Textsignale helfen dir, dich in einem Sachtext zu orientieren?",
+                      "Wie kannst du die wichtigsten Informationen aus einem Sachtext sichern?"
+                    ],
+                    "sample_answers": [
+                      "Überschriften, Absätze, Hervorhebungen, Bilder und Bildunterschriften geben Hinweise auf Struktur und Inhalt.",
+                      "Ich kann Stichwörter notieren, ein Mindmap oder eine Tabelle anlegen oder einen kurzen Infotext schreiben."
+                    ]
+                  }
+                },
+                {
+                  "id": "deu7_lesen_u3",
+                  "text": "Ich kann Lesestrategien (z. B. Überfliegen, genaues Lesen, Markieren) bewusst einsetzen und mein Leseverstehen überprüfen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Strategisch lesen",
+                        "text": "Du unterscheidest je nach Aufgabenstellung zwischen schnellem Überfliegen (um Thema und Textsorte zu bestimmen) und genauem Lesen (für Details). Du markierst Schlüsselwörter, notierst Fragen an den Text und überprüfst, ob du sie beantworten kannst."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Lesestrategie",
+                        "definition": "Bewusstes Vorgehen beim Lesen, um Texte besser zu verstehen, z. B. Überfliegen, Markieren, Fragen an den Text stellen."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann erklären, welche Lesestrategien ich bei einem Text angewendet habe.",
+                      "Ich kann überprüfen, ob ich einen Text verstanden habe, z. B. indem ich mir selbst Fragen dazu beantworte."
+                    ],
+                    "sample_questions": [
+                      "Wann ist es sinnvoll, einen Text zuerst nur zu überfliegen?",
+                      "Wie merkst du, dass du einen Text noch nicht richtig verstanden hast – und was kannst du dann tun?"
+                    ],
+                    "sample_answers": [
+                      "Wenn ich mir zuerst einen Überblick verschaffen will, z. B. bei einem längeren Text oder bei einer neuen Textsorte.",
+                      "Wenn ich wichtige Fragen nicht beantworten kann oder mir der Zusammenhang unklar ist; dann lese ich die Stelle noch einmal langsamer, markiere Schlüsselwörter oder fasse Absätze zusammen."
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

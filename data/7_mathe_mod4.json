@@ -1,0 +1,140 @@
+{
+  "school_id": "de_thueringen",
+  "grades": [
+    {
+      "grade_id": "klasse7",
+      "grade_label": "Klasse 7",
+      "subjects": [
+        {
+          "subject_id": "mat",
+          "subject_title": "Mathematik",
+          "modules": [
+            {
+              "module_id": "mat7_stochastik",
+              "module_name": "Stochastik – mit Daten und Zufall arbeiten",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Daten auswerten und Zufall untersuchen",
+                    "text": "In diesem Modul erfassst und darstellst du Daten, wertest sie mit einfachen Kenngrößen aus und untersuchst Zufallsexperimente. Du lernst, Wahrscheinlichkeiten als erwartete relative Häufigkeiten zu deuten und Ergebnisse kritisch zu betrachten."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "mat7_sto_u1",
+                  "text": "Ich kann Daten erfassen, in Tabellen und Diagrammen darstellen und einfache Kenngrößen berechnen (Minimum, Maximum, Spannweite, arithmetisches Mittel, Modalwert, Median).",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Daten sammeln und beschreiben",
+                        "text": "Du erfasst Daten in Ur- und Strichlisten, ordnest sie und stellst sie in Tabellen und Diagrammen (z. B. Säulen- oder Streifendiagramm) dar. Du berechnest einfache Kenngrößen wie kleinster und größter Wert, Spannweite, Durchschnitt (arithmetisches Mittel), am häufigsten vorkommender Wert (Modalwert) und Zentralwert (Median) und nutzt sie, um Datensätze zu vergleichen."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "arithmetisches Mittel",
+                        "definition": "Durchschnittswert, berechnet als Summe aller Werte geteilt durch deren Anzahl."
+                      },
+                      {
+                        "term": "Median",
+                        "definition": "Wert in der Mitte einer geordneten Datenliste; teilt die Daten in zwei gleich große Hälften."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann aus einer Rohdatenliste eine sortierte Tabelle und ein einfaches Diagramm erstellen.",
+                      "Ich kann arithmetisches Mittel, Modalwert, Minimum, Maximum und Spannweite berechnen und erklären, was sie aussagen."
+                    ],
+                    "sample_questions": [
+                      "Wann ist das arithmetische Mittel als Kennzahl sinnvoll – und wann eher der Median?",
+                      "Wie gehst du vor, um aus einer Strichliste ein Säulendiagramm zu erstellen?"
+                    ],
+                    "sample_answers": [
+                      "Das Mittel ist geeignet bei gleichmäßig verteilten Werten; bei Ausreißern ist der Median oft aussagekräftiger.",
+                      "Ich zähle die Striche pro Ausprägung, trage die Kategorien auf der x‑Achse und die Häufigkeiten als Säulen auf der y‑Achse ein."
+                    ]
+                  }
+                },
+                {
+                  "id": "mat7_sto_u2",
+                  "text": "Ich kann einfache Zufallsexperimente planen, durchführen und Wahrscheinlichkeiten mit relativen Häufigkeiten beschreiben.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Zufall und Wahrscheinlichkeit",
+                        "text": "Du planst einfache Zufallsexperimente (z. B. Würfel, Münzwurf, Ziehen von farbigen Kugeln), führst sie mehrfach durch und protokollierst Ergebnisse. Du beschreibst Wahrscheinlichkeiten als erwartete relative Häufigkeiten bei vielen Wiederholungen und verwendest Begriffe wie ‚sicher‘, ‚unmöglich‘, ‚möglich‘ und ‚wahrscheinlich‘ passend."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "relative Häufigkeit",
+                        "definition": "Anteil eines Ereignisses an der Gesamtzahl der Versuche (z. B. 30 von 100 Würfen → 0,3)."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann Zufallsexperimente so planen, dass Ergebnisse klar erfasst werden können.",
+                      "Ich kann aus Versuchsdaten die relative Häufigkeit berechnen und als Schätzung für die Wahrscheinlichkeit deuten."
+                    ],
+                    "sample_questions": [
+                      "Wie verändert sich die relative Häufigkeit eines Ereignisses, wenn du ein Experiment immer öfter wiederholst?",
+                      "Wie würdest du die Wahrscheinlichkeit beim Würfeln einer ‚6‘ beschreiben?"
+                    ],
+                    "sample_answers": [
+                      "Sie schwankt anfangs stärker und nähert sich mit vielen Versuchen einem stabilen Wert an.",
+                      "Bei einem idealen Würfel beträgt die theoretische Wahrscheinlichkeit 1/6; in Experimenten sollte sich die relative Häufigkeit langfristig in diese Richtung bewegen."
+                    ]
+                  }
+                },
+                {
+                  "id": "mat7_sto_u3",
+                  "text": "Ich kann einfache Wahrscheinlichkeiten bei Laplace-Experimenten berechnen und Ergebnisse kritisch bewerten.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Laplace-Wahrscheinlichkeit bei einfachen Experimenten",
+                        "text": "Du lernst, bei Zufallsexperimenten mit gleichwahrscheinlichen Ergebnissen (Laplace-Experimente) Wahrscheinlichkeiten als Verhältnis von günstigen zu möglichen Ergebnissen zu berechnen. Du wendest dies z. B. bei Würfeln, Münzwurf oder einfachen Zieh-Experimenten an und vergleichst theoretische mit experimentellen Ergebnissen."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Laplace-Experiment",
+                        "definition": "Zufallsexperiment, bei dem alle elementaren Ergebnisse gleich wahrscheinlich sind."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann bei einfachen Laplace-Experimenten günstige und mögliche Ergebnisse angeben.",
+                      "Ich kann eine Wahrscheinlichkeit als Bruch, Dezimalzahl oder Prozentzahl angeben und mit Versuchsergebnissen vergleichen."
+                    ],
+                    "sample_questions": [
+                      "Wie berechnest du die Wahrscheinlichkeit, beim Würfeln eine gerade Zahl zu erhalten?",
+                      "Warum können experimentelle Ergebnisse von der theoretischen Laplace-Wahrscheinlichkeit abweichen?"
+                    ],
+                    "sample_answers": [
+                      "Es gibt 3 günstige Ergebnisse (2, 4, 6) von 6 möglichen → 3/6 = 1/2 = 0,5 = 50 %.",
+                      "Weil die Anzahl der Versuche begrenzt ist und Zufallsschwankungen auftreten; je mehr Versuche, desto näher liegen die relativen Häufigkeiten an der theoretischen Wahrscheinlichkeit."
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

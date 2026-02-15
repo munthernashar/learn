@@ -1,0 +1,148 @@
+{
+  "school_id": "de_thueringen",
+  "grades": [
+    {
+      "grade_id": "klasse7",
+      "grade_label": "Klasse 7",
+      "subjects": [
+        {
+          "subject_id": "phy",
+          "subject_title": "Physik",
+          "modules": [
+            {
+              "module_id": "phy7_kraft_druck_energie",
+              "module_name": "Kraft, Druck und mechanische Energie – Grundlagen",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Wie Kräfte und Druck wirken",
+                    "text": "In diesem Modul lernst du grundlegende Begriffe aus der Mechanik kennen. Du untersuchst, wie Kräfte auf Körper wirken, was man unter Druck versteht und wie mechanische Arbeit und Energie in Alltagssituationen eine Rolle spielen."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "phy7_kde_u1",
+                  "text": "Ich kann Kräfte als gerichtete physikalische Größen beschreiben, Beispiele nennen und Kraftwirkungen unterscheiden.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Was ist eine Kraft?",
+                        "text": "Du lernst, dass Kräfte durch Wirkung beschrieben werden: Sie können Körper verformen oder Bewegungszustände ändern. Du unterscheidst verschiedene Kraftarten (z. B. Gewichtskraft, Reibungskraft, elastische Kraft) und stellst Kräfte als Pfeile mit Betrag und Richtung dar."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Kraft",
+                        "definition": "Gerichtete physikalische Größe, die einen Körper verformen oder seine Bewegung ändern kann."
+                      },
+                      {
+                        "term": "Gewichtskraft",
+                        "definition": "Kraft, mit der die Erde einen Körper anzieht; sie wirkt nach unten und hängt von der Masse ab."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann mindestens zwei verschiedene Wirkungen von Kräften an Beispielen erklären.",
+                      "Ich kann Kräfte in einfachen Skizzen als Pfeile mit Richtung und Angriffspunkt einzeichnen."
+                    ],
+                    "sample_questions": [
+                      "Woran erkennst du im Alltag, dass auf einen Körper eine Kraft wirkt?",
+                      "Wie unterscheidet sich die Gewichtskraft von der Masse eines Körpers?"
+                    ],
+                    "sample_answers": [
+                      "Wenn sich seine Bewegung ändert (er beschleunigt oder bremst) oder seine Form verändert wird.",
+                      "Die Masse ist eine Eigenschaft des Körpers (in kg), die Gewichtskraft ist die Kraft, mit der die Erde ihn anzieht (in N)."
+                    ]
+                  }
+                },
+                {
+                  "id": "phy7_kde_u2",
+                  "text": "Ich kann erklären, was Druck ist, wovon er abhängt, und Beispiele aus Alltag und Technik beschreiben.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Druck – Kraft auf Fläche",
+                        "text": "Du charakterisierst Druck als Verhältnis von Kraft zu Fläche und erkennst: Dieselbe Kraft kann je nach Fläche einen unterschiedlichen Druck erzeugen. Du erläuterst an Beispielen (z. B. spitze vs. breite Kufen, Messer, Raupenfahrzeuge), warum kleine Flächen zu großem Druck führen und umgekehrt."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Druck",
+                        "definition": "Physikalische Größe, die angibt, wie stark eine Kraft auf eine Fläche wirkt (Druck = Kraft : Fläche)."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann beschreiben, wie sich der Druck ändert, wenn ich die Fläche bei gleicher Kraft vergrößere oder verkleinere.",
+                      "Ich kenne mindestens zwei Beispiele aus dem Alltag, in denen großer oder kleiner Druck genutzt wird."
+                    ],
+                    "sample_questions": [
+                      "Warum sinkt jemand mit Schneeschuhen weniger tief in den Schnee ein als ohne?",
+                      "Welche Rolle spielt Druck beim Schneiden mit einem scharfen Messer?"
+                    ],
+                    "sample_answers": [
+                      "Die gleiche Gewichtskraft verteilt sich auf eine größere Fläche, dadurch ist der Druck kleiner.",
+                      "Die Kraft konzentriert sich auf eine kleine Schneidefläche – der Druck ist groß und das Schneiden wird leichter."
+                    ]
+                  }
+                },
+                {
+                  "id": "phy7_kde_u3",
+                  "text": "Ich kann mechanische Arbeit und Energie in einfachen Situationen beschreiben und zwischen Lage- und Bewegungsenergie unterscheiden.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Arbeit und Energie in der Mechanik",
+                        "text": "Du beschreibst mechanische Arbeit anschaulich als ‚Kraft mal Weg in Wirkrichtung‘ und erkennst, dass dabei Energie übertragen wird. Du unterscheidest Lageenergie (potentielle Energie) und Bewegungsenergie (kinetische Energie) an Beispielen wie hochgehobenen Körpern, rollenden Kugeln oder schwingenden Pendeln."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "mechanische Arbeit",
+                        "definition": "Physikalische Größe, die beschreibt, wie viel Energie durch das Wirken einer Kraft entlang eines Weges übertragen wird."
+                      },
+                      {
+                        "term": "potentielle Energie",
+                        "definition": "Energie, die ein Körper aufgrund seiner Lage im Gravitationsfeld besitzt (Lageenergie)."
+                      },
+                      {
+                        "term": "kinetische Energie",
+                        "definition": "Energie, die ein Körper aufgrund seiner Bewegung besitzt."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann zu einer Alltagssituation erklären, wo mechanische Arbeit verrichtet wird.",
+                      "Ich kann an einem Beispiel zwischen Lage- und Bewegungsenergie unterscheiden."
+                    ],
+                    "sample_questions": [
+                      "Wann verrichtest du mechanische Arbeit, wenn du einen Rucksack trägst?",
+                      "Wie ändert sich die Energie eines Balls, den du hochwirfst und wieder fallen lässt?"
+                    ],
+                    "sample_answers": [
+                      "Wenn ich den Rucksack gegen die Gewichtskraft nach oben trage – Kraft wirkt entlang eines Weges.",
+                      "Beim Hochwerfen wandelt sich Bewegungsenergie in Lageenergie, beim Fallen umgekehrt Lageenergie wieder in Bewegungsenergie."
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

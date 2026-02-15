@@ -1,0 +1,140 @@
+{
+  "school_id": "de_thueringen",
+  "grades": [
+    {
+      "grade_id": "klasse7",
+      "grade_label": "Klasse 7",
+      "subjects": [
+        {
+          "subject_id": "geo",
+          "subject_title": "Geografie",
+          "modules": [
+            {
+              "module_id": "geo7_tourismus",
+              "module_name": "Tourismus und Freizeit als Wirtschafts- und Umweltfaktor",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Unterwegs in der Welt – Reisen und ihre Folgen",
+                    "text": "In diesem Modul untersuchst du, wie sich Tourismus weltweit entwickelt hat, welche Arten von Tourismus es gibt und welche Auswirkungen Reisen auf Wirtschaft, Gesellschaft und Umwelt haben. Du lernst auch, was nachhaltiger oder „sanfter“ Tourismus bedeutet."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "geo7_tour_u1",
+                  "text": "Ich kann wichtige Tourismusarten unterscheiden und Beispiele nennen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Wer reist wohin – und warum?",
+                        "text": "Du lernst verschiedene Tourismusarten kennen, z. B. Bade- und Strandtourismus, Städtereisen, Wintersport, Natur- und Wandertourismus sowie Event- oder Themenparks. Du ordnest Beispiele zu und überlegst, welche Ziele und Motive (Erholung, Abenteuer, Kultur, Party) dahinterstehen."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Tourismusart",
+                        "definition": "Form des Reisens mit bestimmten Merkmalen und Zielen, z. B. Badeurlaub, Städtereise oder Naturtourismus."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann mindestens drei verschiedene Tourismusarten aufzählen.",
+                      "Ich kann zu jeder Form ein typisches Reiseziel nennen."
+                    ],
+                    "sample_questions": [
+                      "Welche Tourismusarten kennst du aus deinem Alltag oder aus Medien?",
+                      "Wodurch unterscheidet sich eine Städtereise von einem Badeurlaub?"
+                    ],
+                    "sample_answers": [
+                      "Zum Beispiel Badeurlaub am Meer, Städtereisen, Wintersporturlaub, Wander- oder Naturtourismus, Freizeitparkbesuche.",
+                      "Bei Städtereisen stehen Kultur, Sehenswürdigkeiten und Stadtleben im Mittelpunkt, beim Badeurlaub vor allem Strand, Meer und Erholung."
+                    ]
+                  }
+                },
+                {
+                  "id": "geo7_tour_u2",
+                  "text": "Ich kann Chancen und Probleme des Tourismus für eine Urlaubsregion beschreiben.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Tourismus als Wirtschaftsfaktor",
+                        "text": "Du erkennst, dass Tourismus Geld in eine Region bringt, Arbeitsplätze schafft und Infrastruktur verbessert (z. B. Hotels, Restaurants, Verkehr). Du kannst diese Chancen an einem Beispiel erklären, etwa an einer Mittelmeerregion oder einem Gebirge."
+                      },
+                      {
+                        "title": "Belastungen für Natur und Menschen",
+                        "text": "Du lernst, dass Tourismus auch Probleme verursachen kann, z. B. Flächenverbrauch, Müll, Wasserknappheit oder steigende Preise für Einheimische. Du beschreibst an einem Beispiel, wie Massentourismus Umwelt und Lebensbedingungen vor Ort belastet."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Massentourismus",
+                        "definition": "Tourismusform, bei der sehr viele Menschen gleichzeitig in dieselben Ziele reisen, häufig mit hohen Belastungen für Umwelt und Infrastruktur."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann an einem Beispiel Chancen des Tourismus für die Einwohner nennen.",
+                      "Ich kann mindestens zwei typische Umweltprobleme in stark besuchten Urlaubsregionen erklären."
+                    ],
+                    "sample_questions": [
+                      "Welche Vorteile kann Tourismus für eine Küstenregion haben?",
+                      "Welche Probleme entstehen in Regionen mit starkem Massentourismus?"
+                    ],
+                    "sample_answers": [
+                      "Es entstehen Arbeitsplätze im Hotel- und Gastgewerbe, im Handel und bei Dienstleistern, außerdem wird Infrastruktur wie Straßen oder Freizeitangebote ausgebaut.",
+                      "Zum Beispiel Zerstörung von Naturflächen durch Hotelbau, Müllprobleme, hoher Wasserverbrauch, Lärm und Verkehrsbelastung."
+                    ]
+                  }
+                },
+                {
+                  "id": "geo7_tour_u3",
+                  "text": "Ich kann den Begriff nachhaltiger bzw. sanfter Tourismus erklären und einfache Beispiele nennen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Reisen mit Verantwortung",
+                        "text": "Du lernst die Idee des nachhaltigen oder sanften Tourismus kennen: Reisen soll die Natur und Kultur möglichst wenig schädigen, Einheimische fair beteiligen und langfristig lebenswerte Bedingungen sichern. Du überlegst, wie sich dein eigenes Reiseverhalten nachhaltiger gestalten ließe."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "nachhaltiger / sanfter Tourismus",
+                        "definition": "Tourismus, der Umwelt und Kultur schont, die lokale Bevölkerung einbezieht und auf langfristig verträgliche Entwicklung setzt."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann in eigenen Worten erklären, was nachhaltiger Tourismus bedeutet.",
+                      "Ich kann mindestens zwei Maßnahmen nennen, wie Tourismus nachhaltiger gestaltet werden kann."
+                    ],
+                    "sample_questions": [
+                      "Welche Ziele verfolgt nachhaltiger Tourismus?",
+                      "Wie könntest du dich als Tourist nachhaltiger verhalten?"
+                    ],
+                    "sample_answers": [
+                      "Er soll Natur schützen, die Kultur respektieren und der lokalen Bevölkerung faire Chancen auf Einkommen geben, ohne die Region zu überlasten.",
+                      "Zum Beispiel lokale Angebote und Unterkünfte nutzen, Müll vermeiden, Wasser und Energie sparen, auf übermäßiges Fliegen verzichten oder längere Aufenthalte planen."
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

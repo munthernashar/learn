@@ -1,0 +1,105 @@
+{
+  "school_id": "de_thueringen",
+  "grades": [
+    {
+      "grade_id": "klasse7",
+      "grade_label": "Klasse 7",
+      "subjects": [
+        {
+          "subject_id": "geschi",
+          "subject_title": "Geschichte",
+          "modules": [
+            {
+              "module_id": "ges7_lernb4",
+              "module_name": "Industrialisierung und Soziale Frage",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Die Welt wird industriell",
+                    "text": "In diesem Modul lernst du, wie sich durch Industrialisierung Wirtschaft und Gesellschaft verändern. Du vergleichst Lebens- und Arbeitsbedingungen vor und nach der Industrialisierung und beschäftigst dich mit der Sozialen Frage und ersten Lösungsansätzen."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "ges7_lernb4_u1",
+                  "text": "Ich kann Ursachen und grundlegende Veränderungen der Industrialisierung in England und Deutschland beschreiben.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Vom Handwerk zur Fabrik",
+                        "text": "Du beschreibst, warum es im 18. und 19. Jahrhundert zur Industrialisierung kommt, z. B. durch technische Erfindungen, Bevölkerungswachstum und neue Energiequellen. Du vergleichst Arbeitsweisen im Handwerk mit der Arbeit in Fabriken."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Industrialisierung",
+                        "definition": "Übergang von handwerklicher zu maschineller Produktion und damit verbundenen tiefgreifenden wirtschaftlichen und gesellschaftlichen Veränderungen."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann den Unterschied zwischen vorindustrieller handwerklicher Arbeit und Fabrikarbeit erklären.",
+                      "Ich kann mindestens zwei wichtige Ursachen der Industrialisierung nennen."
+                    ],
+                    "sample_questions": [
+                      "Welche Erfindungen oder Entwicklungen haben die Industrialisierung besonders vorangetrieben?",
+                      "Wie veränderte sich das Leben der Menschen durch Fabrikarbeit?"
+                    ],
+                    "sample_answers": [
+                      "Zum Beispiel Dampfmaschine, mechanischer Webstuhl und neue Transportmittel wie Eisenbahn.",
+                      "Viele Menschen zogen in Städte, arbeiteten lange in Fabriken, waren von Löhnen abhängig und hatten weniger Einfluss auf Arbeitsbedingungen."
+                    ]
+                  }
+                },
+                {
+                  "id": "ges7_lernb4_u2",
+                  "text": "Ich kann die Soziale Frage erklären und erste Lösungsansätze beschreiben.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Probleme der neuen Arbeitswelt",
+                        "text": "Du lernst die Soziale Frage als Zusammenfassung der Probleme der Arbeiterinnen und Arbeiter kennen: lange Arbeitszeiten, niedrige Löhne, Unsicherheit, Kinderarbeit und schlechte Wohnbedingungen. Du wertest dazu z. B. Berichte, Bilder oder Statistiken aus."
+                      },
+                      {
+                        "title": "Ansätze zur Lösung",
+                        "text": "Du beschreibst, welche Antworten es auf die Soziale Frage gab, z. B. Fabrikgesetze, Sozialgesetze, Gewerkschaften und Ideen von Sozialismus und Kommunismus. Du überlegst, welche Wirkung diese Ansätze hatten und welche Probleme bestehen blieben."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Soziale Frage",
+                        "definition": "Bezeichnung für die sozialen Probleme, die durch Industrialisierung und Fabrikarbeit vor allem für die Arbeiterschaft entstanden."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann an konkreten Beispielen erklären, was mit Sozialer Frage gemeint ist.",
+                      "Ich kann mindestens zwei verschiedene Lösungsansätze zur Sozialen Frage nennen."
+                    ],
+                    "sample_questions": [
+                      "Warum sprach man im 19. Jahrhundert von einer Sozialen Frage?",
+                      "Welche Rolle spielten Gewerkschaften und Sozialgesetze bei der Lösung dieser Probleme?"
+                    ],
+                    "sample_answers": [
+                      "Weil die neuen Probleme der Arbeiterklasse dringend Antworten brauchten und das ganze Zusammenleben betrafen.",
+                      "Gewerkschaften vertraten die Interessen der Arbeiter gegenüber den Fabrikbesitzern, Sozialgesetze sorgten für erste Absicherungen bei Krankheit und Alter."
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "school_id": "de_thueringen",
+  "grades": [
+    {
+      "grade_id": "klasse7",
+      "grade_label": "Klasse 7",
+      "subjects": [
+        {
+          "subject_id": "geschi",
+          "subject_title": "Geschichte",
+          "modules": [
+            {
+              "module_id": "ges7_lernb5",
+              "module_name": "Nationalstaat, Kaiserreich und Erster Weltkrieg",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Deutschland und die Welt im 19. und frühen 20. Jahrhundert",
+                    "text": "In diesem Modul verfolgst du den Weg zum deutschen Nationalstaat, das Deutsche Kaiserreich und das Zeitalter des Imperialismus. Du untersuchst, wie Nationalismus und Machtstreben in den Ersten Weltkrieg führen."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "ges7_lernb5_u1",
+                  "text": "Ich kann wichtige Stationen auf dem Weg zum deutschen Nationalstaat im 19. Jahrhundert beschreiben.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Vom Deutschen Bund zum Kaiserreich",
+                        "text": "Du lernst zentrale Ereignisse wie den Wiener Kongress, den Deutschen Bund, die Revolution von 1848/49 und die Reichsgründung 1871 kennen. Du ordnest diese Entwicklungen zeitlich ein und kannst erklären, warum man von einer „Revolution von oben“ spricht."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Nation",
+                        "definition": "Gemeinschaft von Menschen, die sich z. B. durch Sprache, Geschichte, Kultur oder politische Vorstellungen verbunden fühlen."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann die Reichsgründung 1871 zeitlich einordnen und den Begriff „Revolution von oben“ erklären.",
+                      "Ich kann mindestens zwei Ziele der nationalen Bewegung im 19. Jahrhundert nennen."
+                    ],
+                    "sample_questions": [
+                      "Warum wird die Reichsgründung 1871 als „Revolution von oben“ bezeichnet?",
+                      "Welche Bedeutung hatte die Revolution von 1848/49 für die nationale Bewegung?"
+                    ],
+                    "sample_answers": [
+                      "Weil die Einheit nicht von einer Volksbewegung, sondern vor allem durch die Politik der Fürsten bzw. Bismarcks herbeigeführt wurde.",
+                      "Sie zeigte den Wunsch vieler Menschen nach Einheit und Freiheit, scheiterte aber an den alten Machtverhältnissen, beeinflusste jedoch spätere Entwicklungen."
+                    ]
+                  }
+                },
+                {
+                  "id": "ges7_lernb5_u2",
+                  "text": "Ich kann Grundzüge des Deutschen Kaiserreichs und des Zeitalters des Imperialismus erläutern und Zusammenhänge mit dem Ersten Weltkrieg erkennen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Kaiserreich und Nationalismus",
+                        "text": "Du beschreibst das politische System des Kaiserreichs, innenpolitische Spannungen und die Rolle von Nationalismus und Militarismus. Du erkennst, warum das Kaiserreich als Mischung aus Fortschritt und Rückständigkeit gilt."
+                      },
+                      {
+                        "title": "Imperialismus und Weg in den Krieg",
+                        "text": "Du ordnest das Zeitalter des Imperialismus mit Hilfe von Karten ein und erklärst, warum europäische Mächte Kolonien eroberten. Du erkennst Zusammenhänge zwischen imperialem Konkurrenzdenken, Bündnissystemen und den Ursachen des Ersten Weltkriegs."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Imperialismus",
+                        "definition": "Politik von Großmächten, ihre Macht durch Kolonien und Einflussgebiete in anderen Teilen der Welt zu vergrößern."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann an einem Beispiel erklären, was mit Imperialismus gemeint ist.",
+                      "Ich kann mindestens zwei Ursachen nennen, die zum Ersten Weltkrieg beitrugen."
+                    ],
+                    "sample_questions": [
+                      "Welche Ziele verfolgten europäische Mächte im Zeitalter des Imperialismus?",
+                      "Wie trugen Bündnissysteme und Imperialismus zum Ausbruch des Ersten Weltkriegs bei?"
+                    ],
+                    "sample_answers": [
+                      "Sie wollten Rohstoffe, Absatzmärkte, militärische Stützpunkte und Prestige als Weltmacht gewinnen.",
+                      "Die Rivalität um Kolonien und Macht verstärkte Misstrauen, Bündnisse sorgten dafür, dass ein Konflikt zwischen zwei Staaten schnell zu einem großen Krieg werden konnte."
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

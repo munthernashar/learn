@@ -1,0 +1,147 @@
+{
+  "school_id": "de_thueringen",
+  "grades": [
+    {
+      "grade_id": "klasse7",
+      "grade_label": "Klasse 7",
+      "subjects": [
+        {
+          "subject_id": "ku",
+          "subject_title": "Kunst",
+          "modules": [
+            {
+              "module_id": "ku7_grafik_plastik",
+              "module_name": "Grafik & Plastik – Linien, Formen, Raum und Material",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Vom Strich zur Form, vom Körper zum Raum",
+                    "text": "In diesem Modul untersuchst du, wie aus Punkten, Linien und Flächen grafische Strukturen entstehen und wie du mit formbaren Materialien einfache plastische Körper gestaltest. Du lernst, Oberflächen, Formen und Raumwirkungen bewusst wahrzunehmen und für eigene Bild- und Raumideen zu nutzen."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "ku7_gp_u1",
+                  "text": "Ich kann mit Punkt, Linie und Fläche grafische Strukturen gestalten und ihre Wirkung beschreiben.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Punkt, Linie, Fläche als grafische Mittel",
+                        "text": "Du wiederholst die grafischen Grundmittel Punkt, Linie und Fläche und setzt sie in unterschiedlichen Dichten, Richtungen und Anordnungen ein. Du vergleichst, wie feine oder grobe Strukturen, dichte oder lockere Schraffuren sowie verschiedene Linienverläufe (z. B. gerade, geschwungen, zackig) unterschiedliche Wirkungen erzeugen."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "grafische Struktur",
+                        "definition": "Wiederholung und Anordnung von Punkten, Linien oder Flächen, die eine bestimmte Wirkung oder Textur erzeugt."
+                      },
+                      {
+                        "term": "Schraffur",
+                        "definition": "Dichte Anordnung von Linien, mit der Hell-Dunkel-Werte oder Flächenstrukturen dargestellt werden."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann Punkt, Linie und Fläche in eigenen Zeichnungen bewusst einsetzen.",
+                      "Ich kann erklären, wie sich dichte und lockere Schraffuren auf die Bildwirkung auswirken.",
+                      "Ich kann mindestens zwei verschiedene grafische Strukturen entwerfen und benennen."
+                    ],
+                    "sample_questions": [
+                      "Wie kannst du nur mit Linien unterschiedliche Helligkeiten oder Flächenwirkungen darstellen?",
+                      "Welche Wirkung haben zackige, unterbrochene Linien im Vergleich zu weichen, geschwungenen Linien?"
+                    ],
+                    "sample_answers": [
+                      "Durch eng nebeneinanderliegende Linien wirken Flächen dunkler und dichter, durch weit auseinanderliegende Linien heller und leichter.",
+                      "Zackige, unterbrochene Linien können unruhig, nervös oder spannungsvoll wirken, während geschwungene Linien eher ruhig, fließend oder weich erscheinen."
+                    ]
+                  }
+                },
+                {
+                  "id": "ku7_gp_u2",
+                  "text": "Ich kann einfache Druckverfahren oder Übertragungstechniken anwenden und Unterschiede zu freier Zeichnung benennen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Von der Zeichnung zum Druck",
+                        "text": "Du lernst einfache grafische Druckverfahren kennen, z. B. Frottage, Stempeldruck oder einfache Hochdruckformen. Du unterscheidest zwischen einmaliger, spontaner Zeichnung und wiederholbaren Druckbildern und beobachtest, wie sich ein Motiv durch Variation von Farbe, Druckrichtung und Überlagerung verändert."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Druckgrafik",
+                        "definition": "Bild, das durch ein Druckverfahren von einer Druckform auf Papier oder einen anderen Bildträger übertragen wird."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann mindestens ein einfaches Druckverfahren praktisch durchführen.",
+                      "Ich kann erklären, was an einem Druckbild im Vergleich zur Zeichnung besonders ist.",
+                      "Ich kann beschreiben, wie sich ein Motiv durch Wiederholung und Variation im Druck verändert."
+                    ],
+                    "sample_questions": [
+                      "Worin unterscheidet sich die Arbeit an einem Druckmotiv von einer freien Zeichnung?",
+                      "Wie kannst du mit einem Stempel oder einer einfachen Druckform unterschiedliche Bildwirkungen erzeugen?"
+                    ],
+                    "sample_answers": [
+                      "Beim Druck wird zuerst eine Druckform erarbeitet, mit der das Motiv mehrfach abgedruckt werden kann, während eine Zeichnung meist ein einmaliges Original ist.",
+                      "Durch Variation der Farbe, Drehung der Druckform und Überlagerung mehrerer Abdrücke können sehr unterschiedliche Rhythmen, Muster und Bildwirkungen entstehen."
+                    ]
+                  }
+                },
+                {
+                  "id": "ku7_gp_u3",
+                  "text": "Ich kann mit formbaren Materialien einfache plastische Körper gestalten und ihre Wirkung im Raum beschreiben.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Plastik – Formen im Raum",
+                        "text": "Du arbeitest mit formbaren Materialien wie Ton, Papier, Draht oder Recyclingmaterial und gestaltest einfache plastische Körper oder kleine Objekte. Du achtest auf Stabilität, Proportionen und Oberflächenwirkung und beschreibst, wie sich die Wirkung der Form je nach Blickrichtung und Licht verändert."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Plastik",
+                        "definition": "Dreidimensionales Werk, das durch Aufbauen oder Formen eines Materials entsteht und Raum einnimmt."
+                      },
+                      {
+                        "term": "Oberflächenstruktur",
+                        "definition": "Beschaffenheit der Oberfläche eines Körpers, z. B. glatt, rau, gerillt, die haptisch und optisch erfahrbar ist."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann ein einfaches plastisches Objekt mit stabiler Grundform gestalten.",
+                      "Ich kann Unterschiede zwischen glatten und rauen Oberflächen beschreiben.",
+                      "Ich kann angeben, wie sich ein plastisches Objekt je nach Blickrichtung und Lichteinfall verändert."
+                    ],
+                    "sample_questions": [
+                      "Worauf musst du bei der Gestaltung einer kleinen Plastik achten, damit sie stabil bleibt?",
+                      "Wie beeinflussen Oberflächenstrukturen die Wirkung einer plastischen Arbeit?"
+                    ],
+                    "sample_answers": [
+                      "Ich muss auf eine tragende Grundform und ausreichend Materialstärke achten und Verbindungen so gestalten, dass sie nicht zu dünn oder brüchig sind.",
+                      "Glatte Oberflächen können ruhig und ordentlich wirken, raue oder stark strukturierte Oberflächen lebendig, spannungsreich oder robust."
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

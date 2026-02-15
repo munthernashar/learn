@@ -1,0 +1,151 @@
+{
+  "school_id": "de_thueringen",
+  "grades": [
+    {
+      "grade_id": "klasse7",
+      "grade_label": "Klasse 7",
+      "subjects": [
+        {
+          "subject_id": "mu",
+          "subject_title": "Musik",
+          "modules": [
+            {
+              "module_id": "mu7_stimme_lied",
+              "module_name": "Stimme, Lied und Klassenmusizieren",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Mit der eigenen Stimme und in der Gruppe musizieren",
+                    "text": "In diesem Modul entwickelst du deine Singstimme weiter und sammelst Erfahrungen im gemeinsamen Musizieren mit der Klasse. Du lernst altersgerechte Lieder und Songs kennen, achtest auf eine gesunde Stimmgebung und probierst einfache Begleitungen und mehrstimmige Formen aus."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "mu7_sl_u1",
+                  "text": "Ich kann altersgerechte Lieder und Songs mit grundlegenden stimmlichen und musikalischen Merkmalen sicher singen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Singen mit gesunder Stimme",
+                        "text": "Du knüpfst an deine bisherigen Singerfahrungen an und lernst, deine Stimme bewusst zu gebrauchen. Du achtest beim Singen auf Haltung, Atmung, Artikulation und passende Lautstärke und gestaltest Lieder verschiedener Stilrichtungen und Sprachen möglichst sicher in Tonhöhe, Rhythmus und Tempo."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Intonation",
+                        "definition": "Genauigkeit der Tonhöhe beim Singen oder Spielen."
+                      },
+                      {
+                        "term": "Artikulation",
+                        "definition": "Deutliche Aussprache der Silben und Wörter beim Singen."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann beim Singen aufrecht stehen oder sitzen und ruhig einatmen.",
+                      "Ich kann den Text eines Liedes deutlich und im richtigen Tempo singen.",
+                      "Ich kann in einer Gruppe auf Einsatz, Tempo und Tonhöhe achten."
+                    ],
+                    "sample_questions": [
+                      "Worauf musst du achten, damit deine Singstimme gesund und klangvoll bleibt?",
+                      "Welche Merkmale machen einen gemeinsamen Liedvortrag der Klasse musikalisch überzeugend?"
+                    ],
+                    "sample_answers": [
+                      "Auf eine entspannte, aufrechte Haltung, ruhige Atmung, passende Lautstärke und darauf, nicht zu drücken oder zu schreien.",
+                      "Saubere Tonhöhe, gemeinsames Tempo, passende Dynamik, deutliche Artikulation und ein aufeinander abgestimmter Klang."
+                    ]
+                  }
+                },
+                {
+                  "id": "mu7_sl_u2",
+                  "text": "Ich kann einfache mehrstimmige und rhythmische Formen im Klassenmusizieren ausführen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Mehrstimmig und gemeinsam musizieren",
+                        "text": "Du lernst einfache Formen des mehrstimmigen Singens und Musizierens kennen, z. B. Kanon, Wechselgesang oder einfache zweistimmige Sätze. Du probierst mit Stimme und einfachen Instrumenten (z. B. Percussion, Orff-Instrumente, Keyboard) Begleitmuster, Bordun oder Rhythmuspatterns aus und achtest dabei auf Zusammenspiel und Einsatz."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Kanon",
+                        "definition": "Liedform, bei der dieselbe Melodie zeitversetzt von mehreren Gruppen gesungen oder gespielt wird."
+                      },
+                      {
+                        "term": "Rhythmuspattern",
+                        "definition": "Sich wiederholende rhythmische Figur, die als Begleitung genutzt werden kann."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann meine Stimme oder mein Instrument in einer einfachen mehrstimmigen Form sicher einsetzen.",
+                      "Ich kann ein einfaches Rhythmuspattern über ein Lied hinweg durchhalten.",
+                      "Ich kann auf Dirigierzeichen oder Zeichen der Lehrkraft reagieren."
+                    ],
+                    "sample_questions": [
+                      "Was ist beim Singen eines Kanons in der Klasse besonders wichtig?",
+                      "Wie kann ein einfaches Rhythmuspattern ein Lied unterstützen?"
+                    ],
+                    "sample_answers": [
+                      "Wichtig sind der richtige Einsatz, ein gemeinsames Tempo und dass jede Gruppe ihre Stimme sicher hält, auch wenn andere schon später anfangen oder noch weiter singen.",
+                      "Es gibt dem Lied einen gleichmäßigen Puls, strukturiert den Rhythmus und kann die Wirkung des Liedes verstärken, zum Beispiel spannender oder grooviger machen."
+                    ]
+                  }
+                },
+                {
+                  "id": "mu7_sl_u3",
+                  "text": "Ich kann mein eigenes Singen und das Klassenmusizieren einschätzen und einfache musikalische Fachbegriffe verwenden.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Über Musik sprechen und reflektieren",
+                        "text": "Du lernst, dein eigenes Singen und das gemeinsame Musizieren mit einfachen Fachbegriffen zu beschreiben. Du sprichst über Dynamik, Tempo, Klangfarbe und Zusammenspiel, gibst Rückmeldungen und nimmst Feedback an, um die musikalische Qualität eurer Beiträge zu verbessern."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Dynamik",
+                        "definition": "Lautstärkeunterschiede in der Musik, z. B. leise oder laut, crescendierend oder decrescendierend."
+                      },
+                      {
+                        "term": "Klangfarbe",
+                        "definition": "Charakteristischer Klang einer Stimme oder eines Instruments, durch den man sie unterscheiden kann."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann mit einfachen Begriffen wie laut, leise, schnell, langsam, klar, unsauber beschreiben, wie etwas klingt.",
+                      "Ich kann eine kurze Rückmeldung zum Klassenmusizieren geben, ohne andere persönlich anzugreifen.",
+                      "Ich kann mindestens drei musikalische Fachbegriffe passend verwenden."
+                    ],
+                    "sample_questions": [
+                      "Wie würdest du den Klang eurer Klassenaufführung mit einigen Fachbegriffen beschreiben?",
+                      "Warum ist es hilfreich, beim Sprechen über Musik gemeinsame Begriffe zu nutzen?"
+                    ],
+                    "sample_answers": [
+                      "Unser Vortrag war insgesamt gut im Tempo, stellenweise etwas zu laut, aber die Dynamik im Refrain war deutlich zu hören und die Stimmen haben meist sauber zusammengeklungen.",
+                      "Gemeinsame Begriffe helfen, Missverständnisse zu vermeiden und machen es leichter, gezielt an bestimmten Aspekten wie Dynamik, Tempo oder Intonation zu arbeiten."
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

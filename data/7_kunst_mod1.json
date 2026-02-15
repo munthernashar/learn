@@ -1,0 +1,147 @@
+{
+  "school_id": "de_thueringen",
+  "grades": [
+    {
+      "grade_id": "klasse7",
+      "grade_label": "Klasse 7",
+      "subjects": [
+        {
+          "subject_id": "ku",
+          "subject_title": "Kunst",
+          "modules": [
+            {
+              "module_id": "ku7_malerei",
+              "module_name": "Malerei – Farbe, Raum und Bewegung",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Mit Farbe Räume und Stimmungen gestalten",
+                    "text": "In diesem Modul erforschst du, wie du mit Farbe, Formen und einfachen Kompositionsregeln Bildräume und Stimmungen erzeugen kannst. Du lernst Farbkontraste kennen, untersuchst die Wirkung von warmen und kalten Farbtönen und probierst aus, wie sich Bewegung und Raumtiefe in einem Bild darstellen lassen."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "ku7_mal_u1",
+                  "text": "Ich kann Farbkontraste und einfache Farbordnungen benennen und in eigenen Bildern gezielt einsetzen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Farbe, Farbordnung und Kontrast",
+                        "text": "Du wiederholst Grundlagen wie Primär- und Sekundärfarben und ordnest sie im Farbkreis. Du lernst wichtige Farbkontraste (z. B. Hell-Dunkel, Komplementär, Kalt-Warm) kennen und untersuchst an Beispielen aus Natur, Alltagswelt und Malerei, wie sich mit diesen Kontrasten unterschiedliche Wirkungen und Stimmungen erzeugen lassen."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Farbkreis",
+                        "definition": "Schema, in dem die bunten Farben so angeordnet sind, dass Farbverwandtschaften und Komplementärpaare sichtbar werden."
+                      },
+                      {
+                        "term": "Farbkontrast",
+                        "definition": "Gegensätzliche Farbwirkung, z. B. durch Hell-Dunkel, Komplementärfarben oder warme und kalte Farbtöne."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann Primär- und Sekundärfarben im Farbkreis anordnen.",
+                      "Ich kann in einem Bild mindestens zwei verschiedene Farbkontraste zeigen und benennen.",
+                      "Ich kann erklären, wie sich warme und kalte Farben auf die Bildstimmung auswirken."
+                    ],
+                    "sample_questions": [
+                      "Welche Primär- und Sekundärfarben kennst du und wie ordnest du sie im Farbkreis an?",
+                      "Wie verändert sich die Wirkung eines Bildes, wenn du überwiegend kalte statt warmer Farben verwendest?"
+                    ],
+                    "sample_answers": [
+                      "Primärfarben sind zum Beispiel Rot, Gelb und Blau; aus ihnen entstehen Sekundärfarben wie Orange, Grün und Violett, die im Farbkreis zwischen den jeweiligen Primärfarben liegen.",
+                      "Kalte Farben lassen ein Bild oft ruhiger, ferner oder sachlicher wirken, während warme Farben eine eher gemütliche, lebendige oder nahe Atmosphäre schaffen können."
+                    ]
+                  }
+                },
+                {
+                  "id": "ku7_mal_u2",
+                  "text": "Ich kann einfache Mittel nutzen, um Raumtiefe und Bewegung in einem Bild darzustellen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Raum und Bewegung im Bild",
+                        "text": "Du erprobst verschiedene Möglichkeiten, mit denen sich Raumtiefe andeuten lässt, z. B. Größenunterschiede, Überlagerung, Staffelung, einfache Linienperspektive oder Luftperspektive mit helleren und kälteren Farbtönen in der Ferne. Du untersuchst außerdem, wie schräge Linien, Wiederholungen und Spuren von Pinselduktus eine Bewegung im Bild andeuten können."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Raumtiefe",
+                        "definition": "Wirkung, dass im Bild Vorder-, Mittel- und Hintergrund erkennbar werden und der Bildraum nicht flach wirkt."
+                      },
+                      {
+                        "term": "Staffelung",
+                        "definition": "Anordnung von Formen hintereinander, sodass sie sich teilweise überdecken und so Nähe und Ferne andeuten."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann Vorder-, Mittel- und Hintergrund in einer einfachen Bildkomposition anordnen.",
+                      "Ich kann mit Größenunterschieden und Überlagerungen Raumtiefe erzeugen.",
+                      "Ich kann in einer Skizze zeigen, wie Linien und Formen Bewegung andeuten."
+                    ],
+                    "sample_questions": [
+                      "Wie kannst du in einem Landschaftsbild ohne komplizierte Perspektivkonstruktion Raumtiefe darstellen?",
+                      "Welche Bildmittel eignen sich, um in einem Bild den Eindruck von Bewegung zu erzeugen?"
+                    ],
+                    "sample_answers": [
+                      "Zum Beispiel, indem Objekte im Vordergrund größer und detaillierter gezeigt werden, sich Formen überlagern und weiter hinten kleiner, heller oder blasser erscheinen.",
+                      "Schräge, schwungvolle Linien, Wiederholung von Formen in verschiedenen Positionen und sichtbare Pinselspuren können den Eindruck von Bewegung unterstützen."
+                    ]
+                  }
+                },
+                {
+                  "id": "ku7_mal_u3",
+                  "text": "Ich kann die Wirkung von Farbe und Komposition in eigenen und fremden Bildern beschreiben und einfache Gestaltungsentscheidungen begründen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Bilder wahrnehmen und über Gestaltung sprechen",
+                        "text": "Du betrachtest eigene Bilder und ausgewählte Bildbeispiele und beschreibst die Wirkung von Farbwahl, Farbkontrasten, Bildaufbau und Raum. Du lernst, einfache Fachbegriffe zu benutzen, deine Gestaltungsentscheidungen zu begründen und Unterschiede zwischen verschiedenen Bildlösungen zu erläutern."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Komposition",
+                        "definition": "Anordnung von Formen, Farben und Linien im Bild, die gemeinsam die Bildwirkung bestimmen."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann in einfachen Sätzen beschreiben, wie Farben und Formen in einem Bild wirken.",
+                      "Ich kann mindestens drei Fachbegriffe (z. B. Farbkontrast, Vordergrund, Komposition) passend verwenden.",
+                      "Ich kann erklären, warum ich mich bei einem Bild für bestimmte Farben oder eine bestimmte Anordnung entschieden habe."
+                    ],
+                    "sample_questions": [
+                      "Welche Bildwirkung entsteht durch deine Farbwahl und Komposition in deinem Bild?",
+                      "Wie unterscheiden sich zwei ausgewählte Bilder in ihrer Farbwirkung oder Raumdarstellung?"
+                    ],
+                    "sample_answers": [
+                      "Durch die dominierenden warmen Farben wirkt mein Bild lebendig und nah, die Anordnung mit großem Vordergrund und kleinerem Hintergrund verstärkt den Eindruck von Tiefe.",
+                      "Während das eine Bild mit starken Hell-Dunkel-Kontrasten und schrägen Linien sehr dramatisch wirkt, erscheint das andere ruhiger, weil die Farben ähnlicher und die Formen gleichmäßiger verteilt sind."
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

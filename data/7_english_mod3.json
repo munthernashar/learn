@@ -1,0 +1,136 @@
+{
+  "school_id": "de_thueringen",
+  "grades": [
+    {
+      "grade_id": "klasse7",
+      "grade_label": "Klasse 7",
+      "subjects": [
+        {
+          "subject_id": "eng",
+          "subject_title": "Englisch",
+          "modules": [
+            {
+              "module_id": "eng7_writing",
+              "module_name": "Schreiben – kurze Texte verfassen",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Texte auf Englisch planen und schreiben",
+                    "text": "In diesem Modul übst du, kurze, verständliche Texte auf Englisch zu schreiben, z. B. E-Mails, Nachrichten, Beschreibungen und kleine Berichte zu vertrauten Themen. Du lernst, deine Texte zu planen, zu strukturieren und zu überarbeiten."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "eng7_wr_u1",
+                  "text": "Ich kann einfache, klar strukturierte Texte zu vertrauten Themen schreiben (z. B. E-Mail, short message, diary entry, description).",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Textsorten kennen und nutzen",
+                        "text": "Du lernst typische Merkmale einfacher Textsorten kennen, z. B. Anrede und Schlussformel in einer E-Mail, Ich-Perspektive im diary entry oder Aufbau einer Beschreibung (appearance, personality, activities). Du nutzt passende Redemittel, um diese Texte zu verfassen."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "text type",
+                        "definition": "Art von Text mit bestimmten Merkmalen und Aufbau, z. B. E-Mail, diary entry, description, postcard."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann eine kurze E-Mail mit Anrede, Hauptteil und Schlussformel schreiben.",
+                      "Ich kann eine Person oder einen Ort mit einigen Sätzen verständlich beschreiben."
+                    ],
+                    "sample_questions": [
+                      "Welche Elemente gehören zu einer einfachen E-Mail auf Englisch?",
+                      "Was solltest du bei einer Beschreibung einer Person beachten?"
+                    ],
+                    "sample_answers": [
+                      "Anrede (z. B. Hi …), kurzer Einleitungssatz, Hauptteil mit den wichtigsten Informationen, Abschluss (e.g. See you, Best wishes) und Name.",
+                      "Ich schreibe etwas zu Aussehen, Charakter, Hobbys/Interessen und wie ich die Person finde."
+                    ]
+                  }
+                },
+                {
+                  "id": "eng7_wr_u2",
+                  "text": "Ich kann meinen Schreibprozess planen und einfache Entwürfe verbessern (plan – write – check).",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Plan – write – check",
+                        "text": "Du sammelst zuerst Ideen in Stichpunkten, ordnest sie und planst eine sinnvolle Reihenfolge. Danach schreibst du deinen Text im Entwurf und überprüfst ihn anschließend auf Verständlichkeit, Wortschatz, Zeiten (z. B. simple present/simple past) und Rechtschreibung."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "draft",
+                        "definition": "Erste Fassung eines Textes, die du später noch überarbeitest."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann vor dem Schreiben Stichwörter sammeln und sinnvoll ordnen.",
+                      "Ich kann meinen Text nach dem Schreiben noch einmal lesen und offensichtliche Fehler verbessern."
+                    ],
+                    "sample_questions": [
+                      "Warum ist es sinnvoll, vor dem Schreiben einen kurzen Plan zu machen?",
+                      "Worauf achtest du beim Überprüfen deines Textes zuerst?"
+                    ],
+                    "sample_answers": [
+                      "Weil ich dann weiß, was ich sagen will und in welcher Reihenfolge – der Text wird klarer und logischer.",
+                      "Zuerst auf Verständlichkeit und ob alle wichtigen Informationen drin sind, dann auf Zeiten, Wortstellung und Rechtschreibung häufiger Wörter."
+                    ]
+                  }
+                },
+                {
+                  "id": "eng7_wr_u3",
+                  "text": "Ich kann einfache Verknüpfungswörter und Redemittel nutzen, damit mein Text flüssiger wirkt.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Sätze verbinden",
+                        "text": "Du nutzt einfache linking words wie and, but, because, then, after that, so, um Sätze zu verbinden und Zusammenhänge klar zu machen. Dadurch wirkt dein Text weniger abgehackt und lässt sich besser lesen."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "linking words",
+                        "definition": "Wörter oder Wendungen, die Sätze verbinden und Beziehungen zeigen, z. B. and, but, because, then, after that."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann mehrere Sätze mit einfachen linking words verbinden.",
+                      "Ich kann in meinem Text Gründe oder Folgen mit because oder so ausdrücken."
+                    ],
+                    "sample_questions": [
+                      "Welche linking words helfen dir, eine Geschichte in der richtigen Reihenfolge zu erzählen?",
+                      "Wie kannst du in einem Text einen Grund und eine Folge deutlich machen?"
+                    ],
+                    "sample_answers": [
+                      "Zum Beispiel first, then, after that, finally.",
+                      "Ich benutze because, um Gründe zu nennen (I stayed at home because I was ill.) und so, um Folgen zu zeigen (It was late, so we took a taxi.)."
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

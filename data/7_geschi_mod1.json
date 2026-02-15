@@ -1,0 +1,219 @@
+{
+  "school_id": "de_thueringen",
+  "grades": [
+    {
+      "grade_id": "klasse7",
+      "grade_label": "Klasse 7",
+      "subjects": [
+        {
+          "subject_id": "geschi",
+          "subject_title": "Geschichte",
+          "modules": [
+            {
+              "module_id": "ges7_grundlagen",
+              "module_name": "Geschichte denken: Fragen, Begriffe, Strukturen",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Wie Historikerinnen und Historiker arbeiten",
+                    "text": "In diesem Modul vertiefst du die Grundlagen historischen Denkens. Du lernst, eigene Fragen an die Vergangenheit zu stellen, fachspezifische Begriffe gezielt zu nutzen und historische Entwicklungen in Zeit und Raum einzuordnen. Damit knüpfst du an die Arbeit in Klasse 5/6 an und bereitest dich auf komplexere Themen in Klasse 7/8 vor."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "ges7_grundlagen_u1",
+                  "text": "Ich kann selbstständig Fragen an die Geschichte stellen und sie thematisch und zeitlich grob ordnen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Eigene historische Fragen entwickeln",
+                        "text": "Du gehst von Bildern, Texten, Karten oder Gegenständen aus und formulierst neugierige Fragen an die Vergangenheit, z. B. Wie lebten Jugendliche damals? Warum kam es zu einem bestimmten Ereignis? Dabei unterscheidest du zwischen Fragen zu Ursachen, Verlauf und Folgen."
+                      },
+                      {
+                        "title": "Fragen strukturieren",
+                        "text": "Du ordnest deine Fragen nach Themen (z. B. Politik, Alltag, Wirtschaft, Krieg und Frieden) und versuchst, sie einer groben Zeitspanne zuzuordnen. Dadurch wird klarer, welche Informationen du für die Beantwortung brauchst und in welcher Reihenfolge du vorgehen kannst."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Historische Frage",
+                        "definition": "Eine gezielte Frage an die Vergangenheit, die dir hilft zu klären, wie und warum etwas früher so war, wie es war."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann zu einem Bild, Text oder Gegenstand mehrere sinnvolle Fragen an die Vergangenheit formulieren.",
+                      "Ich kann meine Fragen grob nach Themen und Zeitabschnitten sortieren."
+                    ],
+                    "sample_questions": [
+                      "Woran erkennst du, ob eine Frage eine historische Frage ist?",
+                      "Warum ist es hilfreich, mehrere Fragen zu einem Thema zu ordnen?"
+                    ],
+                    "sample_answers": [
+                      "Eine historische Frage bezieht sich auf vergangene Menschen, Ereignisse oder Entwicklungen und zielt darauf, Ursachen oder Bedeutungen zu klären.",
+                      "Weil ich dann gezielter recherchieren kann und besser sehe, welche Fragen zusammengehören oder sich nacheinander beantworten lassen."
+                    ]
+                  }
+                },
+                {
+                  "id": "ges7_grundlagen_u2",
+                  "text": "Ich kann wichtige Fachbegriffe korrekt verwenden und erklären (z. B. Revolution, Reform, Epoche, Quelle, Darstellung).",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Fachbegriffe verstehen",
+                        "text": "Du lernst zentrale Begriffe der Klassenstufe 7/8 wie Revolution, Reform, Epoche, Nation oder Imperialismus kennen und ordnest sie konkreten Beispielen zu. Du unterscheidest sie bewusst von ihrer Alltagsbedeutung und kannst sie in eigenen Worten erklären."
+                      },
+                      {
+                        "title": "Quellen und Darstellungen unterscheiden",
+                        "text": "Du wiederholst den Unterschied zwischen Quelle (Überreste oder Zeugnisse aus der Zeit, die du untersuchst) und Darstellung (spätere Deutung, z. B. Lehrbuchtext, Film, Website) und nutzt diese Begriffe sicher in deiner Arbeit."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Quelle",
+                        "definition": "Überrest oder Zeugnis aus der Vergangenheit, aus dem wir etwas über frühere Zeiten erfahren (z. B. Brief, Foto, Urkunde, Gegenstand)."
+                      },
+                      {
+                        "term": "Darstellung",
+                        "definition": "Spätere Deutung oder Erzählung über die Vergangenheit, z. B. in einem Lehrbuch, Film oder Artikel."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann an Beispielen erklären, was eine Quelle und was eine Darstellung ist.",
+                      "Ich kann die Begriffe Revolution, Reform und Epoche in einfachen Sätzen richtig verwenden."
+                    ],
+                    "sample_questions": [
+                      "Warum ist es wichtig, zwischen Quellen und Darstellungen zu unterscheiden?",
+                      "Wie unterscheidet sich der Alltagsgebrauch des Wortes Revolution von der historischen Bedeutung?"
+                    ],
+                    "sample_answers": [
+                      "Weil Quellen aus der untersuchten Zeit stammen und Darstellungen spätere Deutungen sind – beides muss unterschiedlich kritisch betrachtet werden.",
+                      "Im Alltag meint man oft nur eine starke Veränderung, historisch geht es um tiefgreifende politische und gesellschaftliche Umbrüche mit bestimmten Merkmalen."
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "module_id": "ges7_lernb1",
+              "module_name": "Neues Denken – neue Welten – eine neue Zeit bricht an",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Vom Mittelalter in die Neuzeit",
+                    "text": "In diesem Modul untersuchst du, wie sich in Europa zwischen Spätmittelalter und Früher Neuzeit das Denken über Mensch und Welt verändert. Du lernst Renaissance, Humanismus, Reformation, Entdeckungsreisen und wissenschaftliche Neuerungen als Zeichen einer neuen Zeit kennen und ordnest sie in größere Entwicklungen ein."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "ges7_lernb1_u1",
+                  "text": "Ich kann erklären, wie Renaissance, Humanismus und Reformation das Menschen- und Weltbild im Vergleich zum Mittelalter verändern.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Neues Bild vom Menschen",
+                        "text": "Du lernst, dass in Renaissance und Humanismus der Mensch stärker in den Mittelpunkt rückt. Du vergleichst mittelalterliche Vorstellungen (Gott als Mittelpunkt, ständische Ordnung) mit neuen Ideen von Bildung, Individualität und Vernunft und kannst Beispiele aus Kunst, Literatur oder Quellen benennen."
+                      },
+                      {
+                        "title": "Reformation als Umbruch",
+                        "text": "Du beschreibst, wie Martin Luther und andere Reformatoren die Kirche kritisieren und welche Folgen das für Glaubenspraxis, Politik und Gesellschaft hat. Dabei erkennst du, dass Reformation nicht nur religiöse, sondern auch gesellschaftliche Veränderungen ausgelöst hat."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Renaissance",
+                        "definition": "Kulturelle Bewegung des 14.–16. Jahrhunderts, die sich an der Antike orientierte und das Interesse an Kunst, Wissenschaft und dem Menschen neu betonte."
+                      },
+                      {
+                        "term": "Humanismus",
+                        "definition": "Geistige Strömung, die den Menschen, seine Würde und Bildung in den Mittelpunkt stellt und alte Schriften neu entdeckt."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann an Beispielen das Menschenbild im Mittelalter und in der Renaissance vergleichen.",
+                      "Ich kann in einfachen Worten erklären, warum die Reformation als Umbruch gilt."
+                    ],
+                    "sample_questions": [
+                      "Wodurch unterscheidet sich das Menschenbild der Renaissance vom mittelalterlichen Menschenbild?",
+                      "Welche Folgen hatte die Reformation für die Menschen in Europa?"
+                    ],
+                    "sample_answers": [
+                      "In der Renaissance wird der Mensch mit seiner Vernunft, seinen Fähigkeiten und seiner Bildung stärker in den Mittelpunkt gestellt, während im Mittelalter vor allem die Stellung vor Gott und in der Ständeordnung wichtig ist.",
+                      "Die Reformation führte zu neuen Konfessionen, Konflikten und Kriegen, aber auch zu Veränderungen in Bildung, Gottesdienst und politischer Ordnung."
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "module_id": "ges7_lernb2",
+              "module_name": "Absolutismus und Aufklärung – moderne Staaten entstehen",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Herrschaft und Vernunft",
+                    "text": "In diesem Modul beschäftigst du dich mit der Entstehung moderner Staaten. Du lernst, wie der Absolutismus Herrschaft begründet und wie die Ideen der Aufklärung diese Herrschaft kritisieren und neue Vorstellungen von Gesellschaft und Staat entwickeln."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "ges7_lernb2_u1",
+                  "text": "Ich kann wesentliche Merkmale des Absolutismus am Beispiel Frankreichs erläutern und an einem thüringischen Beispiel Spuren absolutistischer Herrschaft erkennen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Königsherrschaft ohne geteilte Macht",
+                        "text": "Du beschreibst, wie im Absolutismus der König als Mittelpunkt des Staates dargestellt wird, welche Stützen seine Herrschaft hat (Heer, Verwaltung, Kirche, Hofkultur) und wie sich dieser Anspruch in Bildern, Schlössern und Symbolen zeigt. Du überträgst dieses Wissen auf ein Beispiel aus Thüringen."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Absolutismus",
+                        "definition": "Herrschaftsform, in der der König seine Macht stark bündelt und sich kaum an Ständevertretungen oder Parlamente gebunden fühlt."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann am Beispiel eines Herrscherporträts Merkmale absolutistischer Herrschaft erkennen.",
+                      "Ich kann eine thüringische Residenz als Beispiel für Repräsentation und Macht deuten."
+                    ],
+                    "sample_questions": [
+                      "Welche Elemente in einem Herrscherporträt zeigen den Machtanspruch eines absoluten Königs?",
+                      "Wie kannst du an einer Schlossanlage in Thüringen Spuren des Absolutismus erkennen?"
+                    ],
+                    "sample_answers": [
+                      "Symbole wie Krone, Zepter, prunkvolle Kleidung, Säulenhallen oder der Blick von oben signalisieren Macht, Reichtum und Gottesgnadentum.",
+                      "Durch Größe, Lage, Parkanlagen, Symbole und die Innenausstattung, die Reichtum und Überlegenheit des Herrschers zeigen."
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

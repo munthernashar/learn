@@ -1,0 +1,147 @@
+{
+  "school_id": "de_thueringen",
+  "grades": [
+    {
+      "grade_id": "klasse7",
+      "grade_label": "Klasse 7",
+      "subjects": [
+        {
+          "subject_id": "mu",
+          "subject_title": "Musik",
+          "modules": [
+            {
+              "module_id": "mu7_hoeren_verstehen",
+              "module_name": "Musik hören & verstehen – Form, Pop und andere Kulturen",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Musik aufmerksam hören und beschreiben",
+                    "text": "In diesem Modul trainierst du dein bewusstes Zuhören. Du lernst, Aufbau und Gestaltungsmerkmale von Musik zu erkennen, Beispiele populärer Musik zu untersuchen und Musik aus unterschiedlichen Kulturen wahrzunehmen und zu beschreiben."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "mu7_hv_u1",
+                  "text": "Ich kann einfache musikalische Formen und wiederkehrende Teile in Musikstücken erkennen und benennen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Teile, Motive und Formen hören",
+                        "text": "Du untersuchst, wie Musikstücke aufgebaut sind, und achtest auf wiederkehrende Themen, Motive und Kontraste. Du lernst einfache Formen wie Strophe-Refrain, Rondo- oder Variationsprinzip in altersgerechten Beispielen zu erkennen und zu benennen."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Thema/Motiv",
+                        "definition": "Wiedererkennbarer musikalischer Gedanke, der im Stück erscheint und verändert werden kann."
+                      },
+                      {
+                        "term": "Strophe-Refrain-Form",
+                        "definition": "Form, bei der sich erzählende Strophen mit einem gleichbleibenden Refrain abwechseln."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann in einem Lied Strophen und Refrain unterscheiden.",
+                      "Ich kann ein wiederkehrendes Motiv in einem Musikbeispiel erkennen.",
+                      "Ich kann eine einfache Form (z. B. Strophe-Refrain) benennen und kurz beschreiben."
+                    ],
+                    "sample_questions": [
+                      "Woran erkennst du in einem Popsong den Refrain und wie unterscheidet er sich von den Strophen?",
+                      "Wie kannst du ein wiederkehrendes musikalisches Motiv beim Hören markieren oder beschreiben?"
+                    ],
+                    "sample_answers": [
+                      "Der Refrain wiederholt sich mehrmals, hat oft eine eingängige Melodie und den Titel des Songs, die Strophen erzählen eher die Geschichte und haben meist neue Texte.",
+                      "Ich achte auf eine markante Melodie oder Rhythmusfigur, die mehrfach wiederkehrt, und kann sie z. B. mitsummen oder in einer Skizze grafisch festhalten."
+                    ]
+                  }
+                },
+                {
+                  "id": "mu7_hv_u2",
+                  "text": "Ich kann Merkmale populärer Musik beschreiben und einfache Unterschiede zu anderen Musikrichtungen benennen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Pop, Rock & Co. erkennen",
+                        "text": "Du hörst Beispiele aus aktueller populärer Musik und achtest auf typische Merkmale wie Beat, Instrumentierung, Strophe-Refrain-Struktur und Klanggestaltung. Du vergleichst ausgewählte Pop- oder Rockstücke mit anderen Musikbeispielen, z. B. aus älterer Kunstmusik, Folk oder traditioneller Musik, und beschreibst Gemeinsamkeiten und Unterschiede."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Beat/Groove",
+                        "definition": "Gleichmäßiger Grundpuls und charakteristisches rhythmisches Muster, das für viele Pop- und Rockstücke typisch ist."
+                      },
+                      {
+                        "term": "Instrumentierung",
+                        "definition": "Auswahl und Kombination der verwendeten Instrumente in einem Musikstück."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann in einem Popsong wesentliche Merkmale wie Beat, Instrumente und Songform benennen.",
+                      "Ich kann einen Pop- oder Rocktitel mit einem anderen Musikbeispiel vergleichen.",
+                      "Ich kann einfache Fachbegriffe (Beat, Refrain, Instrumentierung) passend verwenden."
+                    ],
+                    "sample_questions": [
+                      "Welche typischen Instrumente und Klänge hörst du häufig in Pop- oder Rockmusik?",
+                      "Wie unterscheidet sich ein Popsong von einem klassischen Musikstück, das du im Unterricht gehört hast?"
+                    ],
+                    "sample_answers": [
+                      "Häufig sind Schlagzeug oder Drumset, E‑Gitarre, Bass, Keyboard/Synthesizer und Gesang zu hören, oft verstärkt und mit Effekten bearbeitet.",
+                      "Ein Popsong hat meist eine klare Strophe-Refrain-Struktur, einen starken Beat und kurze Dauer, während ein klassisches Stück oft längere Entwicklungen, andere Instrumente und komplexere Formen hat."
+                    ]
+                  }
+                },
+                {
+                  "id": "mu7_hv_u3",
+                  "text": "Ich kann Musik aus verschiedenen Kulturen aufmerksam hören und ausgewählte Merkmale respektvoll beschreiben.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Musik anderer Kulturen wahrnehmen",
+                        "text": "Du lernst Musikbeispiele aus unterschiedlichen Regionen und Kulturen kennen, z. B. traditionelle Musik, Folk oder religiöse Musik. Du achtest auf Besonderheiten von Rhythmus, Melodik, verwendeten Instrumenten und Funktionen der Musik und beschreibst deine Eindrücke respektvoll, ohne vorschnell zu bewerten."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Musikkultur",
+                        "definition": "Gesamtheit der musikalischen Ausdrucksformen, Traditionen und Funktionen in einer bestimmten Gesellschaft oder Region."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann zu einem Musikbeispiel aus einer anderen Kultur ausgewählte Merkmale (Rhythmus, Melodie, Instrumente) beschreiben.",
+                      "Ich kann Unterschiede zu Musik aus meinem eigenen Alltag benennen.",
+                      "Ich kann meine Eindrücke in wertschätzender und respektvoller Sprache ausdrücken."
+                    ],
+                    "sample_questions": [
+                      "Welche Besonderheiten sind dir bei einem Musikbeispiel aus einer anderen Kultur aufgefallen?",
+                      "Wie unterscheidet sich diese Musik von der Musik, die du normalerweise hörst?"
+                    ],
+                    "sample_answers": [
+                      "Zum Beispiel andere Instrumente wie Trommeln, Saiten- oder Blasinstrumente, andere Skalen oder Rhythmen und manchmal eine besondere Rolle im religiösen oder gesellschaftlichen Leben.",
+                      "Sie nutzt oft andere Tonleitern, Rhythmen und Instrumente und wird vielleicht in anderen Situationen gehört, während meine Alltagsmusik meist Pop oder digitale Musik mit starkem Beat ist."
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

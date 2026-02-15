@@ -1,0 +1,148 @@
+{
+  "school_id": "de_thueringen",
+  "grades": [
+    {
+      "grade_id": "klasse7",
+      "grade_label": "Klasse 7",
+      "subjects": [
+        {
+          "subject_id": "geo",
+          "subject_title": "Geografie",
+          "modules": [
+            {
+              "module_id": "geo7_landwirtschaft",
+              "module_name": "Landwirtschaft und Ernährungssicherung",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Wie die Welt ernährt wird",
+                    "text": "In diesem Modul untersuchst du unterschiedliche Formen der Landwirtschaft, Ursachen von Umweltproblemen durch nicht angepasste Nutzung und Ansätze für eine nachhaltige Ernährungssicherung in einer globalisierten Welt."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "geo7_land_u1",
+                  "text": "Ich kann verschiedene Formen der landwirtschaftlichen Nutzung unterscheiden und Beispiele nennen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Wie Landwirtschaft betrieben wird",
+                        "text": "Du lernst grundlegende Formen der Landwirtschaft kennen, z. B. Subsistenzwirtschaft (Produktion überwiegend für den Eigenbedarf), marktorientierte Landwirtschaft, Plantagenwirtschaft und intensive Tierhaltung. Du ordnest Beispiele zu unterschiedlichen Regionen und klimatischen Bedingungen zu."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Subsistenzwirtschaft",
+                        "definition": "Form der Landwirtschaft, bei der vor allem für den Eigenbedarf der Familie oder Dorfgemeinschaft produziert wird."
+                      },
+                      {
+                        "term": "Plantagenwirtschaft",
+                        "definition": "Großbetriebliche Landwirtschaft, meist in den Tropen, die Monokulturen wie Kaffee, Tee oder Bananen für den Weltmarkt produziert."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann mindestens zwei unterschiedliche Formen der Landwirtschaft benennen.",
+                      "Ich kann zu jeder Form ein typisches Beispiel (Region oder Produkt) nennen."
+                    ],
+                    "sample_questions": [
+                      "Worin unterscheiden sich Subsistenzwirtschaft und Plantagenwirtschaft?",
+                      "Warum findet Plantagenwirtschaft häufig in tropischen Regionen statt?"
+                    ],
+                    "sample_answers": [
+                      "Subsistenzwirtschaft produziert vorrangig für den Eigenbedarf mit meist einfachen Mitteln, Plantagenwirtschaft ist kapitalintensiv, auf große Flächen und auf den Export ausgerichtet.",
+                      "Weil dort das Klima für tropische Nutzpflanzen günstig ist und große Flächen sowie günstige Arbeitskräfte verfügbar sind."
+                    ]
+                  }
+                },
+                {
+                  "id": "geo7_land_u2",
+                  "text": "Ich kann Ursachen und Folgen nicht angepasster landwirtschaftlicher Nutzung erklären (z. B. Bodendegradation, Desertifikation).",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Wenn der Boden leidet",
+                        "text": "Du lernst, dass Überweidung, Brandrodung, einseitige Nutzung (Monokulturen) und falsche Bewässerung Böden schädigen können. Du kennst Begriffe wie Bodenerosion, Versalzung und Desertifikation und kannst Folgen für Menschen und Umwelt an einfachen Beispielen erklären."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Desertifikation",
+                        "definition": "Prozess der Verödung von Böden in ursprünglich trockenen Gebieten, oft durch Übernutzung und Klimaveränderungen verursacht."
+                      },
+                      {
+                        "term": "Bodenerosion",
+                        "definition": "Abtrag von Boden durch Wasser oder Wind, häufig verstärkt durch fehlende Vegetation und falsche Nutzung."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann an einem Beispiel erklären, wie falsche Bewirtschaftung zu Bodendegradation führt.",
+                      "Ich kann mindestens zwei Folgen von Desertifikation für die betroffene Bevölkerung nennen."
+                    ],
+                    "sample_questions": [
+                      "Wie kann intensive Bewässerung zu Versalzung von Böden führen?",
+                      "Welche Auswirkungen hat Desertifikation auf Menschen in Trockengebieten?"
+                    ],
+                    "sample_answers": [
+                      "Wenn Wasser verdunstet, bleiben Salze im Boden zurück; bei ständiger Bewässerung ohne gute Drainage reichern sich Salze an und verschlechtern die Bodenfruchtbarkeit.",
+                      "Ernten werden schlechter oder fallen aus, Vieh findet weniger Futter, Menschen müssen ihr Land verlassen und in andere Regionen auswandern."
+                    ]
+                  }
+                },
+                {
+                  "id": "geo7_land_u3",
+                  "text": "Ich kann einfache Zusammenhänge zwischen Landwirtschaft, globalen Märkten und unserer Ernährung beschreiben.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Vom Feld auf den Weltmarkt – und auf unseren Teller",
+                        "text": "Du erkennst, dass viele landwirtschaftliche Produkte (z. B. Kakao, Kaffee, Soja) in bestimmten Weltregionen produziert, aber weltweit gehandelt und konsumiert werden. Du beschreibst grob, welche Rolle große Agrarkonzerne und welche Rolle Konsumentinnen und Konsumenten bei der Nachfrage nach Produkten spielen."
+                      },
+                      {
+                        "title": "Nachhaltige Ernährung unterstützen",
+                        "text": "Du lernst einfache Möglichkeiten kennen, wie durch bewussten Konsum (z. B. regionale Produkte, saisonale Lebensmittel, Fair-Trade-Produkte) Landwirtschaft nachhaltiger unterstützt werden kann. Du überlegst, welche deiner Kaufentscheidungen Auswirkungen auf landwirtschaftliche Produktion in anderen Regionen haben können."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Fair Trade",
+                        "definition": "Handelskonzept, das Produzenten in Ländern des globalen Südens faire Preise und bessere Arbeitsbedingungen sichern soll."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann an einem Produkt den Weg von der Produktion bis zu uns als Konsumentinnen und Konsumenten skizzieren.",
+                      "Ich kann mindestens zwei Beispiele nennen, wie ich durch meine Kaufentscheidungen nachhaltigere Landwirtschaft unterstützen kann."
+                    ],
+                    "sample_questions": [
+                      "Welche Rolle spielen Konsumentinnen und Konsumenten in Industrieländern für die Landwirtschaft in anderen Weltregionen?",
+                      "Wie kann der Kauf von Fair-Trade-Produkten die Situation von Produzenten verbessern?"
+                    ],
+                    "sample_answers": [
+                      "Durch ihre Nachfrage entscheiden sie mit, welche Produkte und unter welchen Bedingungen produziert werden; hoher Bedarf an bestimmten Exportprodukten beeinflusst Anbauformen und Flächennutzung.",
+                      "Fair-Trade-Produkte sollen stabilere, höhere Erzeugerpreise, bessere Arbeitsbedingungen und langfristige Handelsbeziehungen ermöglichen, was Einkommen und Lebensbedingungen verbessert."
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

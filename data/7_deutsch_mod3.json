@@ -1,0 +1,136 @@
+{
+  "school_id": "de_thueringen",
+  "grades": [
+    {
+      "grade_id": "klasse7",
+      "grade_label": "Klasse 7",
+      "subjects": [
+        {
+          "subject_id": "deu",
+          "subject_title": "Deutsch",
+          "modules": [
+            {
+              "module_id": "deu7_schreiben",
+              "module_name": "Schreiben – informierende und gestaltende Texte",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Texte planen, verfassen und überarbeiten",
+                    "text": "In diesem Modul übst du, unterschiedliche Textsorten zu schreiben – vor allem informierende und einfache argumentierende Texte sowie kurze gestaltende Texte. Du lernst, deinen Schreibprozess zu planen, Texte zu strukturieren und zu überarbeiten."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "deu7_schreiben_u1",
+                  "text": "Ich kann informierende Texte zu vertrauten Themen verfassen (z. B. Bericht, einfache Inhaltsangabe, Gegenstandsbeschreibung).",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Sachlich informieren",
+                        "text": "Du wiederholst Merkmale informierender Texte: sachlicher Stil, klare Struktur, keine persönliche Wertung. Du übst z. B. Berichte zu Vorgängen oder Ereignissen, kurze Inhaltsangaben und einfache Beschreibungen, die verständlich und vollständig über einen Sachverhalt informieren."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Bericht",
+                        "definition": "Informierender Text, der ein Ereignis sachlich, vollständig und in logischer Reihenfolge darstellt."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann einen kurzen Bericht mit Einleitung, Hauptteil und Schluss schreiben.",
+                      "Ich kann eine einfache Inhaltsangabe sachlich und in eigenen Worten verfassen."
+                    ],
+                    "sample_questions": [
+                      "Welche Fragen sollte ein Bericht beantworten?",
+                      "Worin unterscheidet sich eine Inhaltsangabe von einer Nacherzählung?"
+                    ],
+                    "sample_answers": [
+                      "Wer? Was? Wann? Wo? Wie? (und ggf. warum?).",
+                      "Die Inhaltsangabe ist knapp, sachlich und ohne wörtliche Rede; die Nacherzählung gestaltet ausführlicher und orientiert sich stärker am Wortlaut."
+                    ]
+                  }
+                },
+                {
+                  "id": "deu7_schreiben_u2",
+                  "text": "Ich kann zu einem einfachen Thema eine begründete Stellungnahme schreiben.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Meinung begründet darstellen",
+                        "text": "Du lernst, eine einfache Stellungnahme zu gliedern: Einleitung mit Thema, Hauptteil mit Argumenten und Beispielen, kurzer Schluss mit Fazit. Du formulierst deine Meinung klar, begründest sie verständlich und nutzt einfache Verknüpfungen wie erstens, außerdem, zum Beispiel, deshalb."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Stellungnahme",
+                        "definition": "Argumentierender Text, in dem du zu einer Frage oder einem Problem deine Meinung darstellst und begründest."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann meine Meinung zu einem Thema deutlich formulieren.",
+                      "Ich kann mindestens zwei Argumente nennen und mit Beispielen stützen."
+                    ],
+                    "sample_questions": [
+                      "Welche Bausteine gehören zu einer einfachen Stellungnahme?",
+                      "Wie unterscheiden sich Behauptung und Argument?"
+                    ],
+                    "sample_answers": [
+                      "Einleitung mit Fragestellung, Hauptteil mit Argumenten und Beispielen, Schluss mit persönlichem Fazit.",
+                      "Eine Behauptung ist eine Aussage ohne Begründung, ein Argument liefert einen nachvollziehbaren Grund für die Behauptung."
+                    ]
+                  }
+                },
+                {
+                  "id": "deu7_schreiben_u3",
+                  "text": "Ich kann einfache gestaltende Texte verfassen (z. B. Tagebucheintrag, inneren Monolog, kurze Fortsetzung).",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Kreativ gestalten",
+                        "text": "Du probierst aus, wie du Gedanken und Gefühle von Figuren in inneren Monologen oder Tagebucheinträgen ausdrücken kannst. Du nutzt die passende Erzählperspektive (ich-Perspektive), Zeitformen und sprachliche Gestaltungsmittel, um Stimmung zu erzeugen."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "innerer Monolog",
+                        "definition": "Gestaltende Textform, in der die Gedanken und Gefühle einer Figur in der Ich-Perspektive wiedergegeben werden."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann die Gedanken einer Figur in der Ich-Form nachvollziehbar darstellen.",
+                      "Ich kann eine kurze Fortsetzung zu einem erzählenden Text im gleichen Stil versuchen."
+                    ],
+                    "sample_questions": [
+                      "Worauf musst du achten, wenn du einen inneren Monolog schreibst?",
+                      "Wie kannst du zeigen, wie sich eine Figur fühlt, ohne es nur zu benennen?"
+                    ],
+                    "sample_answers": [
+                      "Ich bleibe in der Ich-Perspektive, bleibe in der Zeit des Textes, bleibe nah an der Situation und orientiere mich an dem, was die Figur erlebt hat.",
+                      "Durch Gedanken, Körperreaktionen, Handlungen und sprachliche Bilder statt nur Sätze wie ‚Ich bin traurig‘."
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

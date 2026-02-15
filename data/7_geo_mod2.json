@@ -1,0 +1,156 @@
+{
+  "school_id": "de_thueringen",
+  "grades": [
+    {
+      "grade_id": "klasse7",
+      "grade_label": "Klasse 7",
+      "subjects": [
+        {
+          "subject_id": "geo",
+          "subject_title": "Geografie",
+          "modules": [
+            {
+              "module_id": "geo7_bevoelkerung",
+              "module_name": "Weltbevölkerung und Migration",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Menschen auf der Erde – Verteilung und Bewegung",
+                    "text": "In diesem Modul beschäftigst du dich mit der Verteilung der Menschen auf der Erde, mit der Entwicklung der Weltbevölkerung und mit Ursachen und Folgen von Migration. Du lernst, Bevölkerungsdiagramme zu lesen und einfache Zusammenhänge zu erklären."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "geo7_bev_u1",
+                  "text": "Ich kann die Verteilung der Bevölkerung auf der Erde beschreiben und einfache Gründe für Unterschiede nennen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Wo leben wie viele Menschen?",
+                        "text": "Du wertest einfache Karten zur Bevölkerungsverteilung aus und erkennst dicht und dünn besiedelte Räume. Du nennst Beispiele für Regionen mit vielen Menschen (z. B. große Flussebenen, Küstenräume) und Regionen mit wenigen Menschen (z. B. Wüsten, Hochgebirge, Polarregionen)."
+                      },
+                      {
+                        "title": "Warum sind manche Räume dichter besiedelt?",
+                        "text": "Du erklärst an einfachen Beispielen, welche natürlichen und wirtschaftlichen Faktoren die Besiedlung beeinflussen, z. B. Klima, Bodenfruchtbarkeit, Wasserverfügbarkeit, Verkehrs- und Arbeitsmöglichkeiten."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Bevölkerungsverteilung",
+                        "definition": "Beschreibt, wie viele Menschen in verschiedenen Regionen der Erde leben und wie dicht diese Räume besiedelt sind."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann auf einer Karte dichte und dünn besiedelte Räume zeigen.",
+                      "Ich kann mindestens zwei Gründe nennen, warum bestimmte Gebiete dicht besiedelt sind."
+                    ],
+                    "sample_questions": [
+                      "Welche Großräume der Erde sind besonders dicht besiedelt?",
+                      "Warum leben vergleichsweise wenige Menschen in Wüsten oder in Polargebieten?"
+                    ],
+                    "sample_answers": [
+                      "Zum Beispiel Teile Südund Ostasiens, große Flussebenen wie der Gangesraum oder dicht besiedelte Küstenräume in Europa.",
+                      "Weil dort extreme Klimabedingungen herrschen (sehr trocken oder sehr kalt) und es an Wasser, fruchtbaren Böden und Infrastruktur fehlt."
+                    ]
+                  }
+                },
+                {
+                  "id": "geo7_bev_u2",
+                  "text": "Ich kann einfache Bevölkerungsdiagramme lesen und grundlegende Entwicklungen der Weltbevölkerung beschreiben.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Bevölkerungsdiagramme verstehen",
+                        "text": "Du lernst, wie Bevölkerungsdiagramme (Bevölkerungspyramiden) aufgebaut sind und welche Informationen du daraus ablesen kannst, z. B. Altersaufbau, Anteile von Kindern und älteren Menschen. Du erkennst einfache Formen wie Pyramide, Glocke oder Urne und ordnest ihnen typische Entwicklungsstände zu."
+                      },
+                      {
+                        "title": "Wachstum der Weltbevölkerung",
+                        "text": "Du beschreibst anhand einfacher Grafiken, wie die Weltbevölkerung in den letzten Jahrhunderten stark gewachsen ist. Du nennst grobe Ursachen, z. B. medizinischer Fortschritt und verbesserte Ernährung, und denkst über Herausforderungen eines schnellen Wachstums nach."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Bevölkerungsdiagramm",
+                        "definition": "Diagramm, das die Verteilung der Bevölkerung nach Alter und Geschlecht zeigt und Rückschlüsse auf die Bevölkerungsstruktur erlaubt."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann an einem Bevölkerungsdiagramm erkennen, ob eine Bevölkerung eher jung oder alt ist.",
+                      "Ich kann in eigenen Worten beschreiben, wie sich die Weltbevölkerung in den letzten Jahrzehnten entwickelt hat."
+                    ],
+                    "sample_questions": [
+                      "Was zeigt dir die Form eines Bevölkerungsdiagramms über die Altersstruktur einer Bevölkerung?",
+                      "Welche Gründe gibt es dafür, dass die Weltbevölkerung stark gewachsen ist?"
+                    ],
+                    "sample_answers": [
+                      "Eine breite Basis zeigt viele Kinder und Jugendliche (junge Bevölkerung), eine breitere Spitze deutet auf viele ältere Menschen hin (alternde Bevölkerung).",
+                      "Zum Beispiel bessere medizinische Versorgung, sinkende Kindersterblichkeit und verbesserte Ernährungssituation."
+                    ]
+                  }
+                },
+                {
+                  "id": "geo7_bev_u3",
+                  "text": "Ich kann einfache Ursachen und Folgen von Migration erklären und den Begriff Push- und Pull-Faktoren anwenden.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Warum wandern Menschen aus und ein?",
+                        "text": "Du lernst, dass Migration die räumliche Verlagerung des Lebensmittelpunktes ist. Du unterscheidest grob zwischen freiwilliger und erzwungener Migration. Du kannst einfache Push-Faktoren (abstoßende Gründe, z. B. Krieg, Arbeitslosigkeit) und Pull-Faktoren (anziehende Gründe, z. B. Arbeitsplätze, Sicherheit) nennen."
+                      },
+                      {
+                        "title": "Folgen von Migration",
+                        "text": "Du beschreibst an einem Beispiel, welche Folgen Migration sowohl für Herkunftsregionen als auch für Zielregionen haben kann, z. B. Fachkräftemangel, Überweisungen von Geld, kulturelle Vielfalt, Integrationsaufgaben."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Migration",
+                        "definition": "Räumliche Verlagerung des Lebensmittelpunktes einer Person oder Gruppe, oft über größere Entfernungen oder Grenzen hinweg."
+                      },
+                      {
+                        "term": "Push-Faktoren",
+                        "definition": "Gründe, die Menschen aus einem Gebiet wegdrängen, z. B. Armut, Kriege oder Naturkatastrophen."
+                      },
+                      {
+                        "term": "Pull-Faktoren",
+                        "definition": "Gründe, die Menschen in ein Gebiet anziehen, z. B. Arbeitsplätze, höhere Löhne, Sicherheit."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann zu einem Migrationsbeispiel mindestens einen Push- und einen Pull-Faktor benennen.",
+                      "Ich kann erklären, dass Migration sowohl Chancen als auch Probleme mit sich bringt."
+                    ],
+                    "sample_questions": [
+                      "Nenne ein Beispiel für einen Push-Faktor und einen Pull-Faktor bei Migration.",
+                      "Welche Chancen und Herausforderungen kann Migration für eine Zielregion mit sich bringen?"
+                    ],
+                    "sample_answers": [
+                      "Push: Krieg oder fehlende Arbeit im Herkunftsland; Pull: bessere Verdienstmöglichkeiten oder Frieden im Zielland.",
+                      "Chancen sind z. B. neue Arbeitskräfte, kulturelle Vielfalt; Herausforderungen sind z. B. Integrationsaufgaben, mögliche Konflikte oder Wohnraummangel."
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

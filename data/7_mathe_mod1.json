@@ -1,0 +1,179 @@
+{
+  "school_id": "de_thueringen",
+  "grades": [
+    {
+      "grade_id": "klasse7",
+      "grade_label": "Klasse 7",
+      "subjects": [
+        {
+          "subject_id": "mat",
+          "subject_title": "Mathematik",
+          "modules": [
+            {
+              "module_id": "mat7_arithmetik1",
+              "module_name": "Arithmetik/Algebra – Rationale Zahlen, Terme und einfache Gleichungen",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Mit Zahlen und Termen sicher umgehen",
+                    "text": "In diesem Modul vertiefst du den Umgang mit rationalen Zahlen, übst das Arbeiten mit Termen und lernst, einfache lineare Gleichungen zu lösen. Du nutzt unterschiedliche Darstellungen (Zahlengerade, Tabellen, Terme) und setzt Rechenregeln gezielt ein."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "mat7_arith1_u1",
+                  "text": "Ich kann rationale Zahlen darstellen, ordnen, vergleichen und sinnvoll runden.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Rationale Zahlen auf dem Zahlenstrahl",
+                        "text": "Du wiederholst die Zahlbereiche ℕ, ℤ, ℚ und platzierst rationale Zahlen (Brüche und Dezimalzahlen, auch negative) auf dem Zahlenstrahl. Du ordnest und vergleichst sie, erkennst entgegengesetzte Zahlen und den Betrag einer Zahl und rundest in einfachen Alltagssituationen sinnvoll."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "rationale Zahl",
+                        "definition": "Zahl, die sich als Bruch zweier ganzer Zahlen mit Nenner ungleich 0 schreiben lässt, z. B. 1/2, -3/4, 0,25."
+                      },
+                      {
+                        "term": "Betrag",
+                        "definition": "Abstand einer Zahl von 0 auf dem Zahlenstrahl (z. B. |−3| = 3)."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann rationale Zahlen auf einem Zahlenstrahl richtig eintragen.",
+                      "Ich kann zwei rationale Zahlen vergleichen und die größere angeben."
+                    ],
+                    "sample_questions": [
+                      "Wie kannst du −1,5 und −3/4 auf dem Zahlenstrahl einordnen und vergleichen?",
+                      "Was bedeutet der Betrag einer Zahl und wofür ist er nützlich?"
+                    ],
+                    "sample_answers": [
+                      "Ich überführe beide Zahlen in Dezimaldarstellung (−1,5 und −0,75) und sehe auf dem Zahlenstrahl, dass −0,75 größer ist als −1,5.",
+                      "Der Betrag gibt den Abstand von 0 an; er hilft z. B. bei Abstands- oder Fehlerberechnungen."
+                    ]
+                  }
+                },
+                {
+                  "id": "mat7_arith1_u2",
+                  "text": "Ich kann mit rationalen Zahlen die Grundrechenarten ausführen und Rechengesetze gezielt nutzen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Rechnen im erweiterten Zahlbereich",
+                        "text": "Du übst Addition, Subtraktion, Multiplikation und Division mit ganzen und rationalen Zahlen – im Kopf, schriftlich und mit dem Taschenrechner. Du nutzt Kommutativ-, Assoziativ- und Distributivgesetz, um Rechnungen zu vereinfachen, und prüfst Ergebnisse durch Überschlagen und Gegenrechnen."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Distributivgesetz",
+                        "definition": "a·(b + c) = a·b + a·c; hilft beim Ausmultiplizieren oder Ausklammern."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann Rechenwege übersichtlich notieren und Zwischenschritte begründen.",
+                      "Ich setze Rechengesetze ein, um Terme oder Rechnungen zu vereinfachen."
+                    ],
+                    "sample_questions": [
+                      "Wie kannst du 25 · 48 mithilfe von Rechengesetzen einfach ausrechnen?",
+                      "Welche Rolle spielt das Distributivgesetz beim Ausmultiplizieren von Klammern?"
+                    ],
+                    "sample_answers": [
+                      "Ich schreibe 48 = 50 − 2 und rechne 25·50 − 25·2 = 1250 − 50 = 1200.",
+                      "Es erlaubt, a·(b + c) in a·b + a·c zu zerlegen, sodass man besser im Kopf oder schriftlich rechnen kann."
+                    ]
+                  }
+                },
+                {
+                  "id": "mat7_arith1_u3",
+                  "text": "Ich kann einfache Terme aufstellen, umformen und Termwerte berechnen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Terme als Rechenvorschriften",
+                        "text": "Du setzt Variablen ein, um Rechengesetze allgemein zu formulieren oder Sachzusammenhänge darzustellen. Du stellst Terme zu beschriebenen Situationen auf, fasst gleichartige Terme zusammen, klammerst aus oder multiplizierst Klammern aus und berechnest Termwerte für gegebene Variable."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Term",
+                        "definition": "Mathematischer Ausdruck aus Zahlen, Variablen und Rechenzeichen ohne Gleichheitszeichen, z. B. 3x + 5."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann zu einer kurzen Sachsituation einen passenden Term aufstellen.",
+                      "Ich kann einen Term durch sinnvolle Umformungen vereinfachen."
+                    ],
+                    "sample_questions": [
+                      "Wie kannst du die Kosten für x Heftseiten, wenn eine Seite 0,5 € kostet, als Term schreiben?",
+                      "Wie vereinfachst du den Term 3x + 4x − 2?"
+                    ],
+                    "sample_answers": [
+                      "Als Term K(x) = 0,5·x.",
+                      "Ich fasse gleichartige Terme zusammen: 3x + 4x − 2 = 7x − 2."
+                    ]
+                  }
+                },
+                {
+                  "id": "mat7_arith1_u4",
+                  "text": "Ich kann einfache lineare Gleichungen mit einer Variablen lösen und die Lösung kontrollieren.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Gleichungen lösen als Umkehrrechnen",
+                        "text": "Du interpretierst einfache lineare Gleichungen als ‚Frage nach einer unbekannten Zahl‘. Du löst sie durch Umformen: durch Umkehroperationen auf beiden Seiten, bis die Variable allein steht. Du kontrollierst deine Lösung durch Einsetzen in die Ausgangsgleichung und prüfst, ob eine wahre Aussage entsteht."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Gleichung",
+                        "definition": "Aussage, dass zwei Terme denselben Wert haben; sie enthält oft eine Variable mit unbekannten Wert, z. B. 3x + 2 = 11."
+                      },
+                      {
+                        "term": "Lösung einer Gleichung",
+                        "definition": "Wert der Variablen, der die Gleichung wahr macht."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann die einzelnen Umformungsschritte bei einer einfachen linearen Gleichung begründen.",
+                      "Ich setze die gefundene Lösung zur Kontrolle wieder in die Gleichung ein."
+                    ],
+                    "sample_questions": [
+                      "Wie löst du die Gleichung 3x + 5 = 20 schrittweise?",
+                      "Wie kannst du überprüfen, ob x = 4 wirklich eine Lösung von 2x − 1 = 7 ist?"
+                    ],
+                    "sample_answers": [
+                      "Ich subtrahiere 5 auf beiden Seiten: 3x = 15, dann dividiere ich durch 3: x = 5.",
+                      "Ich setze x = 4 ein: 2·4 − 1 = 8 − 1 = 7, die Gleichung ist erfüllt, also ist x = 4 eine Lösung."
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

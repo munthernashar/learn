@@ -1,0 +1,140 @@
+{
+  "school_id": "de_thueringen",
+  "grades": [
+    {
+      "grade_id": "klasse7",
+      "grade_label": "Klasse 7",
+      "subjects": [
+        {
+          "subject_id": "deu",
+          "subject_title": "Deutsch",
+          "modules": [
+            {
+              "module_id": "deu7_sprache",
+              "module_name": "Über Sprache nachdenken – Grammatik und Rechtschreibung",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Sprache bewusst verwenden",
+                    "text": "In diesem Modul reflektierst du gezielt über sprachliche Strukturen. Du wiederholst und vertiefst wichtige Bereiche der Grammatik und Rechtschreibung, um Texte bewusster und normgerechter formulieren zu können."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "deu7_sprache_u1",
+                  "text": "Ich kann Satzarten und grundlegende Satzglieder bestimmen und für verständliche Sätze nutzen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Satzbau durchschauen",
+                        "text": "Du unterscheidest Satzarten (Aussage-, Frage-, Aufforderungs- und Ausrufesatz) und erkennst wichtige Satzglieder wie Subjekt, Prädikat, Objekte und einfache Adverbialbestimmungen. Du nutzt dieses Wissen, um Sätze zu verbessern, Missverständnisse zu vermeiden und Satzbaufehler zu erkennen."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Subjekt",
+                        "definition": "Satzglied, das angibt, wer oder was handelt oder in einem Zustand ist (Wer oder was?)."
+                      },
+                      {
+                        "term": "Prädikat",
+                        "definition": "Satzglied, das aussagt, was geschieht oder was jemand tut; besteht aus einem oder mehreren Verbteilen."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann in einfachen Sätzen Subjekt und Prädikat sicher bestimmen.",
+                      "Ich kann Satzbaufehler (z. B. fehlendes Prädikat) erkennen und korrigieren."
+                    ],
+                    "sample_questions": [
+                      "Warum hilft dir das Wissen über Satzglieder beim Überarbeiten von Texten?",
+                      "Woran erkennst du, dass ein Satz vollständig ist?"
+                    ],
+                    "sample_answers": [
+                      "Weil ich sehen kann, ob wichtige Teile fehlen oder unlogisch stehen und so Sätze gezielt verbessern kann.",
+                      "Ein vollständiger Satz enthält mindestens ein Subjekt und ein Prädikat und ergibt inhaltlich Sinn."
+                    ]
+                  }
+                },
+                {
+                  "id": "deu7_sprache_u2",
+                  "text": "Ich kann wichtige Rechtschreibregeln anwenden (Groß- und Kleinschreibung, Getrennt- und Zusammenschreibung, Dehnung und Schärfung).",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Sicher schreiben",
+                        "text": "Du wiederholst zentrale Rechtschreibregeln: Großschreibung von Nomen und substantivierten Wörtern, Getrennt- und Zusammenschreibung häufiger Wortverbindungen sowie Regeln zu Dehnung und Schärfung. Du nutzt Strategien wie Ableiten, Verlängern und Nachschlagen, um Unsicherheiten zu klären."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "substantiviertes Verb/Adjektiv",
+                        "definition": "Verb oder Adjektiv, das wie ein Nomen gebraucht wird und großgeschrieben wird (z. B. das Laufen, im Allgemeinen)."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann typische Fehler bei Groß- und Kleinschreibung in meinen Texten finden und verbessern.",
+                      "Ich kenne Strategien, um bei unsicheren Wörtern die richtige Schreibung zu überprüfen."
+                    ],
+                    "sample_questions": [
+                      "Woran erkennst du, dass ein Wort großgeschrieben werden muss?",
+                      "Welche Strategien helfen dir bei Dehnung und Schärfung (z. B. aa/ah, tt/ck)?"
+                    ],
+                    "sample_answers": [
+                      "Wenn es ein Nomen ist oder ein Verb/Adjektiv wie ein Nomen verwendet wird (mit Artikel oder in einer festen Verbindung).",
+                      "Ich verlängere das Wort (z. B. Tag – Tage), schaue auf verwandte Wörter und nutze Regeln wie Doppelkonsonant nach kurzem Vokal."
+                    ]
+                  }
+                },
+                {
+                  "id": "deu7_sprache_u3",
+                  "text": "Ich kann über meine eigene Sprachverwendung und typische Fehler reflektieren und Verbesserungsziele formulieren.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Eigene Sprache prüfen",
+                        "text": "Du analysierst typische Fehler in deinen Texten (z. B. Zeitformen, Zeichensetzung, häufig falsche Wörter) und hältst sie in einer persönlichen Fehlerkartei oder Liste fest. Du überlegst konkrete Schritte, wie du diese Fehler nach und nach reduzieren kannst."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Fehleranalyse",
+                        "definition": "Bewusste Auswertung eigener Fehler, um Muster zu erkennen und gezielt daran zu arbeiten."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kenne typische Fehler, die ich häufig mache.",
+                      "Ich kann mir mindestens ein konkretes Ziel für die Verbesserung meiner Sprachrichtigkeit setzen."
+                    ],
+                    "sample_questions": [
+                      "Warum ist es sinnvoll, eigene Fehler systematisch zu sammeln und auszuwerten?",
+                      "Wie könntest du dir ein persönliches Rechtschreib- oder Grammatikziel setzen?"
+                    ],
+                    "sample_answers": [
+                      "Weil ich so erkenne, wo meine Schwächen liegen, und gezielt an diesen Stellen üben kann, statt immer nur allgemein ‚besser schreiben‘ zu wollen.",
+                      "Ich kann mir z. B. vornehmen, in den nächsten Texten besonders auf Großschreibung von Nomen zu achten und jeden Text daraufhin zu kontrollieren."
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

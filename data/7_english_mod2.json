@@ -1,0 +1,136 @@
+{
+  "school_id": "de_thueringen",
+  "grades": [
+    {
+      "grade_id": "klasse7",
+      "grade_label": "Klasse 7",
+      "subjects": [
+        {
+          "subject_id": "eng",
+          "subject_title": "Englisch",
+          "modules": [
+            {
+              "module_id": "eng7_speaking",
+              "module_name": "Sprechen – an Gesprächen teilnehmen und zusammenhängend sprechen",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Englisch im Gespräch",
+                    "text": "In diesem Modul übst du, in typischen Alltagssituationen auf Englisch zu sprechen. Du führst einfache Gespräche, stellst Fragen, reagierst passend und hältst kurze zusammenhängende Sprechbeiträge zu vertrauten Themen."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "eng7_sp_u1",
+                  "text": "Ich kann an einfachen Gesprächen zu vertrauten Themen teilnehmen (z. B. über mich, meine Familie, Freizeit, Schule) und angemessen reagieren.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Small talk und Alltagssituationen",
+                        "text": "Du wiederholst und erweiterst typische Redemittel für Begrüßung, Nachfragen, Zustimmen, Ablehnen und Verabschiedung. Du übst, in einfachen Dialogen spontan zu reagieren, auch wenn dir ein Wort fehlt, z. B. durch Umschreibungen oder Nachfragen."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "small talk",
+                        "definition": "Kurzes, informelles Gespräch über einfache, meist persönliche Themen wie Wetter, Hobbys oder Schule."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann ein einfaches Gespräch beginnen, aufrechterhalten und beenden (z. B. in der Pause oder im Klassenraum).",
+                      "Ich kann nachfragen, wenn ich etwas nicht verstanden habe (z. B. Sorry, could you say that again?)."
+                    ],
+                    "sample_questions": [
+                      "Welche Redemittel helfen dir, ein Gespräch auf Englisch am Laufen zu halten?",
+                      "Was kannst du tun, wenn dir ein Wort im Gespräch fehlt?"
+                    ],
+                    "sample_answers": [
+                      "Zum Beispiel: How are you?, Really?, That’s interesting!, What about you?, I think…, I’m not sure.",
+                      "Ich kann umschreiben, ein ähnliches Wort benutzen oder nachfragen, z. B. How do you say … in English?"
+                    ]
+                  }
+                },
+                {
+                  "id": "eng7_sp_u2",
+                  "text": "Ich kann über vertraute Themen kurze zusammenhängende Sprechbeiträge halten (z. B. über meinen Alltag, eine Person, einen Ort, ein Erlebnis).",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Kurze Präsentationen planen",
+                        "text": "Du lernst, deine Ideen in Stichpunkten zu planen (Einleitung – Hauptteil – Schluss) und diese in einfachen, aber verständlichen Sätzen zu präsentieren. Du nutzt Verknüpfungen wie first, then, after that, finally, um deinen Beitrag klar zu strukturieren."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "presentation",
+                        "definition": "Kurzer vorbereiteter Sprechbeitrag zu einem Thema, den du vor der Klasse oder in einer Gruppe hältst."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann einen kurzen Sprechbeitrag mit klarer Reihenfolge vorbereiten.",
+                      "Ich kann einfache Verknüpfungswörter nutzen, damit mein Sprechen flüssiger wirkt."
+                    ],
+                    "sample_questions": [
+                      "Wie kannst du einen kurzen Sprechbeitrag sinnvoll strukturieren?",
+                      "Welche Wörter helfen dir, deine Sätze logisch zu verbinden?"
+                    ],
+                    "sample_answers": [
+                      "Ich beginne mit einer kurzen Einleitung, erzähle dann im Hauptteil die wichtigsten Punkte und beende meinen Beitrag mit einem kurzen Schluss.",
+                      "Zum Beispiel: first, then, after that, finally, and, but, because."
+                    ]
+                  }
+                },
+                {
+                  "id": "eng7_sp_u3",
+                  "text": "Ich kann Aussprache und Intonation so nutzen, dass andere mich gut verstehen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Understandable English",
+                        "text": "Du achtest beim Sprechen auf deutliches Artikulieren, typische Lautunterschiede zwischen Deutsch und Englisch (z. B. th, w/v, long and short vowels) und eine passende Satzmelodie. Du übst, Fragen, Aussagen und Betonung so zu sprechen, dass sie natürlich und gut verständlich klingen."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "pronunciation",
+                        "definition": "Art und Weise, wie Wörter gesprochen werden, inklusive Lautbildung und Betonung."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann häufige Aussprachefehler (z. B. th, v/w) bewusst vermeiden.",
+                      "Ich kann langsam und deutlich sprechen, sodass meine Mitschülerinnen und Mitschüler mich verstehen."
+                    ],
+                    "sample_questions": [
+                      "Welche englischen Laute findest du besonders schwierig und wie kannst du sie üben?",
+                      "Warum ist Intonation im Englischen wichtig?"
+                    ],
+                    "sample_answers": [
+                      "Zum Beispiel th in think oder this; ich kann sie durch Nachsprechen von Beispielsätzen und Zuhören in Audio/Video üben.",
+                      "Weil Satzmelodie und Betonung helfen, Fragen, Betonungen und Emotionen zu erkennen und Missverständnisse zu vermeiden."
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

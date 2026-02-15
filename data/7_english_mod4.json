@@ -1,0 +1,140 @@
+{
+  "school_id": "de_thueringen",
+  "grades": [
+    {
+      "grade_id": "klasse7",
+      "grade_label": "Klasse 7",
+      "subjects": [
+        {
+          "subject_id": "eng",
+          "subject_title": "Englisch",
+          "modules": [
+            {
+              "module_id": "eng7_mediation",
+              "module_name": "Mediation – Inhalte sinngemäß übertragen",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Zwischen Deutsch und Englisch vermitteln",
+                    "text": "In diesem Modul lernst du, Informationen aus einfachen deutschen oder englischen Texten sinngemäß in die jeweils andere Sprache zu übertragen. Du übst, Wichtiges von Unwichtigem zu unterscheiden und verständlich zusammenzufassen, ohne wörtlich zu übersetzen."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "eng7_med_u1",
+                  "text": "Ich kann zentrale Informationen aus einem einfachen deutschen Text auf Englisch sinngemäß wiedergeben (z. B. für einen Austauschschüler).",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Wichtiges auswählen",
+                        "text": "Du liest einen kurzen deutschen Text (z. B. Einladung, Infozettel, kurze Webseite) und markierst die wichtigsten Informationen, die für eine andere Person wirklich wichtig sind. Du lässt Details weg, die für die Aufgabe keine Rolle spielen."
+                      },
+                      {
+                        "title": "Sinngemäß auf Englisch formulieren",
+                        "text": "Du überträgst die markierten Informationen in einfachen englischen Sätzen und vermeidest komplizierte Strukturen. Du versuchst nicht, Satz für Satz wörtlich zu übersetzen, sondern den Sinn verständlich zu machen."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "mediation",
+                        "definition": "Sprachmittlung – Inhalte aus einer Sprache in einer anderen Sprache sinngemäß wiedergeben, ohne wörtlich zu übersetzen."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann aus einem kurzen deutschen Text die wichtigsten Infos für eine englische Person herausfiltern.",
+                      "Ich kann diese Infos in einfachen englischen Sätzen wiedergeben, ohne wörtlich zu übersetzen."
+                    ],
+                    "sample_questions": [
+                      "Woran erkennst du, welche Informationen in einem Text für die Sprachmittlung wichtig sind?",
+                      "Warum ist eine sinngemäße Wiedergabe wichtiger als eine wörtliche Übersetzung?"
+                    ],
+                    "sample_answers": [
+                      "Wichtig ist, was direkt zur Aufgabe passt – z. B. Ort, Zeit, Anlass einer Einladung oder die wichtigsten Regeln.",
+                      "Weil eine wörtliche Übersetzung oft unnatürlich klingt oder schwer verständlich ist; wichtig ist, dass der andere die Informationen gut versteht."
+                    ]
+                  }
+                },
+                {
+                  "id": "eng7_med_u2",
+                  "text": "Ich kann zentrale Informationen aus einem einfachen englischen Text auf Deutsch sinngemäß erklären.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Verstehen und erklären",
+                        "text": "Du liest einen kurzen englischen Text und nutzt die gelernten Lesestrategien, um ihn zu verstehen. Danach erklärst du den Inhalt auf Deutsch, so dass jemand, der kein Englisch kann, die wesentlichen Informationen versteht."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "summary",
+                        "definition": "Kurzfassung eines Textes, die die wichtigsten Aussagen in eigenen Worten wiedergibt."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann nach dem Lesen eines einfachen englischen Textes die Hauptaussagen auf Deutsch erklären.",
+                      "Ich vermeide lange wörtliche Übersetzungen und formuliere in eigenen Worten."
+                    ],
+                    "sample_questions": [
+                      "Wie gehst du vor, wenn du jemandem einen englischen Text auf Deutsch erklären sollst?",
+                      "Warum ist es sinnvoll, eigene Worte statt Eins-zu-eins-Übersetzungen zu benutzen?"
+                    ],
+                    "sample_answers": [
+                      "Ich lese den Text, markiere die wichtigsten Stellen und fasse dann in kurzen deutschen Sätzen zusammen, was passiert oder was wichtig ist.",
+                      "Eigene Worte helfen, den Inhalt an den Wissensstand der Person anzupassen und Missverständnisse zu vermeiden."
+                    ]
+                  }
+                },
+                {
+                  "id": "eng7_med_u3",
+                  "text": "Ich kann einfache Strategien nutzen, wenn mir beim Sprachmitteln Wörter fehlen (umschreiben, Beispiele geben, weglassen).",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Mit Lücken umgehen",
+                        "text": "Du lernst, dass du beim Sprachmitteln nicht jedes Wort brauchst. Wenn dir ein Ausdruck fehlt, kannst du ihn umschreiben, ein einfacheres Wort nehmen, ein Beispiel geben oder eine unwichtige Einzelheit weglassen. Wichtig ist, dass die Hauptaussage stimmt."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "paraphrasing",
+                        "definition": "Umschreiben eines Wortes oder Satzes mit anderen, einfacheren Ausdrücken."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann unbekannte Wörter durch Umschreibungen ersetzen.",
+                      "Ich kann entscheiden, welche Informationen ich weglassen kann, ohne den Sinn zu verändern."
+                    ],
+                    "sample_questions": [
+                      "Welche Möglichkeiten hast du, wenn dir beim Sprachmitteln ein englisches Wort nicht einfällt?",
+                      "Welche Informationen darfst du beim Sprachmitteln weglassen?"
+                    ],
+                    "sample_answers": [
+                      "Ich kann das Wort mit anderen Wörtern beschreiben, ein allgemeineres Wort benutzen oder ein Beispiel geben.",
+                      "Ich darf Details weglassen, die für das Verstehen der Hauptaussage nicht wichtig sind, z. B. überflüssige Zahlen, Zusätze oder Wiederholungen."
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

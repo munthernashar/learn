@@ -1,0 +1,152 @@
+{
+  "school_id": "de_thueringen",
+  "grades": [
+    {
+      "grade_id": "klasse7",
+      "grade_label": "Klasse 7",
+      "subjects": [
+        {
+          "subject_id": "geo",
+          "subject_title": "Geografie",
+          "modules": [
+            {
+              "module_id": "geo7_naturraum",
+              "module_name": "Die Erde als Naturraum – Aufbau, Klima und Zonen",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Die Erde verstehen",
+                    "text": "In diesem Modul lernst du die Erde als Naturraum besser kennen. Du beschäftigst dich mit dem inneren Aufbau der Erde und der Plattentektonik, mit wichtigen klimabestimmenden Faktoren und mit Klima- und Vegetationszonen. Du erkennst, wie Naturfaktoren zusammenwirken und Lebensbedingungen für Menschen, Tiere und Pflanzen prägen."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "geo7_naturraum_u1",
+                  "text": "Ich kann den inneren Aufbau der Erde beschreiben und erklären, was mit Plattentektonik gemeint ist.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Schalenbau der Erde",
+                        "text": "Du lernst den Aufbau der Erde in vereinfachter Form kennen: innerer Kern, äußerer Kern, Mantel und Erdkruste. Du kannst zuordnen, wo es besonders heiß ist, welche Schicht fest oder zähflüssig ist und wo wir mit unserem Leben an der Oberfläche sitzen."
+                      },
+                      {
+                        "title": "Plattentektonik – bewegte Erdkruste",
+                        "text": "Du erfährst, dass die Erdkruste aus großen und kleinen Platten besteht, die sich langsam bewegen. An den Plattengrenzen entstehen Gebirge, Erdbeben, Vulkane und Tiefseegräben. Du kannst die Grundidee erklären, warum sich Kontinente im Lauf der Erdgeschichte verschoben haben."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Schalenbau",
+                        "definition": "Modell, das den inneren Aufbau der Erde in Schichten (Kern, Mantel, Kruste) beschreibt."
+                      },
+                      {
+                        "term": "Plattentektonik",
+                        "definition": "Theorie, nach der die Erdkruste aus Platten besteht, die sich bewegen und an ihren Rändern Vulkane, Gebirge und Erdbeben erzeugen."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann eine einfache Skizze des Schalenbaus der Erde anfertigen und die wichtigsten Schichten benennen.",
+                      "Ich kann in eigenen Worten erklären, was an Plattengrenzen passieren kann (z. B. Erdbeben, Gebirgsbildung, Vulkane)."
+                    ],
+                    "sample_questions": [
+                      "Warum spricht man beim Aufbau der Erde von einem Schalenbau?",
+                      "Was passiert an den Grenzen tektonischer Platten?"
+                    ],
+                    "sample_answers": [
+                      "Weil die Erde aus verschiedenen Schichten besteht, die wie Schalen übereinander liegen – von innen nach außen: Kern, Mantel, Kruste.",
+                      "Dort stoßen Platten zusammen, driften auseinander oder gleiten aneinander vorbei; dadurch können Gebirge entstehen, Vulkane ausbrechen oder Erdbeben auftreten."
+                    ]
+                  }
+                },
+                {
+                  "id": "geo7_naturraum_u2",
+                  "text": "Ich kann wichtige klimabestimmende Faktoren nennen und ihre Wirkung an Beispielen erklären.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Warum ist es nicht überall gleich warm?",
+                        "text": "Du lernst zentrale klimabestimmende Faktoren kennen: geografische Breite (Sonnenstand), Höhenlage, Lage zum Meer (Kontinentalität/Maritimität), Meeresströmungen und Wind- bzw. Luftzirkulation. Du ordnest einfache Beispiele zu, z. B. warum es in den Tropen wärmer ist als in den Polargebieten oder warum Küstenklima milder ist als Inlandklima."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Klimafaktor",
+                        "definition": "Ein Einfluss, der das Klima eines Ortes mitbestimmt, z. B. Breitenlage, Höhenlage, Entfernung zum Meer."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann mindestens drei klimabestimmende Faktoren aufzählen.",
+                      "Ich kann an einem Beispiel erklären, wie die Lage am Meer das Klima beeinflusst."
+                    ],
+                    "sample_questions": [
+                      "Warum ist es in hohen Breiten meist kälter als am Äquator?",
+                      "Wie wirkt sich die Lage am Meer auf Temperaturverlauf und Niederschlag aus?"
+                    ],
+                    "sample_answers": [
+                      "Weil die Sonnenstrahlen in hohen Breiten flacher einfallen und ihre Energie auf eine größere Fläche verteilt wird als am Äquator.",
+                      "Das Meer wirkt wie ein Wärmespeicher: Es gleicht Temperaturunterschiede aus, dadurch sind Sommer oft kühler und Winter milder; zudem bringen Winde vom Meer häufig mehr Niederschlag."
+                    ]
+                  }
+                },
+                {
+                  "id": "geo7_naturraum_u3",
+                  "text": "Ich kann Klima- und Vegetationszonen der Erde in Grundzügen beschreiben und Zusammenhänge zwischen Klima und Vegetation erklären.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Klima- und Vegetationszonen der Erde",
+                        "text": "Du lernst wichtige Klima- und Vegetationszonen kennen, z. B. immerfeuchte Tropen, wechselfeuchte Tropen, Wüsten, Mittelbreiten, Polargebiete. Du kannst sie auf einer vereinfachten Weltkarte verorten und typische Merkmale von Klima und Pflanzenwelt nennen."
+                      },
+                      {
+                        "title": "Klima bestimmt Vegetation",
+                        "text": "Du erkennst, dass Temperatur und Niederschlag die Art der Vegetation stark beeinflussen, z. B. dichter Regenwald in den Tropen bei ganzjährig warmem, feuchtem Klima oder kaum Vegetation in heißen Trockengebieten. Du kannst diesen Zusammenhang an mindestens einem Beispiel erläutern."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Klimazone",
+                        "definition": "Gebiet der Erde mit typischem, über Jahre ähnlichem Klima (z. B. Tropen, Subtropen, Mittelbreiten, Polarzonen)."
+                      },
+                      {
+                        "term": "Vegetationszone",
+                        "definition": "Großraum mit typischer Pflanzendecke, die stark vom Klima geprägt wird."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann ausgewählte Klima- und Vegetationszonen auf einer Weltkarte zeigen.",
+                      "Ich kann an einem Beispiel erklären, wie Klima und typische Vegetation zusammenhängen."
+                    ],
+                    "sample_questions": [
+                      "Was unterscheidet das Klima der immerfeuchten Tropen von dem der Wüsten?",
+                      "Warum wächst im Regenwald eine andere Vegetation als in den Mittelbreiten?"
+                    ],
+                    "sample_answers": [
+                      "In den immerfeuchten Tropen ist es ganzjährig warm und niederschlagsreich, in Wüsten ist es sehr trocken und oft extrem heiß oder kalt mit sehr wenig Niederschlag.",
+                      "Weil im Regenwald durch Wärme und viel Regen ganzjährig gute Wachstumsbedingungen herrschen, während in den Mittelbreiten Jahreszeiten, kühlere Temperaturen und weniger Niederschlag die Vegetation begrenzen."
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

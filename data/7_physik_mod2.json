@@ -1,0 +1,144 @@
+{
+  "school_id": "de_thueringen",
+  "grades": [
+    {
+      "grade_id": "klasse7",
+      "grade_label": "Klasse 7",
+      "subjects": [
+        {
+          "subject_id": "phy",
+          "subject_title": "Physik",
+          "modules": [
+            {
+              "module_id": "phy7_elektrizitaet",
+              "module_name": "Elektrizität – geladene Körper, Stromkreise und elektrische Größen",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Strom und Ladung verstehen",
+                    "text": "In diesem Modul lernst du grundlegende Begriffe der Elektrizitätslehre kennen. Du untersuchst geladene Körper, baust einfache Stromkreise auf und arbeitest mit den Größen Stromstärke, Spannung und Widerstand in einfachen Mess- und Schaltsituationen."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "phy7_el_u1",
+                  "text": "Ich kann geladene Körper und elektrische Ladung als grundlegende Erscheinung beschreiben und einfache Experimente deuten.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Geladene Körper und Ladungsarten",
+                        "text": "Du lernst, dass Körper durch Reiben elektrisch geladen werden können und sich dann anziehen oder abstoßen. Du unterscheidest zwei Ladungsarten (positiv/negativ) anhand von Kraftwirkungen und beschreibst die Ladung eines Körpers anschaulich als Elektronenmangel oder -überschuss."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "elektrische Ladung",
+                        "definition": "Eigenschaft von Körpern, die zu elektrischen Kräften führt; es gibt positive und negative Ladungen."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann anhand eines Reibungsversuchs erklären, wann sich Körper anziehen oder abstoßen.",
+                      "Ich kann die Begriffe ‚positiv‘ und ‚negativ‘ im Zusammenhang mit Ladung richtig verwenden."
+                    ],
+                    "sample_questions": [
+                      "Was beobachtest du, wenn du einen Kunststoffstab reibst und ihn in die Nähe kleiner Papierstückchen bringst?",
+                      "Wie kannst du erklären, warum sich zwei gleich geladene Körper abstoßen?"
+                    ],
+                    "sample_answers": [
+                      "Die Papierstückchen werden angezogen, weil der Stab elektrisch geladen ist und eine Kraft auf sie ausübt.",
+                      "Gleichnamige Ladungen stoßen sich ab, ungleichnamige ziehen sich an – das ist eine grundlegende Eigenschaft elektrischer Ladung."
+                    ]
+                  }
+                },
+                {
+                  "id": "phy7_el_u2",
+                  "text": "Ich kann einen einfachen Stromkreis aufbauen, Schaltzeichen verwenden und zwischen Leitern und Nichtleitern unterscheiden.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Vom Aufbau zum Schaltplan",
+                        "text": "Du kennst die Grundbauteile eines einfachen Stromkreises (Spannungsquelle, Leitungen, Schalter, Verbraucher wie Lampe oder Motor) und baust funktionsfähige Stromkreise. Du lernst die wichtigsten Schaltzeichen und überträgst reale Aufbauten in Schaltpläne. Du unterscheidest Leiter und Nichtleiter und beschreibst den Stromfluss in Metallen vereinfacht als Bewegung von Elektronen."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Stromkreis",
+                        "definition": "Geschlossene Leiterschleife mit Spannungsquelle und Verbrauchern, in der elektrischer Strom fließen kann."
+                      },
+                      {
+                        "term": "Leiter/Isolator",
+                        "definition": "Material, in dem elektrischer Strom gut (Leiter) bzw. schlecht (Isolator) fließen kann."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann eine Lampe mit Batterie und Schalter so anschließen, dass sie funktioniert.",
+                      "Ich kann einen einfachen Stromkreis als Schaltplan mit den richtigen Schaltzeichen zeichnen."
+                    ],
+                    "sample_questions": [
+                      "Welche Bauteile brauchst du mindestens, um eine Lampe zum Leuchten zu bringen?",
+                      "Warum leitet Metall Strom, ein Kunststofflineal aber nicht?"
+                    ],
+                    "sample_answers": [
+                      "Eine Spannungsquelle (z. B. Batterie), Leitungen und eine Lampe; optional einen Schalter.",
+                      "In Metallen können sich Elektronen frei bewegen, in Kunststoffen sind sie gebunden und es fließt kein Strom."
+                    ]
+                  }
+                },
+                {
+                  "id": "phy7_el_u3",
+                  "text": "Ich kann elektrische Stromstärke und Spannung als physikalische Größen beschreiben und einfache Messungen durchführen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Stromstärke und Spannung messen",
+                        "text": "Du charakterisierst die Stromstärke als Maß dafür, wie viel elektrische Ladung pro Zeit durch einen Leiter fließt, und die Spannung als Maß für den ‚Antrieb‘ des Stroms zwischen zwei Punkten. Du lernst, wie ein Amperemeter und ein Voltmeter im Stromkreis angeschlossen werden und führst einfache Messungen in Reihen- und Parallelschaltungen durch."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Stromstärke",
+                        "definition": "Maß für die Menge elektrischer Ladung, die pro Zeit durch einen Querschnitt des Leiters fließt (Einheit: Ampere)."
+                      },
+                      {
+                        "term": "Spannung",
+                        "definition": "Maß für die Energie, die pro Ladung transportiert wird; treibt den Strom im Stromkreis an (Einheit: Volt)."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich weiß, dass man die Stromstärke in Reihe und die Spannung parallel zum Bauteil misst.",
+                      "Ich kann Messergebnisse sinnvoll notieren und einfache Zusammenhänge beschreiben."
+                    ],
+                    "sample_questions": [
+                      "Wie schließt du ein Amperemeter an, um die Stromstärke durch eine Lampe zu messen?",
+                      "Wie verändert sich die Stromstärke in einer Reihenschaltung, wenn du eine weitere Lampe hinzufügst (qualitativ)?"
+                    ],
+                    "sample_answers": [
+                      "Das Amperemeter wird in Reihe zur Lampe in den Stromkreis eingebaut, sodass der gesamte Strom hindurchfließt.",
+                      "In einer einfachen Reihenschaltung wird der Gesamtwiderstand größer, die Stromstärke im Stromkreis nimmt ab."
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

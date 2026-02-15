@@ -1,0 +1,109 @@
+{
+  "school_id": "de_thueringen",
+  "grades": [
+    {
+      "grade_id": "klasse7",
+      "grade_label": "Klasse 7",
+      "subjects": [
+        {
+          "subject_id": "geschi",
+          "subject_title": "Geschichte",
+          "modules": [
+            {
+              "module_id": "ges7_lernb3",
+              "module_name": "Französische Revolution und Napoleon",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Revolution und Umbruch in Europa",
+                    "text": "In diesem Modul untersuchst du Ursachen, Verlauf und Folgen der Französischen Revolution und den Aufstieg Napoleons. Du lernst, warum die Revolution als Zäsur gilt und wie ihre Ideen Europa und Deutschland verändert haben."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "ges7_lernb3_u1",
+                  "text": "Ich kann Ursachen und Grundzüge der Französischen Revolution erläutern und den Begriff Revolution erklären.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Warum kam es zur Revolution?",
+                        "text": "Du beschreibst soziale, wirtschaftliche und politische Ursachen der Revolution, z. B. Ungleichheit der Ständeordnung, Steuerlast, Staatsschulden und fehlende politische Mitsprache. Du ordnest diese Ursachen in die Situation Frankreichs um 1789 ein."
+                      },
+                      {
+                        "title": "Was ist eine Revolution?",
+                        "text": "Du lernst Merkmale einer Revolution kennen: schneller und tiefgreifender Umbruch bestehender Herrschafts- und Gesellschaftsordnungen, Beteiligung vieler Menschen und Konflikt zwischen alten und neuen Kräften. Du grenzt Revolution von schrittweisen Reformen ab."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Revolution",
+                        "definition": "Tiefgreifende, meist konfliktreiche Veränderung der politischen und gesellschaftlichen Ordnung in relativ kurzer Zeit."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann mindestens drei Ursachen der Französischen Revolution nennen und kurz erklären.",
+                      "Ich kann in einem Satz sagen, was eine Revolution im Unterschied zu einer Reform ist."
+                    ],
+                    "sample_questions": [
+                      "Welche Gruppen der Gesellschaft waren mit der Situation in Frankreich vor 1789 besonders unzufrieden – und warum?",
+                      "Worin unterscheidet sich eine Revolution von einer Reform?"
+                    ],
+                    "sample_answers": [
+                      "Vor allem der dritte Stand, also Bürger und Bauern, war unzufrieden, weil sie hohe Steuern zahlen mussten, wenig Rechte hatten und kaum mitbestimmen konnten.",
+                      "Eine Revolution verändert Ordnung und Machtverhältnisse schnell und grundlegend, eine Reform verändert etwas eher schrittweise innerhalb des bestehenden Systems."
+                    ]
+                  }
+                },
+                {
+                  "id": "ges7_lernb3_u2",
+                  "text": "Ich kann den Aufstieg Napoleons und Auswirkungen seiner Herrschaft auf Europa in Grundzügen beschreiben.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Napoleon als Herrscher",
+                        "text": "Du beschreibst, wie Napoleon in der Zeit nach der Revolution an die Macht kommt, sich zum Kaiser krönt und seine Herrschaft in Frankreich und Europa ausbaut. Dabei erkennst du sowohl revolutionäre Elemente als auch Züge einer neuen Diktatur."
+                      },
+                      {
+                        "title": "Europa unter der Herrschaft Napoleons",
+                        "text": "Du arbeitest mit Karten heraus, wie sich die Grenzen Europas durch Napoleons Eroberungen verändern. Du untersuchst, welche Reformen er verbreitet, z. B. Rechtsgleichheit und Verwaltungsreformen, und welche Belastungen Krieg und Besatzung für die Menschen bedeuten."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Zäsur",
+                        "definition": "Besonderer Einschnitt in der Geschichte, nach dem sich vieles grundlegend verändert."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann erklären, wie Napoleon an die Macht kam und welches Bild er von sich selbst zeigte.",
+                      "Ich kann an Beispielen zeigen, wie Napoleon Europa politisch und territorial veränderte."
+                    ],
+                    "sample_questions": [
+                      "Inwiefern setzte Napoleon Ideen der Revolution fort, inwiefern setzte er sich darüber hinweg?",
+                      "Welche Folgen hatten Napoleons Eroberungen für die Staaten in Deutschland?"
+                    ],
+                    "sample_answers": [
+                      "Er setzte Reformen wie Rechtsgleichheit und moderne Verwaltungen fort, regierte aber gleichzeitig sehr machtkonzentriert und ließ wenig Mitbestimmung zu.",
+                      "Viele kleine Staaten wurden zusammengelegt oder aufgehoben, alte Strukturen verschwanden und Reformen wurden angestoßen, aber die Länder litten auch unter Kriegslasten und Besatzung."
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
