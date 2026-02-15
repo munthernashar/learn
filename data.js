@@ -1,6 +1,7 @@
 // data.js
 
 const DATA_FILES = [
+  // Klasse 5
   "data/musik_mod1.json",
   "data/musik_mod2.json",
   "data/de_mod1.json",
@@ -29,6 +30,11 @@ const DATA_FILES = [
   "data/mnt_mod4.json",
   "data/mnt_mod5.json",
   "data/mnt_mod6.json",
+  // Klasse 7
+  "data/7_bio_mod1.json",
+  "data/7_bio_mod2.json",
+  "data/7_bio_mod3.json",
+  
   // weitere Dateien einfach hier ergänzen
 ];
 
@@ -123,6 +129,7 @@ function mergeSchoolData(parts) {
 
   return result;
 }
+
 
 
 
