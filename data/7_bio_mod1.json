@@ -1,0 +1,144 @@
+{
+  "school_id": "de_thueringen",
+  "grades": [
+    {
+      "grade_id": "klasse7",
+      "grade_label": "Klasse 7",
+      "subjects": [
+        {
+          "subject_id": "bio",
+          "subject_title": "Biologie",
+          "modules": [
+            {
+              "module_id": "bio7_zelle_organismus",
+              "module_name": "Bausteine des Lebens – Zelle, Gewebe, Organe, Organismus",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Vom kleinsten Baustein zum gesamten Organismus",
+                    "text": "In diesem Modul lernst du den Aufbau lebender Systeme kennen: von der Zelle über Gewebe und Organe bis hin zum gesamten Organismus. Du übst mikroskopische Beobachtungen, beschreibst Zellstrukturen und erkennst Zusammenhänge zwischen Bau und Funktion."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "bio7_zelle_u1",
+                  "text": "Ich kann die Zelle als Grundeinheit des Lebens beschreiben und grundlegende Zellbestandteile benennen und zuordnen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Zellen – kleinste lebende Einheiten",
+                        "text": "Du lernst, dass alle Lebewesen aus Zellen aufgebaut sind. Du unterscheidest grob zwischen pflanzlichen und tierischen Zellen und erkennst wichtige Bestandteile wie Zellmembran, Zellplasma, Zellkern sowie bei Pflanzen Zellwand, Chloroplasten und Vakuole. Du kannst Bau und Funktion dieser Strukturen in einfachen Worten erklären."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Zelle",
+                        "definition": "Kleinste Einheit des Lebens, die Stoffwechsel betreibt und sich teilen kann."
+                      },
+                      {
+                        "term": "Zellkern",
+                        "definition": "Zellbestandteil, der Erbinformation enthält und Vorgänge in der Zelle steuert."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann an einem einfachen Schema oder Mikroskopbild wichtige Zellbestandteile zeigen und benennen.",
+                      "Ich kann mindestens eine Funktion von Zellkern, Zellmembran und Chloroplasten beschreiben."
+                    ],
+                    "sample_questions": [
+                      "Worin unterscheiden sich pflanzliche von tierischen Zellen in ihrem Aufbau?",
+                      "Welche Aufgaben hat der Zellkern?"
+                    ],
+                    "sample_answers": [
+                      "Pflanzliche Zellen besitzen meist eine Zellwand, Chloroplasten und eine große Zentralvakuole; tierische Zellen nicht.",
+                      "Er enthält die Erbinformation (DNA) und steuert viele Vorgänge in der Zelle."
+                    ]
+                  }
+                },
+                {
+                  "id": "bio7_zelle_u2",
+                  "text": "Ich kann erklären, wie Zellen zu Geweben, Organen und Organismus zusammengefasst sind und Beispiele nennen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Organisationsebenen des Körpers",
+                        "text": "Du ordnest Zellen, Gewebe, Organe und Organsysteme in eine sinnvolle Reihenfolge. Du lernst Beispiele kennen: z. B. Muskelzellen – Muskelgewebe – Muskel – Bewegungsapparat – Mensch; bei Pflanzen z. B. Blattzellen – Blattgewebe – Blatt – Sprossachse – Pflanze. Du erkennst, dass spezialisierte Zellen gemeinsam größere Aufgaben erfüllen."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Gewebe",
+                        "definition": "Verband vieler gleichartiger Zellen mit ähnlicher Funktion."
+                      },
+                      {
+                        "term": "Organ",
+                        "definition": "Struktur aus verschiedenen Geweben, die gemeinsam eine bestimmte Aufgabe erfüllt."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann ein Beispiel von der Zelle bis zum Organismus in der richtigen Reihenfolge angeben.",
+                      "Ich kann erklären, was mit Spezialisierung von Zellen gemeint ist."
+                    ],
+                    "sample_questions": [
+                      "Wie hängen Zelle, Gewebe, Organ und Organismus zusammen?",
+                      "Nenne ein Beispiel für ein Organ und beschreibe kurz seine Aufgabe."
+                    ],
+                    "sample_answers": [
+                      "Viele spezialisierte Zellen bilden Gewebe, mehrere Gewebe bilden ein Organ, verschiedene Organe arbeiten im Organismus zusammen.",
+                      "Das Herz ist ein Organ, das Blut durch den Körper pumpt und so die Versorgung mit Sauerstoff und Nährstoffen unterstützt."
+                    ]
+                  }
+                },
+                {
+                  "id": "bio7_zelle_u3",
+                  "text": "Ich kann mikroskopische Präparate sachgerecht betrachten, einfache Zeichnungen anfertigen und Beobachtungen beschreiben.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Arbeiten mit dem Mikroskop",
+                        "text": "Du lernst die Grundbestandteile und die sichere Handhabung des Mikroskops kennen. Du betrachtest Dauer- oder Frischpräparate (z. B. Zwiebelhaut, Mundschleimhaut), stellst scharf und passt die Helligkeit an. Du fertigest einfache, beschriftete Zeichnungen an, die das Wesentliche wiedergeben, und beschreibst deine Beobachtungen fachsprachlich angemessen."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Mikroskopische Zeichnung",
+                        "definition": "vereinfachte, saubere Darstellung eines mikroskopischen Bildes mit Beschriftung wichtiger Strukturen."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann ein Mikroskop fachgerecht aufbauen, ein Präparat einstellen und scharfstellen.",
+                      "Ich kann eine einfache mikroskopische Zeichnung anfertigen und wichtige Teile beschriften."
+                    ],
+                    "sample_questions": [
+                      "Welche Schritte sind nötig, um ein Präparat im Mikroskop scharf zu sehen?",
+                      "Was ist bei einer biologischen Zeichnung wichtig?"
+                    ],
+                    "sample_answers": [
+                      "Präparat auflegen, mit der kleinsten Vergrößerung beginnen, grob und dann fein scharfstellen, Helligkeit anpassen.",
+                      "Sie soll übersichtlich sein, nur das Wesentliche zeigen, mit Bleistift gezeichnet und sauber beschriftet sein."
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "school_id": "de_thueringen",
+  "grades": [
+    {
+      "grade_id": "klasse7",
+      "grade_label": "Klasse 7",
+      "subjects": [
+        {
+          "subject_id": "bio",
+          "subject_title": "Biologie",
+          "modules": [
+            {
+              "module_id": "bio7_ernaehrung",
+              "module_name": "Ernährung, Verdauung und Gesundheit",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Wie der Körper mit Nährstoffen versorgt wird",
+                    "text": "In diesem Modul beschäftigst du dich mit der Bedeutung von Nährstoffen, dem Aufbau des Verdauungssystems und einer gesundheitsbewussten Ernährung. Du lernst, wie Nährstoffe aufgenommen, verdaut und im Körper weitertransportiert werden."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "bio7_ern_u1",
+                  "text": "Ich kann wichtige Nährstoffgruppen nennen und ihre Funktionen im Körper beschreiben.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Baustoffe, Betriebsstoffe, Schutzstoffe",
+                        "text": "Du lernst die wichtigsten Nährstoffgruppen kennen: Kohlenhydrate, Fette, Eiweiße (Proteine), Vitamine, Mineralstoffe und Wasser. Du ordnest ihnen Grundfunktionen zu, z. B. Energiegewinnung, Baustoffe für Zellen und Gewebe, Schutz- und Reglerfunktionen, und erkennst, dass eine ausgewogene Ernährung alle Gruppen in angemessenem Verhältnis enthalten sollte."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Nährstoffe",
+                        "definition": "Stoffe in der Nahrung, die dem Körper Energie liefern, Bausteine bereitstellen oder Funktionen regulieren."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann zu jeder Nährstoffgruppe mindestens ein Lebensmittelbeispiel nennen.",
+                      "Ich kann kurz erklären, wofür der Körper Kohlenhydrate, Fette und Eiweiße braucht."
+                    ],
+                    "sample_questions": [
+                      "Welche Nährstoffgruppen kennst du und wofür sind sie wichtig?",
+                      "Warum ist eine einseitige Ernährung auf Dauer problematisch?"
+                    ],
+                    "sample_answers": [
+                      "Kohlenhydrate und Fette liefern vor allem Energie, Eiweiße sind wichtige Baustoffe, Vitamine und Mineralstoffe regulieren viele Körperfunktionen, Wasser ist für alle Lebensvorgänge nötig.",
+                      "Weil bestimmte Nährstoffe fehlen oder im Überschuss vorhanden sind, was z. B. zu Mangelerscheinungen oder Übergewicht führen kann."
+                    ]
+                  }
+                },
+                {
+                  "id": "bio7_ern_u2",
+                  "text": "Ich kann Aufbau und Funktion des menschlichen Verdauungssystems in Grundzügen erklären.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Der Weg der Nahrung",
+                        "text": "Du lernst die wichtigsten Organe des Verdauungssystems kennen: Mund, Speiseröhre, Magen, Dünndarm, Dickdarm, Leber, Bauchspeicheldrüse. Du beschreibst vereinfacht, was in den einzelnen Abschnitten passiert – vom Zerkleinern und Einspeicheln über die Durchmischung im Magen bis zur Verdauung und Aufnahme der Nährstoffe im Dünndarm."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Verdauung",
+                        "definition": "Mechanische und chemische Zerlegung der Nahrung in kleine Bausteine, die über die Darmwand ins Blut aufgenommen werden können."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann die Hauptabschnitte des Verdauungssystems in der richtigen Reihenfolge benennen.",
+                      "Ich kann zu jedem Abschnitt kurz angeben, was dort mit der Nahrung geschieht."
+                    ],
+                    "sample_questions": [
+                      "Welche Aufgaben haben Mund und Magen bei der Verdauung?",
+                      "Warum ist der Dünndarm so wichtig für die Nährstoffaufnahme?"
+                    ],
+                    "sample_answers": [
+                      "Im Mund wird die Nahrung mechanisch zerkleinert und mit Speichel vermischt, im Magen weiter durchmischt und mit Magensaft chemisch vorverdaut.",
+                      "Weil dort die meisten Nährstoffe in kleinste Bestandteile zerlegt und über die Darmwand ins Blut aufgenommen werden."
+                    ]
+                  }
+                },
+                {
+                  "id": "bio7_ern_u3",
+                  "text": "Ich kann Merkmale einer gesundheitsbewussten Ernährung nennen und einfache Fehlernährungen erkennen.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Gesunde Ernährung im Alltag",
+                        "text": "Du setzt deine Kenntnisse über Nährstoffe und Verdauung in Bezug zu Ernährungsempfehlungen (z. B. ausgewogene Mischkost, viel Gemüse/Obst, ausreichend Wasser, maßvoller Umgang mit Zucker und Fett). Du erkennst Anzeichen von Fehlernährung (z. B. dauerhaft zu viel Zucker/Fett, zu wenig Ballaststoffe) und leitest Möglichkeiten zur Verbesserung des eigenen Ernährungsverhaltens ab."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Fehlernährung",
+                        "definition": "Ungünstige Zusammensetzung oder Menge der Nahrung über längere Zeit, die zu gesundheitlichen Problemen führen kann."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann typische Merkmale einer ausgewogenen Ernährung aufzählen.",
+                      "Ich kann an einfachen Beispielen erklären, warum bestimmte Essgewohnheiten ungünstig sind."
+                    ],
+                    "sample_questions": [
+                      "Welche Grundregeln einer gesundheitsbewussten Ernährung kennst du?",
+                      "Warum kann ein hoher Konsum von stark zuckerhaltigen Getränken problematisch sein?"
+                    ],
+                    "sample_answers": [
+                      "Zum Beispiel: Viel pflanzliche Lebensmittel, ausreichend Flüssigkeit, wenig stark verarbeitete Produkte, maßvoller Umgang mit Zucker und Fett, regelmäßige Mahlzeiten.",
+                      "Weil sie viele ‚leere‘ Kalorien liefern, das Risiko für Übergewicht und Karies erhöhen und selten wichtige Nährstoffe enthalten."
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

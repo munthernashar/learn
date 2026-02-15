@@ -1,0 +1,152 @@
+{
+  "school_id": "de_thueringen",
+  "grades": [
+    {
+      "grade_id": "klasse7",
+      "grade_label": "Klasse 7",
+      "subjects": [
+        {
+          "subject_id": "bio",
+          "subject_title": "Biologie",
+          "modules": [
+            {
+              "module_id": "bio7_oekosystem",
+              "module_name": "Ökosysteme, Nahrungsketten und Umweltfaktoren",
+              "module_longtext": {
+                "sections": [
+                  {
+                    "title": "Leben im Ökosystem",
+                    "text": "In diesem Modul untersuchst du, wie Lebewesen mit ihrer Umwelt zusammenhängen. Du lernst, was ein Ökosystem ist, wie Nahrungsketten aufgebaut sind und welche abiotischen und biotischen Faktoren das Leben in einem Lebensraum beeinflussen."
+                  }
+                ]
+              },
+              "subtopics": [
+                {
+                  "id": "bio7_oeko_u1",
+                  "text": "Ich kann den Begriff Ökosystem erklären und an einem Beispiel die wichtigsten Bestandteile benennen (Biotop und Biozönose).",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Was ist ein Ökosystem?",
+                        "text": "Du lernst, dass ein Ökosystem aus einem Lebensraum (Biotop) und der darin lebenden Gemeinschaft von Organismen (Biozönose) besteht. Du kannst an einem Beispiel, z. B. Teich, Wald oder Wiese, typische abiotische Faktoren (z. B. Licht, Temperatur, Wasser) und biotische Faktoren (z. B. Konkurrenz, Räuber-Beute-Beziehungen) benennen."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Ökosystem",
+                        "definition": "Wechselwirkungsgefüge aus Lebensraum (Biotop) und Lebensgemeinschaft (Biozönose)."
+                      },
+                      {
+                        "term": "Biotop",
+                        "definition": "Lebensraum mit seinen abiotischen Umweltfaktoren, z. B. Boden, Wasser, Klima."
+                      },
+                      {
+                        "term": "Biozönose",
+                        "definition": "Gemeinschaft aller in einem Biotop lebenden Organismen."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann für ein konkretes Ökosystem abiotische und biotische Faktoren unterscheiden.",
+                      "Ich kann Biotop und Biozönose eines Beispiels klar benennen."
+                    ],
+                    "sample_questions": [
+                      "Welche abiotischen Faktoren bestimmen das Leben in einem Wald?",
+                      "Wie würdest du Biotop und Biozönose eines Teiches beschreiben?"
+                    ],
+                    "sample_answers": [
+                      "Zum Beispiel Licht, Temperatur, Niederschlag, Bodenbeschaffenheit, Wasserverfügbarkeit.",
+                      "Das Biotop ist der Wasserraum mit Boden, Licht, Temperatur usw.; die Biozönose sind Pflanzen, Tiere, Mikroorganismen im und am Teich."
+                    ]
+                  }
+                },
+                {
+                  "id": "bio7_oeko_u2",
+                  "text": "Ich kann Nahrungsketten und einfache Nahrungsnetze aufstellen und Produzenten, Konsumenten und Destruenten unterscheiden.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Wer frisst wen?",
+                        "text": "Du lernst, Nahrungsketten in einem Ökosystem zu identifizieren und grafisch darzustellen. Du ordnest Organismen als Produzenten (Pflanzen), verschiedene Konsumenten (Pflanzen- und Fleischfresser) und Destruenten (z. B. Bodenbakterien, Pilze) ein. Du erkennst, dass in der Natur viele Nahrungsketten zu Nahrungsnetzen verknüpft sind."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Produzent",
+                        "definition": "Organismus, der aus anorganischen Stoffen und Sonnenenergie organische Stoffe aufbaut (Pflanzen, manche Algen)."
+                      },
+                      {
+                        "term": "Konsument",
+                        "definition": "Organismus, der organische Stoffe aufnimmt, indem er andere Lebewesen frisst."
+                      },
+                      {
+                        "term": "Destruent",
+                        "definition": "Organismus, der abgestorbene organische Stoffe abbaut und Mineralstoffe freisetzt."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann aus einer Beschreibung eines Lebensraums eine Nahrungskette aufstellen.",
+                      "Ich kann in einer Nahrungskette Produzenten, verschiedene Konsumentenstufen und Destruenten kennzeichnen."
+                    ],
+                    "sample_questions": [
+                      "Stelle eine mögliche Nahrungskette aus dem Lebensraum Wiese auf.",
+                      "Welche Bedeutung haben Destruenten für Stoffkreisläufe?"
+                    ],
+                    "sample_answers": [
+                      "Beispiel: Gras → Heuschrecke → Frosch → Storch.",
+                      "Sie bauen tote organische Stoffe ab und stellen Nährstoffe wieder für Produzenten zur Verfügung."
+                    ]
+                  }
+                },
+                {
+                  "id": "bio7_oeko_u3",
+                  "text": "Ich kann Beispiele nennen, wie der Mensch Ökosysteme beeinflusst, und einfache Maßnahmen zum Schutz von Lebensräumen erläutern.",
+                  "status": {
+                    "covered_in_class": false,
+                    "understood": false,
+                    "exam_ready": false
+                  },
+                  "content": {
+                    "explanation_sections": [
+                      {
+                        "title": "Mensch und Umwelt",
+                        "text": "Du untersuchst, wie menschliche Eingriffe wie Flächenversiegelung, intensive Landwirtschaft, Schadstoffe oder Klimawandel Ökosysteme verändern können. Du lernst einfache Schutzmaßnahmen kennen, z. B. Schutzgebiete, nachhaltige Nutzung, Renaturierung, und leitest Möglichkeiten für umweltbewusstes Handeln im Alltag ab."
+                      }
+                    ],
+                    "key_terms": [
+                      {
+                        "term": "Biodiversität",
+                        "definition": "Vielfalt der Arten, Lebensräume und genetischen Ausstattung von Lebewesen."
+                      }
+                    ],
+                    "note1_checklist": [
+                      "Ich kann an einem Beispiel beschreiben, wie ein menschlicher Eingriff ein Ökosystem verändert.",
+                      "Ich kann mindestens zwei Maßnahmen nennen, die zur Erhaltung oder Verbesserung eines Lebensraums beitragen."
+                    ],
+                    "sample_questions": [
+                      "Wie wirkt sich intensive Landwirtschaft (z. B. Monokulturen, Einsatz von Pestiziden) auf ein Ökosystem aus?",
+                      "Welche Möglichkeiten haben Menschen, Lebensräume wie Hecken oder Teiche zu schützen?"
+                    ],
+                    "sample_answers": [
+                      "Sie kann Artenvielfalt verringern, Boden und Wasser belasten und Nahrungsnetze vereinfachen.",
+                      "Zum Beispiel durch Anlage und Pflege von Biotopen, Verzicht auf übermäßige Pestizide, Schutzgebiete, naturnahe Gestaltung von Gärten."
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
