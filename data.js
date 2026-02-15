@@ -34,6 +34,35 @@ const DATA_FILES = [
   "data/7_bio_mod1.json",
   "data/7_bio_mod2.json",
   "data/7_bio_mod3.json",
+  "data/7_deutsch_mod1.json",
+  "data/7_deutsch_mod2.json",
+  "data/7_deutsch_mod3.json",
+  "data/7_deutsch_mod4.json",
+  "data/7_english_mod1.json",
+  "data/7_english_mod2.json",
+  "data/7_english_mod3.json",
+  "data/7_english_mod4.json",
+  "data/7_franz_mod1.json",
+  "data/7_geo_mod1.json",
+  "data/7_geo_mod2.json",
+  "data/7_geo_mod3.json",
+  "data/7_geo_mod4.json",
+  "data/7_geschi_mod1.json",
+  "data/7_geschi_mod2.json",
+  "data/7_geschi_mod3.json",
+  "data/7_geschi_mod4.json",
+  "data/7_kunst_mod1.json",
+  "data/7_kunst_mod2.json",
+  "data/7_kunst_mod3.json",
+  "data/7_mathe_mod1.json",
+  "data/7_mathe_mod2.json",
+  "data/7_mathe_mod3.json",
+  "data/7_mathe_mod4.json",
+  "data/7_musik_mod1.json",
+  "data/7_musik_mod2.json",
+  "data/7_musik_mod3.json",
+  "data/7_physik_mod1.json",
+  "data/7_physik_mod2.json",
   
   // weitere Dateien einfach hier ergänzen
 ];
@@ -129,6 +158,7 @@ function mergeSchoolData(parts) {
 
   return result;
 }
+
 
 
 
